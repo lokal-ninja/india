@@ -1,0 +1,4 @@
+---
+title: "Xanadu Stores"
+url: /palakkad/xanadu-stores/
+---

@@ -1,0 +1,4 @@
+---
+title: "Isthaa spa"
+url: /bengaluru/isthaa-spa/
+---

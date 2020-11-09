@@ -1,0 +1,4 @@
+---
+title: "Moozhoor Ration Shop"
+url: /kottayam/moozhoor-ration-shop/
+---

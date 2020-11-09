@@ -1,0 +1,4 @@
+---
+title: "Beverages Corporation Outlet"
+url: /kuthuparamba/beverages-corporation-outlet/
+---
