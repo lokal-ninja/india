@@ -1,4 +1,4 @@
 ---
-title: "DMart"
+title: "Dmart"
 url: /hyderabad/dmart/
 ---

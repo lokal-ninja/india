@@ -1,4 +1,4 @@
 ---
-title: "Fabindia"
+title: "FabIndia"
 url: /bangalore/fabindia/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mangalpur
 url: /mangalpur/
-latitude: 29.7191973
-longitude: 77.0188347
+latitude: 20.050895200000003
+longitude: 85.83386850000001
 ---

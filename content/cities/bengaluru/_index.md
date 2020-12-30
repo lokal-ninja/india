@@ -1,5 +1,5 @@
 ---
-title: Bengaluru
+title: BENGALURU
 url: /bengaluru/
 latitude: 
 longitude: 

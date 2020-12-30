@@ -1,6 +1,6 @@
 ---
-title: KOZHIKODE
+title: Kozhikode
 url: /kozhikode/
-latitude: 
-longitude: 
+latitude: 11.258608200000001
+longitude: 75.7788735
 ---

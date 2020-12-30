@@ -3,10 +3,10 @@ type: node
 shop: supermarket
 latitude: 17.4931799
 longitude: 78.41003860000001
-postcode: ""
+postcode: "500072"
 city: Hyderabad
-street: ""
+street: "Vivekananda Nagar Road"
 housenumber: 
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.spencers.in/"
