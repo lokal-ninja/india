@@ -1,4 +1,4 @@
 ---
-title: "Bajaj Motorcycles"
+title: "Bajaj motorcycles"
 url: /kuttaloor/bajaj-motorcycles/
 ---

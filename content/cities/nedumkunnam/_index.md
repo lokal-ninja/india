@@ -1,6 +1,6 @@
 ---
 title: Nedumkunnam
 url: /nedumkunnam/
-latitude: 9.509164
-longitude: 76.66472990000001
+latitude: 9.5092242
+longitude: 76.6646618
 ---
