@@ -1,6 +1,5 @@
 id: 5402224046
 type: node
-shop: supermarket
 latitude: 12.907614500000001
 longitude: 77.60100870000001
 postcode: "560076"
@@ -8,5 +7,5 @@ city: Bengaluru
 street: "Bannerghatta Road"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 10:00-21:00"
 website: "https://www.sparindia.com/"

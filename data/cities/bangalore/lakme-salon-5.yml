@@ -1,6 +1,5 @@
 id: 4490265653
 type: node
-shop: beauty
 latitude: 12.9995694
 longitude: 77.55430890000001
 postcode: "560010"
@@ -8,5 +7,5 @@ city: bangalore
 street: "Mahakavi Kuvempu Road,D Block,2nd Stage, Rajajinagar"
 housenumber: No 13,
 phone: "91)-80-33051011"
-opening_hours: "10:00 to 20:00"
+opening_hours: "10:00-20:00"
 website: ""

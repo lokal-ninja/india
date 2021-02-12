@@ -1,6 +1,6 @@
 ---
 title: Jhajha
 url: /jhajha/
-latitude: 28.208629700000003
-longitude: 75.9174156
+latitude: 24.769790200000003
+longitude: 86.3775631
 ---

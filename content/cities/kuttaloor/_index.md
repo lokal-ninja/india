@@ -1,5 +1,5 @@
 ---
-title: KUTTALOOR
+title: Kuttaloor
 url: /kuttaloor/
 latitude: 
 longitude: 

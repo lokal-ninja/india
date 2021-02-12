@@ -1,6 +1,5 @@
 id: 555606201
 type: way
-shop: clothes
 latitude: 10.765743800000001
 longitude: 79.12552430000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Thanjavur
 street: "New Bus Stand Road"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 09:00-21:30"
 website: ""
