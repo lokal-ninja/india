@@ -1,6 +1,6 @@
 ---
 title: Veraval
 url: /veraval/
-latitude: 20.905700000000003
-longitude: 70.3781
+latitude: 20.910109900000002
+longitude: 70.365279
 ---

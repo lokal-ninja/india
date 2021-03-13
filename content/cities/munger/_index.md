@@ -1,6 +1,6 @@
 ---
 title: Munger
 url: /munger/
-latitude: 25.3773519
-longitude: 86.47310390000001
+latitude: 23.878323100000003
+longitude: 74.15441030000001
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DAMRO"
+title: "Damro"
 url: /kumaranalloor/damro/
 shop: furniture
 ---

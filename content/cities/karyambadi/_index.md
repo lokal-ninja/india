@@ -1,6 +1,6 @@
 ---
 title: Karyambadi
 url: /karyambadi/
-latitude: 11.676537600000001
-longitude: 76.13503870000001
+latitude: 11.6762785
+longitude: 76.1349847
 ---

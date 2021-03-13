@@ -1,5 +1,5 @@
 ---
-title: "CMD Mall"
+title: "CMD MALL"
 url: /narnaul/cmd-mall/
 shop: mall
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ibrahimpatnam
 url: /ibrahimpatnam/
-latitude: 16.5890789
-longitude: 80.5209514
+latitude: 18.9057181
+longitude: 78.5832738
 ---
