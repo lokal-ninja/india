@@ -1,6 +1,6 @@
 ---
-title: chandrapur
+title: Chandrapur
 url: /chandrapur/
-latitude: 
-longitude: 
+latitude: 20
+longitude: 80
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hutti
 url: /hutti/
-latitude: 
-longitude: 
+latitude: 16.2023654
+longitude: 76.6680329
 ---
