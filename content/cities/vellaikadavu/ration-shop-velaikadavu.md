@@ -1,5 +1,5 @@
 ---
-title: "Ration Shop, velaikadavu"
+title: "Ration Shop, Velaikadavu"
 url: /vellaikadavu/ration-shop-velaikadavu/
-shop: shop
+shop: convenience
 ---

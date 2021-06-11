@@ -1,5 +1,5 @@
 ---
-title: kadikkad
+title: Kadikkad
 url: /kadikkad/
 latitude: 
 longitude: 

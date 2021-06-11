@@ -1,6 +1,6 @@
 ---
 title: Kottayam
 url: /kottayam/
-latitude: 9.6555826
-longitude: 76.571146
+latitude: 9.591564
+longitude: 76.5221599
 ---

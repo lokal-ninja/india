@@ -1,5 +1,5 @@
 ---
 title: "Sabitri Provision Shop"
 url: /chennai/sabitri-provision-shop/
-shop: department store
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Strechery"
 url: /delhi/strechery/
-shop: supermarket
+shop: shop
 ---

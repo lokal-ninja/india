@@ -1,5 +1,5 @@
 ---
-title: "milma society booth"
+title: "Milma Society Booth"
 url: /chittar/milma-society-booth/
 shop: dairy
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aloor
 url: /aloor/
-latitude: 18.807744
-longitude: 78.1953591
+latitude: 10.340845700000001
+longitude: 76.2917044
 ---
