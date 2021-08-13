@@ -1,5 +1,5 @@
 ---
-title: "ROYAL BAJAJ"
+title: "Royal Bajaj"
 url: /chavutuvary/royal-bajaj/
 shop: motorcycle
 ---

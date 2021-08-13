@@ -1,6 +1,6 @@
 ---
 title: Chengannur
 url: /chengannur/
-latitude: 9.3182521
-longitude: 76.6142624
+latitude: 9.3181948
+longitude: 76.612481
 ---

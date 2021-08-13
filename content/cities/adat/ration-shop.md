@@ -1,5 +1,5 @@
 ---
-title: "Ration shop"
+title: "Ration Shop"
 url: /adat/ration-shop/
-shop: shop
+shop: convenience
 ---
