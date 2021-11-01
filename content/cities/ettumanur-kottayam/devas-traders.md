@@ -1,5 +1,5 @@
 ---
-title: "Devas Traders"
+title: "Devas traders"
 url: /ettumanur-kottayam/devas-traders/
 shop: carpet
 ---

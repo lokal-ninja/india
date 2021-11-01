@@ -1,5 +1,5 @@
 ---
-title: "ration shop"
+title: "Ration Shop"
 url: /malayinkeezhu/ration-shop/
 shop: convenience
 ---

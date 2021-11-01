@@ -1,5 +1,5 @@
 ---
-title: "ration shop"
+title: "Ration Shop"
 url: /thiruvazhiyode/ration-shop/
-shop: supermarket
+shop: convenience
 ---

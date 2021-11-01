@@ -1,5 +1,5 @@
 ---
-title: kottamkara
+title: Kottamkara
 url: /kottamkara/
 latitude: 
 longitude: 

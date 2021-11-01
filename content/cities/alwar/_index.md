@@ -1,6 +1,6 @@
 ---
 title: Alwar
 url: /alwar/
-latitude: 27.5646036
-longitude: 76.6131841
+latitude: 27.5646309
+longitude: 76.6131854
 ---

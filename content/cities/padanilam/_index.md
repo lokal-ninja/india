@@ -1,6 +1,6 @@
 ---
-title: padanilam
+title: Padanilam
 url: /padanilam/
-latitude: 9.192884300000001
-longitude: 76.63633730000001
+latitude: 11.334068100000001
+longitude: 75.8926888
 ---

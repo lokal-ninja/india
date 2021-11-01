@@ -1,5 +1,5 @@
 ---
-title: "Ration shop"
+title: "Ration Shop"
 url: /adoor/ration-shop/
-shop: supermarket
+shop: convenience
 ---

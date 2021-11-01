@@ -1,6 +1,6 @@
 ---
 title: Pune
 url: /pune/
-latitude: 18.75
-longitude: 73.75
+latitude: 18.521428
+longitude: 73.8544541
 ---

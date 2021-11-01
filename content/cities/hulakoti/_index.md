@@ -1,6 +1,6 @@
 ---
 title: Hulakoti
 url: /hulakoti/
-latitude: 15.4238396
-longitude: 75.54458360000001
+latitude: 15.4237982
+longitude: 75.543897
 ---

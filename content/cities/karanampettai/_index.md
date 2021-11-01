@@ -1,6 +1,6 @@
 ---
 title: Karanampettai
 url: /karanampettai/
-latitude: 11.0175567
-longitude: 77.184189
+latitude: 11.017729000000001
+longitude: 77.18417480000001
 ---

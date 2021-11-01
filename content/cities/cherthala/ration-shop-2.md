@@ -1,5 +1,5 @@
 ---
-title: "Ration Shop,"
+title: "Ration Shop"
 url: /cherthala/ration-shop-2/
-shop: general
+shop: convenience
 ---
