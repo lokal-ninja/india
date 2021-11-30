@@ -1,6 +1,6 @@
 ---
 title: Nadiad
 url: /nadiad/
-latitude: 22.6896135
-longitude: 72.8715911
+latitude: 22.689553500000002
+longitude: 72.8713603
 ---

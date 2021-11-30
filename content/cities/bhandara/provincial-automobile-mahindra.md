@@ -1,5 +1,5 @@
 ---
-title: "Provincial Automobile (Mahindra) "
+title: "Provincial Automobile (Mahindra)"
 url: /bhandara/provincial-automobile-mahindra/
 shop: car
 ---

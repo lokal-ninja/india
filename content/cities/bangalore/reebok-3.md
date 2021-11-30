@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /bangalore/reebok-3/
-shop: sports
+shop: clothes
 ---
