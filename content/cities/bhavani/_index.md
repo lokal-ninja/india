@@ -1,6 +1,6 @@
 ---
 title: Bhavani
 url: /bhavani/
-latitude: 11.4406824
-longitude: 77.68299090000001
+latitude: 11.4406808
+longitude: 77.6829482
 ---
