@@ -1,5 +1,5 @@
 ---
-title: KASARAGOD
+title: kasaragod
 url: /kasaragod/
 latitude: 
 longitude: 
