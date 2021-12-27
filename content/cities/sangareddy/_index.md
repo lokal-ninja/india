@@ -1,6 +1,6 @@
 ---
 title: Sangareddy
 url: /sangareddy/
-latitude: 17.6155151
-longitude: 78.0817225
+latitude: 17.606
+longitude: 78.084
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kollapally
 url: /kollapally/
-latitude: 
-longitude: 
+latitude: 9.716
+longitude: 76.328
 ---

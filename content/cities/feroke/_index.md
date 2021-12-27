@@ -1,6 +1,6 @@
 ---
 title: feroke
 url: /feroke/
-latitude: 
-longitude: 
+latitude: 11.177
+longitude: 75.831
 ---

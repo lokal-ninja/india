@@ -1,5 +1,5 @@
 ---
-title: "Mom & Me"
+title: "Mom And Me"
 url: /bangalore/mom-and-me/
-shop: shop
+shop: Kleidung
 ---

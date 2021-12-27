@@ -1,5 +1,5 @@
 ---
 title: "The Mobile Monster"
 url: /phagwara/the-mobile-monster/
-shop: shop
+shop: Allgemein
 ---

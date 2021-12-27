@@ -1,6 +1,6 @@
 ---
 title: Bahadurgarh
 url: /bahadurgarh/
-latitude: 28.693323900000003
-longitude: 76.9332373
+latitude: 28.734
+longitude: 76.895
 ---

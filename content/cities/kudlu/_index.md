@@ -1,6 +1,6 @@
 ---
 title: kudlu
 url: /kudlu/
-latitude: 
-longitude: 
+latitude: 12.525
+longitude: 74.995
 ---

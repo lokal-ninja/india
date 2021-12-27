@@ -1,6 +1,6 @@
 ---
 title: kooothattukulam
 url: /kooothattukulam/
-latitude: 
-longitude: 
+latitude: 9.874
+longitude: 76.58
 ---

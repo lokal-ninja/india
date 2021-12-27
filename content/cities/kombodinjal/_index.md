@@ -1,6 +1,6 @@
 ---
 title: Kombodinjal
 url: /kombodinjal/
-latitude: 
-longitude: 
+latitude: 9.934
+longitude: 77.057
 ---

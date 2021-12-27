@@ -1,6 +1,6 @@
 ---
 title: panamaram
 url: /panamaram/
-latitude: 
-longitude: 
+latitude: 11.778
+longitude: 76.08
 ---

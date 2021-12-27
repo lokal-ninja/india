@@ -1,6 +1,6 @@
 ---
 title: Ravaneshwaram
 url: /ravaneshwaram/
-latitude: 12.3668695
-longitude: 75.0792093
+latitude: 12.367
+longitude: 75.078
 ---

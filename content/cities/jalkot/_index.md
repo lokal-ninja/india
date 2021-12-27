@@ -1,6 +1,6 @@
 ---
 title: Jalkot
 url: /jalkot/
-latitude: 18.6290607
-longitude: 77.1783024
+latitude: 17.825
+longitude: 76.332
 ---

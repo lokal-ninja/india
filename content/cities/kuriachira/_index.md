@@ -1,6 +1,6 @@
 ---
 title: Kuriachira
 url: /kuriachira/
-latitude: 
-longitude: 
+latitude: 10.508
+longitude: 76.224
 ---

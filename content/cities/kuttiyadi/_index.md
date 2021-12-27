@@ -1,6 +1,6 @@
 ---
 title: Kuttiyadi
 url: /kuttiyadi/
-latitude: 
-longitude: 
+latitude: 11.652
+longitude: 75.757
 ---

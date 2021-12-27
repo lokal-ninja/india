@@ -1,6 +1,6 @@
 ---
 title: Piravom
 url: /piravom/
-latitude: 9.873368900000001
-longitude: 76.4922683
+latitude: 9.874
+longitude: 76.495
 ---

@@ -1,6 +1,6 @@
 ---
 title: kottayan,kerala
 url: /kottayan-kerala/
-latitude: 
-longitude: 
+latitude: 9.717
+longitude: 76.515
 ---

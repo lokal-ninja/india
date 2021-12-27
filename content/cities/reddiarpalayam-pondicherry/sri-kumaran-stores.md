@@ -1,5 +1,5 @@
 ---
 title: "Sri Kumaran Stores"
 url: /reddiarpalayam-pondicherry/sri-kumaran-stores/
-shop: clothes
+shop: Kleidung
 ---

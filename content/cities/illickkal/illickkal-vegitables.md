@@ -1,5 +1,5 @@
 ---
 title: "Illickkal Vegitables"
 url: /illickkal/illickkal-vegitables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

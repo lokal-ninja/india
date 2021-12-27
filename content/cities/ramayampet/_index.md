@@ -1,6 +1,6 @@
 ---
 title: RAMAYAMPET
 url: /ramayampet/
-latitude: 
-longitude: 
+latitude: 18.12
+longitude: 78.429
 ---

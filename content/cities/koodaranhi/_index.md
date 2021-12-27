@@ -1,6 +1,6 @@
 ---
 title: koodaranhi
 url: /koodaranhi/
-latitude: 
-longitude: 
+latitude: 11.341
+longitude: 76.029
 ---

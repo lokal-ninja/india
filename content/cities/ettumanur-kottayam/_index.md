@@ -1,6 +1,6 @@
 ---
 title: Ettumanur,Kottayam
 url: /ettumanur-kottayam/
-latitude: 
-longitude: 
+latitude: 9.671
+longitude: 76.558
 ---

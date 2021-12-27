@@ -1,6 +1,6 @@
 ---
 title: Kodikuthmala, Aluva
 url: /kodikuthmala-aluva/
-latitude: 
-longitude: 
+latitude: 10.081
+longitude: 76.364
 ---

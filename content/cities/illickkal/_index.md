@@ -1,6 +1,6 @@
 ---
 title: Illickkal
 url: /illickkal/
-latitude: 
-longitude: 
+latitude: 9.588
+longitude: 76.489
 ---

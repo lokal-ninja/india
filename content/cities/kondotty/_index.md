@@ -1,6 +1,6 @@
 ---
 title: kondotty
 url: /kondotty/
-latitude: 
-longitude: 
+latitude: 11.147
+longitude: 75.961
 ---

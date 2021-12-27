@@ -1,6 +1,6 @@
 ---
 title: Kakkattukada
 url: /kakkattukada/
-latitude: 9.7499301
-longitude: 77.0853393
+latitude: 9.749
+longitude: 77.084
 ---

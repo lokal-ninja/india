@@ -1,6 +1,6 @@
 ---
 title: Mudalur
 url: /mudalur/
-latitude: 
-longitude: 
+latitude: 8.419
+longitude: 77.945
 ---

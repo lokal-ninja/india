@@ -1,6 +1,6 @@
 ---
 title: Aizawl
 url: /aizawl/
-latitude: 23.743523600000003
-longitude: 92.7382905
+latitude: 23.733
+longitude: 92.713
 ---

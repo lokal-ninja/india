@@ -1,6 +1,6 @@
 ---
 title: KUNNAM
 url: /kunnam/
-latitude: 
-longitude: 
+latitude: 9.252
+longitude: 76.568
 ---

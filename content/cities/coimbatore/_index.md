@@ -1,6 +1,6 @@
 ---
 title: coimbatore
 url: /coimbatore/
-latitude: 
-longitude: 
+latitude: 11.038
+longitude: 76.979
 ---

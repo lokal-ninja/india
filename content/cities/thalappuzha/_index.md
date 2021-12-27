@@ -1,6 +1,6 @@
 ---
 title: Thalappuzha
 url: /thalappuzha/
-latitude: 11.8406506
-longitude: 75.95387740000001
+latitude: 11.841
+longitude: 75.954
 ---

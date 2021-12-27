@@ -1,6 +1,6 @@
 ---
 title: gangapur city
 url: /gangapur-city/
-latitude: 
-longitude: 
+latitude: 26.466
+longitude: 76.73
 ---

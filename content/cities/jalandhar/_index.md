@@ -1,6 +1,6 @@
 ---
 title: jalandhar
 url: /jalandhar/
-latitude: 
-longitude: 
+latitude: 31.312
+longitude: 75.636
 ---

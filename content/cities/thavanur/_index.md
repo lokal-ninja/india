@@ -1,6 +1,6 @@
 ---
 title: Thavanur
 url: /thavanur/
-latitude: 
-longitude: 
+latitude: 10.842
+longitude: 75.994
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /muthuvara-thrissur/ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

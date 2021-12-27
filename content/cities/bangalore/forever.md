@@ -1,5 +1,5 @@
 ---
 title: "Forever"
 url: /bangalore/forever/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baboosh"
 url: /bangalore/baboosh/
-shop: clothes
+shop: Kleidung
 ---

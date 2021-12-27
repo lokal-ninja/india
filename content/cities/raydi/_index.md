@@ -1,6 +1,6 @@
 ---
 title: Raydi
 url: /raydi/
-latitude: 
-longitude: 
+latitude: 21.819
+longitude: 70.451
 ---

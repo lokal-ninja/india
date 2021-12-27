@@ -1,6 +1,6 @@
 ---
 title: almora
 url: /almora/
-latitude: 
-longitude: 
+latitude: 29.606
+longitude: 79.664
 ---

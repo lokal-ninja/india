@@ -1,5 +1,5 @@
 ---
 title: "max fashion"
 url: /perumbavoor/max-fashion/
-shop: shop
+shop: Allgemein
 ---

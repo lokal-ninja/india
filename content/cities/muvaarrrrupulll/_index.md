@@ -1,6 +1,6 @@
 ---
 title: മുവാറ്റുപുഴ
 url: /muvaarrrrupulll/
-latitude: 
-longitude: 
+latitude: 10.006
+longitude: 76.57
 ---

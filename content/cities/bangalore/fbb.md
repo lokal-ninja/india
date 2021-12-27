@@ -1,5 +1,5 @@
 ---
 title: "FBB"
 url: /bangalore/fbb/
-shop: clothes
+shop: Kleidung
 ---

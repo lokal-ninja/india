@@ -1,6 +1,6 @@
 ---
 title: Rajahmundry
 url: /rajahmundry/
-latitude: 
-longitude: 
+latitude: 17.005
+longitude: 81.793
 ---

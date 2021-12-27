@@ -1,6 +1,6 @@
 ---
 title: Kallikadu
 url: /kallikadu/
-latitude: 8.5307913
-longitude: 77.1257538
+latitude: 8.531
+longitude: 77.126
 ---

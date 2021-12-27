@@ -1,6 +1,6 @@
 ---
 title: Mulakuzha
 url: /mulakuzha/
-latitude: 9.292050900000001
-longitude: 76.6474603
+latitude: 9.293
+longitude: 76.644
 ---

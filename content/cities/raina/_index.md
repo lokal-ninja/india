@@ -1,6 +1,6 @@
 ---
 title: Raina
 url: /raina/
-latitude: 27.1602043
-longitude: 77.2715663
+latitude: 23.071
+longitude: 87.901
 ---

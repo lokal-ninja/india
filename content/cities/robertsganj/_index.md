@@ -1,6 +1,6 @@
 ---
 title: Robertsganj
 url: /robertsganj/
-latitude: 24.689787900000002
-longitude: 83.06531360000001
+latitude: 24.691
+longitude: 83.062
 ---

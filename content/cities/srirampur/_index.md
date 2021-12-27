@@ -1,6 +1,6 @@
 ---
 title: SRIRAMPUR
 url: /srirampur/
-latitude: 
-longitude: 
+latitude: 18.458
+longitude: 79.577
 ---

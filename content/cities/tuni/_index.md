@@ -1,6 +1,6 @@
 ---
 title: TUNI
 url: /tuni/
-latitude: 
-longitude: 
+latitude: 17.356
+longitude: 82.537
 ---

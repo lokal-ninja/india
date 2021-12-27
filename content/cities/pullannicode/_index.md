@@ -1,6 +1,6 @@
 ---
 title: Pullannicode
 url: /pullannicode/
-latitude: 
-longitude: 
+latitude: 8.759
+longitude: 76.72
 ---

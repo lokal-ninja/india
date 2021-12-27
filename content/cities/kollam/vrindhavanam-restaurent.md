@@ -1,5 +1,5 @@
 ---
 title: "Vrindhavanam Restaurent"
 url: /kollam/vrindhavanam-restaurent/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: valad
 url: /valad/
-latitude: 
-longitude: 
+latitude: 11.795
+longitude: 75.906
 ---

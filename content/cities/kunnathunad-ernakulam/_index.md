@@ -1,6 +1,6 @@
 ---
 title: Kunnathunad, Ernakulam
 url: /kunnathunad-ernakulam/
-latitude: 
-longitude: 
+latitude: 10.021
+longitude: 76.401
 ---

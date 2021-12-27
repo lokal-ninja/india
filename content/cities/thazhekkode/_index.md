@@ -1,6 +1,6 @@
 ---
 title: Thazhekkode
 url: /thazhekkode/
-latitude: 
-longitude: 
+latitude: 10.957
+longitude: 76.301
 ---

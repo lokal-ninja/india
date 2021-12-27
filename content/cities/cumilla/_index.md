@@ -1,6 +1,6 @@
 ---
 title: Cumilla
 url: /cumilla/
-latitude: 
-longitude: 
+latitude: 23.112
+longitude: 91.335
 ---

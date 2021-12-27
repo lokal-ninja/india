@@ -1,6 +1,6 @@
 ---
 title: Godagari
 url: /godagari/
-latitude: 
-longitude: 
+latitude: 24.468
+longitude: 88.323
 ---

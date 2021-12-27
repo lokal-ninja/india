@@ -1,5 +1,5 @@
 ---
 title: "Pallath Enterprise"
 url: /cherukunnu/pallath-enterprise/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Akkulam Thiruvananthapuram
 url: /akkulam-thiruvananthapuram/
-latitude: 
-longitude: 
+latitude: 8.511
+longitude: 76.906
 ---

@@ -1,6 +1,6 @@
 ---
 title: CHAMPAPET
 url: /champapet/
-latitude: 
-longitude: 
+latitude: 17.348
+longitude: 78.515
 ---

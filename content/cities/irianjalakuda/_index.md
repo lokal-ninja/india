@@ -1,6 +1,6 @@
 ---
 title: Irianjalakuda
 url: /irianjalakuda/
-latitude: 
-longitude: 
+latitude: 10.332
+longitude: 76.233
 ---

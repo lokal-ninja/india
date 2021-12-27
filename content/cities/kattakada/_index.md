@@ -1,6 +1,6 @@
 ---
 title: kattakada
 url: /kattakada/
-latitude: 
-longitude: 
+latitude: 8.508
+longitude: 77.082
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kallody
 url: /kallody/
-latitude: 11.765701
-longitude: 75.96131600000001
+latitude: 11.765
+longitude: 75.961
 ---

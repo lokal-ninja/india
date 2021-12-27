@@ -1,6 +1,6 @@
 ---
 title: Haythnagar
 url: /haythnagar/
-latitude: 
-longitude: 
+latitude: 17.33
+longitude: 78.608
 ---

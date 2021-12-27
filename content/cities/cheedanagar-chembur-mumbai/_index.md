@@ -1,6 +1,6 @@
 ---
 title: cheedanagar, chembur,mumbai
 url: /cheedanagar-chembur-mumbai/
-latitude: 
-longitude: 
+latitude: 19.067
+longitude: 72.904
 ---

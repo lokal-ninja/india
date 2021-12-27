@@ -1,6 +1,6 @@
 ---
 title: puthupalli
 url: /puthupalli/
-latitude: 
-longitude: 
+latitude: 9.548
+longitude: 76.581
 ---

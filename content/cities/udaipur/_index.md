@@ -1,6 +1,6 @@
 ---
 title: Udaipur
 url: /udaipur/
-latitude: 24.578721
-longitude: 73.6862571
+latitude: 24.581
+longitude: 73.685
 ---

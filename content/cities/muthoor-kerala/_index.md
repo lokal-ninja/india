@@ -1,6 +1,6 @@
 ---
 title: Muthoor,kerala
 url: /muthoor-kerala/
-latitude: 
-longitude: 
+latitude: 9.397
+longitude: 76.567
 ---

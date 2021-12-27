@@ -1,6 +1,6 @@
 ---
 title: Arladukka
 url: /arladukka/
-latitude: 
-longitude: 
+latitude: 12.539
+longitude: 75.113
 ---

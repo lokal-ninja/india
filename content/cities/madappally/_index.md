@@ -1,6 +1,6 @@
 ---
 title: Madappally
 url: /madappally/
-latitude: 
-longitude: 
+latitude: 9.462
+longitude: 76.591
 ---

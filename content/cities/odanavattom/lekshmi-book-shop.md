@@ -1,5 +1,5 @@
 ---
 title: "Lekshmi Book Shop"
 url: /odanavattom/lekshmi-book-shop/
-shop: books
+shop: Bücher
 ---

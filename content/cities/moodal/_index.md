@@ -1,6 +1,6 @@
 ---
 title: Moodal
 url: /moodal/
-latitude: 10.868095400000001
-longitude: 76.0454105
+latitude: 10.868
+longitude: 76.045
 ---

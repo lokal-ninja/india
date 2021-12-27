@@ -1,6 +1,6 @@
 ---
 title: Suangdoh
 url: /suangdoh/
-latitude: 24.0891328
-longitude: 93.4812407
+latitude: 24.085
+longitude: 93.481
 ---

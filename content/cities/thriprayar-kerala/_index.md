@@ -1,6 +1,6 @@
 ---
 title: Thriprayar, Kerala
 url: /thriprayar-kerala/
-latitude: 
-longitude: 
+latitude: 10.437
+longitude: 76.076
 ---

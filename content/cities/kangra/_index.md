@@ -1,6 +1,6 @@
 ---
 title: Kangra
 url: /kangra/
-latitude: 32.166667000000004
-longitude: 76.25
+latitude: 32.105
+longitude: 76.274
 ---

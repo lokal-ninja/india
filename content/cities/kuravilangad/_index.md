@@ -1,6 +1,6 @@
 ---
 title: kuravilangad
 url: /kuravilangad/
-latitude: 
-longitude: 
+latitude: 9.763
+longitude: 76.566
 ---

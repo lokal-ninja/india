@@ -1,5 +1,5 @@
 ---
 title: "baskara"
 url: /arsikere/baskara/
-shop: supermarket
+shop: Supermarkt
 ---

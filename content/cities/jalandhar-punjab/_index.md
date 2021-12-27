@@ -1,6 +1,6 @@
 ---
 title: Jalandhar, Punjab
 url: /jalandhar-punjab/
-latitude: 
-longitude: 
+latitude: 31.31
+longitude: 75.579
 ---

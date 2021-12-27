@@ -1,6 +1,6 @@
 ---
 title: Wallardie
 url: /wallardie/
-latitude: 
-longitude: 
+latitude: 9.584
+longitude: 77.106
 ---

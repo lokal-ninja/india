@@ -1,6 +1,6 @@
 ---
 title: pampady
 url: /pampady/
-latitude: 
-longitude: 
+latitude: 9.572
+longitude: 76.624
 ---

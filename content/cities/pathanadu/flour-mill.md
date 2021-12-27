@@ -1,5 +1,5 @@
 ---
 title: "flour mill"
 url: /pathanadu/flour-mill/
-shop: shop
+shop: Allgemein
 ---

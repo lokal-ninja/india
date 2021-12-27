@@ -1,5 +1,5 @@
 ---
 title: "Acme Fitness"
 url: /bangalore/acme-fitness/
-shop: sports
+shop: Sport
 ---

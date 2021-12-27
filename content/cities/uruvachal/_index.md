@@ -1,6 +1,6 @@
 ---
 title: Uruvachal
 url: /uruvachal/
-latitude: 11.897258500000001
-longitude: 75.5841741
+latitude: 11.895
+longitude: 75.585
 ---

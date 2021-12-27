@@ -1,6 +1,6 @@
 ---
 title: Chungam
 url: /chungam/
-latitude: 9.6019839
-longitude: 76.5175256
+latitude: 10.931
+longitude: 76.014
 ---

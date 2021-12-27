@@ -1,5 +1,5 @@
 ---
 title: "godhavarai market"
 url: /thrissur/godhavarai-market/
-shop: shop
+shop: Allgemein
 ---

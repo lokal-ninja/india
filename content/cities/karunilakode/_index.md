@@ -1,6 +1,6 @@
 ---
 title: Karunilakode
 url: /karunilakode/
-latitude: 
-longitude: 
+latitude: 8.761
+longitude: 76.713
 ---

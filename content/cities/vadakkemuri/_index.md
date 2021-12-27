@@ -1,6 +1,6 @@
 ---
 title: Vadakkemuri
 url: /vadakkemuri/
-latitude: 
-longitude: 
+latitude: 9.776
+longitude: 76.394
 ---

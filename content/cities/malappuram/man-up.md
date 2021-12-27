@@ -1,5 +1,5 @@
 ---
 title: "Man UP"
 url: /malappuram/man-up/
-shop: beauty
+shop: Kosmetik
 ---

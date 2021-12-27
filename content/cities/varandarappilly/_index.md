@@ -1,6 +1,6 @@
 ---
 title: varandarappilly
 url: /varandarappilly/
-latitude: 
-longitude: 
+latitude: 10.425
+longitude: 76.326
 ---

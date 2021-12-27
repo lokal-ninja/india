@@ -1,6 +1,6 @@
 ---
 title: Thane (West)
 url: /thane-west/
-latitude: 
-longitude: 
+latitude: 19.186
+longitude: 72.958
 ---

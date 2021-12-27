@@ -1,6 +1,6 @@
 ---
 title: pathanadu
 url: /pathanadu/
-latitude: 
-longitude: 
+latitude: 9.509
+longitude: 76.694
 ---

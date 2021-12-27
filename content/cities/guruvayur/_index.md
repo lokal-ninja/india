@@ -1,6 +1,6 @@
 ---
 title: guruvayur
 url: /guruvayur/
-latitude: 
-longitude: 
+latitude: 10.601
+longitude: 76.06
 ---

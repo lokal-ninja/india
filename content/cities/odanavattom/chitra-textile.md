@@ -1,5 +1,5 @@
 ---
 title: "Chitra Textile"
 url: /odanavattom/chitra-textile/
-shop: clothes
+shop: Kleidung
 ---

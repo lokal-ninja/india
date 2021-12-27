@@ -1,6 +1,6 @@
 ---
 title: Sooranad, Kerala
 url: /sooranad-kerala/
-latitude: 
-longitude: 
+latitude: 9.105
+longitude: 76.634
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /oonnukal/ration-shop-3/
-shop: convenience
+shop: Lebensmittel
 ---

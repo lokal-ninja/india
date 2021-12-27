@@ -1,6 +1,6 @@
 ---
 title: kodangal
 url: /kodangal/
-latitude: 
-longitude: 
+latitude: 17.104
+longitude: 77.632
 ---

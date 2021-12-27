@@ -1,6 +1,6 @@
 ---
 title: Meruvambayi
 url: /meruvambayi/
-latitude: 
-longitude: 
+latitude: 11.872
+longitude: 75.573
 ---

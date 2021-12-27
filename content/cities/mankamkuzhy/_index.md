@@ -1,6 +1,6 @@
 ---
 title: Mankamkuzhy
 url: /mankamkuzhy/
-latitude: 
-longitude: 
+latitude: 9.235
+longitude: 76.59
 ---

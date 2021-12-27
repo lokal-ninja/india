@@ -1,6 +1,6 @@
 ---
 title: Kottathara
 url: /kottathara/
-latitude: 
-longitude: 
+latitude: 11.679
+longitude: 76.024
 ---

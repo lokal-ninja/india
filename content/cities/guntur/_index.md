@@ -1,6 +1,6 @@
 ---
 title: Guntur
 url: /guntur/
-latitude: 16.2915189
-longitude: 80.4541588
+latitude: 16.314
+longitude: 80.42
 ---

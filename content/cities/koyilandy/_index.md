@@ -1,6 +1,6 @@
 ---
 title: KOYILANDY
 url: /koyilandy/
-latitude: 
-longitude: 
+latitude: 11.449
+longitude: 75.688
 ---

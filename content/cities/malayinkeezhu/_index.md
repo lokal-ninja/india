@@ -1,6 +1,6 @@
 ---
 title: malayinkeezhu
 url: /malayinkeezhu/
-latitude: 
-longitude: 
+latitude: 8.49
+longitude: 77.037
 ---

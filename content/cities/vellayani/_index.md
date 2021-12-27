@@ -1,6 +1,6 @@
 ---
 title: vellayani
 url: /vellayani/
-latitude: 
-longitude: 
+latitude: 8.456
+longitude: 77.001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Parsik Nagar
 url: /parsik-nagar/
-latitude: 19.2082421
-longitude: 73.010126
+latitude: 19.208
+longitude: 73.014
 ---

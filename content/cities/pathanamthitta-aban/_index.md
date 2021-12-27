@@ -1,6 +1,6 @@
 ---
 title: Pathanamthitta aban
 url: /pathanamthitta-aban/
-latitude: 
-longitude: 
+latitude: 9.265
+longitude: 76.79
 ---

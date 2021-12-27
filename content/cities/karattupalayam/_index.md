@@ -1,6 +1,6 @@
 ---
 title: Karattupalayam
 url: /karattupalayam/
-latitude: 
-longitude: 
+latitude: 11.361
+longitude: 77.891
 ---

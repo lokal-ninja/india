@@ -1,6 +1,6 @@
 ---
 title: Mathur
 url: /mathur/
-latitude: 10.6967917
-longitude: 78.7275123
+latitude: 10.74
+longitude: 76.574
 ---

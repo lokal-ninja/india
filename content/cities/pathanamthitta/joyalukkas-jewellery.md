@@ -1,5 +1,5 @@
 ---
 title: "Joyalukkas Jewellery"
 url: /pathanamthitta/joyalukkas-jewellery/
-shop: jewelry
+shop: Schmuck
 ---

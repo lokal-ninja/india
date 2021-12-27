@@ -1,6 +1,6 @@
 ---
 title: ahmedpur
 url: /ahmedpur/
-latitude: 
-longitude: 
+latitude: 18.705
+longitude: 76.946
 ---

@@ -1,6 +1,6 @@
 ---
 title: mundur
 url: /mundur/
-latitude: 
-longitude: 
+latitude: 10.836
+longitude: 76.599
 ---

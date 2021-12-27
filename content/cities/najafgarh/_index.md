@@ -1,6 +1,6 @@
 ---
 title: Najafgarh
 url: /najafgarh/
-latitude: 28.612304
-longitude: 76.9823908
+latitude: 28.613
+longitude: 76.995
 ---

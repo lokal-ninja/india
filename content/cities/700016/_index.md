@@ -1,6 +1,6 @@
 ---
 title: 700016
 url: /700016/
-latitude: 
-longitude: 
+latitude: 22.551
+longitude: 88.355
 ---

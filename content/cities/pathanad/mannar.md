@@ -1,5 +1,5 @@
 ---
 title: "mannar"
 url: /pathanad/mannar/
-shop: wholesale
+shop: Großhandel
 ---

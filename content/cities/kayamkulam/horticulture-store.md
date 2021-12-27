@@ -1,5 +1,5 @@
 ---
 title: "Horticulture Store"
 url: /kayamkulam/horticulture-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

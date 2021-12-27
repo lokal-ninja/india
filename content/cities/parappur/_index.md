@@ -1,6 +1,6 @@
 ---
 title: parappur
 url: /parappur/
-latitude: 
-longitude: 
+latitude: 10.564
+longitude: 76.123
 ---

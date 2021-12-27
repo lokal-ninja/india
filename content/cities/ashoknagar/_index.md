@@ -1,6 +1,6 @@
 ---
 title: Ashoknagar
 url: /ashoknagar/
-latitude: 24.576189000000003
-longitude: 77.7302895
+latitude: 22.836
+longitude: 88.626
 ---

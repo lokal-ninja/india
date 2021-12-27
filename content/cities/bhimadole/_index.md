@@ -1,6 +1,6 @@
 ---
 title: bhimadole
 url: /bhimadole/
-latitude: 
-longitude: 
+latitude: 16.812
+longitude: 81.267
 ---

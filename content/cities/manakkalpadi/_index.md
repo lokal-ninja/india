@@ -1,6 +1,6 @@
 ---
 title: manakkalpadi
 url: /manakkalpadi/
-latitude: 
-longitude: 
+latitude: 10.8
+longitude: 76.393
 ---

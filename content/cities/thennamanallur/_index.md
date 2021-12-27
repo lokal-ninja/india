@@ -1,6 +1,6 @@
 ---
 title: Thennamanallur
 url: /thennamanallur/
-latitude: 
-longitude: 
+latitude: 10.973
+longitude: 76.816
 ---

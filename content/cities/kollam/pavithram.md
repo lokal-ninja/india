@@ -1,5 +1,5 @@
 ---
 title: "Pavithram"
 url: /kollam/pavithram/
-shop: wholesale
+shop: Großhandel
 ---

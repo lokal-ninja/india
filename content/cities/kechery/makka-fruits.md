@@ -1,5 +1,5 @@
 ---
 title: "Makka Fruits"
 url: /kechery/makka-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vavvakavu
 url: /vavvakavu/
-latitude: 
-longitude: 
+latitude: 9.087
+longitude: 76.53
 ---

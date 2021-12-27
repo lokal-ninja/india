@@ -1,6 +1,6 @@
 ---
 title: Nedumavu
 url: /nedumavu/
-latitude: 
-longitude: 
+latitude: 9.565
+longitude: 76.688
 ---

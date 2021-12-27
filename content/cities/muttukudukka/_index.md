@@ -1,6 +1,6 @@
 ---
 title: Muttukudukka
 url: /muttukudukka/
-latitude: 
-longitude: 
+latitude: 9.269
+longitude: 76.753
 ---

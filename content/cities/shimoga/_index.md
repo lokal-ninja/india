@@ -1,6 +1,6 @@
 ---
 title: Shimoga
 url: /shimoga/
-latitude: 
-longitude: 
+latitude: 13.95
+longitude: 75.557
 ---

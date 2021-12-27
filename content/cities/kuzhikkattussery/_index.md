@@ -1,6 +1,6 @@
 ---
 title: kuzhikkattussery
 url: /kuzhikkattussery/
-latitude: 
-longitude: 
+latitude: 10.297
+longitude: 76.278
 ---

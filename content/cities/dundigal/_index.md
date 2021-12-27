@@ -1,6 +1,6 @@
 ---
 title: dundigal
 url: /dundigal/
-latitude: 
-longitude: 
+latitude: 17.577
+longitude: 78.419
 ---

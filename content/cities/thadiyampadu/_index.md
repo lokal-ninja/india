@@ -1,6 +1,6 @@
 ---
 title: Thadiyampadu
 url: /thadiyampadu/
-latitude: 
-longitude: 
+latitude: 9.884
+longitude: 76.969
 ---

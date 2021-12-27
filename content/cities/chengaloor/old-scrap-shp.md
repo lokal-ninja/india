@@ -1,5 +1,5 @@
 ---
 title: "Old Scrap Shp"
 url: /chengaloor/old-scrap-shp/
-shop: shop
+shop: Allgemein
 ---

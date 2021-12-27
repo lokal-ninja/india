@@ -1,6 +1,6 @@
 ---
 title: mukkampalamoodu
 url: /mukkampalamoodu/
-latitude: 
-longitude: 
+latitude: 8.505
+longitude: 77.04
 ---

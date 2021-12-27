@@ -1,6 +1,6 @@
 ---
 title: Naduvathapara
 url: /naduvathapara/
-latitude: 
-longitude: 
+latitude: 10.739
+longitude: 76.479
 ---

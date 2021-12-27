@@ -1,6 +1,6 @@
 ---
 title: Jaora
 url: /jaora/
-latitude: 23.6379392
-longitude: 75.1281756
+latitude: 23.64
+longitude: 75.129
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thachakkodu
 url: /thachakkodu/
-latitude: 
-longitude: 
+latitude: 8.915
+longitude: 76.751
 ---

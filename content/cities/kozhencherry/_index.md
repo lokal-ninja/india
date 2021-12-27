@@ -1,6 +1,6 @@
 ---
 title: Kozhencherry
 url: /kozhencherry/
-latitude: 9.3369731
-longitude: 76.70642860000001
+latitude: 9.337
+longitude: 76.708
 ---

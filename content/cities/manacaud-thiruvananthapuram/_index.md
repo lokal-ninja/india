@@ -1,6 +1,6 @@
 ---
 title: Manacaud Thiruvananthapuram
 url: /manacaud-thiruvananthapuram/
-latitude: 
-longitude: 
+latitude: 8.475
+longitude: 76.947
 ---

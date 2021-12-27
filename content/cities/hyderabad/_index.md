@@ -1,6 +1,6 @@
 ---
 title: Hyderabad
 url: /hyderabad/
-latitude: 17.360589
-longitude: 78.4740613
+latitude: 17.438
+longitude: 78.448
 ---

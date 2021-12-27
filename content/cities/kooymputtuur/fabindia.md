@@ -1,5 +1,5 @@
 ---
 title: "FABINDIA"
 url: /kooymputtuur/fabindia/
-shop: clothes
+shop: Kleidung
 ---

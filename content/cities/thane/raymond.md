@@ -1,5 +1,5 @@
 ---
 title: "Raymond"
 url: /thane/raymond/
-shop: clothes
+shop: Kleidung
 ---

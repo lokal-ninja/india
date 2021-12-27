@@ -1,5 +1,5 @@
 ---
 title: "Ideal"
 url: /chattanchal/ideal/
-shop: bakery
+shop: Bäckerei
 ---

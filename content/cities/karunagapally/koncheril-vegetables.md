@@ -1,5 +1,5 @@
 ---
 title: "Koncheril Vegetables"
 url: /karunagapally/koncheril-vegetables/
-shop: shop
+shop: Allgemein
 ---

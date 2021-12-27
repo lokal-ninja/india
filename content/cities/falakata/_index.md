@@ -1,6 +1,6 @@
 ---
 title: Falakata
 url: /falakata/
-latitude: 26.517947500000002
-longitude: 89.20126590000001
+latitude: 26.519
+longitude: 89.205
 ---

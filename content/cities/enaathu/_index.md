@@ -1,6 +1,6 @@
 ---
 title: Enaathu
 url: /enaathu/
-latitude: 9.0908251
-longitude: 76.7552635
+latitude: 9.091
+longitude: 76.755
 ---

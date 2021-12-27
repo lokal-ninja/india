@@ -1,5 +1,5 @@
 ---
 title: "TIRUPATI HARDWARE"
 url: /luvknow/tirupati-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

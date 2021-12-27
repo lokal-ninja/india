@@ -1,6 +1,6 @@
 ---
 title: Cherukunnam
 url: /cherukunnam/
-latitude: 
-longitude: 
+latitude: 10.102
+longitude: 76.543
 ---

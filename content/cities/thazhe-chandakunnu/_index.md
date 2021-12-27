@@ -1,6 +1,6 @@
 ---
 title: Thazhe Chandakunnu
 url: /thazhe-chandakunnu/
-latitude: 
-longitude: 
+latitude: 11.284
+longitude: 76.237
 ---

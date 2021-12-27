@@ -1,6 +1,6 @@
 ---
 title: plachery
 url: /plachery/
-latitude: 
-longitude: 
+latitude: 9.452
+longitude: 76.798
 ---

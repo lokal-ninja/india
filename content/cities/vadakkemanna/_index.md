@@ -1,6 +1,6 @@
 ---
 title: Vadakkemanna
 url: /vadakkemanna/
-latitude: 11.032912600000001
-longitude: 76.0665211
+latitude: 11.034
+longitude: 76.066
 ---

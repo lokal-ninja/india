@@ -1,6 +1,6 @@
 ---
 title: Melangadi
 url: /melangadi/
-latitude: 11.100593400000001
-longitude: 76.0762026
+latitude: 10.939
+longitude: 75.984
 ---

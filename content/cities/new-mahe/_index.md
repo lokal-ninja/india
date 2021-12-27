@@ -1,6 +1,6 @@
 ---
 title: new mahe
 url: /new-mahe/
-latitude: 
-longitude: 
+latitude: 11.712
+longitude: 75.55
 ---

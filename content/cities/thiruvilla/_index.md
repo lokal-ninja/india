@@ -1,6 +1,6 @@
 ---
 title: THIRUVILLA
 url: /thiruvilla/
-latitude: 
-longitude: 
+latitude: 9.426
+longitude: 76.615
 ---

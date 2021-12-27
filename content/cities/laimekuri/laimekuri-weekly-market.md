@@ -1,5 +1,5 @@
 ---
 title: "Laimekuri Weekly Market"
 url: /laimekuri/laimekuri-weekly-market/
-shop: supermarket
+shop: Supermarkt
 ---

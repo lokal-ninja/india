@@ -1,6 +1,6 @@
 ---
 title: Vellilamkandam
 url: /vellilamkandam/
-latitude: 9.7125318
-longitude: 77.050379
+latitude: 9.712
+longitude: 77.05
 ---

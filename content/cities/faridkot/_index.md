@@ -1,6 +1,6 @@
 ---
 title: Faridkot
 url: /faridkot/
-latitude: 30.672977200000002
-longitude: 74.7517033
+latitude: 30.67
+longitude: 74.753
 ---

@@ -1,6 +1,6 @@
 ---
 title: ODANAVATTOM
 url: /odanavattom/
-latitude: 
-longitude: 
+latitude: 8.942
+longitude: 76.772
 ---

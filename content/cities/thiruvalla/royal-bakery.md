@@ -1,5 +1,5 @@
 ---
 title: "Royal bakery"
 url: /thiruvalla/royal-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Achankavala
 url: /achankavala/
-latitude: 
-longitude: 
+latitude: 9.914
+longitude: 76.694
 ---

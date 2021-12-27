@@ -1,6 +1,6 @@
 ---
 title: nanminda
 url: /nanminda/
-latitude: 
-longitude: 
+latitude: 11.425
+longitude: 75.82
 ---

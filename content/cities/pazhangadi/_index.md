@@ -1,6 +1,6 @@
 ---
 title: pazhangadi
 url: /pazhangadi/
-latitude: 
-longitude: 
+latitude: 12.04
+longitude: 75.281
 ---

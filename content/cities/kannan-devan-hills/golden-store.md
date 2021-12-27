@@ -1,5 +1,5 @@
 ---
 title: "Golden Store"
 url: /kannan-devan-hills/golden-store/
-shop: clothes
+shop: Kleidung
 ---

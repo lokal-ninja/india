@@ -1,6 +1,6 @@
 ---
 title: Haripad,Alappuzha
 url: /haripad-alappuzha/
-latitude: 
-longitude: 
+latitude: 9.3
+longitude: 76.421
 ---

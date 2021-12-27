@@ -1,6 +1,6 @@
 ---
 title: Kuriyedom
 url: /kuriyedom/
-latitude: 
-longitude: 
+latitude: 11.172
+longitude: 75.903
 ---

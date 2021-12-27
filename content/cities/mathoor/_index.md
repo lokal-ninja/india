@@ -1,6 +1,6 @@
 ---
 title: Mathoor
 url: /mathoor/
-latitude: 9.2383541
-longitude: 76.7420524
+latitude: 9.239
+longitude: 76.743
 ---

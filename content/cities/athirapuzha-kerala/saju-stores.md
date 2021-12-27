@@ -1,5 +1,5 @@
 ---
 title: "Saju Stores"
 url: /athirapuzha-kerala/saju-stores/
-shop: shop
+shop: Allgemein
 ---

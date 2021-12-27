@@ -1,6 +1,6 @@
 ---
 title: Shoranur
 url: /shoranur/
-latitude: 10.7637196
-longitude: 76.272355
+latitude: 10.763
+longitude: 76.27
 ---

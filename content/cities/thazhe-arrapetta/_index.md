@@ -1,6 +1,6 @@
 ---
 title: thazhe arrapetta
 url: /thazhe-arrapetta/
-latitude: 
-longitude: 
+latitude: 11.552
+longitude: 76.153
 ---

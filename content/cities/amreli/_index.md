@@ -1,6 +1,6 @@
 ---
 title: Amreli
 url: /amreli/
-latitude: 32.6185388
-longitude: 76.21782300000001
+latitude: 21.249
+longitude: 71.495
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crossword"
 url: /raipur/crossword/
-shop: music
+shop: Musik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kulathupuzha
 url: /kulathupuzha/
-latitude: 
-longitude: 
+latitude: 8.91
+longitude: 77.05
 ---

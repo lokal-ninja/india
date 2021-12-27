@@ -1,6 +1,6 @@
 ---
 title: edakkara
 url: /edakkara/
-latitude: 
-longitude: 
+latitude: 11.344
+longitude: 76.31
 ---

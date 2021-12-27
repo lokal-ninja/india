@@ -1,5 +1,5 @@
 ---
 title: "sobha"
 url: /pravachambalam/sobha/
-shop: supermarket
+shop: Supermarkt
 ---

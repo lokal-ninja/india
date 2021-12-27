@@ -1,6 +1,6 @@
 ---
 title: Puthen Street Manacaud
 url: /puthen-street-manacaud/
-latitude: 
-longitude: 
+latitude: 8.478
+longitude: 76.944
 ---

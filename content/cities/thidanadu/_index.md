@@ -1,6 +1,6 @@
 ---
 title: Thidanadu
 url: /thidanadu/
-latitude: 
-longitude: 
+latitude: 9.662
+longitude: 76.771
 ---

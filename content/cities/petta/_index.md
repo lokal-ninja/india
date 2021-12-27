@@ -1,6 +1,6 @@
 ---
 title: petta
 url: /petta/
-latitude: 
-longitude: 
+latitude: 9.559
+longitude: 76.803
 ---

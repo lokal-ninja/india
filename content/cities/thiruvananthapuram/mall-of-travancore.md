@@ -1,5 +1,5 @@
 ---
 title: "Mall Of Travancore"
 url: /thiruvananthapuram/mall-of-travancore/
-shop: mall
+shop: Einkaufszentrum
 ---

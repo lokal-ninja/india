@@ -1,6 +1,6 @@
 ---
 title: Chunkam
 url: /chunkam/
-latitude: 10.6154513
-longitude: 76.04757520000001
+latitude: 10.88
+longitude: 76.044
 ---

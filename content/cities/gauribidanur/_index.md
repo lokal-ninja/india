@@ -1,6 +1,6 @@
 ---
 title: Gauribidanur
 url: /gauribidanur/
-latitude: 
-longitude: 
+latitude: 13.656
+longitude: 77.554
 ---

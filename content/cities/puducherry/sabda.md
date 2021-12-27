@@ -1,5 +1,5 @@
 ---
 title: "Sabda"
 url: /puducherry/sabda/
-shop: books
+shop: Bücher
 ---

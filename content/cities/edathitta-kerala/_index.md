@@ -1,6 +1,6 @@
 ---
 title: Edathitta, Kerala
 url: /edathitta-kerala/
-latitude: 
-longitude: 
+latitude: 9.194
+longitude: 76.77
 ---

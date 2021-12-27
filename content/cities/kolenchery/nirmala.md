@@ -1,5 +1,5 @@
 ---
 title: "nirmala"
 url: /kolenchery/nirmala/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mumabi
 url: /mumabi/
-latitude: 
-longitude: 
+latitude: 19.094
+longitude: 72.884
 ---

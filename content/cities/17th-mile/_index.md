@@ -1,6 +1,6 @@
 ---
 title: 17th Mile
 url: /17th-mile/
-latitude: 
-longitude: 
+latitude: 9.57
+longitude: 76.718
 ---

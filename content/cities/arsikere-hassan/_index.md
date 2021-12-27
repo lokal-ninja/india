@@ -1,6 +1,6 @@
 ---
 title: Arsikere, Hassan
 url: /arsikere-hassan/
-latitude: 
-longitude: 
+latitude: 13.322
+longitude: 76.252
 ---

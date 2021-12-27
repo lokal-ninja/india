@@ -1,6 +1,6 @@
 ---
 title: Jalna
 url: /jalna/
-latitude: 29.549100000000003
-longitude: 79.72092
+latitude: 19.848
+longitude: 75.9
 ---

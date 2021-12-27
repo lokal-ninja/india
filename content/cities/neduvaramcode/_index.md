@@ -1,6 +1,6 @@
 ---
 title: Neduvaramcode
 url: /neduvaramcode/
-latitude: 
-longitude: 
+latitude: 9.293
+longitude: 76.603
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kizhakkambalam
 url: /kizhakkambalam/
-latitude: 10.0368297
-longitude: 76.4069394
+latitude: 10.037
+longitude: 76.411
 ---

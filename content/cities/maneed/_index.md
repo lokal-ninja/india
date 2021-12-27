@@ -1,6 +1,6 @@
 ---
 title: MANEED
 url: /maneed/
-latitude: 
-longitude: 
+latitude: 9.919
+longitude: 76.462
 ---

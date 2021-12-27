@@ -1,6 +1,6 @@
 ---
 title: kerala
 url: /kerala/
-latitude: 
-longitude: 
+latitude: 11.23
+longitude: 75.791
 ---

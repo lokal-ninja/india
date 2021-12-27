@@ -1,6 +1,6 @@
 ---
 title: Rajesultanpur
 url: /rajesultanpur/
-latitude: 26.304532700000003
-longitude: 83.07910720000001
+latitude: 26.303
+longitude: 83.079
 ---

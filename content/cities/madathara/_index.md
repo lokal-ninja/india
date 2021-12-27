@@ -1,6 +1,6 @@
 ---
 title: Madathara
 url: /madathara/
-latitude: 8.817704
-longitude: 77.01327950000001
+latitude: 8.797
+longitude: 77.011
 ---

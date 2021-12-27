@@ -1,6 +1,6 @@
 ---
 title: Pulincunnoo
 url: /pulincunnoo/
-latitude: 
-longitude: 
+latitude: 9.461
+longitude: 76.44
 ---

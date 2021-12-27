@@ -1,6 +1,6 @@
 ---
 title: kuruvambalam
 url: /kuruvambalam/
-latitude: 
-longitude: 
+latitude: 10.939
+longitude: 76.162
 ---

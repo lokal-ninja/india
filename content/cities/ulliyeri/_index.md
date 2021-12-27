@@ -1,6 +1,6 @@
 ---
 title: Ulliyeri
 url: /ulliyeri/
-latitude: 
-longitude: 
+latitude: 11.451
+longitude: 75.771
 ---

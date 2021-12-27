@@ -1,5 +1,5 @@
 ---
 title: ".V"
 url: /bangalore/v/
-shop: hifi
+shop: Hifi
 ---

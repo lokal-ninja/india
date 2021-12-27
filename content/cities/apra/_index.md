@@ -1,6 +1,6 @@
 ---
 title: Apra
 url: /apra/
-latitude: 31.085633100000003
-longitude: 75.8783964
+latitude: 31.086
+longitude: 75.88
 ---

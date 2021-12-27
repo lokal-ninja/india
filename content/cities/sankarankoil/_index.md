@@ -1,6 +1,6 @@
 ---
 title: Sankarankoil
 url: /sankarankoil/
-latitude: 
-longitude: 
+latitude: 9.305
+longitude: 77.553
 ---

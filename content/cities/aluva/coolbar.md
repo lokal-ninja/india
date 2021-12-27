@@ -1,5 +1,5 @@
 ---
 title: "Coolbar"
 url: /aluva/coolbar/
-shop: shop
+shop: Allgemein
 ---

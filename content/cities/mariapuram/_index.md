@@ -1,6 +1,6 @@
 ---
 title: mariapuram
 url: /mariapuram/
-latitude: 
-longitude: 
+latitude: 9.857
+longitude: 76.984
 ---

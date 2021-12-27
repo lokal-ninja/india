@@ -1,6 +1,6 @@
 ---
 title: Thidanad
 url: /thidanad/
-latitude: 9.6582184
-longitude: 76.7768745
+latitude: 9.658
+longitude: 76.777
 ---

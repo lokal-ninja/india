@@ -1,6 +1,6 @@
 ---
 title: Edappon
 url: /edappon/
-latitude: 9.2278242
-longitude: 76.6269145
+latitude: 9.214
+longitude: 76.631
 ---

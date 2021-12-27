@@ -1,6 +1,6 @@
 ---
 title: Amaravila
 url: /amaravila/
-latitude: 
-longitude: 
+latitude: 8.389
+longitude: 77.105
 ---

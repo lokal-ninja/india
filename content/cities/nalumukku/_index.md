@@ -1,6 +1,6 @@
 ---
 title: Nalumukku
 url: /nalumukku/
-latitude: 
-longitude: 
+latitude: 9.809
+longitude: 77.077
 ---

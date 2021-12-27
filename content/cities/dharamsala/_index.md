@@ -1,6 +1,6 @@
 ---
 title: Dharamsala
 url: /dharamsala/
-latitude: 
-longitude: 
+latitude: 32.216
+longitude: 76.324
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aiswarya Traders"
 url: /thrissur/aiswarya-traders/
-shop: hardware
+shop: Eisenwaren
 ---

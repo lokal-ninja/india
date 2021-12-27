@@ -1,5 +1,5 @@
 ---
 title: "Anashwara"
 url: /kottayam/anashwara/
-shop: shop
+shop: Allgemein
 ---

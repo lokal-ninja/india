@@ -1,6 +1,6 @@
 ---
 title: Randathani-chinakkal
 url: /randathani-chinakkal/
-latitude: 
-longitude: 
+latitude: 10.967
+longitude: 75.997
 ---

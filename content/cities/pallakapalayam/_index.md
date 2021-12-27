@@ -1,6 +1,6 @@
 ---
 title: pallakapalayam
 url: /pallakapalayam/
-latitude: 
-longitude: 
+latitude: 11.452
+longitude: 77.775
 ---

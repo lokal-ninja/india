@@ -1,6 +1,6 @@
 ---
 title: Mangalore
 url: /mangalore/
-latitude: 15.923107600000002
-longitude: 75.7622963
+latitude: 12.927
+longitude: 74.858
 ---

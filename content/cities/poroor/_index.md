@@ -1,6 +1,6 @@
 ---
 title: Poroor
 url: /poroor/
-latitude: 
-longitude: 
+latitude: 11.175
+longitude: 76.234
 ---

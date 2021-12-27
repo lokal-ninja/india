@@ -1,6 +1,6 @@
 ---
 title: nathukallu
 url: /nathukallu/
-latitude: 
-longitude: 
+latitude: 9.785
+longitude: 77.106
 ---

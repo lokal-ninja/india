@@ -1,6 +1,6 @@
 ---
 title: Cherukunnu
 url: /cherukunnu/
-latitude: 11.9994238
-longitude: 75.30310390000001
+latitude: 10.483
+longitude: 76.298
 ---

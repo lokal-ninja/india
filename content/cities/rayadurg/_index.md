@@ -1,6 +1,6 @@
 ---
 title: Rayadurg
 url: /rayadurg/
-latitude: 
-longitude: 
+latitude: 14.698
+longitude: 76.848
 ---

@@ -1,6 +1,6 @@
 ---
 title: Narepally,Hyderabad
 url: /narepally-hyderabad/
-latitude: 
-longitude: 
+latitude: 17.42
+longitude: 78.637
 ---

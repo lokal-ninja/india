@@ -1,6 +1,6 @@
 ---
 title: Hyderbad
 url: /hyderbad/
-latitude: 
-longitude: 
+latitude: 17.359
+longitude: 78.505
 ---

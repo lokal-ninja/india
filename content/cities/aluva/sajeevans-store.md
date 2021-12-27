@@ -1,5 +1,5 @@
 ---
 title: "Sajeevans Store"
 url: /aluva/sajeevans-store/
-shop: shop
+shop: Allgemein
 ---

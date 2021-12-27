@@ -1,6 +1,6 @@
 ---
 title: ambalappuzha
 url: /ambalappuzha/
-latitude: 
-longitude: 
+latitude: 9.384
+longitude: 76.357
 ---

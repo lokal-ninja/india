@@ -1,6 +1,6 @@
 ---
 title: Tanuku
 url: /tanuku/
-latitude: 
-longitude: 
+latitude: 16.762
+longitude: 81.695
 ---

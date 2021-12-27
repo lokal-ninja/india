@@ -1,5 +1,5 @@
 ---
 title: "Rajadani"
 url: /malappuram/rajadani/
-shop: jewelry
+shop: Schmuck
 ---

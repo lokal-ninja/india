@@ -1,6 +1,6 @@
 ---
 title: Bhubaneswar
 url: /bhubaneswar/
-latitude: 
-longitude: 
+latitude: 20.267
+longitude: 85.843
 ---

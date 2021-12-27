@@ -1,5 +1,5 @@
 ---
 title: "MLRIT Mall"
 url: /dundigal/mlrit-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

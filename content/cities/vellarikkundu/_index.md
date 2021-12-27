@@ -1,6 +1,6 @@
 ---
 title: Vellarikkundu
 url: /vellarikkundu/
-latitude: 
-longitude: 
+latitude: 12.366
+longitude: 75.285
 ---

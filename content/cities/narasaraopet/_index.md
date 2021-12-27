@@ -1,6 +1,6 @@
 ---
 title: narasaraopet
 url: /narasaraopet/
-latitude: 
-longitude: 
+latitude: 16.225
+longitude: 80.05
 ---

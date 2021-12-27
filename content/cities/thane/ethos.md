@@ -1,5 +1,5 @@
 ---
 title: "Ethos"
 url: /thane/ethos/
-shop: watches
+shop: Uhren
 ---

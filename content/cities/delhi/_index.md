@@ -1,6 +1,6 @@
 ---
 title: Delhi
 url: /delhi/
-latitude: 28.627392800000003
-longitude: 77.1716954
+latitude: 28.657
+longitude: 77.235
 ---

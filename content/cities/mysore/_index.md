@@ -1,6 +1,6 @@
 ---
 title: Mysore
 url: /mysore/
-latitude: 
-longitude: 
+latitude: 12.312
+longitude: 76.659
 ---

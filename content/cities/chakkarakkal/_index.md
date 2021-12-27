@@ -1,6 +1,6 @@
 ---
 title: Chakkarakkal
 url: /chakkarakkal/
-latitude: 
-longitude: 
+latitude: 11.884
+longitude: 75.449
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thawakkal"
 url: /tirur/thawakkal/
-shop: shop
+shop: Allgemein
 ---

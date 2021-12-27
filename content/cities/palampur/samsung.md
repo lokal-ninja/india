@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /palampur/samsung/
-shop: electronics
+shop: Elektronik
 ---

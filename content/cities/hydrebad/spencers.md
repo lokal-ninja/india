@@ -1,5 +1,5 @@
 ---
 title: "Spencers"
 url: /hydrebad/spencers/
-shop: supermarket
+shop: Supermarkt
 ---

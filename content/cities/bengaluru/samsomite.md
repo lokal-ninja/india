@@ -1,5 +1,5 @@
 ---
 title: "samsomite"
 url: /bengaluru/samsomite/
-shop: shop
+shop: Allgemein
 ---

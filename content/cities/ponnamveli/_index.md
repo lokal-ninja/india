@@ -1,6 +1,6 @@
 ---
 title: Ponnamveli
 url: /ponnamveli/
-latitude: 
-longitude: 
+latitude: 9.738
+longitude: 76.319
 ---

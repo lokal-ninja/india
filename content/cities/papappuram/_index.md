@@ -1,6 +1,6 @@
 ---
 title: Papappuram
 url: /papappuram/
-latitude: 
-longitude: 
+latitude: 10.767
+longitude: 76.41
 ---

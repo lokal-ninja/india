@@ -1,6 +1,6 @@
 ---
 title: kavalam
 url: /kavalam/
-latitude: 
-longitude: 
+latitude: 9.488
+longitude: 76.462
 ---

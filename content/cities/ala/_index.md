@@ -1,6 +1,6 @@
 ---
 title: Ala
 url: /ala/
-latitude: 30.288402400000003
-longitude: 79.5479035
+latitude: 9.289
+longitude: 76.617
 ---

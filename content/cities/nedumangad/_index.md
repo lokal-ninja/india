@@ -1,6 +1,6 @@
 ---
 title: nedumangad
 url: /nedumangad/
-latitude: 
-longitude: 
+latitude: 8.589
+longitude: 76.996
 ---

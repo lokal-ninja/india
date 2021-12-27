@@ -1,6 +1,6 @@
 ---
 title: MANKADA
 url: /mankada/
-latitude: 
-longitude: 
+latitude: 11.017
+longitude: 76.178
 ---

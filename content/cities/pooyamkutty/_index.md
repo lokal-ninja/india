@@ -1,6 +1,6 @@
 ---
 title: Pooyamkutty
 url: /pooyamkutty/
-latitude: 
-longitude: 
+latitude: 10.161
+longitude: 76.786
 ---

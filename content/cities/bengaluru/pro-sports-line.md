@@ -1,5 +1,5 @@
 ---
 title: "Pro Sports Line"
 url: /bengaluru/pro-sports-line/
-shop: sports
+shop: Sport
 ---

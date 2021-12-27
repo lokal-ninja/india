@@ -1,5 +1,5 @@
 ---
 title: "Tamanna"
 url: /bangalore/tamanna/
-shop: clothes
+shop: Kleidung
 ---

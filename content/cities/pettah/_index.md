@@ -1,6 +1,6 @@
 ---
 title: Pettah
 url: /pettah/
-latitude: 8.4956092
-longitude: 76.9293622
+latitude: 8.494
+longitude: 76.927
 ---

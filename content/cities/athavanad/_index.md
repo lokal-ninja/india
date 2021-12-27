@@ -1,6 +1,6 @@
 ---
 title: Athavanad
 url: /athavanad/
-latitude: 
-longitude: 
+latitude: 10.907
+longitude: 76.024
 ---

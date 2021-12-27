@@ -1,5 +1,5 @@
 ---
 title: "Maple"
 url: /thane/maple/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Behror
 url: /behror/
-latitude: 27.8900657
-longitude: 76.28582270000001
+latitude: 27.994
+longitude: 76.18
 ---

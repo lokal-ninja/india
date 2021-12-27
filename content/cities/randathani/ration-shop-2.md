@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /randathani/ration-shop-2/
-shop: convenience
+shop: Lebensmittel
 ---

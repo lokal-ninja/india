@@ -1,6 +1,6 @@
 ---
 title: Kandamangalam Kadakkarappally
 url: /kandamangalam-kadakkarappally/
-latitude: 
-longitude: 
+latitude: 9.704
+longitude: 76.303
 ---

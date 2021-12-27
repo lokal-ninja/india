@@ -1,6 +1,6 @@
 ---
 title: Vathikudy
 url: /vathikudy/
-latitude: 
-longitude: 
+latitude: 9.888
+longitude: 77.044
 ---

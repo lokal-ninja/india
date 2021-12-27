@@ -1,6 +1,6 @@
 ---
 title: Thotttada
 url: /thotttada/
-latitude: 
-longitude: 
+latitude: 11.846
+longitude: 75.417
 ---

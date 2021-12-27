@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /puthuveli/ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

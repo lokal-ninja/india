@@ -1,5 +1,5 @@
 ---
 title: "CrossWord"
 url: /bangalore/crossword/
-shop: books
+shop: Bücher
 ---

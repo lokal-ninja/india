@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /bengaluru/bata/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: PANCODE
 url: /pancode/
-latitude: 
-longitude: 
+latitude: 9.993
+longitude: 76.441
 ---

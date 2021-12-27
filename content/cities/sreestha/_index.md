@@ -1,6 +1,6 @@
 ---
 title: sreestha
 url: /sreestha/
-latitude: 
-longitude: 
+latitude: 12.054
+longitude: 75.286
 ---

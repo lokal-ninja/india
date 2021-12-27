@@ -1,6 +1,6 @@
 ---
 title: Unichandam
 url: /unichandam/
-latitude: 
-longitude: 
+latitude: 11.382
+longitude: 76.288
 ---

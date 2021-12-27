@@ -1,6 +1,6 @@
 ---
 title: Koompanpara
 url: /koompanpara/
-latitude: 
-longitude: 
+latitude: 10.013
+longitude: 76.984
 ---

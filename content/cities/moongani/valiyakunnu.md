@@ -1,5 +1,5 @@
 ---
 title: "valiyakunnu"
 url: /moongani/valiyakunnu/
-shop: electronics
+shop: Elektronik
 ---

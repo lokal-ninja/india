@@ -1,6 +1,6 @@
 ---
 title: Varavoor
 url: /varavoor/
-latitude: 
-longitude: 
+latitude: 10.717
+longitude: 76.215
 ---

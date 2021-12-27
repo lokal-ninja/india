@@ -1,6 +1,6 @@
 ---
 title: Kunnumpuram
 url: /kunnumpuram/
-latitude: 9.9661109
-longitude: 76.2487401
+latitude: 11.086
+longitude: 75.953
 ---

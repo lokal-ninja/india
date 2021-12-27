@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /thane/fossil/
-shop: watches
+shop: Uhren
 ---

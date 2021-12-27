@@ -1,6 +1,6 @@
 ---
 title: Vayakal
 url: /vayakal/
-latitude: 
-longitude: 
+latitude: 8.927
+longitude: 76.851
 ---

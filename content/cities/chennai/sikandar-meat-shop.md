@@ -1,5 +1,5 @@
 ---
 title: "Sikandar Meat Shop"
 url: /chennai/sikandar-meat-shop/
-shop: butcher
+shop: Metzgerei
 ---

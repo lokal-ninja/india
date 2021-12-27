@@ -1,5 +1,5 @@
 ---
 title: "Mango cloths"
 url: /kunnumpuram/mango-cloths/
-shop: clothes
+shop: Kleidung
 ---

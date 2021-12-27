@@ -1,5 +1,5 @@
 ---
 title: "Aastha"
 url: /kolkata/aastha/
-shop: supermarket
+shop: Supermarkt
 ---

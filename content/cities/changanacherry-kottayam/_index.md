@@ -1,6 +1,6 @@
 ---
 title: changanacherry, Kottayam
 url: /changanacherry-kottayam/
-latitude: 
-longitude: 
+latitude: 9.445
+longitude: 76.539
 ---

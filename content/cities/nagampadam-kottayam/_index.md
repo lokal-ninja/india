@@ -1,6 +1,6 @@
 ---
 title: NAGAMPADAM ,KOTTAYAM
 url: /nagampadam-kottayam/
-latitude: 
-longitude: 
+latitude: 9.599
+longitude: 76.529
 ---

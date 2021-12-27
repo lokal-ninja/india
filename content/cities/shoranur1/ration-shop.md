@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /shoranur1/ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

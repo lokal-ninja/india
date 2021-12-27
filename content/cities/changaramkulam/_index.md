@@ -1,6 +1,6 @@
 ---
 title: Changaramkulam
 url: /changaramkulam/
-latitude: 10.7346661
-longitude: 76.0291242
+latitude: 10.735
+longitude: 76.029
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vengaloor thodupuzha
 url: /vengaloor-thodupuzha/
-latitude: 
-longitude: 
+latitude: 9.905
+longitude: 76.711
 ---

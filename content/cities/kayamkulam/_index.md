@@ -1,6 +1,6 @@
 ---
 title: kayamkulam
 url: /kayamkulam/
-latitude: 
-longitude: 
+latitude: 9.176
+longitude: 76.517
 ---

@@ -1,5 +1,5 @@
 ---
 title: "pantaloons"
 url: /thiruvalla-kerala/pantaloons/
-shop: clothes
+shop: Kleidung
 ---

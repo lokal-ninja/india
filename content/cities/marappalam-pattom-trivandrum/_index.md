@@ -1,6 +1,6 @@
 ---
 title: Marappalam ,Pattom,Trivandrum
 url: /marappalam-pattom-trivandrum/
-latitude: 
-longitude: 
+latitude: 8.521
+longitude: 76.948
 ---

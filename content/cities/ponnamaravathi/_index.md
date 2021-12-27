@@ -1,6 +1,6 @@
 ---
 title: Ponnamaravathi
 url: /ponnamaravathi/
-latitude: 
-longitude: 
+latitude: 10.278
+longitude: 78.542
 ---

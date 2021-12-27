@@ -1,6 +1,6 @@
 ---
 title: bidar
 url: /bidar/
-latitude: 
-longitude: 
+latitude: 17.91
+longitude: 77.516
 ---

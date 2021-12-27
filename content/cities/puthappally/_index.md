@@ -1,6 +1,6 @@
 ---
 title: Puthappally
 url: /puthappally/
-latitude: 
-longitude: 
+latitude: 9.574
+longitude: 76.586
 ---

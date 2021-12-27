@@ -1,5 +1,5 @@
 ---
 title: "wild craft"
 url: /bangalore/wild-craft/
-shop: bag
+shop: Taschen & Koffer
 ---

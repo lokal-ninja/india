@@ -1,6 +1,6 @@
 ---
 title: irikkur
 url: /irikkur/
-latitude: 
-longitude: 
+latitude: 11.985
+longitude: 75.581
 ---

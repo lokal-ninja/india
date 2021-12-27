@@ -1,6 +1,6 @@
 ---
 title: Puthur,Thrrissur
 url: /puthur-thrrissur/
-latitude: 
-longitude: 
+latitude: 10.491
+longitude: 76.27
 ---

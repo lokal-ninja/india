@@ -1,6 +1,6 @@
 ---
 title: Pothupara
 url: /pothupara/
-latitude: 
-longitude: 
+latitude: 9.99
+longitude: 77.056
 ---

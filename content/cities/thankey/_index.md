@@ -1,6 +1,6 @@
 ---
 title: Thankey
 url: /thankey/
-latitude: 
-longitude: 
+latitude: 9.7
+longitude: 76.318
 ---

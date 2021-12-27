@@ -1,6 +1,6 @@
 ---
 title: Marathhalli, Bangalore
 url: /marathhalli-bangalore/
-latitude: 
-longitude: 
+latitude: 12.965
+longitude: 77.702
 ---

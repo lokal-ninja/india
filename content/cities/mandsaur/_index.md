@@ -1,6 +1,6 @@
 ---
 title: mandsaur
 url: /mandsaur/
-latitude: 
-longitude: 
+latitude: 24.064
+longitude: 75.071
 ---

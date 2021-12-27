@@ -1,6 +1,6 @@
 ---
 title: godda
 url: /godda/
-latitude: 
-longitude: 
+latitude: 24.832
+longitude: 87.216
 ---

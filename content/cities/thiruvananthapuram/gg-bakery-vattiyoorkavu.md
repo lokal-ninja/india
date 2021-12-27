@@ -1,5 +1,5 @@
 ---
 title: "GG Bakery, Vattiyoorkavu"
 url: /thiruvananthapuram/gg-bakery-vattiyoorkavu/
-shop: bakery
+shop: Bäckerei
 ---

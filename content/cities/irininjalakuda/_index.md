@@ -1,6 +1,6 @@
 ---
 title: Irininjalakuda
 url: /irininjalakuda/
-latitude: 
-longitude: 
+latitude: 10.343
+longitude: 76.241
 ---

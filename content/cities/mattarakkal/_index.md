@@ -1,6 +1,6 @@
 ---
 title: Mattarakkal
 url: /mattarakkal/
-latitude: 
-longitude: 
+latitude: 10.983
+longitude: 76.311
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NewTex"
 url: /karunagapally/newtex/
-shop: clothes
+shop: Kleidung
 ---

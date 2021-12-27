@@ -1,6 +1,6 @@
 ---
 title: Kalasagar
 url: /kalasagar/
-latitude: 
-longitude: 
+latitude: 11.353
+longitude: 76.297
 ---

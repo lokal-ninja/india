@@ -1,6 +1,6 @@
 ---
 title: Gorugram
 url: /gorugram/
-latitude: 
-longitude: 
+latitude: 28.434
+longitude: 77.103
 ---

@@ -1,6 +1,6 @@
 ---
 title: Panjim, Goa
 url: /panjim-goa/
-latitude: 
-longitude: 
+latitude: 15.485
+longitude: 73.811
 ---

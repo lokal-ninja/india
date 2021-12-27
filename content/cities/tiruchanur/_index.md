@@ -1,6 +1,6 @@
 ---
 title: TIRUCHANUR
 url: /tiruchanur/
-latitude: 
-longitude: 
+latitude: 13.61
+longitude: 79.45
 ---

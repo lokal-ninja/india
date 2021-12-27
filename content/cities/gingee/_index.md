@@ -1,6 +1,6 @@
 ---
 title: Gingee
 url: /gingee/
-latitude: 12.254415400000001
-longitude: 79.4157756
+latitude: 12.253
+longitude: 79.414
 ---

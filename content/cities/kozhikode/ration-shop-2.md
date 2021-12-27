@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kozhikode/ration-shop-2/
-shop: convenience
+shop: Lebensmittel
 ---

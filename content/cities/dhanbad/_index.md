@@ -1,6 +1,6 @@
 ---
 title: dhanbad
 url: /dhanbad/
-latitude: 
-longitude: 
+latitude: 23.803
+longitude: 86.278
 ---

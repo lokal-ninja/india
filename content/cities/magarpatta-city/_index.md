@@ -1,6 +1,6 @@
 ---
 title: Magarpatta City
 url: /magarpatta-city/
-latitude: 
-longitude: 
+latitude: 18.51
+longitude: 73.928
 ---

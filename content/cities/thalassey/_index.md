@@ -1,6 +1,6 @@
 ---
 title: Thalassey
 url: /thalassey/
-latitude: 
-longitude: 
+latitude: 11.764
+longitude: 75.481
 ---

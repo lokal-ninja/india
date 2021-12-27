@@ -1,6 +1,6 @@
 ---
 title: Mysusu
 url: /mysusu/
-latitude: 
-longitude: 
+latitude: 12.293
+longitude: 76.617
 ---

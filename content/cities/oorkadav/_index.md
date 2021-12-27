@@ -1,6 +1,6 @@
 ---
 title: oorkadav
 url: /oorkadav/
-latitude: 
-longitude: 
+latitude: 11.242
+longitude: 75.925
 ---

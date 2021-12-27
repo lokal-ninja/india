@@ -1,6 +1,6 @@
 ---
 title: Porur
 url: /porur/
-latitude: 11.7916605
-longitude: 75.9364046
+latitude: 11.791
+longitude: 75.937
 ---

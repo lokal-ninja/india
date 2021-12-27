@@ -1,6 +1,6 @@
 ---
 title: Thiruvanathapuram
 url: /thiruvanathapuram/
-latitude: 
-longitude: 
+latitude: 8.556
+longitude: 76.904
 ---

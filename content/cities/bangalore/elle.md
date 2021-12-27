@@ -1,5 +1,5 @@
 ---
 title: "Elle"
 url: /bangalore/elle/
-shop: beauty
+shop: Kosmetik
 ---

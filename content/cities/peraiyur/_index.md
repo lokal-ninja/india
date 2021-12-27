@@ -1,6 +1,6 @@
 ---
 title: peraiyur
 url: /peraiyur/
-latitude: 
-longitude: 
+latitude: 9.735
+longitude: 77.791
 ---

@@ -1,6 +1,6 @@
 ---
 title: viripadam
 url: /viripadam/
-latitude: 
-longitude: 
+latitude: 11.239
+longitude: 75.923
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration shop"
 url: /pattikkad/ration-shop-2/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

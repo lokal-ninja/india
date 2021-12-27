@@ -1,6 +1,6 @@
 ---
 title: Perumkutty
 url: /perumkutty/
-latitude: 
-longitude: 
+latitude: 9.841
+longitude: 76.616
 ---

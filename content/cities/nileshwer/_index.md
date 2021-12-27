@@ -1,6 +1,6 @@
 ---
 title: Nileshwer
 url: /nileshwer/
-latitude: 
-longitude: 
+latitude: 12.255
+longitude: 75.13
 ---

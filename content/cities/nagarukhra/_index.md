@@ -1,6 +1,6 @@
 ---
 title: Nagarukhra
 url: /nagarukhra/
-latitude: 
-longitude: 
+latitude: 22.942
+longitude: 88.637
 ---

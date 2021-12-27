@@ -1,5 +1,5 @@
 ---
 title: "Balan store"
 url: /koothali/balan-store-2/
-shop: art
+shop: Kunst
 ---

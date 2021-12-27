@@ -1,6 +1,6 @@
 ---
 title: Sooranad
 url: /sooranad/
-latitude: 
-longitude: 
+latitude: 9.075
+longitude: 76.606
 ---

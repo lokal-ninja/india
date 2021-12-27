@@ -1,5 +1,5 @@
 ---
 title: "Thuruthikattil Super Market"
 url: /koothattukulam/thuruthikattil-super-market/
-shop: shop
+shop: Allgemein
 ---

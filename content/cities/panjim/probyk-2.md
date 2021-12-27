@@ -1,5 +1,5 @@
 ---
 title: "Probyk"
 url: /panjim/probyk-2/
-shop: bicycle
+shop: Fahrrad
 ---

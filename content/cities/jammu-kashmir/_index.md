@@ -1,6 +1,6 @@
 ---
 title: Jammu Kashmir
 url: /jammu-kashmir/
-latitude: 
-longitude: 
+latitude: 32.729
+longitude: 74.848
 ---

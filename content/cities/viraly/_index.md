@@ -1,6 +1,6 @@
 ---
 title: Viraly
 url: /viraly/
-latitude: 
-longitude: 
+latitude: 8.316
+longitude: 77.092
 ---

@@ -1,6 +1,6 @@
 ---
 title: TRIPRANGODE
 url: /triprangode/
-latitude: 
-longitude: 
+latitude: 10.849
+longitude: 75.942
 ---

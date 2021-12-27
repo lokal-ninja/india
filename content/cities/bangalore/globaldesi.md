@@ -1,5 +1,5 @@
 ---
 title: "GlobalDesi"
 url: /bangalore/globaldesi/
-shop: clothes
+shop: Kleidung
 ---

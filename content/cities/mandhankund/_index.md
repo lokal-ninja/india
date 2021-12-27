@@ -1,6 +1,6 @@
 ---
 title: Mandhankund
 url: /mandhankund/
-latitude: 
-longitude: 
+latitude: 11.062
+longitude: 76.21
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vazhathope
 url: /vazhathope/
-latitude: 
-longitude: 
+latitude: 9.873
+longitude: 76.963
 ---

@@ -1,5 +1,5 @@
 ---
 title: "hairdressing"
 url: /kalaketty/hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

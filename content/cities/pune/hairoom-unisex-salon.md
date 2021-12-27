@@ -1,5 +1,5 @@
 ---
 title: "Hairoom unisex salon"
 url: /pune/hairoom-unisex-salon/
-shop: hairdresser
+shop: Friseur
 ---

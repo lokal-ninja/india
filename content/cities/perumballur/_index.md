@@ -1,6 +1,6 @@
 ---
 title: Perumballur
 url: /perumballur/
-latitude: 
-longitude: 
+latitude: 9.947
+longitude: 76.595
 ---

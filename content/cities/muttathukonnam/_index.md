@@ -1,6 +1,6 @@
 ---
 title: Muttathukonnam
 url: /muttathukonnam/
-latitude: 
-longitude: 
+latitude: 9.266
+longitude: 76.722
 ---

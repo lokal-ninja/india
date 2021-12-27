@@ -1,6 +1,6 @@
 ---
 title: Pushkar
 url: /pushkar/
-latitude: 26.4876472
-longitude: 74.55784840000001
+latitude: 26.487
+longitude: 74.552
 ---

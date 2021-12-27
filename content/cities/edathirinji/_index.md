@@ -1,6 +1,6 @@
 ---
 title: Edathirinji
 url: /edathirinji/
-latitude: 
-longitude: 
+latitude: 10.332
+longitude: 76.174
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dindigul
 url: /dindigul/
-latitude: 10.365646
-longitude: 77.9693256
+latitude: 10.357
+longitude: 78.005
 ---

@@ -1,5 +1,5 @@
 ---
 title: "drishya"
 url: /puthupalli/drishya/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dreams Studio"
 url: /amballoor/dreams-studio/
-shop: photo
+shop: Foto
 ---

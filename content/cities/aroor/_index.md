@@ -1,6 +1,6 @@
 ---
 title: Aroor
 url: /aroor/
-latitude: 9.878310800000001
-longitude: 76.30388260000001
+latitude: 9.875
+longitude: 76.304
 ---

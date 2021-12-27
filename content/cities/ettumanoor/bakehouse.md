@@ -1,5 +1,5 @@
 ---
 title: "bakehouse"
 url: /ettumanoor/bakehouse/
-shop: bakery
+shop: Bäckerei
 ---

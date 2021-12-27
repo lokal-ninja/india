@@ -1,5 +1,5 @@
 ---
 title: "parx"
 url: /trivandrum/parx/
-shop: clothes
+shop: Kleidung
 ---

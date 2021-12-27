@@ -1,5 +1,5 @@
 ---
 title: "sai service"
 url: /ernakulam/sai-service/
-shop: motorcycle
+shop: Motorrad
 ---

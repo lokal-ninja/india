@@ -1,6 +1,6 @@
 ---
 title: Patharkandi
 url: /patharkandi/
-latitude: 
-longitude: 
+latitude: 24.594
+longitude: 92.304
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juice Monks"
 url: /pulincunnoo/juice-monks/
-shop: beverages
+shop: Getränke
 ---

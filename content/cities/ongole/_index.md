@@ -1,6 +1,6 @@
 ---
 title: Ongole
 url: /ongole/
-latitude: 15.5058714
-longitude: 80.0499454
+latitude: 15.487
+longitude: 80.048
 ---

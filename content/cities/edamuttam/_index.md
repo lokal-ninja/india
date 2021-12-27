@@ -1,6 +1,6 @@
 ---
 title: EDAMUTTAM
 url: /edamuttam/
-latitude: 
-longitude: 
+latitude: 10.372
+longitude: 76.109
 ---

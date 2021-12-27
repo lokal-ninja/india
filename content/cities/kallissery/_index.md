@@ -1,6 +1,6 @@
 ---
 title: kallissery
 url: /kallissery/
-latitude: 
-longitude: 
+latitude: 9.338
+longitude: 76.601
 ---

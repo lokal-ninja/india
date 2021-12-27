@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /mandhankund/ration-shop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

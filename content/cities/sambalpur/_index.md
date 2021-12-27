@@ -1,6 +1,6 @@
 ---
 title: Sambalpur
 url: /sambalpur/
-latitude: 21.4705391
-longitude: 83.97615110000001
+latitude: 21.48
+longitude: 83.974
 ---

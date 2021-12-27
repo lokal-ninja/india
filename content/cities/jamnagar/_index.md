@@ -1,6 +1,6 @@
 ---
 title: jamnagar
 url: /jamnagar/
-latitude: 
-longitude: 
+latitude: 22.481
+longitude: 70.061
 ---

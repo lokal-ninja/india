@@ -1,6 +1,6 @@
 ---
 title: Sulthan Bathery
 url: /sulthan-bathery/
-latitude: 
-longitude: 
+latitude: 11.635
+longitude: 76.255
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reliance Market"
 url: /parsik-nagar/reliance-market/
-shop: supermarket
+shop: Supermarkt
 ---

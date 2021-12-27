@@ -1,6 +1,6 @@
 ---
 title: Doddanekundi, Bangalore
 url: /doddanekundi-bangalore/
-latitude: 
-longitude: 
+latitude: 12.966
+longitude: 77.702
 ---

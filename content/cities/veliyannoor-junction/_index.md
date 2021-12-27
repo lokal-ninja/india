@@ -1,6 +1,6 @@
 ---
 title: Veliyannoor, junction
 url: /veliyannoor-junction/
-latitude: 
-longitude: 
+latitude: 9.83
+longitude: 76.608
 ---

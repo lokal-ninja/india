@@ -1,6 +1,6 @@
 ---
 title: Thodupuzha
 url: /thodupuzha/
-latitude: 
-longitude: 
+latitude: 9.896
+longitude: 76.71
 ---

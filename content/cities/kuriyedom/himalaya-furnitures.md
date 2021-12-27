@@ -1,5 +1,5 @@
 ---
 title: "Himalaya Furnitures"
 url: /kuriyedom/himalaya-furnitures/
-shop: furniture
+shop: Möbel
 ---

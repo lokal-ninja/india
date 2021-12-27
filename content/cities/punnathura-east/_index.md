@@ -1,6 +1,6 @@
 ---
 title: punnathura east
 url: /punnathura-east/
-latitude: 
-longitude: 
+latitude: 9.66
+longitude: 76.587
 ---

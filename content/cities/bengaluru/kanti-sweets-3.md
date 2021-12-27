@@ -1,5 +1,5 @@
 ---
 title: "Kanti Sweets"
 url: /bengaluru/kanti-sweets-3/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Amshakkacheri
 url: /amshakkacheri/
-latitude: 
-longitude: 
+latitude: 10.785
+longitude: 76
 ---

@@ -1,6 +1,6 @@
 ---
 title: nacharam
 url: /nacharam/
-latitude: 
-longitude: 
+latitude: 17.444
+longitude: 78.567
 ---

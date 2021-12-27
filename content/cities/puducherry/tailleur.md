@@ -1,5 +1,5 @@
 ---
 title: "Tailleur"
 url: /puducherry/tailleur/
-shop: tailor
+shop: Schneiderei
 ---

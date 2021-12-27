@@ -1,6 +1,6 @@
 ---
 title: kundara
 url: /kundara/
-latitude: 
-longitude: 
+latitude: 8.971
+longitude: 76.688
 ---

@@ -1,6 +1,6 @@
 ---
 title: Munrothuruthu
 url: /munrothuruthu/
-latitude: 
-longitude: 
+latitude: 8.994
+longitude: 76.612
 ---

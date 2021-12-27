@@ -1,6 +1,6 @@
 ---
 title: Udumbannoor, Thodupuzha
 url: /udumbannoor-thodupuzha/
-latitude: 
-longitude: 
+latitude: 9.905
+longitude: 76.815
 ---

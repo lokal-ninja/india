@@ -1,5 +1,5 @@
 ---
 title: "Looks Salon"
 url: /gurugram/looks-salon/
-shop: hairdresser
+shop: Friseur
 ---

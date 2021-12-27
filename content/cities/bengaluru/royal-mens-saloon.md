@@ -1,5 +1,5 @@
 ---
 title: "Royal Mens Saloon"
 url: /bengaluru/royal-mens-saloon/
-shop: hairdresser
+shop: Friseur
 ---

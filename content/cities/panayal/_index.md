@@ -1,6 +1,6 @@
 ---
 title: Panayal
 url: /panayal/
-latitude: 
-longitude: 
+latitude: 12.429
+longitude: 75.051
 ---

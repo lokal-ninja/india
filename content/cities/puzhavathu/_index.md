@@ -1,6 +1,6 @@
 ---
 title: puzhavathu
 url: /puzhavathu/
-latitude: 
-longitude: 
+latitude: 9.439
+longitude: 76.536
 ---

@@ -1,6 +1,6 @@
 ---
 title: Inchathotty
 url: /inchathotty/
-latitude: 
-longitude: 
+latitude: 10.089
+longitude: 76.742
 ---

@@ -1,6 +1,6 @@
 ---
 title: madathil
 url: /madathil/
-latitude: 
-longitude: 
+latitude: 9.645
+longitude: 76.299
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thichur
 url: /thichur/
-latitude: 
-longitude: 
+latitude: 10.712
+longitude: 76.181
 ---

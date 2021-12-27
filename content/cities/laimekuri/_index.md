@@ -1,6 +1,6 @@
 ---
 title: Laimekuri
 url: /laimekuri/
-latitude: 27.745388400000003
-longitude: 95.07871850000001
+latitude: 27.752
+longitude: 95.078
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geetanjali"
 url: /bangalore/geetanjali/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: thiruninravur
 url: /thiruninravur/
-latitude: 
-longitude: 
+latitude: 13.124
+longitude: 80.026
 ---

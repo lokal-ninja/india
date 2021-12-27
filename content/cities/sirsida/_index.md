@@ -1,6 +1,6 @@
 ---
 title: Sirsida
 url: /sirsida/
-latitude: 
-longitude: 
+latitude: 20.459
+longitude: 81.37
 ---

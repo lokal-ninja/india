@@ -1,6 +1,6 @@
 ---
 title: Kanchiyar
 url: /kanchiyar/
-latitude: 9.7452995
-longitude: 77.0753253
+latitude: 9.716
+longitude: 77.077
 ---

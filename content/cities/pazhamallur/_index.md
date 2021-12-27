@@ -1,6 +1,6 @@
 ---
 title: pazhamallur
 url: /pazhamallur/
-latitude: 
-longitude: 
+latitude: 11.009
+longitude: 76.106
 ---

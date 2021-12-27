@@ -1,5 +1,5 @@
 ---
 title: "Om Paresh Stores"
 url: /bandra-mumbai/om-paresh-stores/
-shop: convenience
+shop: Lebensmittel
 ---

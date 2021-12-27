@@ -1,6 +1,6 @@
 ---
 title: Malur
 url: /malur/
-latitude: 
-longitude: 
+latitude: 11.892
+longitude: 75.635
 ---

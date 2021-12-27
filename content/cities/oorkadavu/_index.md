@@ -1,6 +1,6 @@
 ---
 title: Oorkadavu
 url: /oorkadavu/
-latitude: 
-longitude: 
+latitude: 11.242
+longitude: 75.925
 ---

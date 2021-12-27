@@ -1,5 +1,5 @@
 ---
 title: "Cindrella"
 url: /mumbai/cindrella/
-shop: beauty
+shop: Kosmetik
 ---

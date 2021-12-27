@@ -1,6 +1,6 @@
 ---
 title: Magway
 url: /magway/
-latitude: 
-longitude: 
+latitude: 20.149
+longitude: 84.938
 ---

@@ -1,6 +1,6 @@
 ---
 title: jalaun
 url: /jalaun/
-latitude: 
-longitude: 
+latitude: 26.144
+longitude: 79.337
 ---

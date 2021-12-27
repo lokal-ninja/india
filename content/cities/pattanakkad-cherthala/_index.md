@@ -1,6 +1,6 @@
 ---
 title: Pattanakkad Cherthala
 url: /pattanakkad-cherthala/
-latitude: 
-longitude: 
+latitude: 9.717
+longitude: 76.313
 ---

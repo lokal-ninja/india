@@ -1,6 +1,6 @@
 ---
 title: Pallatheri
 url: /pallatheri/
-latitude: 
-longitude: 
+latitude: 10.759
+longitude: 76.712
 ---

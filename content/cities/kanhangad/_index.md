@@ -1,6 +1,6 @@
 ---
 title: Kanhangad
 url: /kanhangad/
-latitude: 12.313560500000001
-longitude: 75.09246300000001
+latitude: 12.268
+longitude: 75.113
 ---

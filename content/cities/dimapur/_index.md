@@ -1,6 +1,6 @@
 ---
 title: Dimapur
 url: /dimapur/
-latitude: 25.913645900000002
-longitude: 93.72834560000001
+latitude: 25.912
+longitude: 93.704
 ---

@@ -1,6 +1,6 @@
 ---
 title: tirurangadi
 url: /tirurangadi/
-latitude: 
-longitude: 
+latitude: 11.043
+longitude: 75.927
 ---

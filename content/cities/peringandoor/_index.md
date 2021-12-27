@@ -1,6 +1,6 @@
 ---
 title: Peringandoor
 url: /peringandoor/
-latitude: 
-longitude: 
+latitude: 10.619
+longitude: 76.2
 ---

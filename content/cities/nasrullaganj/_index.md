@@ -1,6 +1,6 @@
 ---
 title: Nasrullaganj
 url: /nasrullaganj/
-latitude: 
-longitude: 
+latitude: 22.688
+longitude: 77.286
 ---

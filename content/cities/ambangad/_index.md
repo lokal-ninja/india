@@ -1,6 +1,6 @@
 ---
 title: AMBANGAD
 url: /ambangad/
-latitude: 
-longitude: 
+latitude: 12.417
+longitude: 75.057
 ---

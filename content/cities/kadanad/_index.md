@@ -1,6 +1,6 @@
 ---
 title: Kadanad
 url: /kadanad/
-latitude: 9.7910977
-longitude: 76.7080064
+latitude: 9.777
+longitude: 76.703
 ---

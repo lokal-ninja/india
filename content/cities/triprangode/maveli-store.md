@@ -1,5 +1,5 @@
 ---
 title: "MAVELI STORE"
 url: /triprangode/maveli-store/
-shop: general
+shop: Dorfladen
 ---

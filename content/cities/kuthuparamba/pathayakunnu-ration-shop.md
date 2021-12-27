@@ -1,5 +1,5 @@
 ---
 title: "Pathayakunnu Ration shop"
 url: /kuthuparamba/pathayakunnu-ration-shop/
-shop: shop
+shop: Allgemein
 ---

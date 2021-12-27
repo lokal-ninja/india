@@ -1,6 +1,6 @@
 ---
 title: Kumarapuram
 url: /kumarapuram/
-latitude: 17.6583162
-longitude: 82.356795
+latitude: 9.275
+longitude: 76.432
 ---

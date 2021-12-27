@@ -1,5 +1,5 @@
 ---
 title: "bombay dreses"
 url: /mukkada/bombay-dreses/
-shop: clothes
+shop: Kleidung
 ---

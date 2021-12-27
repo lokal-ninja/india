@@ -1,6 +1,6 @@
 ---
 title: Yamunanagar
 url: /yamunanagar/
-latitude: 30.1231349
-longitude: 77.28632900000001
+latitude: 30.14
+longitude: 77.299
 ---

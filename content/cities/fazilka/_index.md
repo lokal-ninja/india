@@ -1,6 +1,6 @@
 ---
 title: Fazilka
 url: /fazilka/
-latitude: 30.4032097
-longitude: 74.0310609
+latitude: 30.402
+longitude: 74.026
 ---

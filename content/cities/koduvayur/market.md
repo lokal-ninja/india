@@ -1,5 +1,5 @@
 ---
 title: "Market"
 url: /koduvayur/market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

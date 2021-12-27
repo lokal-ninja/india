@@ -1,6 +1,6 @@
 ---
 title: ayyanimood
 url: /ayyanimood/
-latitude: 
-longitude: 
+latitude: 8.433
+longitude: 77.028
 ---

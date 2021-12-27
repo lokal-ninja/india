@@ -1,6 +1,6 @@
 ---
 title: Karimannoor
 url: /karimannoor/
-latitude: 
-longitude: 
+latitude: 9.915
+longitude: 76.781
 ---

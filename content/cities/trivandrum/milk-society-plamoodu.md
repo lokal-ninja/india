@@ -1,5 +1,5 @@
 ---
 title: "Milk Society, Plamoodu"
 url: /trivandrum/milk-society-plamoodu/
-shop: dairy
+shop: Milch
 ---

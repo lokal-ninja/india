@@ -1,6 +1,6 @@
 ---
 title: CALICUT
 url: /calicut/
-latitude: 
-longitude: 
+latitude: 11.252
+longitude: 75.784
 ---

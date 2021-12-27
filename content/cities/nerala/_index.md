@@ -1,6 +1,6 @@
 ---
 title: Nerala
 url: /nerala/
-latitude: 20.9694955
-longitude: 79.6880837
+latitude: 10.96
+longitude: 75.964
 ---

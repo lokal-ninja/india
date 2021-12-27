@@ -1,6 +1,6 @@
 ---
 title: Perundurai
 url: /perundurai/
-latitude: 11.2764669
-longitude: 77.58362670000001
+latitude: 11.277
+longitude: 77.586
 ---

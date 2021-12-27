@@ -1,6 +1,6 @@
 ---
 title: Belgaum
 url: /belgaum/
-latitude: 
-longitude: 
+latitude: 15.853
+longitude: 74.506
 ---

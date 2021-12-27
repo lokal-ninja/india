@@ -1,6 +1,6 @@
 ---
 title: Arrkkannoor
 url: /arrkkannoor/
-latitude: 
-longitude: 
+latitude: 8.874
+longitude: 76.842
 ---

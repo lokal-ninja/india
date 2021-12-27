@@ -1,6 +1,6 @@
 ---
 title: Vagator goa
 url: /vagator-goa/
-latitude: 
-longitude: 
+latitude: 15.596
+longitude: 73.748
 ---

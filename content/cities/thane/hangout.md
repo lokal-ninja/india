@@ -1,5 +1,5 @@
 ---
 title: "Hangout"
 url: /thane/hangout/
-shop: shop
+shop: Allgemein
 ---

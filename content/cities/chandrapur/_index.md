@@ -1,6 +1,6 @@
 ---
 title: Chandrapur
 url: /chandrapur/
-latitude: 20
-longitude: 80
+latitude: 19.962
+longitude: 79.285
 ---

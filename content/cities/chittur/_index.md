@@ -1,6 +1,6 @@
 ---
 title: Chittur
 url: /chittur/
-latitude: 9.3863983
-longitude: 78.784023
+latitude: 10.778
+longitude: 76.814
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sidhivinayaka stores"
 url: /madhur/sidhivinayaka-stores/
-shop: convenience
+shop: Lebensmittel
 ---

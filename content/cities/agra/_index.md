@@ -1,6 +1,6 @@
 ---
 title: Agra
 url: /agra/
-latitude: 27.1752554
-longitude: 78.00981610000001
+latitude: 27.199
+longitude: 77.999
 ---

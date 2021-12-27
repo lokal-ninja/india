@@ -1,6 +1,6 @@
 ---
 title: Comilla
 url: /comilla/
-latitude: 
-longitude: 
+latitude: 23.375
+longitude: 91.257
 ---

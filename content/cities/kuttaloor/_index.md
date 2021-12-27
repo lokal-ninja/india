@@ -1,6 +1,6 @@
 ---
 title: Kuttaloor
 url: /kuttaloor/
-latitude: 
-longitude: 
+latitude: 11.051
+longitude: 75.991
 ---

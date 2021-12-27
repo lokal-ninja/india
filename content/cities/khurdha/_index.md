@@ -1,6 +1,6 @@
 ---
 title: KHURDHA
 url: /khurdha/
-latitude: 
-longitude: 
+latitude: 20.14
+longitude: 85.511
 ---

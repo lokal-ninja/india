@@ -1,5 +1,5 @@
 ---
 title: "avadhtraders"
 url: /pratapgarh/avadhtraders/
-shop: shop
+shop: Allgemein
 ---

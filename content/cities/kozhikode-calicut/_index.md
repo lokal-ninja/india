@@ -1,6 +1,6 @@
 ---
 title: Kozhikode (Calicut)
 url: /kozhikode-calicut/
-latitude: 
-longitude: 
+latitude: 11.3
+longitude: 75.803
 ---

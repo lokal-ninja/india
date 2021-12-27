@@ -1,6 +1,6 @@
 ---
 title: Thrikkakara
 url: /thrikkakara/
-latitude: 
-longitude: 
+latitude: 10.036
+longitude: 76.338
 ---

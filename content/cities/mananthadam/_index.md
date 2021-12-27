@@ -1,6 +1,6 @@
 ---
 title: Mananthadam
 url: /mananthadam/
-latitude: 
-longitude: 
+latitude: 9.964
+longitude: 76.415
 ---

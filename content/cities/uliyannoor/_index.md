@@ -1,6 +1,6 @@
 ---
 title: Uliyannoor
 url: /uliyannoor/
-latitude: 
-longitude: 
+latitude: 10.106
+longitude: 76.336
 ---

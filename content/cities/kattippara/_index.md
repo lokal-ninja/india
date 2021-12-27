@@ -1,6 +1,6 @@
 ---
 title: Kattippara
 url: /kattippara/
-latitude: 
-longitude: 
+latitude: 11.483
+longitude: 75.962
 ---

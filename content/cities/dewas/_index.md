@@ -1,6 +1,6 @@
 ---
 title: Dewas
 url: /dewas/
-latitude: 28.057323
-longitude: 74.935406
+latitude: 22.969
+longitude: 76.053
 ---

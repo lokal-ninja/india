@@ -1,6 +1,6 @@
 ---
 title: Katampazhipuram
 url: /katampazhipuram/
-latitude: 
-longitude: 
+latitude: 10.874
+longitude: 76.446
 ---

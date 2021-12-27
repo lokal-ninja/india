@@ -1,5 +1,5 @@
 ---
 title: "Roox Sportswear"
 url: /bangalore/roox-sportswear/
-shop: sports
+shop: Sport
 ---

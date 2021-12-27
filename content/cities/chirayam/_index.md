@@ -1,6 +1,6 @@
 ---
 title: chirayam
 url: /chirayam/
-latitude: 
-longitude: 
+latitude: 10.103
+longitude: 76.289
 ---

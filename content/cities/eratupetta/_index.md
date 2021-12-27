@@ -1,6 +1,6 @@
 ---
 title: eratupetta
 url: /eratupetta/
-latitude: 
-longitude: 
+latitude: 9.698
+longitude: 76.814
 ---

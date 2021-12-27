@@ -1,6 +1,6 @@
 ---
 title: Ponjanam
 url: /ponjanam/
-latitude: 
-longitude: 
+latitude: 10.381
+longitude: 76.165
 ---

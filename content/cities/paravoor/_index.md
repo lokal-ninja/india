@@ -1,6 +1,6 @@
 ---
 title: Paravoor
 url: /paravoor/
-latitude: 9.4521739
-longitude: 76.342065
+latitude: 12.125
+longitude: 75.334
 ---

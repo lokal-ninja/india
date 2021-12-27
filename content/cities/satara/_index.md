@@ -1,6 +1,6 @@
 ---
 title: satara
 url: /satara/
-latitude: 
-longitude: 
+latitude: 17.694
+longitude: 74.005
 ---

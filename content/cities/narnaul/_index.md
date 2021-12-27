@@ -1,6 +1,6 @@
 ---
 title: Narnaul
 url: /narnaul/
-latitude: 28.0438456
-longitude: 76.10620150000001
+latitude: 28.045
+longitude: 76.123
 ---

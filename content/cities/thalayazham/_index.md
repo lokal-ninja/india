@@ -1,6 +1,6 @@
 ---
 title: Thalayazham
 url: /thalayazham/
-latitude: 
-longitude: 
+latitude: 9.715
+longitude: 76.421
 ---

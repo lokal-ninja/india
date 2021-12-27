@@ -1,5 +1,5 @@
 ---
 title: "woodland"
 url: /thiruvananthapuram/woodland/
-shop: shop
+shop: Allgemein
 ---

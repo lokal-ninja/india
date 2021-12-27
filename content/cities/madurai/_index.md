@@ -1,6 +1,6 @@
 ---
 title: Madurai
 url: /madurai/
-latitude: 9.926115300000001
-longitude: 78.11409830000001
+latitude: 9.917
+longitude: 78.113
 ---

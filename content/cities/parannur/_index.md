@@ -1,6 +1,6 @@
 ---
 title: Parannur
 url: /parannur/
-latitude: 
-longitude: 
+latitude: 10.624
+longitude: 76.108
 ---

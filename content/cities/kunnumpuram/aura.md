@@ -1,5 +1,5 @@
 ---
 title: "Aura"
 url: /kunnumpuram/aura/
-shop: clothes
+shop: Kleidung
 ---

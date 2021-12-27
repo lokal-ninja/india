@@ -1,6 +1,6 @@
 ---
 title: Kannankuzhi
 url: /kannankuzhi/
-latitude: 
-longitude: 
+latitude: 8.394
+longitude: 77.104
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muthuvara,thrissur
 url: /muthuvara-thrissur/
-latitude: 
-longitude: 
+latitude: 10.554
+longitude: 76.173
 ---

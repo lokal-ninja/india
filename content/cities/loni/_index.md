@@ -1,6 +1,6 @@
 ---
 title: loni
 url: /loni/
-latitude: 
-longitude: 
+latitude: 19.578
+longitude: 74.46
 ---

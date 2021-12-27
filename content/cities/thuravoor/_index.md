@@ -1,6 +1,6 @@
 ---
 title: thuravoor
 url: /thuravoor/
-latitude: 
-longitude: 
+latitude: 9.771
+longitude: 76.306
 ---

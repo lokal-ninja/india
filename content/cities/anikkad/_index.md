@@ -1,6 +1,6 @@
 ---
 title: Anikkad
 url: /anikkad/
-latitude: 
-longitude: 
+latitude: 9.972
+longitude: 76.608
 ---

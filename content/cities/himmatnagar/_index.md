@@ -1,6 +1,6 @@
 ---
 title: Himmatnagar
 url: /himmatnagar/
-latitude: 
-longitude: 
+latitude: 23.598
+longitude: 72.963
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muthuvankudi
 url: /muthuvankudi/
-latitude: 
-longitude: 
+latitude: 9.997
+longitude: 77.042
 ---

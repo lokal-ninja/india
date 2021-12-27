@@ -1,6 +1,6 @@
 ---
 title: Panjim
 url: /panjim/
-latitude: 
-longitude: 
+latitude: 15.495
+longitude: 73.821
 ---

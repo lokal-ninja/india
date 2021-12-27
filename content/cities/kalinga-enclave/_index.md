@@ -1,6 +1,6 @@
 ---
 title: KALINGA ENCLAVE
 url: /kalinga-enclave/
-latitude: 
-longitude: 
+latitude: 17.48
+longitude: 78.479
 ---

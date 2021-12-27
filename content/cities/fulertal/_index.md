@@ -1,6 +1,6 @@
 ---
 title: Fulertal
 url: /fulertal/
-latitude: 
-longitude: 
+latitude: 24.79
+longitude: 93.021
 ---

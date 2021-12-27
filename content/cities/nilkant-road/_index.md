@@ -1,6 +1,6 @@
 ---
 title: nilkant road
 url: /nilkant-road/
-latitude: 
-longitude: 
+latitude: 22.681
+longitude: 77.275
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arthunkal
 url: /arthunkal/
-latitude: 9.6635264
-longitude: 76.3012442
+latitude: 9.645
+longitude: 76.299
 ---

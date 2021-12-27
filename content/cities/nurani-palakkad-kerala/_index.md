@@ -1,6 +1,6 @@
 ---
 title: Nurani, Palakkad, Kerala
 url: /nurani-palakkad-kerala/
-latitude: 
-longitude: 
+latitude: 10.762
+longitude: 76.642
 ---

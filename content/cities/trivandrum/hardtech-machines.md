@@ -1,5 +1,5 @@
 ---
 title: "Hardtech machines"
 url: /trivandrum/hardtech-machines/
-shop: computer
+shop: Computer
 ---

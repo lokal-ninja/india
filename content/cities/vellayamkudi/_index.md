@@ -1,6 +1,6 @@
 ---
 title: Vellayamkudi
 url: /vellayamkudi/
-latitude: 9.768545600000001
-longitude: 77.1028756
+latitude: 9.769
+longitude: 77.102
 ---

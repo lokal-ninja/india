@@ -1,6 +1,6 @@
 ---
 title: Malayalappuzha
 url: /malayalappuzha/
-latitude: 9.2876157
-longitude: 76.82274650000001
+latitude: 9.287
+longitude: 76.823
 ---

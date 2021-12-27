@@ -1,6 +1,6 @@
 ---
 title: karakkamandapam
 url: /karakkamandapam/
-latitude: 
-longitude: 
+latitude: 8.463
+longitude: 76.993
 ---

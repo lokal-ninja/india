@@ -1,6 +1,6 @@
 ---
 title: Chobia
 url: /chobia/
-latitude: 
-longitude: 
+latitude: 32.473
+longitude: 76.586
 ---

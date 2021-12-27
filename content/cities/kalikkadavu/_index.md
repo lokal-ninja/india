@@ -1,6 +1,6 @@
 ---
 title: kalikkadavu
 url: /kalikkadavu/
-latitude: 
-longitude: 
+latitude: 12.182
+longitude: 75.172
 ---

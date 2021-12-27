@@ -1,6 +1,6 @@
 ---
 title: Ganpatipule
 url: /ganpatipule/
-latitude: 17.1466952
-longitude: 73.2697524
+latitude: 17.148
+longitude: 73.27
 ---

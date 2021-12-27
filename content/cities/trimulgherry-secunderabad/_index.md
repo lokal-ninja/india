@@ -1,6 +1,6 @@
 ---
 title: Trimulgherry,Secunderabad
 url: /trimulgherry-secunderabad/
-latitude: 
-longitude: 
+latitude: 17.479
+longitude: 78.512
 ---

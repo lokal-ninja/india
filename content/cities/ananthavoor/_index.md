@@ -1,6 +1,6 @@
 ---
 title: Ananthavoor
 url: /ananthavoor/
-latitude: 
-longitude: 
+latitude: 10.91
+longitude: 75.997
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Bazaar"
 url: /bangalore/big-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

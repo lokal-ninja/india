@@ -1,6 +1,6 @@
 ---
 title: Swaraj
 url: /swaraj/
-latitude: 9.7331974
-longitude: 77.0488132
+latitude: 9.733
+longitude: 77.049
 ---

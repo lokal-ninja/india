@@ -1,6 +1,6 @@
 ---
 title: pathanamathitta
 url: /pathanamathitta/
-latitude: 
-longitude: 
+latitude: 9.248
+longitude: 76.737
 ---

@@ -1,5 +1,5 @@
 ---
 title: "aminu"
 url: /pathanadu/aminu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thiruvananthapuam
 url: /thiruvananthapuam/
-latitude: 
-longitude: 
+latitude: 8.539
+longitude: 76.966
 ---

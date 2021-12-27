@@ -1,6 +1,6 @@
 ---
 title: Ottappalam
 url: /ottappalam/
-latitude: 11.5460829
-longitude: 75.85717860000001
+latitude: 10.879
+longitude: 76.443
 ---

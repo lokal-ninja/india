@@ -1,5 +1,5 @@
 ---
 title: "Blackberrys"
 url: /bangalore/blackberrys/
-shop: clothes
+shop: Kleidung
 ---

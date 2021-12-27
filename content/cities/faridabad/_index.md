@@ -1,6 +1,6 @@
 ---
 title: Faridabad
 url: /faridabad/
-latitude: 
-longitude: 
+latitude: 28.455
+longitude: 77.316
 ---

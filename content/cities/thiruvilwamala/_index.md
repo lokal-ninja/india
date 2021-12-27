@@ -1,6 +1,6 @@
 ---
 title: Thiruvilwamala
 url: /thiruvilwamala/
-latitude: 
-longitude: 
+latitude: 10.73
+longitude: 76.427
 ---

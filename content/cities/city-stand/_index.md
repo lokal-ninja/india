@@ -1,6 +1,6 @@
 ---
 title: City stand
 url: /city-stand/
-latitude: 
-longitude: 
+latitude: 11.249
+longitude: 75.78
 ---

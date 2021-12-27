@@ -1,6 +1,6 @@
 ---
 title: Peerumedu
 url: /peerumedu/
-latitude: 
-longitude: 
+latitude: 9.554
+longitude: 76.972
 ---

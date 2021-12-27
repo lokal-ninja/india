@@ -1,6 +1,6 @@
 ---
 title: pantheerankavu
 url: /pantheerankavu/
-latitude: 
-longitude: 
+latitude: 11.23
+longitude: 75.846
 ---

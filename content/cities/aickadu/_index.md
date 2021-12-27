@@ -1,6 +1,6 @@
 ---
 title: Aickadu
 url: /aickadu/
-latitude: 9.1830581
-longitude: 76.7552636
+latitude: 9.182
+longitude: 76.759
 ---

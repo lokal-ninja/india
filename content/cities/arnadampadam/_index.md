@@ -1,6 +1,6 @@
 ---
 title: Arnadampadam
 url: /arnadampadam/
-latitude: 
-longitude: 
+latitude: 11.384
+longitude: 76.296
 ---

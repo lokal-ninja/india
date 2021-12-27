@@ -1,6 +1,6 @@
 ---
 title: Panaji
 url: /panaji/
-latitude: 15.498994600000001
-longitude: 73.82821410000001
+latitude: 15.486
+longitude: 73.818
 ---

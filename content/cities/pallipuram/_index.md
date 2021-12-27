@@ -1,6 +1,6 @@
 ---
 title: pallipuram
 url: /pallipuram/
-latitude: 
-longitude: 
+latitude: 11.216
+longitude: 75.846
 ---

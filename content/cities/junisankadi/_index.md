@@ -1,6 +1,6 @@
 ---
 title: JUNISANKADI
 url: /junisankadi/
-latitude: 
-longitude: 
+latitude: 21.695
+longitude: 70.552
 ---

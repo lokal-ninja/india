@@ -1,6 +1,6 @@
 ---
 title: zahirabad
 url: /zahirabad/
-latitude: 
-longitude: 
+latitude: 17.684
+longitude: 77.63
 ---

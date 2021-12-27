@@ -1,6 +1,6 @@
 ---
 title: Gelephu
 url: /gelephu/
-latitude: 
-longitude: 
+latitude: 26.866
+longitude: 90.484
 ---

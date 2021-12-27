@@ -1,5 +1,5 @@
 ---
-title: "jack & Jones"
+title: "Jack And Jones"
 url: /bangalore/jack-and-jones/
-shop: clothes
+shop: Kleidung
 ---

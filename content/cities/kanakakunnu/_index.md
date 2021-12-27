@@ -1,6 +1,6 @@
 ---
 title: Kanakakunnu
 url: /kanakakunnu/
-latitude: 
-longitude: 
+latitude: 9.865
+longitude: 77.075
 ---

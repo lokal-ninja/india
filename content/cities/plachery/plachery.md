@@ -1,5 +1,5 @@
 ---
 title: "plachery"
 url: /plachery/plachery/
-shop: bakery
+shop: Bäckerei
 ---

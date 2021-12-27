@@ -1,6 +1,6 @@
 ---
 title: kondiparamb
 url: /kondiparamb/
-latitude: 
-longitude: 
+latitude: 11.057
+longitude: 76.225
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kenz"
 url: /anchal/kenz/
-shop: clothes
+shop: Kleidung
 ---

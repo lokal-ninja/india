@@ -1,6 +1,6 @@
 ---
 title: Angadikadavu
 url: /angadikadavu/
-latitude: 12.031252
-longitude: 75.74431030000001
+latitude: 12.03
+longitude: 75.744
 ---

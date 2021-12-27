@@ -1,6 +1,6 @@
 ---
 title: Chalakudi
 url: /chalakudi/
-latitude: 
-longitude: 
+latitude: 10.303
+longitude: 76.337
 ---

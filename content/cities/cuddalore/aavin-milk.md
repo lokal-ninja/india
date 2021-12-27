@@ -1,5 +1,5 @@
 ---
 title: "aavin milk"
 url: /cuddalore/aavin-milk/
-shop: dairy
+shop: Milch
 ---

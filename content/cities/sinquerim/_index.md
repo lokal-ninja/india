@@ -1,6 +1,6 @@
 ---
 title: Sinquerim
 url: /sinquerim/
-latitude: 15.499959700000002
-longitude: 73.77097930000001
+latitude: 15.499
+longitude: 73.772
 ---

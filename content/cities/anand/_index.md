@@ -1,6 +1,6 @@
 ---
 title: ANAND
 url: /anand/
-latitude: 
-longitude: 
+latitude: 22.561
+longitude: 72.947
 ---

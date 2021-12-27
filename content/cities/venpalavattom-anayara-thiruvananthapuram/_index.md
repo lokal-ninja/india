@@ -1,6 +1,6 @@
 ---
 title: Venpalavattom, Anayara, Thiruvananthapuram
 url: /venpalavattom-anayara-thiruvananthapuram/
-latitude: 
-longitude: 
+latitude: 8.507
+longitude: 76.908
 ---

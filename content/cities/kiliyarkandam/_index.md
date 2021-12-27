@@ -1,6 +1,6 @@
 ---
 title: Kiliyarkandam
 url: /kiliyarkandam/
-latitude: 
-longitude: 
+latitude: 9.867
+longitude: 77.045
 ---

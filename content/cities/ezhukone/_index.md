@@ -1,6 +1,6 @@
 ---
 title: Ezhukone
 url: /ezhukone/
-latitude: 8.980645
-longitude: 76.71923500000001
+latitude: 8.981
+longitude: 76.72
 ---

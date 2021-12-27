@@ -1,5 +1,5 @@
 ---
 title: "Quality Bag"
 url: /indore/quality-bag/
-shop: bag
+shop: Taschen & Koffer
 ---

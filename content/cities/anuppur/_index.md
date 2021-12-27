@@ -1,6 +1,6 @@
 ---
 title: Anuppur
 url: /anuppur/
-latitude: 23.1184595
-longitude: 81.6992038
+latitude: 23.115
+longitude: 81.699
 ---

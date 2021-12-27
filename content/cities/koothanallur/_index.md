@@ -1,6 +1,6 @@
 ---
 title: Koothanallur
 url: /koothanallur/
-latitude: 
-longitude: 
+latitude: 10.711
+longitude: 79.516
 ---

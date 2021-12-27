@@ -1,6 +1,6 @@
 ---
 title: THIRUMALA
 url: /thirumala/
-latitude: 
-longitude: 
+latitude: 8.501
+longitude: 76.993
 ---

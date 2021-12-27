@@ -1,6 +1,6 @@
 ---
 title: Vilakkudy
 url: /vilakkudy/
-latitude: 
-longitude: 
+latitude: 9.028
+longitude: 76.888
 ---

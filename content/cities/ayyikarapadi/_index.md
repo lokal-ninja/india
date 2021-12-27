@@ -1,6 +1,6 @@
 ---
 title: AYYIKARAPADI
 url: /ayyikarapadi/
-latitude: 
-longitude: 
+latitude: 11.174
+longitude: 75.899
 ---

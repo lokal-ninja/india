@@ -1,6 +1,6 @@
 ---
 title: Periyonkavala
 url: /periyonkavala/
-latitude: 
-longitude: 
+latitude: 9.726
+longitude: 77.051
 ---

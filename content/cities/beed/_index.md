@@ -1,6 +1,6 @@
 ---
 title: beed
 url: /beed/
-latitude: 
-longitude: 
+latitude: 18.98
+longitude: 75.581
 ---

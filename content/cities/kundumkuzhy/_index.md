@@ -1,6 +1,6 @@
 ---
 title: Kundumkuzhy
 url: /kundumkuzhy/
-latitude: 12.457027
-longitude: 75.1408147
+latitude: 12.457
+longitude: 75.141
 ---

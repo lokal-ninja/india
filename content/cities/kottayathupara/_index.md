@@ -1,6 +1,6 @@
 ---
 title: Kottayathupara
 url: /kottayathupara/
-latitude: 
-longitude: 
+latitude: 9.933
+longitude: 76.375
 ---

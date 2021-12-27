@@ -1,6 +1,6 @@
 ---
 title: BIDHANNAGAR
 url: /bidhannagar/
-latitude: 
-longitude: 
+latitude: 22.592
+longitude: 88.399
 ---

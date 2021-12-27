@@ -1,6 +1,6 @@
 ---
 title: Peringottukurissi
 url: /peringottukurissi/
-latitude: 
-longitude: 
+latitude: 10.757
+longitude: 76.496
 ---

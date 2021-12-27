@@ -1,6 +1,6 @@
 ---
 title: Kundalahalli, Bangalore
 url: /kundalahalli-bangalore/
-latitude: 
-longitude: 
+latitude: 12.966
+longitude: 77.718
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amul"
 url: /ahmedabad/amul/
-shop: dairy
+shop: Milch
 ---

@@ -1,6 +1,6 @@
 ---
 title: Anangadi
 url: /anangadi/
-latitude: 11.1112248
-longitude: 75.83552490000001
+latitude: 11.112
+longitude: 75.835
 ---

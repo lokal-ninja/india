@@ -1,6 +1,6 @@
 ---
 title: Kanchippura
 url: /kanchippura/
-latitude: 
-longitude: 
+latitude: 10.918
+longitude: 76.04
 ---

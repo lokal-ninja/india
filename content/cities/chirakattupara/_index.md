@@ -1,6 +1,6 @@
 ---
 title: Chirakattupara
 url: /chirakattupara/
-latitude: 
-longitude: 
+latitude: 9.912
+longitude: 76.447
 ---

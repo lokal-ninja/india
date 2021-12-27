@@ -1,6 +1,6 @@
 ---
 title: Lucknow
 url: /lucknow/
-latitude: 26.750229400000002
-longitude: 80.9999263
+latitude: 26.859
+longitude: 80.976
 ---

@@ -1,6 +1,6 @@
 ---
 title: sitapur
 url: /sitapur/
-latitude: 
-longitude: 
+latitude: 27.568
+longitude: 80.679
 ---

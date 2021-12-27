@@ -1,6 +1,6 @@
 ---
 title: Imphal
 url: /imphal/
-latitude: 24.7991162
-longitude: 93.9364419
+latitude: 24.79
+longitude: 93.942
 ---

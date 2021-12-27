@@ -1,6 +1,6 @@
 ---
 title: Pilappully
 url: /pilappully/
-latitude: 
-longitude: 
+latitude: 10.755
+longitude: 76.504
 ---

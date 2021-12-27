@@ -1,6 +1,6 @@
 ---
 title: Eriam
 url: /eriam/
-latitude: 
-longitude: 
+latitude: 12.144
+longitude: 75.373
 ---

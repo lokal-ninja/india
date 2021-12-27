@@ -1,6 +1,6 @@
 ---
 title: Muthangi
 url: /muthangi/
-latitude: 
-longitude: 
+latitude: 17.541
+longitude: 78.232
 ---

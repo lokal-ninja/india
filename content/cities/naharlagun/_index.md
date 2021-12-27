@@ -1,6 +1,6 @@
 ---
 title: Naharlagun
 url: /naharlagun/
-latitude: 27.103222900000002
-longitude: 93.6923098
+latitude: 27.101
+longitude: 93.691
 ---

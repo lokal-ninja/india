@@ -1,6 +1,6 @@
 ---
 title: Thanninal
 url: /thanninal/
-latitude: 
-longitude: 
+latitude: 9.648
+longitude: 76.78
 ---

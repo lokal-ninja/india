@@ -1,6 +1,6 @@
 ---
 title: Yelahanka
 url: /yelahanka/
-latitude: 13.1006982
-longitude: 77.5963454
+latitude: 13.101
+longitude: 77.589
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kannattupara
 url: /kannattupara/
-latitude: 
-longitude: 
+latitude: 9.728
+longitude: 76.693
 ---

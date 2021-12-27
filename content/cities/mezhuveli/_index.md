@@ -1,6 +1,6 @@
 ---
 title: mezhuveli
 url: /mezhuveli/
-latitude: 
-longitude: 
+latitude: 9.294
+longitude: 76.697
 ---

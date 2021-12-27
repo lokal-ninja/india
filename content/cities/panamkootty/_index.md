@@ -1,6 +1,6 @@
 ---
 title: Panamkootty
 url: /panamkootty/
-latitude: 
-longitude: 
+latitude: 9.949
+longitude: 76.992
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kurseong
 url: /kurseong/
-latitude: 
-longitude: 
+latitude: 26.88
+longitude: 88.277
 ---

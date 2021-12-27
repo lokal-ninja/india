@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /moodadi/ration-shop-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aduthila
 url: /aduthila/
-latitude: 12.0414589
-longitude: 75.2655457
+latitude: 12.043
+longitude: 75.265
 ---

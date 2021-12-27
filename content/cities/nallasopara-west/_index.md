@@ -1,6 +1,6 @@
 ---
 title: Nallasopara (west)
 url: /nallasopara-west/
-latitude: 
-longitude: 
+latitude: 19.415
+longitude: 72.812
 ---

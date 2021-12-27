@@ -1,6 +1,6 @@
 ---
 title: vizag
 url: /vizag/
-latitude: 
-longitude: 
+latitude: 17.771
+longitude: 83.234
 ---

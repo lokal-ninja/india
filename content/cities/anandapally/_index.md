@@ -1,6 +1,6 @@
 ---
 title: anandapally
 url: /anandapally/
-latitude: 
-longitude: 
+latitude: 9.175
+longitude: 76.741
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kalady
 url: /kalady/
-latitude: 8.4672096
-longitude: 76.9638836
+latitude: 10.169
+longitude: 76.433
 ---

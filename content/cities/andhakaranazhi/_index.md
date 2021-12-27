@@ -1,6 +1,6 @@
 ---
 title: Andhakaranazhi
 url: /andhakaranazhi/
-latitude: 
-longitude: 
+latitude: 9.744
+longitude: 76.29
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uppal, Hyderabad
 url: /uppal-hyderabad/
-latitude: 
-longitude: 
+latitude: 17.398
+longitude: 78.561
 ---

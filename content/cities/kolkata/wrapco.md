@@ -1,5 +1,5 @@
 ---
 title: "Wrapco"
 url: /kolkata/wrapco/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,6 +1,6 @@
 ---
 title: pallichal thodu
 url: /pallichal-thodu/
-latitude: 
-longitude: 
+latitude: 8.445
+longitude: 77.016
 ---

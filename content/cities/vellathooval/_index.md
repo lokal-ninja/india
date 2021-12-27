@@ -1,6 +1,6 @@
 ---
 title: Vellathooval
 url: /vellathooval/
-latitude: 
-longitude: 
+latitude: 9.977
+longitude: 77.028
 ---

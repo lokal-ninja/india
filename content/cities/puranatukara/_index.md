@@ -1,6 +1,6 @@
 ---
 title: Puranatukara
 url: /puranatukara/
-latitude: 
-longitude: 
+latitude: 10.551
+longitude: 76.158
 ---

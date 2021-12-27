@@ -1,6 +1,6 @@
 ---
 title: kottakkal
 url: /kottakkal/
-latitude: 
-longitude: 
+latitude: 11.002
+longitude: 76.009
 ---

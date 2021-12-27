@@ -1,6 +1,6 @@
 ---
 title: Pattanakkad Andhakaranazhi
 url: /pattanakkad-andhakaranazhi/
-latitude: 
-longitude: 
+latitude: 9.745
+longitude: 76.286
 ---

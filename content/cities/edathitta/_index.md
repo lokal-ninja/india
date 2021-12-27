@@ -1,6 +1,6 @@
 ---
 title: Edathitta
 url: /edathitta/
-latitude: 9.1996371
-longitude: 76.76659330000001
+latitude: 9.199
+longitude: 76.767
 ---

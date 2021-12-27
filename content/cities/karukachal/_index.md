@@ -1,6 +1,6 @@
 ---
 title: karukachal
 url: /karukachal/
-latitude: 
-longitude: 
+latitude: 9.516
+longitude: 76.64
 ---

@@ -1,6 +1,6 @@
 ---
 title: HOOGHLY
 url: /hooghly/
-latitude: 
-longitude: 
+latitude: 22.928
+longitude: 88.398
 ---

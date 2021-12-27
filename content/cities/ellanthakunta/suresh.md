@@ -1,5 +1,5 @@
 ---
 title: "Suresh"
 url: /ellanthakunta/suresh/
-shop: shop
+shop: Allgemein
 ---

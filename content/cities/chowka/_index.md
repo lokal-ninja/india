@@ -1,6 +1,6 @@
 ---
 title: chowka
 url: /chowka/
-latitude: 
-longitude: 
+latitude: 10.332
+longitude: 76.355
 ---

@@ -1,6 +1,6 @@
 ---
 title: Puthenkavu
 url: /puthenkavu/
-latitude: 
-longitude: 
+latitude: 9.853
+longitude: 76.385
 ---

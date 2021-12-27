@@ -1,6 +1,6 @@
 ---
 title: Mysuru
 url: /mysuru/
-latitude: 
-longitude: 
+latitude: 12.294
+longitude: 76.645
 ---

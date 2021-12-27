@@ -1,5 +1,5 @@
 ---
 title: "Kabhi B"
 url: /mehsana/kabhi-b/
-shop: bakery
+shop: Bäckerei
 ---

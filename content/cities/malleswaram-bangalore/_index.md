@@ -1,6 +1,6 @@
 ---
 title: Malleswaram, Bangalore
 url: /malleswaram-bangalore/
-latitude: 
-longitude: 
+latitude: 12.997
+longitude: 77.572
 ---

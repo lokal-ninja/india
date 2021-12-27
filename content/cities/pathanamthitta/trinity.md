@@ -1,5 +1,5 @@
 ---
 title: "Trinity"
 url: /pathanamthitta/trinity/
-shop: supermarket
+shop: Supermarkt
 ---

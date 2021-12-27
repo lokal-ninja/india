@@ -1,6 +1,6 @@
 ---
 title: Murukkumpetta
 url: /murukkumpetta/
-latitude: 
-longitude: 
+latitude: 10.802
+longitude: 76.404
 ---

@@ -1,6 +1,6 @@
 ---
 title: Karumancode
 url: /karumancode/
-latitude: 
-longitude: 
+latitude: 8.731
+longitude: 77.029
 ---

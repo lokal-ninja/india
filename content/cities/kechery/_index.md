@@ -1,6 +1,6 @@
 ---
 title: Kechery
 url: /kechery/
-latitude: 
-longitude: 
+latitude: 10.618
+longitude: 76.121
 ---

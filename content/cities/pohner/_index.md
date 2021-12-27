@@ -1,6 +1,6 @@
 ---
 title: Pohner
 url: /pohner/
-latitude: 18.1150135
-longitude: 76.0177544
+latitude: 18.116
+longitude: 76.018
 ---

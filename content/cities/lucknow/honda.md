@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /lucknow/honda/
-shop: car
+shop: Autohaus
 ---

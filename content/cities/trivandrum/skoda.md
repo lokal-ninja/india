@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /trivandrum/skoda/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: peringalam
 url: /peringalam/
-latitude: 
-longitude: 
+latitude: 11.288
+longitude: 75.879
 ---

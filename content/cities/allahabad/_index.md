@@ -1,6 +1,6 @@
 ---
 title: Allahabad
 url: /allahabad/
-latitude: 
-longitude: 
+latitude: 25.457
+longitude: 81.875
 ---

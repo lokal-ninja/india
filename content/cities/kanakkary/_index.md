@@ -1,6 +1,6 @@
 ---
 title: kanakkary
 url: /kanakkary/
-latitude: 
-longitude: 
+latitude: 9.703
+longitude: 76.548
 ---

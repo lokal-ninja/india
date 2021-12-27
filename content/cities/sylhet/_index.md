@@ -1,6 +1,6 @@
 ---
 title: Sylhet
 url: /sylhet/
-latitude: 
-longitude: 
+latitude: 25.135
+longitude: 92.123
 ---

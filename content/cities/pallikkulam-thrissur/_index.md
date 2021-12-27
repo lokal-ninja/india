@@ -1,6 +1,6 @@
 ---
 title: pallikkulam, Thrissur
 url: /pallikkulam-thrissur/
-latitude: 
-longitude: 
+latitude: 10.523
+longitude: 76.22
 ---

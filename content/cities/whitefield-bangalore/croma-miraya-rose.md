@@ -1,5 +1,5 @@
 ---
 title: "Croma - Miraya Rose"
 url: /whitefield-bangalore/croma-miraya-rose/
-shop: electronics
+shop: Elektronik
 ---

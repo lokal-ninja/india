@@ -1,6 +1,6 @@
 ---
 title: Eattithoppu
 url: /eattithoppu/
-latitude: 9.8469262
-longitude: 77.0982773
+latitude: 9.845
+longitude: 77.099
 ---

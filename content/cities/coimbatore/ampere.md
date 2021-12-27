@@ -1,5 +1,5 @@
 ---
 title: "ampere"
 url: /coimbatore/ampere/
-shop: motorcycle
+shop: Motorrad
 ---

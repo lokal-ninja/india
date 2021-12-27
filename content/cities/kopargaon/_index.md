@@ -1,6 +1,6 @@
 ---
 title: Kopargaon
 url: /kopargaon/
-latitude: 19.885
-longitude: 74.4762
+latitude: 19.882
+longitude: 74.479
 ---

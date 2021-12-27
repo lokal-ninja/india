@@ -1,6 +1,6 @@
 ---
 title: mambra
 url: /mambra/
-latitude: 
-longitude: 
+latitude: 10.94
+longitude: 75.98
 ---

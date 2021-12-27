@@ -1,6 +1,6 @@
 ---
 title: kuruppunthara
 url: /kuruppunthara/
-latitude: 
-longitude: 
+latitude: 9.739
+longitude: 76.517
 ---

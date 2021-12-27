@@ -1,5 +1,5 @@
 ---
 title: "Nikhil"
 url: /amaravati/nikhil/
-shop: general
+shop: Dorfladen
 ---

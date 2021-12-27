@@ -1,5 +1,5 @@
 ---
 title: "Kunnumal Store"
 url: /malappuram/kunnumal-store/
-shop: supermarket
+shop: Supermarkt
 ---

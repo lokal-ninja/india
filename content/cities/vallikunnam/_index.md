@@ -1,6 +1,6 @@
 ---
 title: Vallikunnam,
 url: /vallikunnam/
-latitude: 
-longitude: 
+latitude: 9.136
+longitude: 76.582
 ---

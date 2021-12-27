@@ -1,5 +1,5 @@
 ---
 title: "Suyog Cycle Store"
 url: /nagpur/suyog-cycle-store/
-shop: bicycle
+shop: Fahrrad
 ---

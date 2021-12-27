@@ -1,5 +1,5 @@
 ---
 title: "Big Bazaar"
 url: /mysuru/big-bazaar-2/
-shop: supermarket
+shop: Supermarkt
 ---

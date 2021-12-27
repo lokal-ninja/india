@@ -1,6 +1,6 @@
 ---
 title: Komalam
 url: /komalam/
-latitude: 
-longitude: 
+latitude: 9.402
+longitude: 76.661
 ---

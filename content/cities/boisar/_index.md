@@ -1,6 +1,6 @@
 ---
 title: Boisar
 url: /boisar/
-latitude: 19.804194300000002
-longitude: 72.7495538
+latitude: 19.797
+longitude: 72.754
 ---

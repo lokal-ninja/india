@@ -1,5 +1,5 @@
 ---
 title: "J S Agencies"
 url: /oyoor/j-s-agencies/
-shop: paint
+shop: Farben
 ---

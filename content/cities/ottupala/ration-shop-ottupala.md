@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Ottupala"
 url: /ottupala/ration-shop-ottupala/
-shop: convenience
+shop: Lebensmittel
 ---

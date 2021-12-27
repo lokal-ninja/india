@@ -1,6 +1,6 @@
 ---
 title: pravachambalam
 url: /pravachambalam/
-latitude: 
-longitude: 
+latitude: 8.45
+longitude: 77.01
 ---

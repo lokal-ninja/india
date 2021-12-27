@@ -1,6 +1,6 @@
 ---
 title: Madhur
 url: /madhur/
-latitude: 12.553066000000001
-longitude: 75.00604390000001
+latitude: 12.55
+longitude: 75.004
 ---

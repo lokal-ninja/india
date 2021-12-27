@@ -1,6 +1,6 @@
 ---
 title: anniyarthozhu
 url: /anniyarthozhu/
-latitude: 
-longitude: 
+latitude: 9.763
+longitude: 77.176
 ---

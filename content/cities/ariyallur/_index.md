@@ -1,6 +1,6 @@
 ---
 title: Ariyallur
 url: /ariyallur/
-latitude: 
-longitude: 
+latitude: 11.092
+longitude: 75.85
 ---

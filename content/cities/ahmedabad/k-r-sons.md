@@ -1,5 +1,5 @@
 ---
 title: "K R SONS"
 url: /ahmedabad/k-r-sons/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vayalar Mukkanankavala
 url: /vayalar-mukkanankavala/
-latitude: 
-longitude: 
+latitude: 9.722
+longitude: 76.328
 ---

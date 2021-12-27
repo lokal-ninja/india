@@ -1,6 +1,6 @@
 ---
 title: Arimpur
 url: /arimpur/
-latitude: 
-longitude: 
+latitude: 10.498
+longitude: 76.147
 ---

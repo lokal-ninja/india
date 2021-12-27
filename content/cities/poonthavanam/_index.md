@@ -1,6 +1,6 @@
 ---
 title: Poonthavanam
 url: /poonthavanam/
-latitude: 
-longitude: 
+latitude: 11.047
+longitude: 76.231
 ---

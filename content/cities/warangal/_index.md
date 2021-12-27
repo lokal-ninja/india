@@ -1,6 +1,6 @@
 ---
 title: warangal
 url: /warangal/
-latitude: 
-longitude: 
+latitude: 17.996
+longitude: 79.551
 ---

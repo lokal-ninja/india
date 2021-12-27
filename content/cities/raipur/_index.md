@@ -1,6 +1,6 @@
 ---
 title: Raipur
 url: /raipur/
-latitude: 30.728126200000002
-longitude: 76.3348347
+latitude: 21.238
+longitude: 81.639
 ---

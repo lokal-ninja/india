@@ -1,6 +1,6 @@
 ---
 title: kothanari
 url: /kothanari/
-latitude: 
-longitude: 
+latitude: 11.231
+longitude: 75.823
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Annapurna Cycle Store"
 url: /sakti/annapurna-cycle-store/
-shop: bicycle
+shop: Fahrrad
 ---

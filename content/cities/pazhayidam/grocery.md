@@ -1,5 +1,5 @@
 ---
 title: "grocery"
 url: /pazhayidam/grocery/
-shop: shop
+shop: Allgemein
 ---

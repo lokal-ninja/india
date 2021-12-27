@@ -1,6 +1,6 @@
 ---
 title: haliya
 url: /haliya/
-latitude: 
-longitude: 
+latitude: 19.073
+longitude: 78.904
 ---

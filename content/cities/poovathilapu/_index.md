@@ -1,6 +1,6 @@
 ---
 title: Poovathilapu
 url: /poovathilapu/
-latitude: 
-longitude: 
+latitude: 9.626
+longitude: 76.676
 ---

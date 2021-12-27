@@ -1,6 +1,6 @@
 ---
 title: mannady
 url: /mannady/
-latitude: 
-longitude: 
+latitude: 9.1
+longitude: 76.726
 ---

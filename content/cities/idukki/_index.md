@@ -1,6 +1,6 @@
 ---
 title: Idukki
 url: /idukki/
-latitude: 9.8497872
-longitude: 76.97979140000001
+latitude: 9.88
+longitude: 76.969
 ---

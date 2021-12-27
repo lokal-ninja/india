@@ -1,6 +1,6 @@
 ---
 title: Duliajan
 url: /duliajan/
-latitude: 27.355913400000002
-longitude: 95.3192307
+latitude: 27.361
+longitude: 95.313
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kalyani
 url: /kalyani/
-latitude: 22.9749723
-longitude: 88.43459150000001
+latitude: 22.976
+longitude: 88.434
 ---

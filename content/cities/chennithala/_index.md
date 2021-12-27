@@ -1,6 +1,6 @@
 ---
 title: chennithala
 url: /chennithala/
-latitude: 
-longitude: 
+latitude: 9.289
+longitude: 76.532
 ---

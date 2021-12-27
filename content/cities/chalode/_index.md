@@ -1,6 +1,6 @@
 ---
 title: Chalode
 url: /chalode/
-latitude: 
-longitude: 
+latitude: 11.929
+longitude: 75.503
 ---

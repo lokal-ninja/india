@@ -1,6 +1,6 @@
 ---
 title: Kechery,Thuvanoor
 url: /kechery-thuvanoor/
-latitude: 
-longitude: 
+latitude: 10.62
+longitude: 76.112
 ---

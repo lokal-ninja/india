@@ -1,5 +1,5 @@
 ---
 title: "Ration shop, Anchuthengu"
 url: /attingal/ration-shop-anchuthengu-5/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manipur
 url: /manipur/
-latitude: 21.091612400000002
-longitude: 82.9058361
+latitude: 24.774
+longitude: 93.905
 ---

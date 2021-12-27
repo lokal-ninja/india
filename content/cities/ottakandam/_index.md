@@ -1,6 +1,6 @@
 ---
 title: ottakandam
 url: /ottakandam/
-latitude: 
-longitude: 
+latitude: 11.474
+longitude: 75.725
 ---

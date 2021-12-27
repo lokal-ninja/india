@@ -1,6 +1,6 @@
 ---
 title: Bhilai
 url: /bhilai/
-latitude: 
-longitude: 
+latitude: 21.192
+longitude: 81.346
 ---

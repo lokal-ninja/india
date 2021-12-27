@@ -1,5 +1,5 @@
 ---
 title: "Ellementry Gurugram"
 url: /gurugram/ellementry-gurugram/
-shop: supermarket
+shop: Supermarkt
 ---

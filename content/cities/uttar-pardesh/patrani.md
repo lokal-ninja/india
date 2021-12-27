@@ -1,5 +1,5 @@
 ---
 title: "Patrani"
 url: /uttar-pardesh/patrani/
-shop: clothes
+shop: Kleidung
 ---

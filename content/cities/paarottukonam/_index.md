@@ -1,6 +1,6 @@
 ---
 title: Paarottukonam
 url: /paarottukonam/
-latitude: 
-longitude: 
+latitude: 8.539
+longitude: 76.937
 ---

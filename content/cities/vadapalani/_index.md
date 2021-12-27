@@ -1,6 +1,6 @@
 ---
 title: Vadapalani
 url: /vadapalani/
-latitude: 
-longitude: 
+latitude: 13.05
+longitude: 80.204
 ---

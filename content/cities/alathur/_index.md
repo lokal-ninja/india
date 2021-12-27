@@ -1,6 +1,6 @@
 ---
 title: alathur
 url: /alathur/
-latitude: 
-longitude: 
+latitude: 10.666
+longitude: 76.517
 ---

@@ -1,6 +1,6 @@
 ---
 title: Amaravti
 url: /amaravti/
-latitude: 
-longitude: 
+latitude: 20.912
+longitude: 77.756
 ---

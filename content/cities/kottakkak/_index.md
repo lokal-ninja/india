@@ -1,6 +1,6 @@
 ---
 title: KOTTAKKAK
 url: /kottakkak/
-latitude: 
-longitude: 
+latitude: 11
+longitude: 76.001
 ---

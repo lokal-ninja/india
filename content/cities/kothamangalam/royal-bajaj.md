@@ -1,5 +1,5 @@
 ---
 title: "Royal Bajaj"
 url: /kothamangalam/royal-bajaj/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kurudimukk
 url: /kurudimukk/
-latitude: 
-longitude: 
+latitude: 11.507
+longitude: 75.725
 ---

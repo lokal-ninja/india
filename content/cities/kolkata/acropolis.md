@@ -1,5 +1,5 @@
 ---
 title: "Acropolis"
 url: /kolkata/acropolis/
-shop: mall
+shop: Einkaufszentrum
 ---

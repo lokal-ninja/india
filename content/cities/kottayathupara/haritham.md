@@ -1,5 +1,5 @@
 ---
 title: "Haritham"
 url: /kottayathupara/haritham/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kalimpong
 url: /kalimpong/
-latitude: 
-longitude: 
+latitude: 27.073
+longitude: 88.474
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nettavelampalayam, Tamil Nadu
 url: /nettavelampalayam-tamil-nadu/
-latitude: 
-longitude: 
+latitude: 11.397
+longitude: 77.815
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cheruvally
 url: /cheruvally/
-latitude: 8.5653247
-longitude: 76.9775169
+latitude: 9.518
+longitude: 76.767
 ---

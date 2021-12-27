@@ -1,6 +1,6 @@
 ---
 title: Avittathur
 url: /avittathur/
-latitude: 10.3328854
-longitude: 76.2410943
+latitude: 10.333
+longitude: 76.24
 ---

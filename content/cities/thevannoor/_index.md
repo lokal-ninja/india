@@ -1,6 +1,6 @@
 ---
 title: Thevannoor
 url: /thevannoor/
-latitude: 
-longitude: 
+latitude: 8.914
+longitude: 76.834
 ---

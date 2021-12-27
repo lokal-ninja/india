@@ -1,6 +1,6 @@
 ---
 title: kummannoor
 url: /kummannoor/
-latitude: 
-longitude: 
+latitude: 9.689
+longitude: 76.619
 ---

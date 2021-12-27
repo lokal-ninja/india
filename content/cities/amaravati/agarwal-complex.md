@@ -1,5 +1,5 @@
 ---
 title: "Agarwal Complex"
 url: /amaravati/agarwal-complex/
-shop: mall
+shop: Einkaufszentrum
 ---

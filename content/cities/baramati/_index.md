@@ -1,6 +1,6 @@
 ---
 title: Baramati
 url: /baramati/
-latitude: 18.1478834
-longitude: 74.5733979
+latitude: 18.15
+longitude: 74.576
 ---

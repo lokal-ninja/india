@@ -1,6 +1,6 @@
 ---
 title: Kelakam
 url: /kelakam/
-latitude: 11.8958682
-longitude: 75.8100648
+latitude: 11.895
+longitude: 75.808
 ---

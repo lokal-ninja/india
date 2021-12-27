@@ -1,6 +1,6 @@
 ---
 title: Anchal
 url: /anchal/
-latitude: 
-longitude: 
+latitude: 8.926
+longitude: 76.917
 ---

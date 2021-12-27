@@ -1,5 +1,5 @@
 ---
 title: "Tresmode"
 url: /bangalore/tresmode/
-shop: shoes
+shop: Schuhe
 ---

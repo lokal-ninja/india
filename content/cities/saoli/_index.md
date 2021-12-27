@@ -1,6 +1,6 @@
 ---
 title: Saoli
 url: /saoli/
-latitude: 20.0825113
-longitude: 79.7857147
+latitude: 20.082
+longitude: 79.78
 ---

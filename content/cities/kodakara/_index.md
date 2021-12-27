@@ -1,6 +1,6 @@
 ---
 title: kodakara
 url: /kodakara/
-latitude: 
-longitude: 
+latitude: 10.351
+longitude: 76.295
 ---

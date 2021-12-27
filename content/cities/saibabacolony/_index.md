@@ -1,6 +1,6 @@
 ---
 title: Saibabacolony
 url: /saibabacolony/
-latitude: 
-longitude: 
+latitude: 11.027
+longitude: 76.945
 ---

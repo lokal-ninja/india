@@ -1,6 +1,6 @@
 ---
 title: Panikkarapuraya
 url: /panikkarapuraya/
-latitude: 11.245206900000001
-longitude: 75.96812460000001
+latitude: 11.245
+longitude: 75.968
 ---

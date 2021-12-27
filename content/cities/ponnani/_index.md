@@ -1,6 +1,6 @@
 ---
 title: Ponnani
 url: /ponnani/
-latitude: 10.7800691
-longitude: 75.9189338
+latitude: 10.777
+longitude: 75.939
 ---

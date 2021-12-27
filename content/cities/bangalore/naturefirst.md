@@ -1,5 +1,5 @@
 ---
 title: "NatureFirst"
 url: /bangalore/naturefirst/
-shop: herbalist
+shop: Kräuter
 ---

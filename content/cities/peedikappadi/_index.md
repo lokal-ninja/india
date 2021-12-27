@@ -1,6 +1,6 @@
 ---
 title: Peedikappadi
 url: /peedikappadi/
-latitude: 
-longitude: 
+latitude: 10.104
+longitude: 76.318
 ---

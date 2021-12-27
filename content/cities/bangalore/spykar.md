@@ -1,5 +1,5 @@
 ---
 title: "Spykar"
 url: /bangalore/spykar/
-shop: clothes
+shop: Kleidung
 ---

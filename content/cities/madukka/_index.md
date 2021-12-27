@@ -1,6 +1,6 @@
 ---
 title: Madukka
 url: /madukka/
-latitude: 9.4896125
-longitude: 76.9402646
+latitude: 9.49
+longitude: 76.94
 ---

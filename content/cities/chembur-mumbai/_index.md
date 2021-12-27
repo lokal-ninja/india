@@ -1,6 +1,6 @@
 ---
 title: Chembur, Mumbai
 url: /chembur-mumbai/
-latitude: 
-longitude: 
+latitude: 19.055
+longitude: 72.905
 ---

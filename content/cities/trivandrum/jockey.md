@@ -1,5 +1,5 @@
 ---
 title: "Jockey"
 url: /trivandrum/jockey/
-shop: clothes
+shop: Kleidung
 ---

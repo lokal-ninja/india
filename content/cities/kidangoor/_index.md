@@ -1,6 +1,6 @@
 ---
 title: kidangoor
 url: /kidangoor/
-latitude: 
-longitude: 
+latitude: 9.683
+longitude: 76.608
 ---

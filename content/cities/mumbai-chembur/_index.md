@@ -1,6 +1,6 @@
 ---
 title: MUMBAI chembur
 url: /mumbai-chembur/
-latitude: 
-longitude: 
+latitude: 19.06
+longitude: 72.888
 ---

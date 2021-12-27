@@ -1,6 +1,6 @@
 ---
 title: thirumoolapuram
 url: /thirumoolapuram/
-latitude: 
-longitude: 
+latitude: 9.368
+longitude: 76.581
 ---

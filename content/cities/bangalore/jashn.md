@@ -1,5 +1,5 @@
 ---
 title: "Jashn"
 url: /bangalore/jashn/
-shop: clothes
+shop: Kleidung
 ---

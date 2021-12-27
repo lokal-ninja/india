@@ -1,6 +1,6 @@
 ---
 title: Pinnakkanad
 url: /pinnakkanad/
-latitude: 
-longitude: 
+latitude: 9.628
+longitude: 76.775
 ---

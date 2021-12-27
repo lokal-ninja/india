@@ -1,6 +1,6 @@
 ---
 title: Ludhiana
 url: /ludhiana/
-latitude: 
-longitude: 
+latitude: 30.886
+longitude: 75.788
 ---

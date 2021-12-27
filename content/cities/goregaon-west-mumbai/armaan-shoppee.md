@@ -1,5 +1,5 @@
 ---
 title: "Armaan Shoppee"
 url: /goregaon-west-mumbai/armaan-shoppee/
-shop: hardware
+shop: Eisenwaren
 ---

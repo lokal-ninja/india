@@ -1,6 +1,6 @@
 ---
 title: Noida Exten
 url: /noida-exten/
-latitude: 
-longitude: 
+latitude: 28.58
+longitude: 77.441
 ---

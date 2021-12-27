@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /chittar/ration-shop-3/
-shop: shop
+shop: Allgemein
 ---

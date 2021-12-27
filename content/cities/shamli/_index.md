@@ -1,6 +1,6 @@
 ---
 title: shamli
 url: /shamli/
-latitude: 
-longitude: 
+latitude: 29.643
+longitude: 77.153
 ---

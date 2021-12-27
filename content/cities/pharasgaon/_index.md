@@ -1,6 +1,6 @@
 ---
 title: Pharasgaon
 url: /pharasgaon/
-latitude: 19.860090500000002
-longitude: 81.6378593
+latitude: 19.858
+longitude: 81.635
 ---

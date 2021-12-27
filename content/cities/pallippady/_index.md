@@ -1,6 +1,6 @@
 ---
 title: Pallippady
 url: /pallippady/
-latitude: 
-longitude: 
+latitude: 9.477
+longitude: 76.956
 ---

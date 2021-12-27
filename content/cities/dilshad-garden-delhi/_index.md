@@ -1,6 +1,6 @@
 ---
 title: Dilshad Garden, Delhi
 url: /dilshad-garden-delhi/
-latitude: 
-longitude: 
+latitude: 28.683
+longitude: 77.316
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thiruvegappura
 url: /thiruvegappura/
-latitude: 
-longitude: 
+latitude: 10.874
+longitude: 76.13
 ---

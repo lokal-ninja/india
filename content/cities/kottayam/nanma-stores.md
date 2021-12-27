@@ -1,5 +1,5 @@
 ---
 title: "Nanma stores"
 url: /kottayam/nanma-stores/
-shop: supermarket
+shop: Supermarkt
 ---

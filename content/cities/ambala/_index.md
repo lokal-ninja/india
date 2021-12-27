@@ -1,6 +1,6 @@
 ---
 title: ambala
 url: /ambala/
-latitude: 
-longitude: 
+latitude: 30.38
+longitude: 76.77
 ---

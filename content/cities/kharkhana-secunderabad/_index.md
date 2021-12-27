@@ -1,6 +1,6 @@
 ---
 title: Kharkhana, Secunderabad
 url: /kharkhana-secunderabad/
-latitude: 
-longitude: 
+latitude: 17.465
+longitude: 78.504
 ---

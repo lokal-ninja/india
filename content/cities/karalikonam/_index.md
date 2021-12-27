@@ -1,6 +1,6 @@
 ---
 title: Karalikonam
 url: /karalikonam/
-latitude: 
-longitude: 
+latitude: 8.888
+longitude: 76.834
 ---

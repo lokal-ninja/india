@@ -1,6 +1,6 @@
 ---
 title: Valancheri
 url: /valancheri/
-latitude: 
-longitude: 
+latitude: 10.882
+longitude: 76.044
 ---

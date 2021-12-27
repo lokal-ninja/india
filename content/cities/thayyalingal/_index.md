@@ -1,6 +1,6 @@
 ---
 title: Thayyalingal
 url: /thayyalingal/
-latitude: 
-longitude: 
+latitude: 10.987
+longitude: 75.904
 ---

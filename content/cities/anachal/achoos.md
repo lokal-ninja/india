@@ -1,5 +1,5 @@
 ---
 title: "Achoos"
 url: /anachal/achoos/
-shop: hairdresser
+shop: Friseur
 ---

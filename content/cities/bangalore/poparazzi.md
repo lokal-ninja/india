@@ -1,5 +1,5 @@
 ---
 title: "Poparazzi"
 url: /bangalore/poparazzi/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vayyattupuzha
 url: /vayyattupuzha/
-latitude: 9.3114471
-longitude: 76.9568952
+latitude: 9.311
+longitude: 76.957
 ---

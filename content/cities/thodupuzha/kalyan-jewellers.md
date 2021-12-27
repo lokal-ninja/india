@@ -1,5 +1,5 @@
 ---
 title: "Kalyan Jewellers"
 url: /thodupuzha/kalyan-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

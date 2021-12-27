@@ -1,6 +1,6 @@
 ---
 title: othera
 url: /othera/
-latitude: 
-longitude: 
+latitude: 9.356
+longitude: 76.624
 ---

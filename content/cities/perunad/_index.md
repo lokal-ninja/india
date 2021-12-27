@@ -1,6 +1,6 @@
 ---
 title: perunad
 url: /perunad/
-latitude: 
-longitude: 
+latitude: 9.367
+longitude: 76.85
 ---

@@ -1,6 +1,6 @@
 ---
 title: 8th mile
 url: /8th-mile/
-latitude: 
-longitude: 
+latitude: 9.578
+longitude: 76.615
 ---

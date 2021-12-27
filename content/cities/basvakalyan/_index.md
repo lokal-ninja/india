@@ -1,6 +1,6 @@
 ---
 title: Basvakalyan
 url: /basvakalyan/
-latitude: 
-longitude: 
+latitude: 17.867
+longitude: 76.949
 ---

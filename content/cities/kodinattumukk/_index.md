@@ -1,6 +1,6 @@
 ---
 title: kodinattumukk
 url: /kodinattumukk/
-latitude: 
-longitude: 
+latitude: 11.218
+longitude: 75.833
 ---

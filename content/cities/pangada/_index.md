@@ -1,6 +1,6 @@
 ---
 title: pangada
 url: /pangada/
-latitude: 
-longitude: 
+latitude: 9.577
+longitude: 76.628
 ---

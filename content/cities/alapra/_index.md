@@ -1,6 +1,6 @@
 ---
 title: alapra
 url: /alapra/
-latitude: 
-longitude: 
+latitude: 9.453
+longitude: 76.761
 ---

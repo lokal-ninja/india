@@ -1,6 +1,6 @@
 ---
 title: Kolhapur
 url: /kolhapur/
-latitude: 20.5610867
-longitude: 78.47225470000001
+latitude: 16.851
+longitude: 74.078
 ---

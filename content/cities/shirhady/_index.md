@@ -1,6 +1,6 @@
 ---
 title: Shirhady
 url: /shirhady/
-latitude: 
-longitude: 
+latitude: 13.088
+longitude: 75.082
 ---

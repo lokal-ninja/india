@@ -1,6 +1,6 @@
 ---
 title: Chiyyaram
 url: /chiyyaram/
-latitude: 
-longitude: 
+latitude: 10.497
+longitude: 76.221
 ---

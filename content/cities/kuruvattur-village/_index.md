@@ -1,6 +1,6 @@
 ---
 title: Kuruvattur village
 url: /kuruvattur-village/
-latitude: 
-longitude: 
+latitude: 11.312
+longitude: 75.828
 ---

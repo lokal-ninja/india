@@ -1,5 +1,5 @@
 ---
 title: "Nerala Store"
 url: /nerala/nerala-store/
-shop: supermarket
+shop: Supermarkt
 ---

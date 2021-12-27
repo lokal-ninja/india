@@ -1,5 +1,5 @@
 ---
 title: "Pop Centre"
 url: /kozhikode-kerala/pop-centre/
-shop: gift
+shop: Andenken
 ---

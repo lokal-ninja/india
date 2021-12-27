@@ -1,6 +1,6 @@
 ---
 title: poreekkal
 url: /poreekkal/
-latitude: 
-longitude: 
+latitude: 9.012
+longitude: 76.702
 ---

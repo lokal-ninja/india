@@ -1,6 +1,6 @@
 ---
 title: Secundarabad
 url: /secundarabad/
-latitude: 
-longitude: 
+latitude: 17.478
+longitude: 78.563
 ---

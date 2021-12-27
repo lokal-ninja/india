@@ -1,6 +1,6 @@
 ---
 title: Chorakkkuzhi
 url: /chorakkkuzhi/
-latitude: 
-longitude: 
+latitude: 9.848
+longitude: 76.592
 ---

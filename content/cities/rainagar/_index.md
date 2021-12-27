@@ -1,6 +1,6 @@
 ---
 title: Rainagar
 url: /rainagar/
-latitude: 
-longitude: 
+latitude: 23.072
+longitude: 87.905
 ---

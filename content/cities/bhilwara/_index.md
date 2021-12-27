@@ -1,6 +1,6 @@
 ---
 title: Bhilwara
 url: /bhilwara/
-latitude: 28.079591800000003
-longitude: 76.2165066
+latitude: 25.33
+longitude: 74.642
 ---

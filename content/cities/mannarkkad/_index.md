@@ -1,6 +1,6 @@
 ---
 title: Mannarkkad
 url: /mannarkkad/
-latitude: 10.992899900000001
-longitude: 76.45686
+latitude: 10.985
+longitude: 76.451
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mansurchak
 url: /mansurchak/
-latitude: 25.6235019
-longitude: 85.9194487
+latitude: 25.626
+longitude: 85.919
 ---

@@ -1,6 +1,6 @@
 ---
 title: payangadi
 url: /payangadi/
-latitude: 
-longitude: 
+latitude: 12.046
+longitude: 75.284
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laxmi Gents Parlour"
 url: /patna/laxmi-gents-parlour/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dabra
 url: /dabra/
-latitude: 33.755387400000004
-longitude: 74.30170650000001
+latitude: 25.887
+longitude: 78.334
 ---

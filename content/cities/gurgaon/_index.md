@@ -1,6 +1,6 @@
 ---
 title: Gurgaon
 url: /gurgaon/
-latitude: 
-longitude: 
+latitude: 28.413
+longitude: 77.042
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /tvm/ration-shop-2/
-shop: convenience
+shop: Lebensmittel
 ---

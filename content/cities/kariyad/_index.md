@@ -1,6 +1,6 @@
 ---
 title: kariyad
 url: /kariyad/
-latitude: 
-longitude: 
+latitude: 11.681
+longitude: 75.577
 ---

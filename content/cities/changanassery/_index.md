@@ -1,6 +1,6 @@
 ---
 title: Changanassery
 url: /changanassery/
-latitude: 9.443222500000001
-longitude: 76.54118220000001
+latitude: 9.456
+longitude: 76.535
 ---

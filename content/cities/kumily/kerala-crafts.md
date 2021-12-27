@@ -1,5 +1,5 @@
 ---
 title: "Kerala Crafts"
 url: /kumily/kerala-crafts/
-shop: craft
+shop: Basteln
 ---

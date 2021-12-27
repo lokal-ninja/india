@@ -1,6 +1,6 @@
 ---
 title: Rajakad
 url: /rajakad/
-latitude: 
-longitude: 
+latitude: 9.963
+longitude: 77.098
 ---

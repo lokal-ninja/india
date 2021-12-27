@@ -1,6 +1,6 @@
 ---
 title: Edat,Payyanur
 url: /edat-payyanur/
-latitude: 
-longitude: 
+latitude: 12.098
+longitude: 75.237
 ---

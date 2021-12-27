@@ -1,6 +1,6 @@
 ---
 title: samrala
 url: /samrala/
-latitude: 
-longitude: 
+latitude: 30.836
+longitude: 76.192
 ---

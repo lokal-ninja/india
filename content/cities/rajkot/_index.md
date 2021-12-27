@@ -1,6 +1,6 @@
 ---
 title: Rajkot
 url: /rajkot/
-latitude: 22.3053263
-longitude: 70.8028377
+latitude: 22.296
+longitude: 70.799
 ---

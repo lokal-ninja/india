@@ -1,5 +1,5 @@
 ---
 title: "pezhummuttil"
 url: /ranni/pezhummuttil/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesla Scans And Healthcare"
 url: /chalakudy/tesla-scans-and-healthcare/
-shop: shop
+shop: Allgemein
 ---

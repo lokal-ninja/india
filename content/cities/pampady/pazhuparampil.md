@@ -1,5 +1,5 @@
 ---
 title: "Pazhuparampil"
 url: /pampady/pazhuparampil/
-shop: furniture
+shop: Möbel
 ---

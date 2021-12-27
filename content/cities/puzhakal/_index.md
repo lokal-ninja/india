@@ -1,6 +1,6 @@
 ---
 title: puzhakal
 url: /puzhakal/
-latitude: 
-longitude: 
+latitude: 10.547
+longitude: 76.178
 ---

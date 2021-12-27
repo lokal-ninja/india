@@ -1,6 +1,6 @@
 ---
 title: ELAMAKKARA
 url: /elamakkara/
-latitude: 
-longitude: 
+latitude: 10.019
+longitude: 76.284
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanjay Grocery Store"
 url: /delhi/sanjay-grocery-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

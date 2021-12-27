@@ -1,6 +1,6 @@
 ---
 title: Kolenchery
 url: /kolenchery/
-latitude: 9.980016
-longitude: 76.4725932
+latitude: 9.98
+longitude: 76.474
 ---

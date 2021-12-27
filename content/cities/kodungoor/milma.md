@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /kodungoor/milma/
-shop: dairy
+shop: Milch
 ---

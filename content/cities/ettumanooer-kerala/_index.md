@@ -1,6 +1,6 @@
 ---
 title: ETTUMANOOER,KERALA
 url: /ettumanooer-kerala/
-latitude: 
-longitude: 
+latitude: 9.684
+longitude: 76.557
 ---

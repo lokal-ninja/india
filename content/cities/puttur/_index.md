@@ -1,6 +1,6 @@
 ---
 title: Puttur
 url: /puttur/
-latitude: 9.593260200000001
-longitude: 78.42466950000001
+latitude: 12.781
+longitude: 75.183
 ---

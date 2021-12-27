@@ -1,6 +1,6 @@
 ---
 title: Cheeranikkara
 url: /cheeranikkara/
-latitude: 
-longitude: 
+latitude: 8.649
+longitude: 76.964
 ---

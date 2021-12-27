@@ -1,6 +1,6 @@
 ---
 title: Tiruchirapalli
 url: /tiruchirapalli/
-latitude: 
-longitude: 
+latitude: 10.809
+longitude: 78.681
 ---

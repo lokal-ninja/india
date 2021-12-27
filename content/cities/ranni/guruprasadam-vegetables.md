@@ -1,5 +1,5 @@
 ---
 title: "guruprasadam vegetables"
 url: /ranni/guruprasadam-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

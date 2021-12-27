@@ -1,6 +1,6 @@
 ---
 title: Srinagar
 url: /srinagar/
-latitude: 25.9440372
-longitude: 87.40122910000001
+latitude: 34.092
+longitude: 74.819
 ---

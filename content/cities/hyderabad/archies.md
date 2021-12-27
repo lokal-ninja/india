@@ -1,5 +1,5 @@
 ---
 title: "Archies"
 url: /hyderabad/archies/
-shop: toys
+shop: Spielzeug
 ---

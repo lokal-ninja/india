@@ -1,6 +1,6 @@
 ---
 title: west bengal
 url: /west-bengal/
-latitude: 
-longitude: 
+latitude: 26.724
+longitude: 88.395
 ---

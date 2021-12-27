@@ -1,5 +1,5 @@
 ---
 title: "Gift land"
 url: /trimulgherry-secunderabad/gift-land/
-shop: gift
+shop: Andenken
 ---

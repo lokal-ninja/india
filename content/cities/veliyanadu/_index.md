@@ -1,6 +1,6 @@
 ---
 title: veliyanadu
 url: /veliyanadu/
-latitude: 
-longitude: 
+latitude: 9.442
+longitude: 76.476
 ---

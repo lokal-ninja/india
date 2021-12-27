@@ -1,5 +1,5 @@
 ---
 title: "Bake Home"
 url: /koduvayur-post/bake-home/
-shop: bakery
+shop: Bäckerei
 ---

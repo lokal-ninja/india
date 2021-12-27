@@ -1,6 +1,6 @@
 ---
 title: Nechur
 url: /nechur/
-latitude: 
-longitude: 
+latitude: 10.704
+longitude: 76.489
 ---

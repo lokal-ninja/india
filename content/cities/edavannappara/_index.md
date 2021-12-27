@@ -1,6 +1,6 @@
 ---
 title: edavannappara
 url: /edavannappara/
-latitude: 
-longitude: 
+latitude: 11.245
+longitude: 75.972
 ---

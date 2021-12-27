@@ -1,6 +1,6 @@
 ---
 title: Hydrebad
 url: /hydrebad/
-latitude: 
-longitude: 
+latitude: 17.429
+longitude: 78.533
 ---

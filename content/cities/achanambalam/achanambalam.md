@@ -1,5 +1,5 @@
 ---
 title: "achanambalam"
 url: /achanambalam/achanambalam/
-shop: bakery
+shop: Bäckerei
 ---

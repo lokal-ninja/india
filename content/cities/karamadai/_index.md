@@ -1,6 +1,6 @@
 ---
 title: karamadai
 url: /karamadai/
-latitude: 
-longitude: 
+latitude: 11.24
+longitude: 76.961
 ---

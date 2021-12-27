@@ -1,6 +1,6 @@
 ---
 title: Achabal
 url: /achabal/
-latitude: 33.6839389
-longitude: 75.2194669
+latitude: 33.683
+longitude: 75.219
 ---

@@ -1,6 +1,6 @@
 ---
 title: Murickassery
 url: /murickassery/
-latitude: 
-longitude: 
+latitude: 9.914
+longitude: 77.008
 ---

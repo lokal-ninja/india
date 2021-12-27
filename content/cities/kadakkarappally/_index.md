@@ -1,6 +1,6 @@
 ---
 title: Kadakkarappally,
 url: /kadakkarappally/
-latitude: 
-longitude: 
+latitude: 9.704
+longitude: 76.313
 ---

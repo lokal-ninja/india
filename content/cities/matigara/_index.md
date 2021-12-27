@@ -1,6 +1,6 @@
 ---
 title: Matigara
 url: /matigara/
-latitude: 26.720792900000003
-longitude: 88.3842051
+latitude: 26.723
+longitude: 88.388
 ---

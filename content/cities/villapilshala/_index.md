@@ -1,6 +1,6 @@
 ---
 title: villapilshala
 url: /villapilshala/
-latitude: 
-longitude: 
+latitude: 8.522
+longitude: 77.04
 ---

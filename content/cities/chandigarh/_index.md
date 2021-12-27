@@ -1,6 +1,6 @@
 ---
 title: Chandigarh
 url: /chandigarh/
-latitude: 30.7334421
-longitude: 76.77971430000001
+latitude: 30.734
+longitude: 76.755
 ---

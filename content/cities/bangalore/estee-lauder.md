@@ -1,5 +1,5 @@
 ---
 title: "Estee Lauder"
 url: /bangalore/estee-lauder/
-shop: clothes
+shop: Kleidung
 ---

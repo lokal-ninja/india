@@ -1,6 +1,6 @@
 ---
 title: Pallithazham
 url: /pallithazham/
-latitude: 
-longitude: 
+latitude: 11.249
+longitude: 75.908
 ---

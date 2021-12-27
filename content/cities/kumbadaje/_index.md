@@ -1,6 +1,6 @@
 ---
 title: Kumbadaje
 url: /kumbadaje/
-latitude: 12.5861461
-longitude: 75.11612170000001
+latitude: 12.59
+longitude: 75.14
 ---

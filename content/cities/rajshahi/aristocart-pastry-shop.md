@@ -1,5 +1,5 @@
 ---
 title: "Aristocart Pastry shop"
 url: /rajshahi/aristocart-pastry-shop/
-shop: shop
+shop: Allgemein
 ---

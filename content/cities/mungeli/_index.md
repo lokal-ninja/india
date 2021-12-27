@@ -1,6 +1,6 @@
 ---
 title: mungeli
 url: /mungeli/
-latitude: 
-longitude: 
+latitude: 22.063
+longitude: 81.683
 ---

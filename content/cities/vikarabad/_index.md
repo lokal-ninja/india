@@ -1,6 +1,6 @@
 ---
 title: Vikarabad
 url: /vikarabad/
-latitude: 17.3379216
-longitude: 77.9039857
+latitude: 17.344
+longitude: 77.904
 ---

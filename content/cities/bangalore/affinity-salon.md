@@ -1,5 +1,5 @@
 ---
 title: "affinity salon"
 url: /bangalore/affinity-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Peruvayal
 url: /peruvayal/
-latitude: 11.2640171
-longitude: 75.8935604
+latitude: 11.262
+longitude: 75.904
 ---

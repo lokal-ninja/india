@@ -1,6 +1,6 @@
 ---
 title: Dhilwan
 url: /dhilwan/
-latitude: 30.5318472
-longitude: 75.1119697
+latitude: 30.344
+longitude: 75.371
 ---

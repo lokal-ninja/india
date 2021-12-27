@@ -1,6 +1,6 @@
 ---
 title: samakhiali
 url: /samakhiali/
-latitude: 
-longitude: 
+latitude: 23.305
+longitude: 70.504
 ---

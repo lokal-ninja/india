@@ -1,6 +1,6 @@
 ---
 title: firozabad
 url: /firozabad/
-latitude: 
-longitude: 
+latitude: 27.317
+longitude: 78.668
 ---

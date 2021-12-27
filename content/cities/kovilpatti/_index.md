@@ -1,6 +1,6 @@
 ---
 title: Kovilpatti
 url: /kovilpatti/
-latitude: 10.2696121
-longitude: 77.5043124
+latitude: 9.183
+longitude: 77.882
 ---

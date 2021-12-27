@@ -1,5 +1,5 @@
 ---
 title: "Prime Motors"
 url: /thiruvalla/prime-motors/
-shop: motorcycle
+shop: Motorrad
 ---

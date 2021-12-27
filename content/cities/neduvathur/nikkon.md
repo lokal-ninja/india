@@ -1,5 +1,5 @@
 ---
 title: "Nikkon"
 url: /neduvathur/nikkon/
-shop: furniture
+shop: Möbel
 ---

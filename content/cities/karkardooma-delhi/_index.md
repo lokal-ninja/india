@@ -1,6 +1,6 @@
 ---
 title: Karkardooma, Delhi
 url: /karkardooma-delhi/
-latitude: 
-longitude: 
+latitude: 28.656
+longitude: 77.301
 ---

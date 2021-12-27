@@ -1,6 +1,6 @@
 ---
 title: MANKAMKUZHI
 url: /mankamkuzhi/
-latitude: 
-longitude: 
+latitude: 9.236
+longitude: 76.588
 ---

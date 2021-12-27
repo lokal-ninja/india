@@ -1,6 +1,6 @@
 ---
 title: Cherupuzha
 url: /cherupuzha/
-latitude: 12.2726529
-longitude: 75.36112340000001
+latitude: 12.224
+longitude: 75.397
 ---

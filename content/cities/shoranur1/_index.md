@@ -1,6 +1,6 @@
 ---
 title: Shoranur1
 url: /shoranur1/
-latitude: 
-longitude: 
+latitude: 10.795
+longitude: 76.27
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cesaw"
 url: /jeypore/cesaw/
-shop: supermarket
+shop: Supermarkt
 ---

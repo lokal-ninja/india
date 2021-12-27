@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /mysore/puma/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kasargod
 url: /kasargod/
-latitude: 
-longitude: 
+latitude: 12.505
+longitude: 74.994
 ---

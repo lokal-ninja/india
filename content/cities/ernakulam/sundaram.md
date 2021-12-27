@@ -1,5 +1,5 @@
 ---
 title: "Sundaram"
 url: /ernakulam/sundaram/
-shop: supermarket
+shop: Supermarkt
 ---

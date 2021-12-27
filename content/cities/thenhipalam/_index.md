@@ -1,6 +1,6 @@
 ---
 title: thenhipalam
 url: /thenhipalam/
-latitude: 
-longitude: 
+latitude: 11.114
+longitude: 75.883
 ---

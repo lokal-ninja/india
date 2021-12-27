@@ -1,6 +1,6 @@
 ---
 title: Neelipilavu
 url: /neelipilavu/
-latitude: 
-longitude: 
+latitude: 9.308
+longitude: 76.929
 ---

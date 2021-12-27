@@ -1,6 +1,6 @@
 ---
 title: Bhagavathipadi
 url: /bhagavathipadi/
-latitude: 
-longitude: 
+latitude: 9.208
+longitude: 76.515
 ---

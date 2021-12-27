@@ -1,6 +1,6 @@
 ---
 title: Ekarool
 url: /ekarool/
-latitude: 
-longitude: 
+latitude: 11.444
+longitude: 75.876
 ---

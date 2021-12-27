@@ -1,6 +1,6 @@
 ---
 title: palakkunnu
 url: /palakkunnu/
-latitude: 
-longitude: 
+latitude: 12.429
+longitude: 75.03
 ---

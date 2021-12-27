@@ -1,6 +1,6 @@
 ---
 title: Kadikkad
 url: /kadikkad/
-latitude: 
-longitude: 
+latitude: 10.681
+longitude: 75.988
 ---

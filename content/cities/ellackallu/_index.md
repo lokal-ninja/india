@@ -1,6 +1,6 @@
 ---
 title: Ellackallu
 url: /ellackallu/
-latitude: 
-longitude: 
+latitude: 10
+longitude: 77.066
 ---

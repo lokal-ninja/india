@@ -1,6 +1,6 @@
 ---
 title: Collegepadi
 url: /collegepadi/
-latitude: 
-longitude: 
+latitude: 10.997
+longitude: 75.986
 ---

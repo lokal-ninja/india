@@ -1,6 +1,6 @@
 ---
 title: Nazira
 url: /nazira/
-latitude: 26.9165452
-longitude: 94.7373948
+latitude: 26.887
+longitude: 94.691
 ---

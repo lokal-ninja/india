@@ -1,6 +1,6 @@
 ---
 title: perumba
 url: /perumba/
-latitude: 
-longitude: 
+latitude: 12.11
+longitude: 75.22
 ---

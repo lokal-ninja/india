@@ -1,6 +1,6 @@
 ---
 title: Cheruvannur
 url: /cheruvannur/
-latitude: 11.5665905
-longitude: 75.692625
+latitude: 11.191
+longitude: 75.832
 ---

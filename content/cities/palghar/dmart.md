@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /palghar/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

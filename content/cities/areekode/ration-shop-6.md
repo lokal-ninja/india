@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /areekode/ration-shop-6/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chamorshi
 url: /chamorshi/
-latitude: 19.9370829
-longitude: 79.8893906
+latitude: 19.937
+longitude: 79.886
 ---

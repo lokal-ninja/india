@@ -1,5 +1,5 @@
 ---
 title: "Sunland Boutique"
 url: /bengaluru/sunland-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: vettom
 url: /vettom/
-latitude: 
-longitude: 
+latitude: 10.892
+longitude: 75.908
 ---

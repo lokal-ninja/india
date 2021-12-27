@@ -1,6 +1,6 @@
 ---
 title: Koottanad
 url: /koottanad/
-latitude: 
-longitude: 
+latitude: 10.763
+longitude: 76.122
 ---

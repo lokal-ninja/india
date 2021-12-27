@@ -1,6 +1,6 @@
 ---
 title: Hospet
 url: /hospet/
-latitude: 
-longitude: 
+latitude: 15.275
+longitude: 76.383
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fazals"
 url: /bangalore/fazals/
-shop: clothes
+shop: Kleidung
 ---

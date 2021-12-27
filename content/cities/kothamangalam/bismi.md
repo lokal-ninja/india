@@ -1,5 +1,5 @@
 ---
 title: "Bismi"
 url: /kothamangalam/bismi/
-shop: supermarket
+shop: Supermarkt
 ---

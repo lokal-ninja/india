@@ -1,5 +1,5 @@
 ---
 title: "nike sports house"
 url: /bangalore/nike-sports-house/
-shop: sports
+shop: Sport
 ---

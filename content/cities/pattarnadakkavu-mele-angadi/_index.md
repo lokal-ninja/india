@@ -1,6 +1,6 @@
 ---
 title: Pattarnadakkavu, Mele Angadi
 url: /pattarnadakkavu-mele-angadi/
-latitude: 
-longitude: 
+latitude: 10.887
+longitude: 75.992
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oonnukkal
 url: /oonnukkal/
-latitude: 
-longitude: 
+latitude: 9.251
+longitude: 76.734
 ---

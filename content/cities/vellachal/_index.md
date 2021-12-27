@@ -1,6 +1,6 @@
 ---
 title: Vellachal
 url: /vellachal/
-latitude: 10.963963900000001
-longitude: 75.92800220000001
+latitude: 12.199
+longitude: 75.185
 ---

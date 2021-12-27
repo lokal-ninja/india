@@ -1,6 +1,6 @@
 ---
 title: banglavukunnu
 url: /banglavukunnu/
-latitude: 
-longitude: 
+latitude: 10.95
+longitude: 75.949
 ---

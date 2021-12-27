@@ -1,6 +1,6 @@
 ---
 title: panayikulam
 url: /panayikulam/
-latitude: 
-longitude: 
+latitude: 10.096
+longitude: 76.302
 ---

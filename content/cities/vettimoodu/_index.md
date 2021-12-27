@@ -1,6 +1,6 @@
 ---
 title: Vettimoodu
 url: /vettimoodu/
-latitude: 
-longitude: 
+latitude: 9.912
+longitude: 76.544
 ---

@@ -1,6 +1,6 @@
 ---
 title: கோயம்புத்தூர்
 url: /kooymputtuur/
-latitude: 
-longitude: 
+latitude: 11.009
+longitude: 76.945
 ---

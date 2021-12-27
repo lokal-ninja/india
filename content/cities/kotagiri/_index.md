@@ -1,6 +1,6 @@
 ---
 title: Kotagiri
 url: /kotagiri/
-latitude: 
-longitude: 
+latitude: 11.422
+longitude: 76.863
 ---

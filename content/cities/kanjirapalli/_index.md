@@ -1,6 +1,6 @@
 ---
 title: Kanjirapalli
 url: /kanjirapalli/
-latitude: 
-longitude: 
+latitude: 9.557
+longitude: 76.792
 ---

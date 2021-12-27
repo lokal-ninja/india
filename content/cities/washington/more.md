@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /washington/more/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: TIRUCHENGODE
 url: /tiruchengode/
-latitude: 
-longitude: 
+latitude: 11.383
+longitude: 77.899
 ---

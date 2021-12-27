@@ -1,5 +1,5 @@
 ---
 title: "Hero"
 url: /adimali/hero/
-shop: hairdresser
+shop: Friseur
 ---

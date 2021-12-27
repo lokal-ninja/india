@@ -1,5 +1,5 @@
 ---
 title: "Croma"
 url: /bengaluru/croma/
-shop: electronics
+shop: Elektronik
 ---

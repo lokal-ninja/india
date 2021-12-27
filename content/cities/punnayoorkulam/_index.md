@@ -1,6 +1,6 @@
 ---
 title: Punnayoorkulam
 url: /punnayoorkulam/
-latitude: 
-longitude: 
+latitude: 10.676
+longitude: 75.994
 ---

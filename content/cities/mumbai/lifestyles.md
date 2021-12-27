@@ -1,5 +1,5 @@
 ---
 title: "Lifestyles"
 url: /mumbai/lifestyles/
-shop: clothes
+shop: Kleidung
 ---

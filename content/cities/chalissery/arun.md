@@ -1,5 +1,5 @@
 ---
 title: "Arun"
 url: /chalissery/arun/
-shop: general
+shop: Dorfladen
 ---

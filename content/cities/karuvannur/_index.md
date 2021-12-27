@@ -1,6 +1,6 @@
 ---
 title: karuvannur
 url: /karuvannur/
-latitude: 
-longitude: 
+latitude: 10.403
+longitude: 76.216
 ---

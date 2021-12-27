@@ -1,5 +1,5 @@
 ---
 title: "Jaya Metals"
 url: /trivandrum/jaya-metals/
-shop: houseware
+shop: Haushaltsartikel
 ---

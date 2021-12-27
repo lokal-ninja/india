@@ -1,6 +1,6 @@
 ---
 title: shahdara
 url: /shahdara/
-latitude: 
-longitude: 
+latitude: 28.689
+longitude: 77.287
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mullarikudy
 url: /mullarikudy/
-latitude: 
-longitude: 
+latitude: 9.915
+longitude: 77.078
 ---

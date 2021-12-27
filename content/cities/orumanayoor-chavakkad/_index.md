@@ -1,6 +1,6 @@
 ---
 title: Orumanayoor, Chavakkad
 url: /orumanayoor-chavakkad/
-latitude: 
-longitude: 
+latitude: 10.57
+longitude: 76.029
 ---

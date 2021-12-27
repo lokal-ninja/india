@@ -1,6 +1,6 @@
 ---
 title: Kottamkara
 url: /kottamkara/
-latitude: 
-longitude: 
+latitude: 8.906
+longitude: 76.637
 ---

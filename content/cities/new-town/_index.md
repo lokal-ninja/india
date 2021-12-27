@@ -1,6 +1,6 @@
 ---
 title: New Town
 url: /new-town/
-latitude: 22.5882834
-longitude: 88.4734476
+latitude: 22.587
+longitude: 88.474
 ---

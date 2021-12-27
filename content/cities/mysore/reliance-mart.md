@@ -1,5 +1,5 @@
 ---
 title: "Reliance Mart"
 url: /mysore/reliance-mart/
-shop: supermarket
+shop: Supermarkt
 ---

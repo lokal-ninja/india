@@ -1,6 +1,6 @@
 ---
 title: Mathaimukku
 url: /mathaimukku/
-latitude: 
-longitude: 
+latitude: 8.937
+longitude: 76.807
 ---

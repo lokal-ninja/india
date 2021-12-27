@@ -1,6 +1,6 @@
 ---
 title: Noida
 url: /noida/
-latitude: 28.5707841
-longitude: 77.3271074
+latitude: 28.596
+longitude: 77.348
 ---

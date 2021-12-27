@@ -1,6 +1,6 @@
 ---
 title: KOICKAKUDY CITY
 url: /koickakudy-city/
-latitude: 
-longitude: 
+latitude: 10.007
+longitude: 76.946
 ---

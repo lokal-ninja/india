@@ -1,5 +1,5 @@
 ---
 title: "Doodh Misthana Bhandar"
 url: /jaipur/doodh-misthana-bhandar/
-shop: confectionery
+shop: Süßwaren
 ---

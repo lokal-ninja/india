@@ -1,6 +1,6 @@
 ---
 title: vatanappally
 url: /vatanappally/
-latitude: 
-longitude: 
+latitude: 10.465
+longitude: 76.083
 ---

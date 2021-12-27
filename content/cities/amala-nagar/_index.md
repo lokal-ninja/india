@@ -1,6 +1,6 @@
 ---
 title: Amala nagar
 url: /amala-nagar/
-latitude: 
-longitude: 
+latitude: 10.564
+longitude: 76.172
 ---

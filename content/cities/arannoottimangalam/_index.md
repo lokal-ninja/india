@@ -1,6 +1,6 @@
 ---
 title: arannoottimangalam
 url: /arannoottimangalam/
-latitude: 
-longitude: 
+latitude: 9.23
+longitude: 76.57
 ---

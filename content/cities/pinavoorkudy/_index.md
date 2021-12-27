@@ -1,6 +1,6 @@
 ---
 title: Pinavoorkudy
 url: /pinavoorkudy/
-latitude: 
-longitude: 
+latitude: 10.109
+longitude: 76.777
 ---

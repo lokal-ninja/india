@@ -1,6 +1,6 @@
 ---
 title: Thalakkad
 url: /thalakkad/
-latitude: 
-longitude: 
+latitude: 10.884
+longitude: 75.931
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marigiri
 url: /marigiri/
-latitude: 
-longitude: 
+latitude: 9.854
+longitude: 77.074
 ---

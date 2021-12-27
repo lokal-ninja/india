@@ -1,6 +1,6 @@
 ---
 title: Davangere
 url: /davangere/
-latitude: 
-longitude: 
+latitude: 14.473
+longitude: 75.894
 ---

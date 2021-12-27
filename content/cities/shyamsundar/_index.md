@@ -1,6 +1,6 @@
 ---
 title: Shyamsundar
 url: /shyamsundar/
-latitude: 
-longitude: 
+latitude: 23.105
+longitude: 87.868
 ---

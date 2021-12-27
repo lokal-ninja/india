@@ -1,5 +1,5 @@
 ---
 title: "pooja"
 url: /kollam/pooja/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kuttur
 url: /kuttur/
-latitude: 10.2434878
-longitude: 78.2100928
+latitude: 10.568
+longitude: 76.193
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kattur
 url: /kattur/
-latitude: 11.480836
-longitude: 78.270055
+latitude: 10.8
+longitude: 78.749
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sahibganj
 url: /sahibganj/
-latitude: 25.2431716
-longitude: 87.6337598
+latitude: 25.096
+longitude: 85.313
 ---

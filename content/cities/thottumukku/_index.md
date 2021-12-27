@@ -1,6 +1,6 @@
 ---
 title: Thottumukku
 url: /thottumukku/
-latitude: 8.5935308
-longitude: 76.9908018
+latitude: 8.652
+longitude: 77.07
 ---

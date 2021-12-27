@@ -1,6 +1,6 @@
 ---
 title: Arambol
 url: /arambol/
-latitude: 
-longitude: 
+latitude: 15.688
+longitude: 73.711
 ---

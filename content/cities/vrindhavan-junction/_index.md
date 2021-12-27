@@ -1,6 +1,6 @@
 ---
 title: Vrindhavan junction
 url: /vrindhavan-junction/
-latitude: 
-longitude: 
+latitude: 10.109
+longitude: 76.322
 ---

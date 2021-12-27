@@ -1,6 +1,6 @@
 ---
 title: Edakkunnam
 url: /edakkunnam/
-latitude: 
-longitude: 
+latitude: 9.55
+longitude: 76.839
 ---

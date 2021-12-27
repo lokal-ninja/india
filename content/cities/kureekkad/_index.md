@@ -1,6 +1,6 @@
 ---
 title: Kureekkad
 url: /kureekkad/
-latitude: 
-longitude: 
+latitude: 9.927
+longitude: 76.374
 ---

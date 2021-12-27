@@ -1,6 +1,6 @@
 ---
 title: Marykulam
 url: /marykulam/
-latitude: 
-longitude: 
+latitude: 9.699
+longitude: 77.039
 ---

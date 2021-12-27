@@ -1,6 +1,6 @@
 ---
 title: Lawngtlai
 url: /lawngtlai/
-latitude: 22.528025500000002
-longitude: 92.89795190000001
+latitude: 22.53
+longitude: 92.899
 ---

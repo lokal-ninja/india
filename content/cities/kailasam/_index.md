@@ -1,6 +1,6 @@
 ---
 title: Kailasam
 url: /kailasam/
-latitude: 
-longitude: 
+latitude: 9.9
+longitude: 77.103
 ---

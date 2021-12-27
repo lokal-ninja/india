@@ -1,6 +1,6 @@
 ---
 title: Thumbotta
 url: /thumbotta/
-latitude: 
-longitude: 
+latitude: 12.089
+longitude: 75.296
 ---

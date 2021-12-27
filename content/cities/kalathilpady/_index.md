@@ -1,6 +1,6 @@
 ---
 title: Kalathilpady
 url: /kalathilpady/
-latitude: 
-longitude: 
+latitude: 9.589
+longitude: 76.552
 ---

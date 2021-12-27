@@ -1,6 +1,6 @@
 ---
 title: Thrickodithanam
 url: /thrickodithanam/
-latitude: 
-longitude: 
+latitude: 9.446
+longitude: 76.572
 ---

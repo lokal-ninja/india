@@ -1,6 +1,6 @@
 ---
 title: Kalpakanchery
 url: /kalpakanchery/
-latitude: 
-longitude: 
+latitude: 10.938
+longitude: 75.988
 ---

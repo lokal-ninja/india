@@ -1,6 +1,6 @@
 ---
 title: tumkur
 url: /tumkur/
-latitude: 
-longitude: 
+latitude: 13.339
+longitude: 77.114
 ---

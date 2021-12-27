@@ -1,6 +1,6 @@
 ---
 title: Aluva, Kerala
 url: /aluva-kerala/
-latitude: 
-longitude: 
+latitude: 10.112
+longitude: 76.352
 ---

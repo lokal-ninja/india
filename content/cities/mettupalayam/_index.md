@@ -1,6 +1,6 @@
 ---
 title: mettupalayam
 url: /mettupalayam/
-latitude: 
-longitude: 
+latitude: 11.294
+longitude: 76.94
 ---

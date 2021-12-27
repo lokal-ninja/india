@@ -1,6 +1,6 @@
 ---
 title: Kozhikkode
 url: /kozhikkode/
-latitude: 
-longitude: 
+latitude: 11.282
+longitude: 75.991
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ariyallur junction
 url: /ariyallur-junction/
-latitude: 
-longitude: 
+latitude: 11.09
+longitude: 75.845
 ---

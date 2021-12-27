@@ -1,6 +1,6 @@
 ---
 title: palazhi
 url: /palazhi/
-latitude: 
-longitude: 
+latitude: 11.251
+longitude: 75.844
 ---

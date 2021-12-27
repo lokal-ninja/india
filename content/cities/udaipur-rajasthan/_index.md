@@ -1,6 +1,6 @@
 ---
 title: Udaipur, Rajasthan
 url: /udaipur-rajasthan/
-latitude: 
-longitude: 
+latitude: 24.56
+longitude: 73.695
 ---

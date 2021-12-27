@@ -1,5 +1,5 @@
 ---
 title: "Behtar Super Market"
 url: /bangalore/behtar-super-market/
-shop: supermarket
+shop: Supermarkt
 ---

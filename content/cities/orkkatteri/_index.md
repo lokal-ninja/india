@@ -1,6 +1,6 @@
 ---
 title: Orkkatteri
 url: /orkkatteri/
-latitude: 
-longitude: 
+latitude: 11.652
+longitude: 75.601
 ---

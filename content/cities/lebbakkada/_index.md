@@ -1,6 +1,6 @@
 ---
 title: Lebbakkada
 url: /lebbakkada/
-latitude: 
-longitude: 
+latitude: 9.737
+longitude: 77.062
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sparx"
 url: /mehsana/sparx/
-shop: shoes
+shop: Schuhe
 ---

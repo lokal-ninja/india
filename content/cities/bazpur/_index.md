@@ -1,6 +1,6 @@
 ---
 title: bazpur
 url: /bazpur/
-latitude: 
-longitude: 
+latitude: 29.139
+longitude: 79.188
 ---

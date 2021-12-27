@@ -1,6 +1,6 @@
 ---
 title: Mooalmcode
 url: /mooalmcode/
-latitude: 
-longitude: 
+latitude: 10.567
+longitude: 76.496
 ---

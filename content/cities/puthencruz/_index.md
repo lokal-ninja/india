@@ -1,6 +1,6 @@
 ---
 title: Puthencruz
 url: /puthencruz/
-latitude: 
-longitude: 
+latitude: 9.966
+longitude: 76.42
 ---

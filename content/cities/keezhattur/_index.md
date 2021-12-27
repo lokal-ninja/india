@@ -1,6 +1,6 @@
 ---
 title: Keezhattur
 url: /keezhattur/
-latitude: 
-longitude: 
+latitude: 11.051
+longitude: 76.247
 ---

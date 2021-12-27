@@ -1,5 +1,5 @@
 ---
 title: "Avm"
 url: /malappuram/avm/
-shop: electrical
+shop: Elektrisch
 ---

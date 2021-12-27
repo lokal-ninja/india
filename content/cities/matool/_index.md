@@ -1,6 +1,6 @@
 ---
 title: Matool
 url: /matool/
-latitude: 
-longitude: 
+latitude: 11.961
+longitude: 75.292
 ---

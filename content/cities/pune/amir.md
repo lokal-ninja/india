@@ -1,5 +1,5 @@
 ---
 title: "Amir"
 url: /pune/amir/
-shop: butcher
+shop: Metzgerei
 ---

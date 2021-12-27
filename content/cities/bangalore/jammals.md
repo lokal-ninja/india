@@ -1,5 +1,5 @@
 ---
 title: "Jammals"
 url: /bangalore/jammals/
-shop: kitchen
+shop: Küchen
 ---

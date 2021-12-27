@@ -1,6 +1,6 @@
 ---
 title: Nagpur
 url: /nagpur/
-latitude: 21.149813400000003
-longitude: 79.0820556
+latitude: 21.148
+longitude: 79.07
 ---

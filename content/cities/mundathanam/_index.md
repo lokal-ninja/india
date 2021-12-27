@@ -1,6 +1,6 @@
 ---
 title: mundathanam
 url: /mundathanam/
-latitude: 
-longitude: 
+latitude: 9.495
+longitude: 76.708
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kosadi
 url: /kosadi/
-latitude: 
-longitude: 
+latitude: 9.478
+longitude: 76.939
 ---

@@ -1,6 +1,6 @@
 ---
 title: NADAVARAMBA
 url: /nadavaramba/
-latitude: 
-longitude: 
+latitude: 10.315
+longitude: 76.218
 ---

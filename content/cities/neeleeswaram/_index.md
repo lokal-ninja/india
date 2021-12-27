@@ -1,6 +1,6 @@
 ---
 title: Neeleeswaram
 url: /neeleeswaram/
-latitude: 
-longitude: 
+latitude: 10.184
+longitude: 76.467
 ---

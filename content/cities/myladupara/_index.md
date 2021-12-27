@@ -1,6 +1,6 @@
 ---
 title: Myladupara
 url: /myladupara/
-latitude: 
-longitude: 
+latitude: 9.547
+longitude: 76.712
 ---

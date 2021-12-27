@@ -1,6 +1,6 @@
 ---
 title: Thachinganadam
 url: /thachinganadam/
-latitude: 
-longitude: 
+latitude: 11.064
+longitude: 76.218
 ---

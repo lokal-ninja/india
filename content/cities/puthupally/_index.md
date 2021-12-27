@@ -1,6 +1,6 @@
 ---
 title: puthupally
 url: /puthupally/
-latitude: 
-longitude: 
+latitude: 9.562
+longitude: 76.571
 ---

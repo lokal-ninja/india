@@ -1,5 +1,5 @@
 ---
 title: "Chicken Stall"
 url: /wadoor/chicken-stall/
-shop: butcher
+shop: Metzgerei
 ---

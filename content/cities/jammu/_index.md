@@ -1,6 +1,6 @@
 ---
 title: Jammu
 url: /jammu/
-latitude: 32.7185614
-longitude: 74.8580917
+latitude: 32.745
+longitude: 74.849
 ---

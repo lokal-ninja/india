@@ -1,6 +1,6 @@
 ---
 title: B Block, AECS Layout
 url: /b-block-aecs-layout/
-latitude: 
-longitude: 
+latitude: 12.964
+longitude: 77.714
 ---

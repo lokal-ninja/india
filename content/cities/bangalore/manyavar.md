@@ -1,5 +1,5 @@
 ---
 title: "Manyavar"
 url: /bangalore/manyavar/
-shop: clothes
+shop: Kleidung
 ---

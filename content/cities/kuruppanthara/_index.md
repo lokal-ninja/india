@@ -1,6 +1,6 @@
 ---
 title: Kuruppanthara
 url: /kuruppanthara/
-latitude: 9.741236
-longitude: 76.5172213
+latitude: 9.74
+longitude: 76.517
 ---

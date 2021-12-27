@@ -1,5 +1,5 @@
 ---
 title: "Mayoora Ceramics"
 url: /pampady/mayoora-ceramics/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Erikulam
 url: /erikulam/
-latitude: 12.304015000000001
-longitude: 75.15654
+latitude: 12.303
+longitude: 75.156
 ---

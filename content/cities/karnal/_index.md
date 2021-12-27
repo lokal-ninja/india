@@ -1,6 +1,6 @@
 ---
 title: Karnal
 url: /karnal/
-latitude: 31.850321800000003
-longitude: 76.8773353
+latitude: 29.689
+longitude: 76.995
 ---

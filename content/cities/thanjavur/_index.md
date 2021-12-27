@@ -1,6 +1,6 @@
 ---
 title: Thanjavur
 url: /thanjavur/
-latitude: 10.5
-longitude: 79.5
+latitude: 10.776
+longitude: 79.141
 ---

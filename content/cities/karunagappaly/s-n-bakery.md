@@ -1,5 +1,5 @@
 ---
 title: "S N Bakery"
 url: /karunagappaly/s-n-bakery/
-shop: bakery
+shop: Bäckerei
 ---

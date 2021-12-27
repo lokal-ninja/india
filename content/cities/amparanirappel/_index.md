@@ -1,6 +1,6 @@
 ---
 title: Amparanirappel
 url: /amparanirappel/
-latitude: 
-longitude: 
+latitude: 9.684
+longitude: 76.76
 ---

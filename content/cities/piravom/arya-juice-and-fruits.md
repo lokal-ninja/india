@@ -1,5 +1,5 @@
 ---
 title: "arya juice and fruits"
 url: /piravom/arya-juice-and-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

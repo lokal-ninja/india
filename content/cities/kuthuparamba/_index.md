@@ -1,6 +1,6 @@
 ---
 title: Kuthuparamba
 url: /kuthuparamba/
-latitude: 
-longitude: 
+latitude: 11.83
+longitude: 75.564
 ---

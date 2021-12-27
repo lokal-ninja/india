@@ -1,6 +1,6 @@
 ---
 title: Candolim
 url: /candolim/
-latitude: 15.520153200000001
-longitude: 73.7659422
+latitude: 15.511
+longitude: 73.769
 ---

@@ -1,6 +1,6 @@
 ---
 title: saharanpur
 url: /saharanpur/
-latitude: 
-longitude: 
+latitude: 29.952
+longitude: 77.548
 ---

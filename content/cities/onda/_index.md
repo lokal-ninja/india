@@ -1,6 +1,6 @@
 ---
 title: Onda
 url: /onda/
-latitude: 
-longitude: 
+latitude: 23.142
+longitude: 87.199
 ---

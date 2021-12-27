@@ -1,6 +1,6 @@
 ---
 title: Vengara, Thodiyoor
 url: /vengara-thodiyoor/
-latitude: 
-longitude: 
+latitude: 9.077
+longitude: 76.577
 ---

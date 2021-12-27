@@ -1,6 +1,6 @@
 ---
 title: Kodakkad
 url: /kodakkad/
-latitude: 
-longitude: 
+latitude: 12.204
+longitude: 75.186
 ---

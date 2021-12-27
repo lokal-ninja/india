@@ -1,5 +1,5 @@
 ---
 title: "Nidha"
 url: /athavanad/nidha/
-shop: gift
+shop: Andenken
 ---

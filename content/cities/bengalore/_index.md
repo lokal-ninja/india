@@ -1,6 +1,6 @@
 ---
 title: Bengalore
 url: /bengalore/
-latitude: 
-longitude: 
+latitude: 12.975
+longitude: 77.576
 ---

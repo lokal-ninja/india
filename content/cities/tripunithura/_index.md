@@ -1,6 +1,6 @@
 ---
 title: Tripunithura
 url: /tripunithura/
-latitude: 
-longitude: 
+latitude: 9.969
+longitude: 76.339
 ---

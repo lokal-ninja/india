@@ -1,6 +1,6 @@
 ---
 title: Edappally
 url: /edappally/
-latitude: 
-longitude: 
+latitude: 10.022
+longitude: 76.3
 ---

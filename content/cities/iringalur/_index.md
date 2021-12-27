@@ -1,6 +1,6 @@
 ---
 title: iringalur
 url: /iringalur/
-latitude: 
-longitude: 
+latitude: 11.239
+longitude: 75.834
 ---

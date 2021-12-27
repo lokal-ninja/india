@@ -1,5 +1,5 @@
 ---
 title: "KDH"
 url: /gurgaon/kdh/
-shop: shop
+shop: Allgemein
 ---

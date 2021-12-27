@@ -1,5 +1,5 @@
 ---
 title: "Lawrence and Mayo"
 url: /bangalore/lawrence-and-mayo/
-shop: optician
+shop: Optiker
 ---

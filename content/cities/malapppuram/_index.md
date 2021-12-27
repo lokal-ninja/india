@@ -1,6 +1,6 @@
 ---
 title: Malapppuram
 url: /malapppuram/
-latitude: 
-longitude: 
+latitude: 11.047
+longitude: 76.075
 ---

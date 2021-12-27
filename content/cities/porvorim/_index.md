@@ -1,6 +1,6 @@
 ---
 title: Porvorim
 url: /porvorim/
-latitude: 15.5474192
-longitude: 73.81876360000001
+latitude: 15.532
+longitude: 73.824
 ---

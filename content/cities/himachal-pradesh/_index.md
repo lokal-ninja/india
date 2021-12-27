@@ -1,6 +1,6 @@
 ---
 title: Himachal Pradesh
 url: /himachal-pradesh/
-latitude: 31.9292352
-longitude: 77.1828462
+latitude: 32.205
+longitude: 76.33
 ---

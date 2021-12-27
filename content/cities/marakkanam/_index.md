@@ -1,6 +1,6 @@
 ---
 title: marakkanam
 url: /marakkanam/
-latitude: 
-longitude: 
+latitude: 9.952
+longitude: 77.048
 ---

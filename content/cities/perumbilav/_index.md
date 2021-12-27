@@ -1,6 +1,6 @@
 ---
 title: perumbilav
 url: /perumbilav/
-latitude: 
-longitude: 
+latitude: 10.699
+longitude: 76.092
 ---

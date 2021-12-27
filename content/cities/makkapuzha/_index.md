@@ -1,6 +1,6 @@
 ---
 title: makkapuzha
 url: /makkapuzha/
-latitude: 
-longitude: 
+latitude: 9.444
+longitude: 76.798
 ---

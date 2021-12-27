@@ -1,6 +1,6 @@
 ---
 title: Kulappully
 url: /kulappully/
-latitude: 10.781748700000001
-longitude: 76.2805601
+latitude: 10.807
+longitude: 76.26
 ---

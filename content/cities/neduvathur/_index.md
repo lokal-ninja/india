@@ -1,6 +1,6 @@
 ---
 title: Neduvathur
 url: /neduvathur/
-latitude: 
-longitude: 
+latitude: 8.993
+longitude: 76.749
 ---

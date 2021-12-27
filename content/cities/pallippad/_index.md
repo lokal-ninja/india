@@ -1,6 +1,6 @@
 ---
 title: Pallippad
 url: /pallippad/
-latitude: 
-longitude: 
+latitude: 9.269
+longitude: 76.48
 ---

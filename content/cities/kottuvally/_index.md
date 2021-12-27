@@ -1,6 +1,6 @@
 ---
 title: kottuvally
 url: /kottuvally/
-latitude: 
-longitude: 
+latitude: 10.104
+longitude: 76.249
 ---

@@ -1,6 +1,6 @@
 ---
 title: Balewadi
 url: /balewadi/
-latitude: 
-longitude: 
+latitude: 18.564
+longitude: 73.783
 ---

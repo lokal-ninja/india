@@ -1,6 +1,6 @@
 ---
 title: cherthala Thankey
 url: /cherthala-thankey/
-latitude: 
-longitude: 
+latitude: 9.704
+longitude: 76.317
 ---

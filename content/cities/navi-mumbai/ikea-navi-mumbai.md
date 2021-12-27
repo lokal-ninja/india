@@ -1,5 +1,5 @@
 ---
 title: "IKEA - Navi Mumbai"
 url: /navi-mumbai/ikea-navi-mumbai/
-shop: furniture
+shop: Möbel
 ---

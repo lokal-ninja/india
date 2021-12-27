@@ -1,6 +1,6 @@
 ---
 title: Kummannoor Junction
 url: /kummannoor-junction/
-latitude: 
-longitude: 
+latitude: 9.689
+longitude: 76.623
 ---

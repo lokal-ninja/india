@@ -1,6 +1,6 @@
 ---
 title: nizamabad
 url: /nizamabad/
-latitude: 
-longitude: 
+latitude: 18.673
+longitude: 78.095
 ---

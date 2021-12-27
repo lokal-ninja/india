@@ -1,6 +1,6 @@
 ---
 title: valiyapoil
 url: /valiyapoil/
-latitude: 
-longitude: 
+latitude: 12.239
+longitude: 75.185
 ---

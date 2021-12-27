@@ -1,6 +1,6 @@
 ---
 title: Poochakad
 url: /poochakad/
-latitude: 
-longitude: 
+latitude: 12.388
+longitude: 75.067
 ---

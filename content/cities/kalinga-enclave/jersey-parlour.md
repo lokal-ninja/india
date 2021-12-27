@@ -1,5 +1,5 @@
 ---
 title: "JERSEY PARLOUR"
 url: /kalinga-enclave/jersey-parlour/
-shop: shop
+shop: Allgemein
 ---

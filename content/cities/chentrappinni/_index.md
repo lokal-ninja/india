@@ -1,6 +1,6 @@
 ---
 title: Chentrappinni
 url: /chentrappinni/
-latitude: 
-longitude: 
+latitude: 10.356
+longitude: 76.139
 ---

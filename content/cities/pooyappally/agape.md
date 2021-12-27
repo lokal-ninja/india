@@ -1,5 +1,5 @@
 ---
 title: "Agape"
 url: /pooyappally/agape/
-shop: general
+shop: Dorfladen
 ---

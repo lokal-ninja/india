@@ -1,6 +1,6 @@
 ---
 title: TNagar, Chennai
 url: /tnagar-chennai/
-latitude: 
-longitude: 
+latitude: 13.046
+longitude: 80.246
 ---

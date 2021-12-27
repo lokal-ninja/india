@@ -1,5 +1,5 @@
 ---
 title: "Specsmakers"
 url: /chennai/specsmakers/
-shop: optician
+shop: Optiker
 ---

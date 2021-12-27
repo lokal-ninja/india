@@ -1,5 +1,5 @@
 ---
 title: "Bypass supermarket"
 url: /thalay/bypass-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

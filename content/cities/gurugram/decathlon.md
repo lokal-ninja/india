@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /gurugram/decathlon/
-shop: sports
+shop: Sport
 ---

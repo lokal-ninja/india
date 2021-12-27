@@ -1,6 +1,6 @@
 ---
 title: erumapetty
 url: /erumapetty/
-latitude: 
-longitude: 
+latitude: 10.68
+longitude: 76.16
 ---

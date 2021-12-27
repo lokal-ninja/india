@@ -1,6 +1,6 @@
 ---
 title: Gollapalle,Chittoor Mandal
 url: /gollapalle-chittoor-mandal/
-latitude: 
-longitude: 
+latitude: 13.176
+longitude: 79.149
 ---

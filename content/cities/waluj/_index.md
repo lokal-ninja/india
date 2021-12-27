@@ -1,6 +1,6 @@
 ---
 title: waluj
 url: /waluj/
-latitude: 
-longitude: 
+latitude: 19.797
+longitude: 75.225
 ---

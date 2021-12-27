@@ -1,6 +1,6 @@
 ---
 title: Kallelimedu
 url: /kallelimedu/
-latitude: 
-longitude: 
+latitude: 10.195
+longitude: 76.809
 ---

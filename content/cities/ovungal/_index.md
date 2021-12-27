@@ -1,6 +1,6 @@
 ---
 title: ovungal
 url: /ovungal/
-latitude: 
-longitude: 
+latitude: 10.949
+longitude: 75.942
 ---

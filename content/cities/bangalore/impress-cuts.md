@@ -1,5 +1,5 @@
 ---
 title: "Impress Cuts"
 url: /bangalore/impress-cuts/
-shop: beauty
+shop: Kosmetik
 ---

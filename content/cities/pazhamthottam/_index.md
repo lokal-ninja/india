@@ -1,6 +1,6 @@
 ---
 title: Pazhamthottam
 url: /pazhamthottam/
-latitude: 
-longitude: 
+latitude: 10.016
+longitude: 76.43
 ---

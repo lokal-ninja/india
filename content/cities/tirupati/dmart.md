@@ -1,5 +1,5 @@
 ---
 title: "Dmart"
 url: /tirupati/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

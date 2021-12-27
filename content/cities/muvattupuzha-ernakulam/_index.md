@@ -1,6 +1,6 @@
 ---
 title: Muvattupuzha, Ernakulam
 url: /muvattupuzha-ernakulam/
-latitude: 
-longitude: 
+latitude: 10.009
+longitude: 76.569
 ---

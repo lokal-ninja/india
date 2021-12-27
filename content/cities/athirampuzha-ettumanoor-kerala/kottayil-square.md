@@ -1,5 +1,5 @@
 ---
 title: "Kottayil Square"
 url: /athirampuzha-ettumanoor-kerala/kottayil-square/
-shop: mall
+shop: Einkaufszentrum
 ---

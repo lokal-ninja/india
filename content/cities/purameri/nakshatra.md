@@ -1,5 +1,5 @@
 ---
 title: "Nakshatra"
 url: /purameri/nakshatra/
-shop: clothes
+shop: Kleidung
 ---

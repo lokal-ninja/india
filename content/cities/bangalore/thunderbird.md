@@ -1,5 +1,5 @@
 ---
 title: "Thunderbird"
 url: /bangalore/thunderbird/
-shop: shop
+shop: Allgemein
 ---

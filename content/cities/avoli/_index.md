@@ -1,6 +1,6 @@
 ---
 title: Avoli
 url: /avoli/
-latitude: 
-longitude: 
+latitude: 9.943
+longitude: 76.617
 ---

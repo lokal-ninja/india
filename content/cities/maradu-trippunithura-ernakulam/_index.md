@@ -1,6 +1,6 @@
 ---
 title: Maradu, Trippunithura, Ernakulam
 url: /maradu-trippunithura-ernakulam/
-latitude: 
-longitude: 
+latitude: 9.918
+longitude: 76.314
 ---

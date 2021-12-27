@@ -1,6 +1,6 @@
 ---
 title: Pattanakkad
 url: /pattanakkad/
-latitude: 
-longitude: 
+latitude: 9.724
+longitude: 76.318
 ---

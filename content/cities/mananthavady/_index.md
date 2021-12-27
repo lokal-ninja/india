@@ -1,6 +1,6 @@
 ---
 title: Mananthavady
 url: /mananthavady/
-latitude: 11.801036100000001
-longitude: 76.0055786
+latitude: 11.802
+longitude: 76.01
 ---

@@ -1,6 +1,6 @@
 ---
 title: kavanur
 url: /kavanur/
-latitude: 
-longitude: 
+latitude: 11.197
+longitude: 76.056
 ---

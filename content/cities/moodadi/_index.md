@@ -1,6 +1,6 @@
 ---
 title: Moodadi
 url: /moodadi/
-latitude: 11.470015
-longitude: 75.6582284
+latitude: 11.48
+longitude: 75.62
 ---

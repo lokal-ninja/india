@@ -1,6 +1,6 @@
 ---
 title: PullurPeriya
 url: /pullurperiya/
-latitude: 
-longitude: 
+latitude: 12.392
+longitude: 75.102
 ---

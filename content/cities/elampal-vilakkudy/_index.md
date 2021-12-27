@@ -1,6 +1,6 @@
 ---
 title: Elampal, Vilakkudy
 url: /elampal-vilakkudy/
-latitude: 
-longitude: 
+latitude: 9.025
+longitude: 76.877
 ---

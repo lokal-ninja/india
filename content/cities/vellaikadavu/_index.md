@@ -1,6 +1,6 @@
 ---
 title: vellaikadavu
 url: /vellaikadavu/
-latitude: 
-longitude: 
+latitude: 8.534
+longitude: 77.013
 ---

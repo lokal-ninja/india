@@ -1,6 +1,6 @@
 ---
 title: Maniyampara
 url: /maniyampara/
-latitude: 
-longitude: 
+latitude: 10.741
+longitude: 76.512
 ---

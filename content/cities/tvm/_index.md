@@ -1,6 +1,6 @@
 ---
 title: Tvm
 url: /tvm/
-latitude: 
-longitude: 
+latitude: 8.455
+longitude: 77.004
 ---

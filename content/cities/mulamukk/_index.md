@@ -1,6 +1,6 @@
 ---
 title: Mulamukk
 url: /mulamukk/
-latitude: 
-longitude: 
+latitude: 8.587
+longitude: 76.988
 ---

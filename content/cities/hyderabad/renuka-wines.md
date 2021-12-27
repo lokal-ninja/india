@@ -1,5 +1,5 @@
 ---
 title: "Renuka wines"
 url: /hyderabad/renuka-wines/
-shop: wine
+shop: Wein
 ---

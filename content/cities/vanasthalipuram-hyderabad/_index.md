@@ -1,6 +1,6 @@
 ---
 title: Vanasthalipuram hyderabad
 url: /vanasthalipuram-hyderabad/
-latitude: 
-longitude: 
+latitude: 17.329
+longitude: 78.58
 ---

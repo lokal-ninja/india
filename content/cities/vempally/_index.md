@@ -1,6 +1,6 @@
 ---
 title: Vempally
 url: /vempally/
-latitude: 
-longitude: 
+latitude: 9.718
+longitude: 76.56
 ---

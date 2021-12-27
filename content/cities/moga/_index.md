@@ -1,6 +1,6 @@
 ---
 title: Moga
 url: /moga/
-latitude: 31.563462700000002
-longitude: 75.65449500000001
+latitude: 30.823
+longitude: 75.181
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fort Cochin
 url: /fort-cochin/
-latitude: 
-longitude: 
+latitude: 9.964
+longitude: 76.239
 ---

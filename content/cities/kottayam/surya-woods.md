@@ -1,5 +1,5 @@
 ---
 title: "Surya Woods"
 url: /kottayam/surya-woods/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: PULLUR
 url: /pullur/
-latitude: 
-longitude: 
+latitude: 10.345
+longitude: 76.245
 ---

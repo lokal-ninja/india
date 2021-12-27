@@ -1,6 +1,6 @@
 ---
 title: Kolkata
 url: /kolkata/
-latitude: 22.5726723
-longitude: 88.3638815
+latitude: 22.56
+longitude: 88.353
 ---

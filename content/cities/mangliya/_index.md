@@ -1,6 +1,6 @@
 ---
 title: Mangliya
 url: /mangliya/
-latitude: 
-longitude: 
+latitude: 22.81
+longitude: 75.938
 ---

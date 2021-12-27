@@ -1,6 +1,6 @@
 ---
 title: Patghara
 url: /patghara/
-latitude: 
-longitude: 
+latitude: 22.256
+longitude: 88.983
 ---

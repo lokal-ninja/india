@@ -1,6 +1,6 @@
 ---
 title: Kunchithany
 url: /kunchithany/
-latitude: 
-longitude: 
+latitude: 10.011
+longitude: 77.065
 ---

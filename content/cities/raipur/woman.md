@@ -1,5 +1,5 @@
 ---
 title: "Woman"
 url: /raipur/woman/
-shop: clothes
+shop: Kleidung
 ---

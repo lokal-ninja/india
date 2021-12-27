@@ -1,5 +1,5 @@
 ---
 title: "Murali's store"
 url: /karuvatta/muralis-store/
-shop: kiosk
+shop: Kiosk
 ---

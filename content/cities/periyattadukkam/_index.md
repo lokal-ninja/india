@@ -1,6 +1,6 @@
 ---
 title: Periyattadukkam
 url: /periyattadukkam/
-latitude: 
-longitude: 
+latitude: 12.43
+longitude: 75.072
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muniyara
 url: /muniyara/
-latitude: 9.9294974
-longitude: 77.0742555
+latitude: 9.93
+longitude: 77.074
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dmart"
 url: /mumbai/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

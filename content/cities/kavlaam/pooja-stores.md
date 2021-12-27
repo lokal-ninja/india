@@ -1,5 +1,5 @@
 ---
 title: "Pooja Stores"
 url: /kavlaam/pooja-stores/
-shop: mall
+shop: Einkaufszentrum
 ---

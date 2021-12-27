@@ -1,6 +1,6 @@
 ---
 title: Thottupuram
 url: /thottupuram/
-latitude: 
-longitude: 
+latitude: 9.278
+longitude: 76.746
 ---

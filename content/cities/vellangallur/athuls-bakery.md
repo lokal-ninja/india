@@ -1,5 +1,5 @@
 ---
 title: "Athul's Bakery"
 url: /vellangallur/athuls-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mulavoor
 url: /mulavoor/
-latitude: 
-longitude: 
+latitude: 10.033
+longitude: 76.585
 ---

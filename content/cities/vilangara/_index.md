@@ -1,6 +1,6 @@
 ---
 title: Vilangara
 url: /vilangara/
-latitude: 
-longitude: 
+latitude: 8.961
+longitude: 76.782
 ---

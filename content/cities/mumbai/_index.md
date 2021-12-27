@@ -1,6 +1,6 @@
 ---
 title: Mumbai
 url: /mumbai/
-latitude: 19.0759899
-longitude: 72.87739280000001
+latitude: 19.055
+longitude: 72.827
 ---

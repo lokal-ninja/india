@@ -1,6 +1,6 @@
 ---
 title: PARAKADA
 url: /parakada/
-latitude: 
-longitude: 
+latitude: 9.759
+longitude: 77.211
 ---

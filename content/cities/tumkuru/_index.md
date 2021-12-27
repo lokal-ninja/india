@@ -1,6 +1,6 @@
 ---
 title: tumkuru
 url: /tumkuru/
-latitude: 
-longitude: 
+latitude: 13.336
+longitude: 77.12
 ---

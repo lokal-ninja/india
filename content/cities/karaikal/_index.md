@@ -1,6 +1,6 @@
 ---
 title: Karaikal
 url: /karaikal/
-latitude: 10.91571
-longitude: 79.8375761
+latitude: 10.914
+longitude: 79.834
 ---

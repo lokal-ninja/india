@@ -1,6 +1,6 @@
 ---
 title: Vimala City
 url: /vimala-city/
-latitude: 9.974951200000001
-longitude: 77.03959760000001
+latitude: 9.975
+longitude: 77.03
 ---

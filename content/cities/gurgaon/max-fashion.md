@@ -1,5 +1,5 @@
 ---
 title: "Max Fashion"
 url: /gurgaon/max-fashion/
-shop: clothes
+shop: Kleidung
 ---

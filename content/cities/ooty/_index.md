@@ -1,6 +1,6 @@
 ---
 title: Ooty
 url: /ooty/
-latitude: 
-longitude: 
+latitude: 11.413
+longitude: 76.697
 ---

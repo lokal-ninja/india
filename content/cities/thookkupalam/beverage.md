@@ -1,5 +1,5 @@
 ---
 title: "Beverage"
 url: /thookkupalam/beverage/
-shop: beverages
+shop: Getränke
 ---

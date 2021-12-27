@@ -1,6 +1,6 @@
 ---
 title: Alanallur
 url: /alanallur/
-latitude: 11.0111702
-longitude: 76.34583950000001
+latitude: 11.009
+longitude: 76.348
 ---

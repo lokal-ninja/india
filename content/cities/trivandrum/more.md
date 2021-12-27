@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /trivandrum/more/
-shop: supermarket
+shop: Supermarkt
 ---

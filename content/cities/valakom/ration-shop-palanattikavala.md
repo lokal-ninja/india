@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Palanattikavala"
 url: /valakom/ration-shop-palanattikavala/
-shop: convenience
+shop: Lebensmittel
 ---

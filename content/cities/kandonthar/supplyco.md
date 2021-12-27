@@ -1,5 +1,5 @@
 ---
 title: "Supplyco"
 url: /kandonthar/supplyco/
-shop: convenience
+shop: Lebensmittel
 ---

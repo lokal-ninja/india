@@ -1,6 +1,6 @@
 ---
 title: Palakkad
 url: /palakkad/
-latitude: 10.768192800000001
-longitude: 76.6521319
+latitude: 10.784
+longitude: 76.655
 ---

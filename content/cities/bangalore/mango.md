@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /bangalore/mango/
-shop: clothes
+shop: Kleidung
 ---

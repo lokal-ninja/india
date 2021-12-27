@@ -1,6 +1,6 @@
 ---
 title: kanjiram
 url: /kanjiram/
-latitude: 
-longitude: 
+latitude: 11.001
+longitude: 76.51
 ---

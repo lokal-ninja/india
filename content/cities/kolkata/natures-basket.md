@@ -1,5 +1,5 @@
 ---
 title: "Nature's Basket"
 url: /kolkata/natures-basket/
-shop: supermarket
+shop: Supermarkt
 ---

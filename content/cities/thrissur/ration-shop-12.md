@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thrissur/ration-shop-12/
-shop: convenience
+shop: Lebensmittel
 ---

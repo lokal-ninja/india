@@ -1,5 +1,5 @@
 ---
 title: "MM Hardwares"
 url: /madappally/mm-hardwares/
-shop: hardware
+shop: Eisenwaren
 ---

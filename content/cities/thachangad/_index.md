@@ -1,6 +1,6 @@
 ---
 title: THACHANGAD
 url: /thachangad/
-latitude: 
-longitude: 
+latitude: 12.407
+longitude: 75.053
 ---

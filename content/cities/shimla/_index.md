@@ -1,6 +1,6 @@
 ---
 title: Shimla
 url: /shimla/
-latitude: 28.072699800000002
-longitude: 75.9687423
+latitude: 31.078
+longitude: 77.18
 ---

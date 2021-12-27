@@ -1,6 +1,6 @@
 ---
 title: bandipor
 url: /bandipor/
-latitude: 
-longitude: 
+latitude: 34.432
+longitude: 74.653
 ---

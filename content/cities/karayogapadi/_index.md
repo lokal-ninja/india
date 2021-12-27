@@ -1,6 +1,6 @@
 ---
 title: karayogapadi
 url: /karayogapadi/
-latitude: 
-longitude: 
+latitude: 9.5
+longitude: 76.741
 ---

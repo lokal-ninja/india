@@ -1,6 +1,6 @@
 ---
 title: Pavoorchatram
 url: /pavoorchatram/
-latitude: 8.9164315
-longitude: 77.38130600000001
+latitude: 8.912
+longitude: 77.39
 ---

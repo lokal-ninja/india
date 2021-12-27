@@ -1,6 +1,6 @@
 ---
 title: Kunthalampara
 url: /kunthalampara/
-latitude: 
-longitude: 
+latitude: 9.745
+longitude: 77.118
 ---

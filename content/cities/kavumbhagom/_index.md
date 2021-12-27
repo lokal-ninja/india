@@ -1,6 +1,6 @@
 ---
 title: Kavumbhagom
 url: /kavumbhagom/
-latitude: 
-longitude: 
+latitude: 9.377
+longitude: 76.556
 ---

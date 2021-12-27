@@ -1,5 +1,5 @@
 ---
 title: "PAPSCO"
 url: /puducherry/papsco/
-shop: garden centre
+shop: Garten-Center
 ---

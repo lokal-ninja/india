@@ -1,5 +1,5 @@
 ---
 title: "Matha medicals"
 url: /ettumanur-kottayam/matha-medicals-2/
-shop: medical supply
+shop: Sanitätshaus
 ---

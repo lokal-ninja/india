@@ -1,5 +1,5 @@
 ---
 title: "SS Mahindra Showroom"
 url: /trivandrum/ss-mahindra-showroom/
-shop: car
+shop: Autohaus
 ---

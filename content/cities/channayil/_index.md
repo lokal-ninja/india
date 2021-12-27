@@ -1,6 +1,6 @@
 ---
 title: channayil
 url: /channayil/
-latitude: 
-longitude: 
+latitude: 11.063
+longitude: 75.989
 ---

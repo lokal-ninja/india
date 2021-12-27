@@ -1,6 +1,6 @@
 ---
 title: LUVKNOW
 url: /luvknow/
-latitude: 
-longitude: 
+latitude: 26.828
+longitude: 80.947
 ---

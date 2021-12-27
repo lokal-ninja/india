@@ -1,6 +1,6 @@
 ---
 title: Puthuppally
 url: /puthuppally/
-latitude: 9.5592953
-longitude: 76.5719376
+latitude: 9.56
+longitude: 76.572
 ---

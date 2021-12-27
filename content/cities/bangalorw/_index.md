@@ -1,6 +1,6 @@
 ---
 title: Bangalorw
 url: /bangalorw/
-latitude: 
-longitude: 
+latitude: 13.049
+longitude: 77.593
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cheruthuruthy
 url: /cheruthuruthy/
-latitude: 10.746956
-longitude: 76.2751204
+latitude: 10.75
+longitude: 76.274
 ---

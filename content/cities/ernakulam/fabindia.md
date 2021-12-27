@@ -1,5 +1,5 @@
 ---
 title: "fabindia"
 url: /ernakulam/fabindia/
-shop: gift
+shop: Andenken
 ---

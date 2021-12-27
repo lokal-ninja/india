@@ -1,6 +1,6 @@
 ---
 title: Koruthodu
 url: /koruthodu/
-latitude: 
-longitude: 
+latitude: 9.467
+longitude: 76.963
 ---

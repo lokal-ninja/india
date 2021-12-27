@@ -1,6 +1,6 @@
 ---
 title: vizianagaram
 url: /vizianagaram/
-latitude: 
-longitude: 
+latitude: 18.103
+longitude: 83.418
 ---

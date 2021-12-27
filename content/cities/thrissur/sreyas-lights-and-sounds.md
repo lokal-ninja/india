@@ -1,5 +1,5 @@
 ---
 title: "Sreyas LIghts and Sounds"
 url: /thrissur/sreyas-lights-and-sounds/
-shop: storage rental
+shop: Mieten
 ---

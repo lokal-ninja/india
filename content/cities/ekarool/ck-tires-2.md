@@ -1,5 +1,5 @@
 ---
 title: "CK Tires"
 url: /ekarool/ck-tires-2/
-shop: tyres
+shop: Reifen
 ---

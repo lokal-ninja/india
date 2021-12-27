@@ -1,6 +1,6 @@
 ---
 title: Duttapulia
 url: /duttapulia/
-latitude: 
-longitude: 
+latitude: 23.24
+longitude: 88.705
 ---

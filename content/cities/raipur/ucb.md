@@ -1,5 +1,5 @@
 ---
 title: "UCB"
 url: /raipur/ucb/
-shop: clothes
+shop: Kleidung
 ---

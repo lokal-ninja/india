@@ -1,5 +1,5 @@
 ---
 title: "Om Shree Sai Medical"
 url: /mumbai/om-shree-sai-medical/
-shop: chemist
+shop: Drogerie
 ---

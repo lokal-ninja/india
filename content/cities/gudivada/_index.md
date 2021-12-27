@@ -1,6 +1,6 @@
 ---
 title: Gudivada
 url: /gudivada/
-latitude: 18.0869582
-longitude: 82.6671943
+latitude: 16.428
+longitude: 80.989
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thekkinthand
 url: /thekkinthand/
-latitude: 
-longitude: 
+latitude: 9.917
+longitude: 76.995
 ---

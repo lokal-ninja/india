@@ -1,6 +1,6 @@
 ---
 title: Rajshahi
 url: /rajshahi/
-latitude: 
-longitude: 
+latitude: 24.365
+longitude: 88.6
 ---

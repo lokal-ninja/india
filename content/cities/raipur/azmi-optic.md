@@ -1,5 +1,5 @@
 ---
 title: "Azmi optic"
 url: /raipur/azmi-optic/
-shop: boutique
+shop: Modehaus
 ---

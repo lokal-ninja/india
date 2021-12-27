@@ -1,6 +1,6 @@
 ---
 title: Palavanpady, Vadattupara
 url: /palavanpady-vadattupara/
-latitude: 
-longitude: 
+latitude: 10.183
+longitude: 76.719
 ---

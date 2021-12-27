@@ -1,5 +1,5 @@
 ---
 title: "Oviyas"
 url: /coimbatore/oviyas/
-shop: supermarket
+shop: Supermarkt
 ---

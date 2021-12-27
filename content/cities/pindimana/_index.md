@@ -1,6 +1,6 @@
 ---
 title: Pindimana
 url: /pindimana/
-latitude: 
-longitude: 
+latitude: 10.116
+longitude: 76.64
 ---

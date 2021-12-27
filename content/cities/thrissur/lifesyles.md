@@ -1,5 +1,5 @@
 ---
 title: "Lifesyles"
 url: /thrissur/lifesyles/
-shop: clothes
+shop: Kleidung
 ---

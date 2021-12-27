@@ -1,5 +1,5 @@
 ---
 title: "Vipin krishnan stores"
 url: /thiruvananthapuram/vipin-krishnan-stores/
-shop: general
+shop: Dorfladen
 ---

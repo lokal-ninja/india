@@ -1,6 +1,6 @@
 ---
 title: Aluva, Kochi, Kerala
 url: /aluva-kochi-kerala/
-latitude: 
-longitude: 
+latitude: 10.084
+longitude: 76.348
 ---

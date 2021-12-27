@@ -1,6 +1,6 @@
 ---
 title: Thekkepuram
 url: /thekkepuram/
-latitude: 12.375552
-longitude: 75.053443
+latitude: 12.376
+longitude: 75.053
 ---

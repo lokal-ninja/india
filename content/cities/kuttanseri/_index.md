@@ -1,6 +1,6 @@
 ---
 title: Kuttanseri
 url: /kuttanseri/
-latitude: 
-longitude: 
+latitude: 10.922
+longitude: 76.37
 ---

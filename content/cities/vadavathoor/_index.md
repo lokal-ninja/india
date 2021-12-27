@@ -1,6 +1,6 @@
 ---
 title: vadavathoor
 url: /vadavathoor/
-latitude: 
-longitude: 
+latitude: 9.59
+longitude: 76.567
 ---

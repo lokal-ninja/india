@@ -1,6 +1,6 @@
 ---
 title: Amravati, Maharashtra
 url: /amravati-maharashtra/
-latitude: 
-longitude: 
+latitude: 20.897
+longitude: 77.752
 ---

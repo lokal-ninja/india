@@ -1,6 +1,6 @@
 ---
 title: Raikot
 url: /raikot/
-latitude: 30.649652600000003
-longitude: 75.5993128
+latitude: 30.651
+longitude: 75.6
 ---

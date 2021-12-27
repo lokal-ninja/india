@@ -1,6 +1,6 @@
 ---
 title: trivandram
 url: /trivandram/
-latitude: 
-longitude: 
+latitude: 8.495
+longitude: 77.097
 ---

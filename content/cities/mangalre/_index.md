@@ -1,6 +1,6 @@
 ---
 title: Mangalre
 url: /mangalre/
-latitude: 
-longitude: 
+latitude: 12.87
+longitude: 74.846
 ---

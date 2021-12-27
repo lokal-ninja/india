@@ -1,6 +1,6 @@
 ---
 title: kamothe, navi mumbai
 url: /kamothe-navi-mumbai/
-latitude: 
-longitude: 
+latitude: 19.019
+longitude: 73.088
 ---

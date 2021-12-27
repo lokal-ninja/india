@@ -1,6 +1,6 @@
 ---
 title: Nadavayal
 url: /nadavayal/
-latitude: 11.741109900000001
-longitude: 76.1191246
+latitude: 11.742
+longitude: 76.12
 ---

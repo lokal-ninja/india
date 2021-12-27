@@ -1,6 +1,6 @@
 ---
 title: Jagatsinghpur
 url: /jagatsinghpur/
-latitude: 20.259387200000003
-longitude: 86.1660878
+latitude: 20.268
+longitude: 86.12
 ---

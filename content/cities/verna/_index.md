@@ -1,6 +1,6 @@
 ---
 title: Verna
 url: /verna/
-latitude: 15.3510255
-longitude: 73.93037220000001
+latitude: 15.378
+longitude: 73.931
 ---

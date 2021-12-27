@@ -1,6 +1,6 @@
 ---
 title: mullur
 url: /mullur/
-latitude: 
-longitude: 
+latitude: 10.559
+longitude: 76.142
 ---

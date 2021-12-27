@@ -1,6 +1,6 @@
 ---
 title: arangabad
 url: /arangabad/
-latitude: 
-longitude: 
+latitude: 19.845
+longitude: 75.349
 ---

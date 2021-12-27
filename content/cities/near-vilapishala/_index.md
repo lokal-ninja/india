@@ -1,6 +1,6 @@
 ---
 title: near vilapishala
 url: /near-vilapishala/
-latitude: 
-longitude: 
+latitude: 8.523
+longitude: 77.033
 ---

@@ -1,6 +1,6 @@
 ---
 title: purakkad
 url: /purakkad/
-latitude: 
-longitude: 
+latitude: 11.497
+longitude: 75.643
 ---

@@ -1,6 +1,6 @@
 ---
 title: mount
 url: /mount/
-latitude: 
-longitude: 
+latitude: 9.527
+longitude: 77.07
 ---

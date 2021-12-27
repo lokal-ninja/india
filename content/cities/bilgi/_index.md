@@ -1,6 +1,6 @@
 ---
 title: Bilgi
 url: /bilgi/
-latitude: 
-longitude: 
+latitude: 16.348
+longitude: 75.621
 ---

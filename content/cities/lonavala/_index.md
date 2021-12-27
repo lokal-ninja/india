@@ -1,6 +1,6 @@
 ---
 title: Lonavala
 url: /lonavala/
-latitude: 18.7548563
-longitude: 73.40167290000001
+latitude: 18.75
+longitude: 73.406
 ---

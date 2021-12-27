@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /raipur/nike/
-shop: sports
+shop: Sport
 ---

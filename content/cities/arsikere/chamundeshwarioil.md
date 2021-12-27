@@ -1,5 +1,5 @@
 ---
 title: "chamundeshwarioil"
 url: /arsikere/chamundeshwarioil/
-shop: supermarket
+shop: Supermarkt
 ---

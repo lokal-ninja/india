@@ -1,6 +1,6 @@
 ---
 title: arakkuzha
 url: /arakkuzha/
-latitude: 
-longitude: 
+latitude: 9.924
+longitude: 76.623
 ---

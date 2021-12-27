@@ -1,6 +1,6 @@
 ---
 title: Vettukad, Thrissur
 url: /vettukad-thrissur/
-latitude: 
-longitude: 
+latitude: 10.486
+longitude: 76.304
 ---

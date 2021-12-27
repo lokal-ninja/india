@@ -1,6 +1,6 @@
 ---
 title: Manangalloor
 url: /manangalloor/
-latitude: 
-longitude: 
+latitude: 9.508
+longitude: 76.832
 ---

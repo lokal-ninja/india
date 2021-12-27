@@ -1,6 +1,6 @@
 ---
 title: Vattamkulam
 url: /vattamkulam/
-latitude: 
-longitude: 
+latitude: 10.786
+longitude: 76.031
 ---

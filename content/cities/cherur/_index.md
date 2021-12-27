@@ -1,6 +1,6 @@
 ---
 title: cherur
 url: /cherur/
-latitude: 
-longitude: 
+latitude: 11.064
+longitude: 75.987
 ---

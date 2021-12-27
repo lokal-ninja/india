@@ -1,6 +1,6 @@
 ---
 title: Enikkara
 url: /enikkara/
-latitude: 
-longitude: 
+latitude: 8.561
+longitude: 76.979
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mailu"
 url: /hyderabad/mailu/
-shop: houseware
+shop: Haushaltsartikel
 ---

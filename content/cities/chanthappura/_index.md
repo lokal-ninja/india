@@ -1,6 +1,6 @@
 ---
 title: Chanthappura
 url: /chanthappura/
-latitude: 
-longitude: 
+latitude: 12.105
+longitude: 75.287
 ---

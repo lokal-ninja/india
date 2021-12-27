@@ -1,6 +1,6 @@
 ---
 title: Kalletumkara
 url: /kalletumkara/
-latitude: 
-longitude: 
+latitude: 10.341
+longitude: 76.28
 ---

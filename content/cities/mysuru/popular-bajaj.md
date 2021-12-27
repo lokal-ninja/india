@@ -1,5 +1,5 @@
 ---
 title: "Popular Bajaj"
 url: /mysuru/popular-bajaj/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thiruvananthapuram, Kerala
 url: /thiruvananthapuram-kerala/
-latitude: 
-longitude: 
+latitude: 8.5
+longitude: 76.949
 ---

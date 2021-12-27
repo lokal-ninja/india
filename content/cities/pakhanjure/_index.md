@@ -1,6 +1,6 @@
 ---
 title: Pakhanjure
 url: /pakhanjure/
-latitude: 
-longitude: 
+latitude: 20.031
+longitude: 80.627
 ---

@@ -1,6 +1,6 @@
 ---
 title: Konni
 url: /konni/
-latitude: 9.2266942
-longitude: 76.84994660000001
+latitude: 9.227
+longitude: 76.85
 ---

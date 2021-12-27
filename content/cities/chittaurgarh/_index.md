@@ -1,6 +1,6 @@
 ---
 title: Chittaurgarh
 url: /chittaurgarh/
-latitude: 24.5
-longitude: 74.5
+latitude: 24.882
+longitude: 74.619
 ---

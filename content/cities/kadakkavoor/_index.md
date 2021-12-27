@@ -1,6 +1,6 @@
 ---
 title: Kadakkavoor
 url: /kadakkavoor/
-latitude: 
-longitude: 
+latitude: 8.679
+longitude: 76.767
 ---

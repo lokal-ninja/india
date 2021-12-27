@@ -1,6 +1,6 @@
 ---
 title: Mahim, Mumbai
 url: /mahim-mumbai/
-latitude: 
-longitude: 
+latitude: 19.037
+longitude: 72.846
 ---

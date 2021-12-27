@@ -1,6 +1,6 @@
 ---
 title: Perunna, Changanacherry
 url: /perunna-changanacherry/
-latitude: 
-longitude: 
+latitude: 9.445
+longitude: 76.543
 ---

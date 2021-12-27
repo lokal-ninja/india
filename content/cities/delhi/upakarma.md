@@ -1,5 +1,5 @@
 ---
 title: "Upakarma"
 url: /delhi/upakarma/
-shop: supermarket
+shop: Supermarkt
 ---

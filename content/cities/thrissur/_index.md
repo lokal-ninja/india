@@ -1,6 +1,6 @@
 ---
 title: Thrissur
 url: /thrissur/
-latitude: 
-longitude: 
+latitude: 10.525
+longitude: 76.218
 ---

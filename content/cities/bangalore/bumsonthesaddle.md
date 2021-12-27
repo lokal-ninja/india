@@ -1,5 +1,5 @@
 ---
 title: "bumsonthesaddle"
 url: /bangalore/bumsonthesaddle/
-shop: sports
+shop: Sport
 ---

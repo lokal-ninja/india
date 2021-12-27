@@ -1,6 +1,6 @@
 ---
 title: KUTTALUR
 url: /kuttalur/
-latitude: 
-longitude: 
+latitude: 11.054
+longitude: 75.995
 ---

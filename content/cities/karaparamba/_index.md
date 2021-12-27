@@ -1,6 +1,6 @@
 ---
 title: Karaparamba
 url: /karaparamba/
-latitude: 11.2871048
-longitude: 75.78175300000001
+latitude: 11.289
+longitude: 75.786
 ---

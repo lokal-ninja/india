@@ -1,6 +1,6 @@
 ---
 title: Jamshedpur
 url: /jamshedpur/
-latitude: 22.8015194
-longitude: 86.2029579
+latitude: 22.792
+longitude: 86.185
 ---

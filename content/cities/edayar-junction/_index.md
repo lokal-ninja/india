@@ -1,6 +1,6 @@
 ---
 title: Edayar junction
 url: /edayar-junction/
-latitude: 
-longitude: 
+latitude: 10.088
+longitude: 76.303
 ---

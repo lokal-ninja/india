@@ -1,6 +1,6 @@
 ---
 title: pookarathara
 url: /pookarathara/
-latitude: 
-longitude: 
+latitude: 10.768
+longitude: 76
 ---

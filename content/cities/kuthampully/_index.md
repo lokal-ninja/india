@@ -1,6 +1,6 @@
 ---
 title: Kuthampully
 url: /kuthampully/
-latitude: 10.74375
-longitude: 76.3987652
+latitude: 10.743
+longitude: 76.4
 ---

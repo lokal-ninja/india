@@ -1,6 +1,6 @@
 ---
 title: Hajan
 url: /hajan/
-latitude: 
-longitude: 
+latitude: 34.292
+longitude: 74.621
 ---

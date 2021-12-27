@@ -1,6 +1,6 @@
 ---
 title: konnathady
 url: /konnathady/
-latitude: 
-longitude: 
+latitude: 9.959
+longitude: 77.027
 ---

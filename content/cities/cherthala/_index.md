@@ -1,6 +1,6 @@
 ---
 title: Cherthala
 url: /cherthala/
-latitude: 9.688784
-longitude: 76.3351943
+latitude: 9.72
+longitude: 76.318
 ---

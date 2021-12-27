@@ -1,5 +1,5 @@
 ---
 title: "ampc"
 url: /arsikere-hassan/ampc/
-shop: supermarket
+shop: Supermarkt
 ---

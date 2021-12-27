@@ -1,6 +1,6 @@
 ---
 title: koduvayur
 url: /koduvayur/
-latitude: 
-longitude: 
+latitude: 10.687
+longitude: 76.659
 ---

@@ -1,6 +1,6 @@
 ---
 title: Payyannur
 url: /payyannur/
-latitude: 
-longitude: 
+latitude: 12.098
+longitude: 75.205
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mattool
 url: /mattool/
-latitude: 
-longitude: 
+latitude: 11.968
+longitude: 75.288
 ---

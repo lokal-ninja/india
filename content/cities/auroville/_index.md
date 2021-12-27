@@ -1,6 +1,6 @@
 ---
 title: Auroville
 url: /auroville/
-latitude: 12.005421100000001
-longitude: 79.8110999
+latitude: 12.015
+longitude: 79.802
 ---

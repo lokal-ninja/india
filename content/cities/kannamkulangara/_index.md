@@ -1,6 +1,6 @@
 ---
 title: kannamkulangara
 url: /kannamkulangara/
-latitude: 
-longitude: 
+latitude: 10.499
+longitude: 76.213
 ---

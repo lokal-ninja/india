@@ -1,5 +1,5 @@
 ---
 title: "Kalanjali"
 url: /bangalore/kalanjali/
-shop: clothes
+shop: Kleidung
 ---

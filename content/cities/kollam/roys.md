@@ -1,5 +1,5 @@
 ---
 title: "Roys"
 url: /kollam/roys/
-shop: electrical
+shop: Elektrisch
 ---

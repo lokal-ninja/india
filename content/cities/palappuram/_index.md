@@ -1,6 +1,6 @@
 ---
 title: palappuram
 url: /palappuram/
-latitude: 
-longitude: 
+latitude: 10.771
+longitude: 76.42
 ---

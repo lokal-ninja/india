@@ -1,5 +1,5 @@
 ---
 title: "Pantaloons"
 url: /chennai/pantaloons/
-shop: clothes
+shop: Kleidung
 ---

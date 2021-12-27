@@ -1,5 +1,5 @@
 ---
 title: "Spencer"
 url: /kolkata/spencer/
-shop: supermarket
+shop: Supermarkt
 ---

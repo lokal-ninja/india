@@ -1,5 +1,5 @@
 ---
 title: "Max Fashion"
 url: /ahmedabad/max-fashion/
-shop: clothes
+shop: Kleidung
 ---

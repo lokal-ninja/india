@@ -1,6 +1,6 @@
 ---
 title: KUNNAMKULAM
 url: /kunnamkulam/
-latitude: 
-longitude: 
+latitude: 10.657
+longitude: 76.07
 ---

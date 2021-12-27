@@ -1,6 +1,6 @@
 ---
 title: edappal
 url: /edappal/
-latitude: 
-longitude: 
+latitude: 10.805
+longitude: 76.027
 ---

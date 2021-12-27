@@ -1,6 +1,6 @@
 ---
 title: Maharaja nagar , Tirunelveli
 url: /maharaja-nagar-tirunelveli/
-latitude: 
-longitude: 
+latitude: 8.714
+longitude: 77.786
 ---

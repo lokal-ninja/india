@@ -1,6 +1,6 @@
 ---
 title: thalapusha
 url: /thalapusha/
-latitude: 
-longitude: 
+latitude: 11.865
+longitude: 75.952
 ---

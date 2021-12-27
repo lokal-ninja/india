@@ -1,5 +1,5 @@
 ---
 title: "Beverages Outlet Thaanavu"
 url: /palakkad/beverages-outlet-thaanavu/
-shop: beverages
+shop: Getränke
 ---

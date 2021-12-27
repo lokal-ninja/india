@@ -1,6 +1,6 @@
 ---
 title: Erankulam
 url: /erankulam/
-latitude: 
-longitude: 
+latitude: 9.968
+longitude: 76.311
 ---

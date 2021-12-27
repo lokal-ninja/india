@@ -1,6 +1,6 @@
 ---
 title: Kurivimugal
 url: /kurivimugal/
-latitude: 
-longitude: 
+latitude: 8.473
+longitude: 77.037
 ---

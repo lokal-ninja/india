@@ -1,6 +1,6 @@
 ---
 title: Karpi
 url: /karpi/
-latitude: 25.1615028
-longitude: 84.72990990000001
+latitude: 25.165
+longitude: 84.733
 ---

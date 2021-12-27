@@ -1,6 +1,6 @@
 ---
 title: Mattukkatta
 url: /mattukkatta/
-latitude: 
-longitude: 
+latitude: 9.703
+longitude: 77.041
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop 63"
 url: /adoor/ration-shop-63/
-shop: general
+shop: Dorfladen
 ---

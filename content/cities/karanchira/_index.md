@@ -1,6 +1,6 @@
 ---
 title: Karanchira
 url: /karanchira/
-latitude: 
-longitude: 
+latitude: 10.399
+longitude: 76.163
 ---

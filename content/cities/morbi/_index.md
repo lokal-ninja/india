@@ -1,6 +1,6 @@
 ---
 title: morbi
 url: /morbi/
-latitude: 
-longitude: 
+latitude: 22.816
+longitude: 70.829
 ---

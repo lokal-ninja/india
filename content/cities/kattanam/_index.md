@@ -1,6 +1,6 @@
 ---
 title: Kattanam
 url: /kattanam/
-latitude: 
-longitude: 
+latitude: 9.176
+longitude: 76.563
 ---

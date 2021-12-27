@@ -1,6 +1,6 @@
 ---
 title: Dhule
 url: /dhule/
-latitude: 20.898
-longitude: 74.7732
+latitude: 20.913
+longitude: 74.771
 ---

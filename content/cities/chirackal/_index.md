@@ -1,6 +1,6 @@
 ---
 title: chirackal
 url: /chirackal/
-latitude: 
-longitude: 
+latitude: 10.688
+longitude: 76.04
 ---

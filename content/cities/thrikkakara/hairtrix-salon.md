@@ -1,5 +1,5 @@
 ---
 title: "Hairtrix Salon"
 url: /thrikkakara/hairtrix-salon/
-shop: hairdresser
+shop: Friseur
 ---

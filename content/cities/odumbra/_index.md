@@ -1,6 +1,6 @@
 ---
 title: odumbra
 url: /odumbra/
-latitude: 
-longitude: 
+latitude: 11.226
+longitude: 75.81
 ---

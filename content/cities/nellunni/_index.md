@@ -1,6 +1,6 @@
 ---
 title: Nellunni
 url: /nellunni/
-latitude: 
-longitude: 
+latitude: 11.911
+longitude: 75.575
 ---

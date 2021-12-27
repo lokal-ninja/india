@@ -1,6 +1,6 @@
 ---
 title: Kanjirapally
 url: /kanjirapally/
-latitude: 
-longitude: 
+latitude: 9.556
+longitude: 76.792
 ---

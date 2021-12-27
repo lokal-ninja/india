@@ -1,6 +1,6 @@
 ---
 title: chamravattam
 url: /chamravattam/
-latitude: 
-longitude: 
+latitude: 10.823
+longitude: 75.951
 ---

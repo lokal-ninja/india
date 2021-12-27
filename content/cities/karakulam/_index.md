@@ -1,6 +1,6 @@
 ---
 title: Karakulam
 url: /karakulam/
-latitude: 8.5625502
-longitude: 76.9838718
+latitude: 8.564
+longitude: 76.988
 ---

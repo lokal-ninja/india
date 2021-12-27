@@ -1,6 +1,6 @@
 ---
 title: Manissry
 url: /manissry/
-latitude: 
-longitude: 
+latitude: 10.776
+longitude: 76.339
 ---

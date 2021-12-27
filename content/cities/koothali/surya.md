@@ -1,5 +1,5 @@
 ---
 title: "surya"
 url: /koothali/surya/
-shop: pet
+shop: Tiere
 ---

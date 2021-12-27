@@ -1,6 +1,6 @@
 ---
 title: Neyyattinkara
 url: /neyyattinkara/
-latitude: 
-longitude: 
+latitude: 8.401
+longitude: 77.074
 ---

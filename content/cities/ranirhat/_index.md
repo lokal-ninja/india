@@ -1,6 +1,6 @@
 ---
 title: Ranirhat
 url: /ranirhat/
-latitude: 
-longitude: 
+latitude: 26.506
+longitude: 88.957
 ---

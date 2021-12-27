@@ -1,6 +1,6 @@
 ---
 title: Uttar Pardesh
 url: /uttar-pardesh/
-latitude: 
-longitude: 
+latitude: 25.449
+longitude: 81.84
 ---

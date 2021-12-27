@@ -1,6 +1,6 @@
 ---
 title: Kattangal
 url: /kattangal/
-latitude: 11.3186605
-longitude: 75.93951390000001
+latitude: 11.318
+longitude: 75.939
 ---

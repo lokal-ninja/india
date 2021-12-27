@@ -1,6 +1,6 @@
 ---
 title: Bandra
 url: /bandra/
-latitude: 
-longitude: 
+latitude: 19.054
+longitude: 72.825
 ---

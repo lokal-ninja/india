@@ -1,5 +1,5 @@
 ---
 title: "misha supermarket"
 url: /goregaon-mumbai/misha-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

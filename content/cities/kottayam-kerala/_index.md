@@ -1,6 +1,6 @@
 ---
 title: kottayam,kerala
 url: /kottayam-kerala/
-latitude: 
-longitude: 
+latitude: 9.723
+longitude: 76.524
 ---

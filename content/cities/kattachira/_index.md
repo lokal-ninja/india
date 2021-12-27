@@ -1,6 +1,6 @@
 ---
 title: kattachira
 url: /kattachira/
-latitude: 
-longitude: 
+latitude: 9.676
+longitude: 76.599
 ---

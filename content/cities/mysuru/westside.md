@@ -1,5 +1,5 @@
 ---
 title: "Westside"
 url: /mysuru/westside/
-shop: clothes
+shop: Kleidung
 ---

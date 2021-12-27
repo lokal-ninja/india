@@ -1,6 +1,6 @@
 ---
 title: South Selliampara
 url: /south-selliampara/
-latitude: 
-longitude: 
+latitude: 9.997
+longitude: 77.018
 ---

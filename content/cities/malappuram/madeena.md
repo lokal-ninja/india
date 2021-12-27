@@ -1,5 +1,5 @@
 ---
 title: "Madeena"
 url: /malappuram/madeena/
-shop: paint
+shop: Farben
 ---

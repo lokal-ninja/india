@@ -1,6 +1,6 @@
 ---
 title: School Junction, Vadattupara
 url: /school-junction-vadattupara/
-latitude: 
-longitude: 
+latitude: 10.176
+longitude: 76.699
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chhibramau
 url: /chhibramau/
-latitude: 27.1493493
-longitude: 79.50306020000001
+latitude: 27.155
+longitude: 79.503
 ---

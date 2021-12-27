@@ -1,6 +1,6 @@
 ---
 title: ANANTNAG
 url: /anantnag/
-latitude: 
-longitude: 
+latitude: 33.655
+longitude: 75.199
 ---

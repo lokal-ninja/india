@@ -1,6 +1,6 @@
 ---
 title: South Kathipara
 url: /south-kathipara/
-latitude: 
-longitude: 
+latitude: 9.978
+longitude: 76.994
 ---

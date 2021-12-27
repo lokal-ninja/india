@@ -1,5 +1,5 @@
 ---
 title: "Hetero"
 url: /hyderabad/hetero/
-shop: medical supply
+shop: Sanitätshaus
 ---

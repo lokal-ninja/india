@@ -1,6 +1,6 @@
 ---
 title: Husnar
 url: /husnar/
-latitude: 
-longitude: 
+latitude: 30.222
+longitude: 74.64
 ---

@@ -1,5 +1,5 @@
 ---
 title: "agro power tools"
 url: /pathanadu/agro-power-tools/
-shop: machinery
+shop: Maschinen
 ---

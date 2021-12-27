@@ -1,5 +1,5 @@
 ---
 title: "Organic India Rohini West"
 url: /delhi/organic-india-rohini-west/
-shop: supermarket
+shop: Supermarkt
 ---

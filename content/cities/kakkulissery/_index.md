@@ -1,6 +1,6 @@
 ---
 title: Kakkulissery
 url: /kakkulissery/
-latitude: 
-longitude: 
+latitude: 10.213
+longitude: 76.284
 ---

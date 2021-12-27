@@ -1,6 +1,6 @@
 ---
 title: Munnar
 url: /munnar/
-latitude: 10.0869959
-longitude: 77.0600915
+latitude: 10.086
+longitude: 77.059
 ---

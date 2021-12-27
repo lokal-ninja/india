@@ -1,6 +1,6 @@
 ---
 title: Ettimukku
 url: /ettimukku/
-latitude: 
-longitude: 
+latitude: 8.911
+longitude: 76.792
 ---

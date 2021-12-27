@@ -1,6 +1,6 @@
 ---
 title: dahanu
 url: /dahanu/
-latitude: 
-longitude: 
+latitude: 20.042
+longitude: 72.92
 ---

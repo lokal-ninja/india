@@ -1,6 +1,6 @@
 ---
 title: vazhakkad
 url: /vazhakkad/
-latitude: 
-longitude: 
+latitude: 11.248
+longitude: 75.95
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gaya
 url: /gaya/
-latitude: 29.9263218
-longitude: 79.2354615
+latitude: 24.795
+longitude: 85.008
 ---

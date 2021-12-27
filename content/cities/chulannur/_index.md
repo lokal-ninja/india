@@ -1,6 +1,6 @@
 ---
 title: chulannur
 url: /chulannur/
-latitude: 
-longitude: 
+latitude: 10.714
+longitude: 76.473
 ---

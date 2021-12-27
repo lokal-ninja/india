@@ -1,6 +1,6 @@
 ---
 title: Kadayanikkadu
 url: /kadayanikkadu/
-latitude: 9.5114173
-longitude: 76.73376590000001
+latitude: 9.513
+longitude: 76.719
 ---

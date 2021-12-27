@@ -1,6 +1,6 @@
 ---
 title: NANGIARKULANGARA
 url: /nangiarkulangara/
-latitude: 
-longitude: 
+latitude: 9.259
+longitude: 76.464
 ---

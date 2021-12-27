@@ -1,6 +1,6 @@
 ---
 title: Gulbarga
 url: /gulbarga/
-latitude: 
-longitude: 
+latitude: 17.351
+longitude: 76.829
 ---

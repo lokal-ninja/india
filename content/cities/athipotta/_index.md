@@ -1,6 +1,6 @@
 ---
 title: Athipotta
 url: /athipotta/
-latitude: 
-longitude: 
+latitude: 10.669
+longitude: 76.483
 ---

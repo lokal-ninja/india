@@ -1,6 +1,6 @@
 ---
 title: Tirunelveli
 url: /tirunelveli/
-latitude: 8.72953
-longitude: 77.68520000000001
+latitude: 8.726
+longitude: 77.663
 ---

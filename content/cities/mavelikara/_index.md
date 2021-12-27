@@ -1,6 +1,6 @@
 ---
 title: mavelikara
 url: /mavelikara/
-latitude: 
-longitude: 
+latitude: 9.229
+longitude: 76.582
 ---

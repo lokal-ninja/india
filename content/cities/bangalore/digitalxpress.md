@@ -1,5 +1,5 @@
 ---
 title: "DigitalXpress"
 url: /bangalore/digitalxpress/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muripara
 url: /muripara/
-latitude: 
-longitude: 
+latitude: 9.233
+longitude: 76.724
 ---

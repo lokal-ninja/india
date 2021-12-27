@@ -1,6 +1,6 @@
 ---
 title: Chemmankadav
 url: /chemmankadav/
-latitude: 
-longitude: 
+latitude: 11.028
+longitude: 76.066
 ---

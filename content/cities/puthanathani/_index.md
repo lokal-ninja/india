@@ -1,6 +1,6 @@
 ---
 title: Puthanathani
 url: /puthanathani/
-latitude: 10.9358406
-longitude: 76.0036862
+latitude: 10.933
+longitude: 76.01
 ---

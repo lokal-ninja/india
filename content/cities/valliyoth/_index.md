@@ -1,6 +1,6 @@
 ---
 title: Valliyoth
 url: /valliyoth/
-latitude: 
-longitude: 
+latitude: 11.433
+longitude: 75.873
 ---

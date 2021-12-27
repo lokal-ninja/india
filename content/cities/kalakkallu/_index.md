@@ -1,6 +1,6 @@
 ---
 title: Kalakkallu
 url: /kalakkallu/
-latitude: 
-longitude: 
+latitude: 10.426
+longitude: 76.309
 ---

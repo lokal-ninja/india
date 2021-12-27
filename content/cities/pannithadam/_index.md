@@ -1,6 +1,6 @@
 ---
 title: pannithadam
 url: /pannithadam/
-latitude: 
-longitude: 
+latitude: 10.673
+longitude: 76.112
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mumbai, Maharashtra
 url: /mumbai-maharashtra/
-latitude: 
-longitude: 
+latitude: 19.213
+longitude: 72.842
 ---

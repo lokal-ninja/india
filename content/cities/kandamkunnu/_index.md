@@ -1,6 +1,6 @@
 ---
 title: Kandamkunnu
 url: /kandamkunnu/
-latitude: 
-longitude: 
+latitude: 11.869
+longitude: 75.572
 ---

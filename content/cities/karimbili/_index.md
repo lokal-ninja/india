@@ -1,6 +1,6 @@
 ---
 title: Karimbili
 url: /karimbili/
-latitude: 11.0535764
-longitude: 75.997264
+latitude: 11.054
+longitude: 75.996
 ---

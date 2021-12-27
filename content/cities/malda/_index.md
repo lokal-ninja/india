@@ -1,6 +1,6 @@
 ---
 title: MALDA
 url: /malda/
-latitude: 
-longitude: 
+latitude: 25.003
+longitude: 88.146
 ---

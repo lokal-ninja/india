@@ -1,5 +1,5 @@
 ---
 title: "DTDC"
 url: /haldia/dtdc/
-shop: shop
+shop: Allgemein
 ---

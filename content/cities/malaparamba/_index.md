@@ -1,6 +1,6 @@
 ---
 title: malaparamba
 url: /malaparamba/
-latitude: 
-longitude: 
+latitude: 11.294
+longitude: 75.794
 ---

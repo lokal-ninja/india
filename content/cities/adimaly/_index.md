@@ -1,6 +1,6 @@
 ---
 title: Adimaly
 url: /adimaly/
-latitude: 
-longitude: 
+latitude: 10.009
+longitude: 76.958
 ---

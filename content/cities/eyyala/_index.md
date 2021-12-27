@@ -1,6 +1,6 @@
 ---
 title: Eyyala
 url: /eyyala/
-latitude: 
-longitude: 
+latitude: 12.47
+longitude: 75.047
 ---

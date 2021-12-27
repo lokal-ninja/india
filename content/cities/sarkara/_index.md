@@ -1,6 +1,6 @@
 ---
 title: Sarkara
 url: /sarkara/
-latitude: 
-longitude: 
+latitude: 8.654
+longitude: 76.788
 ---

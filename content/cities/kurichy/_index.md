@@ -1,6 +1,6 @@
 ---
 title: Kurichy
 url: /kurichy/
-latitude: 
-longitude: 
+latitude: 9.502
+longitude: 76.513
 ---

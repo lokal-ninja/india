@@ -1,6 +1,6 @@
 ---
 title: chakkalakunnu
 url: /chakkalakunnu/
-latitude: 
-longitude: 
+latitude: 9.455
+longitude: 76.706
 ---

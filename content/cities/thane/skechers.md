@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /thane/skechers/
-shop: shoes
+shop: Schuhe
 ---

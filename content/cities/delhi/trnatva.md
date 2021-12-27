@@ -1,5 +1,5 @@
 ---
 title: "Trnatva"
 url: /delhi/trnatva/
-shop: supermarket
+shop: Supermarkt
 ---

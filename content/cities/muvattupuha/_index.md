@@ -1,6 +1,6 @@
 ---
 title: MUVATTUPUHA
 url: /muvattupuha/
-latitude: 
-longitude: 
+latitude: 9.993
+longitude: 76.579
 ---

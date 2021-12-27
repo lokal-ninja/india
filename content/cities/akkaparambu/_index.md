@@ -1,6 +1,6 @@
 ---
 title: Akkaparambu
 url: /akkaparambu/
-latitude: 
-longitude: 
+latitude: 11.054
+longitude: 76.231
 ---

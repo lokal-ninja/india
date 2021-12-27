@@ -1,6 +1,6 @@
 ---
 title: Tiruchchirappalli town
 url: /tiruchchirappalli-town/
-latitude: 
-longitude: 
+latitude: 10.775
+longitude: 78.694
 ---

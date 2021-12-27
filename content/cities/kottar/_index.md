@@ -1,6 +1,6 @@
 ---
 title: KOTTAR
 url: /kottar/
-latitude: 
-longitude: 
+latitude: 9.779
+longitude: 77.206
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chunakkara
 url: /chunakkara/
-latitude: 9.2035573
-longitude: 76.6060178
+latitude: 9.2
+longitude: 76.598
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vijayalakshmi"
 url: /bangalore/vijayalakshmi/
-shop: clothes
+shop: Kleidung
 ---

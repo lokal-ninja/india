@@ -1,6 +1,6 @@
 ---
 title: Muliyar
 url: /muliyar/
-latitude: 12.5136345
-longitude: 75.11324640000001
+latitude: 12.509
+longitude: 75.099
 ---

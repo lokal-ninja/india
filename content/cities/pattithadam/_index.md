@@ -1,6 +1,6 @@
 ---
 title: Pattithadam
 url: /pattithadam/
-latitude: 
-longitude: 
+latitude: 10.687
+longitude: 76.059
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thandayil Thazhe
 url: /thandayil-thazhe/
-latitude: 
-longitude: 
+latitude: 11.518
+longitude: 75.728
 ---

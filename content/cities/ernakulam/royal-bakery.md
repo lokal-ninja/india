@@ -1,5 +1,5 @@
 ---
 title: "Royal Bakery"
 url: /ernakulam/royal-bakery/
-shop: supermarket
+shop: Supermarkt
 ---

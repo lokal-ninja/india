@@ -1,6 +1,6 @@
 ---
 title: Pallikare
 url: /pallikare/
-latitude: 
-longitude: 
+latitude: 12.399
+longitude: 75.063
 ---

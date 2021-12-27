@@ -1,6 +1,6 @@
 ---
 title: Haridwar
 url: /haridwar/
-latitude: 
-longitude: 
+latitude: 29.954
+longitude: 78.167
 ---

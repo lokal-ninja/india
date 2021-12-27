@@ -1,6 +1,6 @@
 ---
 title: Aurangabad
 url: /aurangabad/
-latitude: 30.099839600000003
-longitude: 77.2358306
+latitude: 19.859
+longitude: 75.346
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marottichal
 url: /marottichal/
-latitude: 
-longitude: 
+latitude: 10.478
+longitude: 76.344
 ---

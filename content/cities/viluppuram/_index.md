@@ -1,6 +1,6 @@
 ---
 title: viluppuram
 url: /viluppuram/
-latitude: 
-longitude: 
+latitude: 11.913
+longitude: 79.668
 ---

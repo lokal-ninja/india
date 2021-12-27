@@ -1,6 +1,6 @@
 ---
 title: Keerukuzhi Mukku
 url: /keerukuzhi-mukku/
-latitude: 
-longitude: 
+latitude: 9.221
+longitude: 76.722
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahamaya Book Shop"
 url: /charama/mahamaya-book-shop/
-shop: books
+shop: Bücher
 ---

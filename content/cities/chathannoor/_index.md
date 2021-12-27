@@ -1,6 +1,6 @@
 ---
 title: Chathannoor
 url: /chathannoor/
-latitude: 8.864080600000001
-longitude: 76.7142084
+latitude: 8.863
+longitude: 76.717
 ---

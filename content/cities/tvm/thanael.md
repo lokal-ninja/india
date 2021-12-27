@@ -1,5 +1,5 @@
 ---
 title: "thanael"
 url: /tvm/thanael/
-shop: trade
+shop: Baustoffe
 ---

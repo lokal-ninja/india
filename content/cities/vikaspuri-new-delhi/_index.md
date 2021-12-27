@@ -1,6 +1,6 @@
 ---
 title: Vikaspuri, New Delhi
 url: /vikaspuri-new-delhi/
-latitude: 
-longitude: 
+latitude: 28.631
+longitude: 77.068
 ---

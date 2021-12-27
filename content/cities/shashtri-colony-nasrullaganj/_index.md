@@ -1,6 +1,6 @@
 ---
 title: Shashtri Colony, Nasrullaganj
 url: /shashtri-colony-nasrullaganj/
-latitude: 
-longitude: 
+latitude: 22.687
+longitude: 77.275
 ---

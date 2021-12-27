@@ -1,6 +1,6 @@
 ---
 title: Kurar
 url: /kurar/
-latitude: 30.527417500000002
-longitude: 75.6420185
+latitude: 30.526
+longitude: 75.645
 ---

@@ -1,6 +1,6 @@
 ---
 title: karukackal
 url: /karukackal/
-latitude: 
-longitude: 
+latitude: 9.534
+longitude: 76.664
 ---

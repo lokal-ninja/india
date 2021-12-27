@@ -1,6 +1,6 @@
 ---
 title: Kunjunnikara
 url: /kunjunnikara/
-latitude: 
-longitude: 
+latitude: 10.112
+longitude: 76.34
 ---

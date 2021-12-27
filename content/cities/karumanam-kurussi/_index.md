@@ -1,6 +1,6 @@
 ---
 title: karumanam Kurussi
 url: /karumanam-kurussi/
-latitude: 
-longitude: 
+latitude: 10.903
+longitude: 76.333
 ---

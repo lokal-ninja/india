@@ -1,6 +1,6 @@
 ---
 title: pratapgarh
 url: /pratapgarh/
-latitude: 
-longitude: 
+latitude: 25.671
+longitude: 81.658
 ---

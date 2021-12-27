@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Mukkaly"
 url: /edakkunnam/ration-shop-mukkaly/
-shop: shop
+shop: Allgemein
 ---

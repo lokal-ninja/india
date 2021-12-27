@@ -1,6 +1,6 @@
 ---
 title: Mannamangalam, Thrissur
 url: /mannamangalam-thrissur/
-latitude: 
-longitude: 
+latitude: 10.497
+longitude: 76.34
 ---

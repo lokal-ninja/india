@@ -1,6 +1,6 @@
 ---
 title: Punalur, Kerala
 url: /punalur-kerala/
-latitude: 
-longitude: 
+latitude: 9.037
+longitude: 76.9
 ---

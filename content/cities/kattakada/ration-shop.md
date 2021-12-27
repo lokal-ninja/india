@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kattakada/ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

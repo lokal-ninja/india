@@ -1,6 +1,6 @@
 ---
 title: Mundra
 url: /mundra/
-latitude: 27.5366189
-longitude: 74.1876343
+latitude: 22.84
+longitude: 69.726
 ---

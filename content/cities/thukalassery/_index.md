@@ -1,6 +1,6 @@
 ---
 title: Thukalassery
 url: /thukalassery/
-latitude: 9.370971
-longitude: 76.5789803
+latitude: 9.372
+longitude: 76.578
 ---

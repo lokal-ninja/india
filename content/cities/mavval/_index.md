@@ -1,6 +1,6 @@
 ---
 title: MAVVAL
 url: /mavval/
-latitude: 
-longitude: 
+latitude: 12.408
+longitude: 75.046
 ---

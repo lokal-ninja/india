@@ -1,6 +1,6 @@
 ---
 title: Kangeyam
 url: /kangeyam/
-latitude: 11.006059800000001
-longitude: 77.5607403
+latitude: 11.004
+longitude: 77.561
 ---

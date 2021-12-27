@@ -1,6 +1,6 @@
 ---
 title: Adat
 url: /adat/
-latitude: 
-longitude: 
+latitude: 10.545
+longitude: 76.147
 ---

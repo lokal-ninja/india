@@ -1,6 +1,6 @@
 ---
 title: mahabubnagar
 url: /mahabubnagar/
-latitude: 
-longitude: 
+latitude: 16.747
+longitude: 77.992
 ---

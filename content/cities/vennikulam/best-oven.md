@@ -1,5 +1,5 @@
 ---
 title: "Best Oven"
 url: /vennikulam/best-oven/
-shop: bakery
+shop: Bäckerei
 ---

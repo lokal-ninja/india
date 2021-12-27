@@ -1,5 +1,5 @@
 ---
 title: "Mahindra"
 url: /mehsana/mahindra/
-shop: car
+shop: Autohaus
 ---

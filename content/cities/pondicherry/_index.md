@@ -1,6 +1,6 @@
 ---
 title: Pondicherry
 url: /pondicherry/
-latitude: 
-longitude: 
+latitude: 11.942
+longitude: 79.797
 ---

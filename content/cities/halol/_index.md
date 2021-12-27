@@ -1,6 +1,6 @@
 ---
 title: Halol
 url: /halol/
-latitude: 33.3119347
-longitude: 76.189633
+latitude: 22.556
+longitude: 73.458
 ---

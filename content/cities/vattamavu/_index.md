@@ -1,6 +1,6 @@
 ---
 title: Vattamavu
 url: /vattamavu/
-latitude: 
-longitude: 
+latitude: 10.719
+longitude: 76.081
 ---

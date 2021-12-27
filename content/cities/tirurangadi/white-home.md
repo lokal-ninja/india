@@ -1,5 +1,5 @@
 ---
 title: "White Home"
 url: /tirurangadi/white-home/
-shop: hardware
+shop: Eisenwaren
 ---

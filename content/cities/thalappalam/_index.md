@@ -1,6 +1,6 @@
 ---
 title: Thalappalam
 url: /thalappalam/
-latitude: 
-longitude: 
+latitude: 9.706
+longitude: 76.774
 ---

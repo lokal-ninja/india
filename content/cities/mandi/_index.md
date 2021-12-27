@@ -1,6 +1,6 @@
 ---
 title: Mandi
 url: /mandi/
-latitude: 31.7084496
-longitude: 76.9293782
+latitude: 31.709
+longitude: 76.928
 ---
