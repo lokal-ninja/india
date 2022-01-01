@@ -1,5 +1,5 @@
 ---
 title: "Supplyco Store"
 url: /kolathur/supplyco-store/
-shop: Supermarkt
+shop: Lebensmittel
 ---

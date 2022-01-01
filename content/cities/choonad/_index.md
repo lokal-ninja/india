@@ -1,6 +1,6 @@
 ---
-title: CHOONAD
+title: Choonad
 url: /choonad/
-latitude: 9.139
-longitude: 76.548
+latitude: 9.141
+longitude: 76.554
 ---

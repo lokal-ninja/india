@@ -1,6 +1,6 @@
 ---
 title: Thamarakulam
 url: /thamarakulam/
-latitude: 9.144
-longitude: 76.613
+latitude: 9.146
+longitude: 76.618
 ---
