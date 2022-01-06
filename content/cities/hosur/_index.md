@@ -1,6 +1,6 @@
 ---
 title: Hosur
 url: /hosur/
-latitude: 12.761
-longitude: 77.792
+latitude: 12.748
+longitude: 77.812
 ---

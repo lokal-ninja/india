@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /maravanthuruthu/ration-shop-9/
+url: /areacode/ration-shop/
 shop: Lebensmittel
 ---

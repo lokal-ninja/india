@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /tachottukavu/ration-shop/
+url: /areacode/ration-shop-2/
 shop: Lebensmittel
 ---

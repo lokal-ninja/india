@@ -1,6 +1,6 @@
 ---
 title: Areekode
 url: /areekode/
-latitude: 11.229
-longitude: 76.023
+latitude: 11.247
+longitude: 76.05
 ---
