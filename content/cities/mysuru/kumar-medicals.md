@@ -1,5 +1,5 @@
 ---
 title: "Kumar Medicals"
 url: /mysuru/kumar-medicals/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "reliance mobile store"
 url: /mumbai/reliance-mobile-store/
-shop: Handy
+shop: mobile phone
 ---

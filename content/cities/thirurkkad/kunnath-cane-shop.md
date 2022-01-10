@@ -1,5 +1,5 @@
 ---
 title: "Kunnath Cane Shop"
 url: /thirurkkad/kunnath-cane-shop/
-shop: Allgemein
+shop: shop
 ---

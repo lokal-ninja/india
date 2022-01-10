@@ -1,5 +1,5 @@
 ---
 title: "Kairali Stores"
 url: /kozhikode/kairali-stores/
-shop: Allgemein
+shop: shop
 ---

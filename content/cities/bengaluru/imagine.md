@@ -1,5 +1,5 @@
 ---
 title: "iMagine"
 url: /bengaluru/imagine/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MM Store"
 url: /tirur/mm-store/
-shop: Allgemein
+shop: shop
 ---

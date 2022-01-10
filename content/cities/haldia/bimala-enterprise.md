@@ -1,5 +1,5 @@
 ---
 title: "Bimala Enterprise"
 url: /haldia/bimala-enterprise/
-shop: Allgemein
+shop: shop
 ---

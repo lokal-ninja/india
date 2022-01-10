@@ -1,5 +1,5 @@
 ---
 title: "National Sports Toys Gift"
 url: /thiruvananthapuram/national-sports-toys-gift/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dhanya super market"
 url: /kollam/dhanya-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

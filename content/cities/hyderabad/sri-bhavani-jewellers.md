@@ -1,5 +1,5 @@
 ---
 title: "Sri Bhavani Jewellers"
 url: /hyderabad/sri-bhavani-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

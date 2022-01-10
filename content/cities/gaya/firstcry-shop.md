@@ -1,5 +1,5 @@
 ---
 title: "Firstcry shop"
 url: /gaya/firstcry-shop/
-shop: Babysachen
+shop: baby goods
 ---

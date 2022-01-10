@@ -1,5 +1,5 @@
 ---
 title: "Rajbi"
 url: /indore/rajbi/
-shop: Eisenwaren
+shop: hardware
 ---

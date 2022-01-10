@@ -1,5 +1,5 @@
 ---
 title: "Go fashion"
 url: /bangalore/go-fashion/
-shop: Kleidung
+shop: clothes
 ---

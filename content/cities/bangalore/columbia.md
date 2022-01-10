@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /bangalore/columbia/
-shop: Sport
+shop: sports
 ---

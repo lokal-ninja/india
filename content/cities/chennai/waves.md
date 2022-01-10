@@ -1,5 +1,5 @@
 ---
 title: "Waves"
 url: /chennai/waves/
-shop: Kleidung
+shop: clothes
 ---

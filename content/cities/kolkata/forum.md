@@ -1,5 +1,5 @@
 ---
 title: "Forum"
 url: /kolkata/forum/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MSIL"
 url: /kengeri-satellite-town/msil/
-shop: Spirituosen
+shop: alcohol
 ---

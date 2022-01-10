@@ -1,5 +1,5 @@
 ---
 title: "Grameena Vaidyashala"
 url: /kechery/grameena-vaidyashala/
-shop: Allgemein
+shop: shop
 ---

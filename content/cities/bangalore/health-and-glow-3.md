@@ -1,5 +1,5 @@
 ---
-title: "Health And Glow"
+title: "Health & Glow"
 url: /bangalore/health-and-glow-3/
-shop: Kosmetik
+shop: beauty
 ---

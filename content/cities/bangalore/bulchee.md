@@ -1,5 +1,5 @@
 ---
 title: "Bulchee"
 url: /bangalore/bulchee/
-shop: Modehaus
+shop: boutique
 ---

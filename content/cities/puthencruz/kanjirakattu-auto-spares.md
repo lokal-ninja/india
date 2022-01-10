@@ -1,5 +1,5 @@
 ---
 title: "Kanjirakattu Auto Spares"
 url: /puthencruz/kanjirakattu-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

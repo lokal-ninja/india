@@ -1,5 +1,5 @@
 ---
 title: "sree krishna stores"
 url: /karayogapadi/sree-krishna-stores/
-shop: Allgemein
+shop: shop
 ---

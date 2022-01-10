@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /thane/accessorize/
-shop: Schuhe
+shop: shoes
 ---

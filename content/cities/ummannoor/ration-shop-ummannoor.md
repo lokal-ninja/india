@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Ummannoor"
 url: /ummannoor/ration-shop-ummannoor/
-shop: Lebensmittel
+shop: convenience
 ---

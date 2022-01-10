@@ -1,5 +1,5 @@
 ---
 title: "FabIndia"
 url: /khar-west-mumbai/fabindia/
-shop: Kleidung
+shop: clothes
 ---

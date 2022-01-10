@@ -1,5 +1,5 @@
 ---
 title: "bossini"
 url: /bengaluru/bossini/
-shop: Kleidung
+shop: clothes
 ---

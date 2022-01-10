@@ -1,5 +1,5 @@
 ---
 title: "Meow"
 url: /kottarakara/meow/
-shop: Modehaus
+shop: boutique
 ---

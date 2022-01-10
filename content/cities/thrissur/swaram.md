@@ -1,5 +1,5 @@
 ---
 title: "Swaram"
 url: /thrissur/swaram/
-shop: Allgemein
+shop: shop
 ---

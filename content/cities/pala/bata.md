@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /pala/bata/
-shop: Schuhe
+shop: shoes
 ---

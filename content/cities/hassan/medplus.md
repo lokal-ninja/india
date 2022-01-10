@@ -1,5 +1,5 @@
 ---
 title: "MedPlus"
 url: /hassan/medplus/
-shop: Allgemein
+shop: shop
 ---

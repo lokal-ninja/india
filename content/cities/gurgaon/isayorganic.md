@@ -1,5 +1,5 @@
 ---
 title: "ISayOrganic"
 url: /gurgaon/isayorganic/
-shop: Supermarkt
+shop: supermarket
 ---

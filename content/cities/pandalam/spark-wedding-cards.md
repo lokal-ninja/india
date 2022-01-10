@@ -1,5 +1,5 @@
 ---
 title: "Spark Wedding Cards"
 url: /pandalam/spark-wedding-cards/
-shop: Schreibwaren
+shop: office supplies
 ---

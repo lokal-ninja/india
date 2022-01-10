@@ -1,5 +1,5 @@
 ---
 title: "Thareefa Mobile Shop"
 url: /bharath-nagar-east-vennakkara-nurani-palakkad-kerala/thareefa-mobile-shop/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /bengaluru/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

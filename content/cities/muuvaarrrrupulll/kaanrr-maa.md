@@ -1,5 +1,5 @@
 ---
 title: "കാന്റൺ മാൾ"
 url: /muuvaarrrrupulll/kaanrr-maa/
-shop: Einkaufszentrum
+shop: mall
 ---

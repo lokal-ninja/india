@@ -1,5 +1,5 @@
 ---
 title: "Advaith Hyundai Service"
 url: /mahadevapura-bangalore/advaith-hyundai-service/
-shop: Autohaus
+shop: car
 ---

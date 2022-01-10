@@ -1,5 +1,5 @@
 ---
 title: "Mother Care"
 url: /raipur/mother-care/
-shop: Babysachen
+shop: baby goods
 ---

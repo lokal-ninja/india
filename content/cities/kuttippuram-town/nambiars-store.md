@@ -1,5 +1,5 @@
 ---
 title: "Nambiars Store"
 url: /kuttippuram-town/nambiars-store/
-shop: Lebensmittel
+shop: convenience
 ---

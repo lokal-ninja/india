@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /dehradun/firstcry/
-shop: Babysachen
+shop: baby goods
 ---

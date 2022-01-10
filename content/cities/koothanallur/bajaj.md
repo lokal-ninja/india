@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /koothanallur/bajaj/
-shop: Motorrad
+shop: motorcycle
 ---

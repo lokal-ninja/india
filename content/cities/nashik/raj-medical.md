@@ -1,5 +1,5 @@
 ---
 title: "Raj Medical"
 url: /nashik/raj-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

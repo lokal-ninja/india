@@ -1,5 +1,5 @@
 ---
 title: "atharuman shop"
 url: /chittar/atharuman-shop/
-shop: Schreibwaren
+shop: office supplies
 ---

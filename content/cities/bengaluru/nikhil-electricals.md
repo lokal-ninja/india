@@ -1,5 +1,5 @@
 ---
 title: "Nikhil Electricals"
 url: /bengaluru/nikhil-electricals/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Full Range"
 url: /tirurangadi/full-range/
-shop: Handy
+shop: mobile phone
 ---

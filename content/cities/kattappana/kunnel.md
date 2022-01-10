@@ -1,5 +1,5 @@
 ---
 title: "Kunnel"
 url: /kattappana/kunnel/
-shop: Autoteile
+shop: car parts
 ---

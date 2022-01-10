@@ -1,5 +1,5 @@
 ---
 title: "MS Electricals"
 url: /palakkad/ms-electricals/
-shop: Elektrisch
+shop: electrical
 ---

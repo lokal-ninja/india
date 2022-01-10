@@ -1,5 +1,5 @@
 ---
 title: "Kurumathu Store"
 url: /thodupuzha/kurumathu-store-2/
-shop: Kramladen
+shop: variety store
 ---

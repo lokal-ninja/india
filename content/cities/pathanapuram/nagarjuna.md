@@ -1,5 +1,5 @@
 ---
 title: "Nagarjuna"
 url: /pathanapuram/nagarjuna/
-shop: Sanitätshaus
+shop: medical supply
 ---

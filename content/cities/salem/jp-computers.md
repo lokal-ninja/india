@@ -1,5 +1,5 @@
 ---
 title: "JP Computers"
 url: /salem/jp-computers/
-shop: Computer
+shop: computer
 ---

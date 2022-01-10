@@ -1,5 +1,5 @@
 ---
 title: "Prabha Sweets"
 url: /ooty/prabha-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

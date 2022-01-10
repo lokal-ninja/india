@@ -1,5 +1,5 @@
 ---
 title: "Kharibavli.com"
 url: /delhi/kharibavli-com/
-shop: Supermarkt
+shop: supermarket
 ---

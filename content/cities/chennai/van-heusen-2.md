@@ -1,5 +1,5 @@
 ---
 title: "Van Heusen"
 url: /chennai/van-heusen-2/
-shop: Kleidung
+shop: clothes
 ---

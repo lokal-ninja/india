@@ -1,5 +1,5 @@
 ---
 title: "Kavalam Medicals"
 url: /kurishummoodu/kavalam-medicals/
-shop: Drogerie
+shop: chemist
 ---

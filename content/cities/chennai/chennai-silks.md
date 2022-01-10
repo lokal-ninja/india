@@ -1,5 +1,5 @@
 ---
 title: "Chennai Silks"
 url: /chennai/chennai-silks/
-shop: Kleidung
+shop: clothes
 ---

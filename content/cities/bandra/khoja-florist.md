@@ -1,5 +1,5 @@
 ---
 title: "Khoja Florist"
 url: /bandra/khoja-florist/
-shop: Blumen
+shop: florist
 ---

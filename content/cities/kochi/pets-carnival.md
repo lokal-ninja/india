@@ -1,5 +1,5 @@
 ---
 title: "Pet's Carnival"
 url: /kochi/pets-carnival/
-shop: Tiere
+shop: pet
 ---

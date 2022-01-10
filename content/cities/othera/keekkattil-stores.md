@@ -1,5 +1,5 @@
 ---
 title: "keekkattil stores"
 url: /othera/keekkattil-stores/
-shop: Allgemein
+shop: shop
 ---

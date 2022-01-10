@@ -1,5 +1,5 @@
 ---
 title: "Satya Supermart"
 url: /sakti/satya-supermart/
-shop: Supermarkt
+shop: supermarket
 ---

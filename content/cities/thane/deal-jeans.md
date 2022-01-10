@@ -1,5 +1,5 @@
 ---
 title: "Deal Jeans"
 url: /thane/deal-jeans/
-shop: Kleidung
+shop: clothes
 ---

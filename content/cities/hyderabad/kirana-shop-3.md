@@ -1,5 +1,5 @@
 ---
 title: "Kirana shop"
 url: /hyderabad/kirana-shop-3/
-shop: Allgemein
+shop: shop
 ---

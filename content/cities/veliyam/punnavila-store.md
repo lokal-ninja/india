@@ -1,5 +1,5 @@
 ---
 title: "Punnavila Store"
 url: /veliyam/punnavila-store/
-shop: Dorfladen
+shop: general
 ---

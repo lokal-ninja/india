@@ -1,5 +1,5 @@
 ---
 title: "Emerald Signs"
 url: /pandalam/emerald-signs/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SS ELECTRIC GOODS"
 url: /robertsganj/ss-electric-goods/
-shop: Elektronik
+shop: electronics
 ---

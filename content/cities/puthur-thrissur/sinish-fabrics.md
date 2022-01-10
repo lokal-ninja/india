@@ -1,5 +1,5 @@
 ---
 title: "Sinish Fabrics"
 url: /puthur-thrissur/sinish-fabrics/
-shop: Allgemein
+shop: shop
 ---

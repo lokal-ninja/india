@@ -1,5 +1,5 @@
 ---
 title: "Naeem Communications"
 url: /bandra-mumbai/naeem-communications/
-shop: Handy
+shop: mobile phone
 ---

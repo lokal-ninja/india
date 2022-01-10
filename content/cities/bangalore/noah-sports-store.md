@@ -1,5 +1,5 @@
 ---
 title: "Noah Sports Store"
 url: /bangalore/noah-sports-store/
-shop: Sport
+shop: sports
 ---

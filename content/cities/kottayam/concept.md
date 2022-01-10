@@ -1,5 +1,5 @@
 ---
 title: "Concept"
 url: /kottayam/concept/
-shop: Raumausstattung
+shop: interior decoration
 ---

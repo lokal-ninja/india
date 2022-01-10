@@ -1,5 +1,5 @@
 ---
 title: "RCM STORE NEENDOOR"
 url: /ettumanoor/rcm-store-neendoor/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kallans Kavana"
 url: /madakkathanam/kallans-kavana/
-shop: Garten-Center
+shop: garden centre
 ---

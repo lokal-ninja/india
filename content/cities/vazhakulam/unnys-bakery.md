@@ -1,5 +1,5 @@
 ---
 title: "Unny's Bakery"
 url: /vazhakulam/unnys-bakery/
-shop: Bäckerei
+shop: bakery
 ---

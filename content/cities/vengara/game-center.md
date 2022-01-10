@@ -1,5 +1,5 @@
 ---
 title: "Game center"
 url: /vengara/game-center/
-shop: Videospiele
+shop: video games
 ---

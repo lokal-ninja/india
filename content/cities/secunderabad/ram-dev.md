@@ -1,5 +1,5 @@
 ---
 title: "RAM DEV"
 url: /secunderabad/ram-dev/
-shop: Lebensmittel
+shop: convenience
 ---

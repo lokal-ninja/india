@@ -1,5 +1,5 @@
 ---
 title: "Spark Gear"
 url: /rajshahi/spark-gear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Anaj Mandi"
 url: /gangapur-city/new-anaj-mandi/
-shop: Supermarkt
+shop: supermarket
 ---

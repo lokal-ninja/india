@@ -1,5 +1,5 @@
 ---
 title: "Fruta"
 url: /fort-kochi/fruta/
-shop: Getränke
+shop: beverages
 ---

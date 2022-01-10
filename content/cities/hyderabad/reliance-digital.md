@@ -1,5 +1,5 @@
 ---
 title: "RELIANCE DIGITAL"
 url: /hyderabad/reliance-digital/
-shop: Elektronik
+shop: electronics
 ---

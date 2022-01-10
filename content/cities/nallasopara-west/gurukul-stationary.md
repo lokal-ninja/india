@@ -1,5 +1,5 @@
 ---
 title: "Gurukul Stationary"
 url: /nallasopara-west/gurukul-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

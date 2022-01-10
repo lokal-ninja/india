@@ -1,5 +1,5 @@
 ---
 title: "SMS Super Market"
 url: /chennai/sms-super-market/
-shop: Lebensmittel
+shop: convenience
 ---

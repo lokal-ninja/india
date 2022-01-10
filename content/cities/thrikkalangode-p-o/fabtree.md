@@ -1,5 +1,5 @@
 ---
 title: "Fabtree"
 url: /thrikkalangode-p-o/fabtree/
-shop: Kleidung
+shop: clothes
 ---

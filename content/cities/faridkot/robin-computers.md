@@ -1,5 +1,5 @@
 ---
 title: "Robin Computers"
 url: /faridkot/robin-computers/
-shop: Computer
+shop: computer
 ---

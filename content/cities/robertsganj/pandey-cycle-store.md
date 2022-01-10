@@ -1,5 +1,5 @@
 ---
 title: "Pandey Cycle Store"
 url: /robertsganj/pandey-cycle-store/
-shop: Fahrrad
+shop: bicycle
 ---

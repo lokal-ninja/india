@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /trivandrum/volkswagen/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweet Bengal"
 url: /thane/sweet-bengal/
-shop: Allgemein
+shop: shop
 ---

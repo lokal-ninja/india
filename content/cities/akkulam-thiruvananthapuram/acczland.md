@@ -1,5 +1,5 @@
 ---
 title: "AccZland"
 url: /akkulam-thiruvananthapuram/acczland/
-shop: Autoteile
+shop: car parts
 ---

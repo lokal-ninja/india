@@ -1,5 +1,5 @@
 ---
 title: "Pratap Super Market"
 url: /yemmiganur/pratap-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattathil Priya Jewellery"
 url: /pala/mattathil-priya-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

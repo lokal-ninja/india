@@ -1,5 +1,5 @@
 ---
 title: "dinesh hardwares"
 url: /ernakulam/dinesh-hardwares/
-shop: Eisenwaren
+shop: hardware
 ---

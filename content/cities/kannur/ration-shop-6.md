@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kannur/ration-shop-6/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seed Farm Kankol"
 url: /kankol/seed-farm-kankol/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

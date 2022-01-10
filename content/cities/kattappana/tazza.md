@@ -1,5 +1,5 @@
 ---
 title: "Tazza"
 url: /kattappana/tazza/
-shop: Türen
+shop: doors
 ---

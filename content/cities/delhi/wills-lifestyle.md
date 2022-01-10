@@ -1,5 +1,5 @@
 ---
 title: "Wills Lifestyle"
 url: /delhi/wills-lifestyle/
-shop: Kleidung
+shop: clothes
 ---

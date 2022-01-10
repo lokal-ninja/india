@@ -1,5 +1,5 @@
 ---
 title: "I-planet"
 url: /bangalore/i-planet/
-shop: Elektronik
+shop: electronics
 ---

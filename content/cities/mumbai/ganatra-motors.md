@@ -1,5 +1,5 @@
 ---
 title: "Ganatra Motors"
 url: /mumbai/ganatra-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

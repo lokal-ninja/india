@@ -1,5 +1,5 @@
 ---
 title: "manama"
 url: /kanhangad/manama/
-shop: Bäckerei
+shop: bakery
 ---

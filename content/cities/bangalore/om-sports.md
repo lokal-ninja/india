@@ -1,5 +1,5 @@
 ---
 title: "Om sports"
 url: /bangalore/om-sports/
-shop: Sport
+shop: sports
 ---

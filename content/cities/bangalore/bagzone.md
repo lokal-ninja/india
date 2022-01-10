@@ -1,5 +1,5 @@
 ---
 title: "Bagzone"
 url: /bangalore/bagzone/
-shop: Taschen & Koffer
+shop: bag
 ---

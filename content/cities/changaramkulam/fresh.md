@@ -1,5 +1,5 @@
 ---
 title: "Fresh"
 url: /changaramkulam/fresh/
-shop: Supermarkt
+shop: supermarket
 ---

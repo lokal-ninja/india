@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /bangalore/celio/
-shop: Allgemein
+shop: shop
 ---

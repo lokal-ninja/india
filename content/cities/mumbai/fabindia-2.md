@@ -1,5 +1,5 @@
 ---
 title: "FabIndia"
 url: /mumbai/fabindia-2/
-shop: Allgemein
+shop: shop
 ---

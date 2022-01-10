@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /pancode/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

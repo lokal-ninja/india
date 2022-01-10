@@ -1,5 +1,5 @@
 ---
 title: "chokli medical hospital pharmacy"
 url: /chockli/chokli-medical-hospital-pharmacy/
-shop: Sanitätshaus
+shop: medical supply
 ---

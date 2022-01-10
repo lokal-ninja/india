@@ -1,5 +1,5 @@
 ---
 title: "Neeru's"
 url: /bangalore/neerus/
-shop: Kleidung
+shop: clothes
 ---

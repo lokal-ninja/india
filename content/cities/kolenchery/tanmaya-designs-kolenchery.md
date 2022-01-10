@@ -1,5 +1,5 @@
 ---
 title: "Tanmaya Designs,Kolenchery"
 url: /kolenchery/tanmaya-designs-kolenchery/
-shop: Kleidung
+shop: clothes
 ---

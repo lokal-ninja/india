@@ -1,5 +1,5 @@
 ---
 title: "Tailor shop"
 url: /konni/tailor-shop/
-shop: Schneiderei
+shop: tailor
 ---

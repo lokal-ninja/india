@@ -1,5 +1,5 @@
 ---
 title: "Reliance trends"
 url: /kakinada-andhra-pradesh/reliance-trends/
-shop: Kleidung
+shop: clothes
 ---

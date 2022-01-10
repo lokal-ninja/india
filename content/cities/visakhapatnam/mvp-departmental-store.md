@@ -1,5 +1,5 @@
 ---
 title: "mvp departmental store"
 url: /visakhapatnam/mvp-departmental-store/
-shop: Warenhaus
+shop: department store
 ---

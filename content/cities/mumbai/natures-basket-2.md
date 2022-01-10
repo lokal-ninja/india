@@ -1,5 +1,5 @@
 ---
 title: "Nature's Basket"
 url: /mumbai/natures-basket-2/
-shop: Supermarkt
+shop: supermarket
 ---

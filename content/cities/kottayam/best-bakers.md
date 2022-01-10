@@ -1,5 +1,5 @@
 ---
 title: "best bakers"
 url: /kottayam/best-bakers/
-shop: Bäckerei
+shop: bakery
 ---

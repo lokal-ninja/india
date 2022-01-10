@@ -1,5 +1,5 @@
 ---
 title: "JRS Hyper Market"
 url: /odanavattom/jrs-hyper-market/
-shop: Supermarkt
+shop: supermarket
 ---

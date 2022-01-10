@@ -1,5 +1,5 @@
 ---
 title: "Kundoor Ration Shop"
 url: /mala/kundoor-ration-shop/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

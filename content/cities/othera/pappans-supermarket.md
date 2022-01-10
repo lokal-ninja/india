@@ -1,5 +1,5 @@
 ---
 title: "pappan's supermarket"
 url: /othera/pappans-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

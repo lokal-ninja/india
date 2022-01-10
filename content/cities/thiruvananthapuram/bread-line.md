@@ -1,5 +1,5 @@
 ---
 title: "Bread Line"
 url: /thiruvananthapuram/bread-line/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noika priority"
 url: /bangalore/noika-priority/
-shop: Handy
+shop: mobile phone
 ---

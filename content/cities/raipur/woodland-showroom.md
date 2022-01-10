@@ -1,5 +1,5 @@
 ---
 title: "Woodland Showroom"
 url: /raipur/woodland-showroom/
-shop: Allgemein
+shop: shop
 ---

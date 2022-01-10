@@ -1,5 +1,5 @@
 ---
 title: "Sanjivani Communication"
 url: /delhi/sanjivani-communication/
-shop: Handy
+shop: mobile phone
 ---

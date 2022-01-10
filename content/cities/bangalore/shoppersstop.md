@@ -1,5 +1,5 @@
 ---
 title: "Shoppersstop"
 url: /bangalore/shoppersstop/
-shop: Kleidung
+shop: clothes
 ---

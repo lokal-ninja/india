@@ -1,5 +1,5 @@
 ---
 title: "DIZ Tyres"
 url: /bengaluru/diz-tyres/
-shop: Reifen
+shop: tyres
 ---

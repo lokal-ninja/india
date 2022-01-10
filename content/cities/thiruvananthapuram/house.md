@@ -1,5 +1,5 @@
 ---
 title: "House"
 url: /thiruvananthapuram/house/
-shop: Kleidung
+shop: clothes
 ---

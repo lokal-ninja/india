@@ -1,5 +1,5 @@
 ---
 title: "Tools rental"
 url: /manakkala/tools-rental/
-shop: Mieten
+shop: storage rental
 ---

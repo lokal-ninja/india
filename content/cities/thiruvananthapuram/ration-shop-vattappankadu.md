@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Vattappankadu"
 url: /thiruvananthapuram/ration-shop-vattappankadu/
-shop: Lebensmittel
+shop: convenience
 ---

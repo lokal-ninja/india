@@ -1,5 +1,5 @@
 ---
 title: "kmark"
 url: /edappally/kmark/
-shop: Supermarkt
+shop: supermarket
 ---

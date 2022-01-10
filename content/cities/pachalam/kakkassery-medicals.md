@@ -1,5 +1,5 @@
 ---
 title: "Kakkassery Medicals"
 url: /pachalam/kakkassery-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

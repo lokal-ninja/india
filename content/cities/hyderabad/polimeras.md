@@ -1,5 +1,5 @@
 ---
 title: "Polimeras"
 url: /hyderabad/polimeras/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madanlal Brijmohan"
 url: /jalpaiguri/madanlal-brijmohan/
-shop: Kleidung
+shop: clothes
 ---

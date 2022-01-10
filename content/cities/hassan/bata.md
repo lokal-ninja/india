@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /hassan/bata/
-shop: Schuhe
+shop: shoes
 ---

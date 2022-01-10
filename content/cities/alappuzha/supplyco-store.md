@@ -1,5 +1,5 @@
 ---
 title: "Supplyco Store"
 url: /alappuzha/supplyco-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AB Carport A Car Acessory Shop"
 url: /kollam/ab-carport-a-car-acessory-shop/
-shop: Autoteile
+shop: car parts
 ---

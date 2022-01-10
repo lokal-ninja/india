@@ -1,5 +1,5 @@
 ---
 title: "civil supplyco"
 url: /kanhangad/civil-supplyco/
-shop: Allgemein
+shop: shop
 ---

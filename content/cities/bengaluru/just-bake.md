@@ -1,5 +1,5 @@
 ---
 title: "Just Bake"
 url: /bengaluru/just-bake/
-shop: Bäckerei
+shop: bakery
 ---

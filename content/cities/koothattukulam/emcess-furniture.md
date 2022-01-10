@@ -1,5 +1,5 @@
 ---
 title: "Emcess Furniture"
 url: /koothattukulam/emcess-furniture/
-shop: Möbel
+shop: furniture
 ---

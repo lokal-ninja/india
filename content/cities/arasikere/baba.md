@@ -1,5 +1,5 @@
 ---
 title: "baba"
 url: /arasikere/baba/
-shop: Supermarkt
+shop: supermarket
 ---

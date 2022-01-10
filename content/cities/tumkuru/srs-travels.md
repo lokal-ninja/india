@@ -1,5 +1,5 @@
 ---
 title: "SRS travels"
 url: /tumkuru/srs-travels/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sky weelz"
 url: /kechery/sky-weelz/
-shop: Autowerkstatt
+shop: car repair
 ---

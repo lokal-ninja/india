@@ -1,5 +1,5 @@
 ---
 title: "Pantaloons"
 url: /haldia/pantaloons/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Soch"
 url: /bangalore/soch-3/
-shop: Kleidung
+shop: clothes
 ---

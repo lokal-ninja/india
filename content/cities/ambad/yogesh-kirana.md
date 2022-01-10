@@ -1,5 +1,5 @@
 ---
 title: "Yogesh Kirana"
 url: /ambad/yogesh-kirana/
-shop: Allgemein
+shop: shop
 ---

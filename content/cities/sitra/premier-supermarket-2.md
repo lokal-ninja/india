@@ -1,5 +1,5 @@
 ---
 title: "Premier Supermarket"
 url: /sitra/premier-supermarket-2/
-shop: Supermarkt
+shop: supermarket
 ---

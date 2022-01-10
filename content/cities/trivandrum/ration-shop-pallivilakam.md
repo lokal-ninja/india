@@ -1,5 +1,5 @@
 ---
 title: "Ration shop, Pallivilakam"
 url: /trivandrum/ration-shop-pallivilakam/
-shop: Lebensmittel
+shop: convenience
 ---

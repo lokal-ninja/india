@@ -1,5 +1,5 @@
 ---
 title: "Kerala Beverage Corporation"
 url: /ernakulam/kerala-beverage-corporation/
-shop: Getränke
+shop: beverages
 ---

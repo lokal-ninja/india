@@ -1,5 +1,5 @@
 ---
 title: "Spyder"
 url: /tanur/spyder/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sarath City Capital Mall"
 url: /hyderabad/sarath-city-capital-mall/
-shop: Supermarkt
+shop: supermarket
 ---

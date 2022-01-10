@@ -1,5 +1,5 @@
 ---
 title: "Gini $ Jony"
 url: /raipur/gini-jony/
-shop: Modehaus
+shop: boutique
 ---

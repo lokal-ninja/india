@@ -1,5 +1,5 @@
 ---
 title: "Saina Textiles"
 url: /kolenchery/saina-textiles/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Empress Mall"
 url: /nagpur/empress-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

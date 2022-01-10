@@ -1,5 +1,5 @@
 ---
 title: "Kolarikkal Stores"
 url: /ernakulam/kolarikkal-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

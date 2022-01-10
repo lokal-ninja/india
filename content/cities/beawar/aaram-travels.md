@@ -1,5 +1,5 @@
 ---
 title: "Aaram Travels"
 url: /beawar/aaram-travels/
-shop: Reisebüro
+shop: travel agency
 ---

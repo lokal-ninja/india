@@ -1,5 +1,5 @@
 ---
 title: "Singhkidsmart"
 url: /talcher/singhkidsmart/
-shop: Babysachen
+shop: baby goods
 ---

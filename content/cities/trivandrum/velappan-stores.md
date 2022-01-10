@@ -1,5 +1,5 @@
 ---
 title: "Velappan stores"
 url: /trivandrum/velappan-stores/
-shop: Lebensmittel
+shop: convenience
 ---

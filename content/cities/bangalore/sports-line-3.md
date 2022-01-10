@@ -1,5 +1,5 @@
 ---
 title: "Sports line"
 url: /bangalore/sports-line-3/
-shop: Sport
+shop: sports
 ---

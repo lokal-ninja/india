@@ -1,5 +1,5 @@
 ---
 title: "World Of Titan"
 url: /chennai/world-of-titan/
-shop: Uhren
+shop: watches
 ---

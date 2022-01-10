@@ -1,5 +1,5 @@
 ---
 title: "Woodland"
 url: /thane/woodland/
-shop: Schuhe
+shop: shoes
 ---

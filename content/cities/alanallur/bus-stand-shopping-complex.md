@@ -1,5 +1,5 @@
 ---
 title: "Bus stand shopping complex"
 url: /alanallur/bus-stand-shopping-complex/
-shop: Allgemein
+shop: shop
 ---

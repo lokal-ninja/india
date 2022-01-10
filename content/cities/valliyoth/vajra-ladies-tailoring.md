@@ -1,5 +1,5 @@
 ---
 title: "Vajra Ladies Tailoring"
 url: /valliyoth/vajra-ladies-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

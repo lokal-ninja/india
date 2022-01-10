@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /varkala/ration-shop/
-shop: Allgemein
+shop: shop
 ---

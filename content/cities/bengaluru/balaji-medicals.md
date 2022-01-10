@@ -1,5 +1,5 @@
 ---
 title: "Balaji Medicals"
 url: /bengaluru/balaji-medicals/
-shop: Drogerie
+shop: chemist
 ---

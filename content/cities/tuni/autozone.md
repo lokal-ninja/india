@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tuni/autozone/
-shop: Autoteile
+shop: car parts
 ---

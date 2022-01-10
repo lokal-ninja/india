@@ -1,5 +1,5 @@
 ---
 title: "Neethi Medical Store"
 url: /puthuppally/neethi-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

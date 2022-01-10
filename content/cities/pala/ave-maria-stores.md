@@ -1,5 +1,5 @@
 ---
 title: "Ave Maria stores"
 url: /pala/ave-maria-stores/
-shop: Dorfladen
+shop: general
 ---

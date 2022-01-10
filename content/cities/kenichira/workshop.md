@@ -1,5 +1,5 @@
 ---
 title: "Workshop"
 url: /kenichira/workshop/
-shop: Motorrad
+shop: motorcycle
 ---

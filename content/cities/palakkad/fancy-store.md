@@ -1,5 +1,5 @@
 ---
 title: "fancy store"
 url: /palakkad/fancy-store/
-shop: Allgemein
+shop: shop
 ---

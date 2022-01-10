@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /kashipur/firstcry/
-shop: Babysachen
+shop: baby goods
 ---

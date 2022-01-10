@@ -1,5 +1,5 @@
 ---
 title: "electronic shop"
 url: /malappuram/electronic-shop/
-shop: Elektronik
+shop: electronics
 ---

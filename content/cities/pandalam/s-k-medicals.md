@@ -1,5 +1,5 @@
 ---
 title: "S K Medicals"
 url: /pandalam/s-k-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

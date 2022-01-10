@@ -1,5 +1,5 @@
 ---
 title: "Highway Supermarket"
 url: /odanavattom/highway-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

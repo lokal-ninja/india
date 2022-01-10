@@ -1,5 +1,5 @@
 ---
 title: "D.N. Jewellers"
 url: /mandsaur/d-n-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

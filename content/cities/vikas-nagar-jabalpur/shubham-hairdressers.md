@@ -1,5 +1,5 @@
 ---
 title: "Shubham Hairdressers"
 url: /vikas-nagar-jabalpur/shubham-hairdressers/
-shop: Friseur
+shop: hairdresser
 ---

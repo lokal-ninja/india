@@ -1,5 +1,5 @@
 ---
 title: "CHUMBAK"
 url: /bangalore/chumbak/
-shop: Modehaus
+shop: boutique
 ---

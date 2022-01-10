@@ -1,5 +1,5 @@
 ---
 title: "Avon Electronics"
 url: /bhilai/avon-electronics/
-shop: Elektronik
+shop: electronics
 ---

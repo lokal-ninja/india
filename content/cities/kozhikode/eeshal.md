@@ -1,5 +1,5 @@
 ---
 title: "Eeshal"
 url: /kozhikode/eeshal/
-shop: Kleidung
+shop: clothes
 ---

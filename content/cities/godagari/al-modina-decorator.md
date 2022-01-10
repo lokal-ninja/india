@@ -1,5 +1,5 @@
 ---
 title: "Al MODINA DECORATOR"
 url: /godagari/al-modina-decorator/
-shop: Raumausstattung
+shop: interior decoration
 ---

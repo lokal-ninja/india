@@ -1,5 +1,5 @@
 ---
 title: "orange tailoring"
 url: /ranni/orange-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

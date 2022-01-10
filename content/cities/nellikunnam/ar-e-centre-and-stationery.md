@@ -1,5 +1,5 @@
 ---
 title: "AR e-Centre and Stationery"
 url: /nellikunnam/ar-e-centre-and-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

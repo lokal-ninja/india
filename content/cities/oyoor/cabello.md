@@ -1,5 +1,5 @@
 ---
 title: "Cabello"
 url: /oyoor/cabello/
-shop: Friseur
+shop: hairdresser
 ---

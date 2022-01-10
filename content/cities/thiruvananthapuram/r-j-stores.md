@@ -1,5 +1,5 @@
 ---
 title: "R J Stores"
 url: /thiruvananthapuram/r-j-stores/
-shop: Lebensmittel
+shop: convenience
 ---

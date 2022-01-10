@@ -1,5 +1,5 @@
 ---
 title: "Fancy"
 url: /tirur/fancy/
-shop: Allgemein
+shop: shop
 ---

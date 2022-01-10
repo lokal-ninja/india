@@ -1,5 +1,5 @@
 ---
 title: "BN SUPERMARKET"
 url: /ayyikarapadi/bn-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

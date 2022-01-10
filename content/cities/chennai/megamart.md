@@ -1,5 +1,5 @@
 ---
 title: "Megamart"
 url: /chennai/megamart/
-shop: Kleidung
+shop: clothes
 ---

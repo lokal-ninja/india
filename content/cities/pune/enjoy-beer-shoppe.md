@@ -1,5 +1,5 @@
 ---
 title: "Enjoy Beer Shoppe"
 url: /pune/enjoy-beer-shoppe/
-shop: Spirituosen
+shop: alcohol
 ---

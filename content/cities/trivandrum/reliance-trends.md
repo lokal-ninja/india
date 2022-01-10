@@ -1,5 +1,5 @@
 ---
 title: "reliance trends"
 url: /trivandrum/reliance-trends/
-shop: Kleidung
+shop: clothes
 ---

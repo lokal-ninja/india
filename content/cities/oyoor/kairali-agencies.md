@@ -1,5 +1,5 @@
 ---
 title: "Kairali agencies"
 url: /oyoor/kairali-agencies/
-shop: Elektronik
+shop: electronics
 ---

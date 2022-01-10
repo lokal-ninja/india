@@ -1,5 +1,5 @@
 ---
 title: "ration shop"
 url: /anakkayam/ration-shop/
-shop: Allgemein
+shop: shop
 ---

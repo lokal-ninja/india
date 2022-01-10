@@ -1,5 +1,5 @@
 ---
 title: "Ration shop, Mampally"
 url: /attingal/ration-shop-mampally/
-shop: Lebensmittel
+shop: convenience
 ---

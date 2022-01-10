@@ -1,5 +1,5 @@
 ---
 title: "st.raphael supermarket"
 url: /kallur-thrissur/st-raphael-supermarket-2/
-shop: Supermarkt
+shop: supermarket
 ---

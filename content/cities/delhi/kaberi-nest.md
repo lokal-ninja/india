@@ -1,5 +1,5 @@
 ---
 title: "Kaberi Nest"
 url: /delhi/kaberi-nest/
-shop: Supermarkt
+shop: supermarket
 ---

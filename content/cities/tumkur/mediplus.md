@@ -1,5 +1,5 @@
 ---
 title: "Mediplus"
 url: /tumkur/mediplus/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thamburu Flowers"
 url: /kollam/thamburu-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Campus Mart"
 url: /bengaluru/campus-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "friends elecrical works"
 url: /pathanadu/friends-elecrical-works-2/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Updates"
 url: /chamravattam/updates/
-shop: Kleidung
+shop: clothes
 ---

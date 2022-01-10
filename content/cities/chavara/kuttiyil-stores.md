@@ -1,5 +1,5 @@
 ---
 title: "Kuttiyil Stores"
 url: /chavara/kuttiyil-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

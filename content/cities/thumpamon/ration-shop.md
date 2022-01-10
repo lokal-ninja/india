@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thumpamon/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

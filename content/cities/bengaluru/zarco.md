@@ -1,5 +1,5 @@
 ---
 title: "Zarco"
 url: /bengaluru/zarco/
-shop: Einkaufszentrum
+shop: mall
 ---

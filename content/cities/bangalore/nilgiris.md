@@ -1,5 +1,5 @@
 ---
 title: "Nilgiris"
 url: /bangalore/nilgiris/
-shop: Supermarkt
+shop: supermarket
 ---

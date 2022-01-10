@@ -1,5 +1,5 @@
 ---
 title: "Koolath"
 url: /chamravattam/koolath/
-shop: Supermarkt
+shop: supermarket
 ---

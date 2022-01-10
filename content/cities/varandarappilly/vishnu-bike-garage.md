@@ -1,5 +1,5 @@
 ---
 title: "Vishnu Bike Garage"
 url: /varandarappilly/vishnu-bike-garage/
-shop: Motorrad
+shop: motorcycle
 ---

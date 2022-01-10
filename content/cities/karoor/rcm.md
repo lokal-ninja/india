@@ -1,5 +1,5 @@
 ---
 title: "rcm"
 url: /karoor/rcm/
-shop: Lebensmittel
+shop: convenience
 ---

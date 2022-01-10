@@ -1,5 +1,5 @@
 ---
 title: "Specs Palace"
 url: /ernakulam/specs-palace/
-shop: Optiker
+shop: optician
 ---

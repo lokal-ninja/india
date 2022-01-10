@@ -1,5 +1,5 @@
 ---
 title: "Sai Crackers"
 url: /mehsana/sai-crackers/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

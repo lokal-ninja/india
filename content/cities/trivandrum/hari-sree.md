@@ -1,5 +1,5 @@
 ---
 title: "Hari Sree"
 url: /trivandrum/hari-sree/
-shop: Reifen
+shop: tyres
 ---

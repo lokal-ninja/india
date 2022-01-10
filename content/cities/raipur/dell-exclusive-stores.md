@@ -1,5 +1,5 @@
 ---
 title: "dell exclusive stores"
 url: /raipur/dell-exclusive-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renukha devi stores"
 url: /irinjalakuda/renukha-devi-stores/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chirag Plaza"
 url: /mahesana/chirag-plaza/
-shop: Supermarkt
+shop: supermarket
 ---

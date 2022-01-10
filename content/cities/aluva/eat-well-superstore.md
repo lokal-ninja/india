@@ -1,5 +1,5 @@
 ---
 title: "Eat Well Superstore"
 url: /aluva/eat-well-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

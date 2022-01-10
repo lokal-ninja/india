@@ -1,5 +1,5 @@
 ---
 title: "Adhya Jewelers"
 url: /raina/adhya-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andriya beauty parlour"
 url: /pathanadu/andriya-beauty-parlour-2/
-shop: Kosmetik
+shop: beauty
 ---

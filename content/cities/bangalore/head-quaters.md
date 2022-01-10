@@ -1,5 +1,5 @@
 ---
 title: "Head Quaters"
 url: /bangalore/head-quaters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Enfiend Showroom"
 url: /denkanikottai/royal-enfiend-showroom/
-shop: Motorrad
+shop: motorcycle
 ---

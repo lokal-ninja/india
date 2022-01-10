@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /hassan/more/
-shop: Supermarkt
+shop: supermarket
 ---

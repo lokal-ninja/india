@@ -1,5 +1,5 @@
 ---
 title: "Thottathil Agencies"
 url: /mannar/thottathil-agencies/
-shop: Elektrisch
+shop: electrical
 ---

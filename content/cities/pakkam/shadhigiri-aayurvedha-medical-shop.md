@@ -1,5 +1,5 @@
 ---
 title: "shadhigiri aayurvedha medical shop"
 url: /pakkam/shadhigiri-aayurvedha-medical-shop/
-shop: Sanitätshaus
+shop: medical supply
 ---

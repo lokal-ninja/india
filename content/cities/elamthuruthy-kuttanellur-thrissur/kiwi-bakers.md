@@ -1,5 +1,5 @@
 ---
 title: "Kiwi Bakers"
 url: /elamthuruthy-kuttanellur-thrissur/kiwi-bakers/
-shop: Bäckerei
+shop: bakery
 ---

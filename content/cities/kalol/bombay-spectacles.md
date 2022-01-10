@@ -1,5 +1,5 @@
 ---
 title: "Bombay spectacles"
 url: /kalol/bombay-spectacles/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thapasya chendamelam"
 url: /vellilamkandam/thapasya-chendamelam/
-shop: Kunst
+shop: art
 ---

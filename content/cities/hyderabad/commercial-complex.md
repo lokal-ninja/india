@@ -1,5 +1,5 @@
 ---
 title: "Commercial complex"
 url: /hyderabad/commercial-complex/
-shop: Lebensmittel
+shop: convenience
 ---

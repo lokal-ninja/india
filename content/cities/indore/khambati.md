@@ -1,5 +1,5 @@
 ---
 title: "Khambati"
 url: /indore/khambati/
-shop: Allgemein
+shop: shop
 ---

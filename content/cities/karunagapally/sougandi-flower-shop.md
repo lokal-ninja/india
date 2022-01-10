@@ -1,5 +1,5 @@
 ---
 title: "Sougandi Flower Shop"
 url: /karunagapally/sougandi-flower-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total mall"
 url: /chennai/total-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

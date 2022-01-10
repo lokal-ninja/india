@@ -1,5 +1,5 @@
 ---
 title: "Kiran Traders"
 url: /bangalore/kiran-traders/
-shop: Warenhaus
+shop: department store
 ---

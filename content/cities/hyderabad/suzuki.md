@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /hyderabad/suzuki/
-shop: Motorrad
+shop: motorcycle
 ---

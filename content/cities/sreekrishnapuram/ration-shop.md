@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /sreekrishnapuram/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

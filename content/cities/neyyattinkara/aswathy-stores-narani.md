@@ -1,5 +1,5 @@
 ---
 title: "Aswathy Stores,Narani"
 url: /neyyattinkara/aswathy-stores-narani/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven star Supermarket"
 url: /kankol/seven-star-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

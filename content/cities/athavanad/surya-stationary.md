@@ -1,5 +1,5 @@
 ---
 title: "Surya Stationary"
 url: /athavanad/surya-stationary/
-shop: Kiosk
+shop: kiosk
 ---

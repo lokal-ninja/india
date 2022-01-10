@@ -1,5 +1,5 @@
 ---
 title: "black berry"
 url: /raipur/black-berry/
-shop: Handy
+shop: mobile phone
 ---

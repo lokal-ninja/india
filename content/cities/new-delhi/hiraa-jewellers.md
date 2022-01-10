@@ -1,5 +1,5 @@
 ---
 title: "Hiraa Jewellers"
 url: /new-delhi/hiraa-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

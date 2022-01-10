@@ -1,5 +1,5 @@
 ---
 title: "devu stores"
 url: /kattappana/devu-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

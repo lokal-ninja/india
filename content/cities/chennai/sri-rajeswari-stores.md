@@ -1,5 +1,5 @@
 ---
 title: "Sri Rajeswari Stores"
 url: /chennai/sri-rajeswari-stores/
-shop: Supermarkt
+shop: supermarket
 ---

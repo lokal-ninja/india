@@ -1,5 +1,5 @@
 ---
 title: "Grace Supermarket"
 url: /chennai/grace-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

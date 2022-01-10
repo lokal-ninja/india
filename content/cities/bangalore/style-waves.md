@@ -1,5 +1,5 @@
 ---
 title: "Style Waves"
 url: /bangalore/style-waves/
-shop: Kosmetik
+shop: beauty
 ---

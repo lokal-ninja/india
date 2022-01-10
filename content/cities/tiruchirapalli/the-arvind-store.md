@@ -1,5 +1,5 @@
 ---
 title: "The Arvind Store"
 url: /tiruchirapalli/the-arvind-store/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mirror"
 url: /thiruvananthapuram-kerala/mirror/
-shop: Kosmetik
+shop: beauty
 ---

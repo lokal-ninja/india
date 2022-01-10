@@ -1,5 +1,5 @@
 ---
 title: "café kudumbashree"
 url: /fort-kochi/cafe-kudumbashree/
-shop: Getränke
+shop: beverages
 ---

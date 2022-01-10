@@ -1,5 +1,5 @@
 ---
 title: "medical shop"
 url: /tazhathuvadakara/medical-shop/
-shop: Sanitätshaus
+shop: medical supply
 ---

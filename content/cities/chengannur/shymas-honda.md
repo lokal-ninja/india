@@ -1,5 +1,5 @@
 ---
 title: "Shymas honda"
 url: /chengannur/shymas-honda/
-shop: Motorrad
+shop: motorcycle
 ---

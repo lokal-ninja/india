@@ -1,5 +1,5 @@
 ---
 title: "tours and travel"
 url: /muvattupuzha/tours-and-travel/
-shop: Reisebüro
+shop: travel agency
 ---

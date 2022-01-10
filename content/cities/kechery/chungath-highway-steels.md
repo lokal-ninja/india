@@ -1,5 +1,5 @@
 ---
 title: "Chungath Highway Steels"
 url: /kechery/chungath-highway-steels/
-shop: Allgemein
+shop: shop
 ---

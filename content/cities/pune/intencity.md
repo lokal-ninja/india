@@ -1,5 +1,5 @@
 ---
 title: "Intencity"
 url: /pune/intencity/
-shop: Videospiele
+shop: video games
 ---

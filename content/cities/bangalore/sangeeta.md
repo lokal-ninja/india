@@ -1,5 +1,5 @@
 ---
 title: "Sangeeta"
 url: /bangalore/sangeeta/
-shop: Handy
+shop: mobile phone
 ---

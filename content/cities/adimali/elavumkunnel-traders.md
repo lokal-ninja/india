@@ -1,5 +1,5 @@
 ---
 title: "Elavumkunnel Traders"
 url: /adimali/elavumkunnel-traders/
-shop: Schuhe
+shop: shoes
 ---

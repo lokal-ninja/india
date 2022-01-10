@@ -1,5 +1,5 @@
 ---
 title: "Swamy Medicals"
 url: /koduvayur/swamy-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

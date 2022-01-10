@@ -1,5 +1,5 @@
 ---
 title: "Karar Kadai"
 url: /vandiperiyar/karar-kadai/
-shop: Kleidung
+shop: clothes
 ---

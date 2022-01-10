@@ -1,5 +1,5 @@
 ---
 title: "Columbia sportwear"
 url: /bengaluru/columbia-sportwear/
-shop: Schuhe
+shop: shoes
 ---

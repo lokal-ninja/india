@@ -1,5 +1,5 @@
 ---
 title: "K P S"
 url: /chungam/k-p-s/
-shop: Supermarkt
+shop: supermarket
 ---

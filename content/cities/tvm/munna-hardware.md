@@ -1,5 +1,5 @@
 ---
 title: "Munna Hardware"
 url: /tvm/munna-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

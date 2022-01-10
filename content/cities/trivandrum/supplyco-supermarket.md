@@ -1,5 +1,5 @@
 ---
 title: "Supplyco Supermarket"
 url: /trivandrum/supplyco-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

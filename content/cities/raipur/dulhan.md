@@ -1,5 +1,5 @@
 ---
 title: "Dulhan"
 url: /raipur/dulhan/
-shop: Kleidung
+shop: clothes
 ---

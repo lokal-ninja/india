@@ -1,5 +1,5 @@
 ---
 title: "Reliance Digital"
 url: /narepally-hyderabad/reliance-digital/
-shop: Einkaufszentrum
+shop: mall
 ---

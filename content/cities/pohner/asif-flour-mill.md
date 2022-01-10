@@ -1,5 +1,5 @@
 ---
 title: "Asif Flour Mill"
 url: /pohner/asif-flour-mill/
-shop: Allgemein
+shop: shop
 ---

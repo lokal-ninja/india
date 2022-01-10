@@ -1,5 +1,5 @@
 ---
 title: "Reload Mens wear"
 url: /kattachira/reload-mens-wear/
-shop: Kleidung
+shop: clothes
 ---

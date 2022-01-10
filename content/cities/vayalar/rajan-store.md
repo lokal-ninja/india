@@ -1,5 +1,5 @@
 ---
 title: "Rajan Store"
 url: /vayalar/rajan-store/
-shop: Allgemein
+shop: shop
 ---

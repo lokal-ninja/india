@@ -1,5 +1,5 @@
 ---
 title: "Besto Kids Boutique"
 url: /edavannappara/besto-kids-boutique/
-shop: Kleidung
+shop: clothes
 ---

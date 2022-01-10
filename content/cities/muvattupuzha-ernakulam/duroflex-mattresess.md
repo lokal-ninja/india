@@ -1,5 +1,5 @@
 ---
 title: "duroflex mattresess"
 url: /muvattupuzha-ernakulam/duroflex-mattresess/
-shop: Betten
+shop: bed
 ---

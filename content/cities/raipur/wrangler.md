@@ -1,5 +1,5 @@
 ---
 title: "wrangler"
 url: /raipur/wrangler/
-shop: Kleidung
+shop: clothes
 ---

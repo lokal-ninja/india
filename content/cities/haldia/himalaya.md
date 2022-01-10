@@ -1,5 +1,5 @@
 ---
 title: "Himalaya"
 url: /haldia/himalaya/
-shop: Optiker
+shop: optician
 ---

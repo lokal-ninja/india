@@ -1,5 +1,5 @@
 ---
 title: "thamaravelil"
 url: /thiruvalla/thamaravelil/
-shop: Schreibwaren
+shop: office supplies
 ---

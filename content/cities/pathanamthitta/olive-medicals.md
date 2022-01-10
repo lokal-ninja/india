@@ -1,5 +1,5 @@
 ---
 title: "OLIVE MEDICALS"
 url: /pathanamthitta/olive-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

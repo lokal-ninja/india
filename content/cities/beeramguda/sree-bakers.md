@@ -1,5 +1,5 @@
 ---
 title: "Sree Bakers"
 url: /beeramguda/sree-bakers/
-shop: Bäckerei
+shop: bakery
 ---

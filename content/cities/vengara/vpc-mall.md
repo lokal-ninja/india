@@ -1,5 +1,5 @@
 ---
 title: "VPC MALL"
 url: /vengara/vpc-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

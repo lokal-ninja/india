@@ -1,5 +1,5 @@
 ---
 title: "Akshara Stores"
 url: /chengannur/akshara-stores/
-shop: Dorfladen
+shop: general
 ---

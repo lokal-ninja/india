@@ -1,5 +1,5 @@
 ---
 title: "Phoenix"
 url: /anchal/phoenix/
-shop: Computer
+shop: computer
 ---

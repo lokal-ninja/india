@@ -1,5 +1,5 @@
 ---
 title: "Spencers Super Market"
 url: /vadapalani/spencers-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

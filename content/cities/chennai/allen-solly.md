@@ -1,5 +1,5 @@
 ---
 title: "Allen Solly"
 url: /chennai/allen-solly/
-shop: Kleidung
+shop: clothes
 ---

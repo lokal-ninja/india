@@ -1,5 +1,5 @@
 ---
 title: "Bruce Lee Salon"
 url: /palakkad/bruce-lee-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asics"
 url: /thane/asics/
-shop: Schuhe
+shop: shoes
 ---

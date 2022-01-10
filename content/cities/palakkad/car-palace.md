@@ -1,5 +1,5 @@
 ---
 title: "car palace"
 url: /palakkad/car-palace/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mayoora traders"
 url: /vattamkulam/mayoora-traders/
-shop: Supermarkt
+shop: supermarket
 ---

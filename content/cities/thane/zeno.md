@@ -1,5 +1,5 @@
 ---
 title: "Zeno"
 url: /thane/zeno/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Durga Jewelers"
 url: /ayyampettai/durga-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

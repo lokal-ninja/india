@@ -1,5 +1,5 @@
 ---
 title: "vattamattathil"
 url: /plachery/vattamattathil/
-shop: Bäckerei
+shop: bakery
 ---

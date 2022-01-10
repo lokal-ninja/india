@@ -1,5 +1,5 @@
 ---
 title: "Launge Saloon"
 url: /kottarakkara/launge-saloon/
-shop: Kosmetik
+shop: beauty
 ---

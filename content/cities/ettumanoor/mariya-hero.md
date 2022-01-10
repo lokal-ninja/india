@@ -1,5 +1,5 @@
 ---
 title: "mariya hero"
 url: /ettumanoor/mariya-hero/
-shop: Motorrad
+shop: motorcycle
 ---

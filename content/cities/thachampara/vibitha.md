@@ -1,5 +1,5 @@
 ---
 title: "vibitha"
 url: /thachampara/vibitha/
-shop: Schmuck
+shop: jewelry
 ---

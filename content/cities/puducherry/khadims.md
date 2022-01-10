@@ -1,5 +1,5 @@
 ---
 title: "Khadims"
 url: /puducherry/khadims/
-shop: Schuhe
+shop: shoes
 ---

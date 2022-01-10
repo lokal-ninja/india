@@ -1,5 +1,5 @@
 ---
 title: "oushadi"
 url: /thookkupalam/oushadi/
-shop: Sanitätshaus
+shop: medical supply
 ---

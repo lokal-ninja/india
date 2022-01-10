@@ -1,5 +1,5 @@
 ---
 title: "Reliance Foot Prints"
 url: /bangalore/reliance-foot-prints/
-shop: Schuhe
+shop: shoes
 ---

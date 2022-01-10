@@ -1,5 +1,5 @@
 ---
 title: "Ganraj Optician"
 url: /pune/ganraj-optician/
-shop: Optiker
+shop: optician
 ---

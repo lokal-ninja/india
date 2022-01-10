@@ -1,5 +1,5 @@
 ---
 title: "House"
 url: /malaparamba/house/
-shop: Kleidung
+shop: clothes
 ---

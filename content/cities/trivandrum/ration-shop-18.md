@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /trivandrum/ration-shop-18/
-shop: Lebensmittel
+shop: convenience
 ---

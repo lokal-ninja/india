@@ -1,5 +1,5 @@
 ---
 title: "RATION SHOP ALINGAL"
 url: /triprangode/ration-shop-alingal/
-shop: Lebensmittel
+shop: convenience
 ---

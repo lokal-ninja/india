@@ -1,5 +1,5 @@
 ---
 title: "VNM Agencies"
 url: /kunnamangalam-calicut/vnm-agencies/
-shop: Allgemein
+shop: shop
 ---

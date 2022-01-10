@@ -1,5 +1,5 @@
 ---
 title: "apurti supermarket"
 url: /indore/apurti-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

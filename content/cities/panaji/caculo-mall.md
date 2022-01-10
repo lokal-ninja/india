@@ -1,5 +1,5 @@
 ---
 title: "Caculo Mall"
 url: /panaji/caculo-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

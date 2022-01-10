@@ -1,5 +1,5 @@
 ---
 title: "Vs Tower,Pottayil"
 url: /vilavoorkal/vs-tower-pottayil/
-shop: Kramladen
+shop: variety store
 ---

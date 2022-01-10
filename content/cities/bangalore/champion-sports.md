@@ -1,5 +1,5 @@
 ---
 title: "Champion Sports"
 url: /bangalore/champion-sports/
-shop: Sport
+shop: sports
 ---

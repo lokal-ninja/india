@@ -1,5 +1,5 @@
 ---
 title: "Viveks"
 url: /chennai/viveks/
-shop: Elektronik
+shop: electronics
 ---

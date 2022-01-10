@@ -1,5 +1,5 @@
 ---
 title: "Asus / Dell Service Center"
 url: /bengaluru/asus-dell-service-center/
-shop: Elektronik
+shop: electronics
 ---

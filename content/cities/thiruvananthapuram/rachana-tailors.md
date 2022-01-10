@@ -1,5 +1,5 @@
 ---
 title: "Rachana Tailors"
 url: /thiruvananthapuram/rachana-tailors/
-shop: Schneiderei
+shop: tailor
 ---

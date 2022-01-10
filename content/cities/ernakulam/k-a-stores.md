@@ -1,5 +1,5 @@
 ---
 title: "K A stores"
 url: /ernakulam/k-a-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FOOTWEAR"
 url: /mumbai-chembur/footwear/
-shop: Supermarkt
+shop: supermarket
 ---

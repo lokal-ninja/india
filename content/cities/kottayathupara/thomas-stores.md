@@ -1,5 +1,5 @@
 ---
 title: "Thomas Stores"
 url: /kottayathupara/thomas-stores/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheetas"
 url: /kattappana/cheetas/
-shop: Lebensmittel
+shop: convenience
 ---

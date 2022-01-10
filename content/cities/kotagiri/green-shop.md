@@ -1,5 +1,5 @@
 ---
 title: "Green Shop"
 url: /kotagiri/green-shop/
-shop: Allgemein
+shop: shop
 ---

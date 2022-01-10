@@ -1,5 +1,5 @@
 ---
 title: "Kaspa Tattoo Goa"
 url: /candolim/kaspa-tattoo-goa/
-shop: Tattoo
+shop: tattoo
 ---

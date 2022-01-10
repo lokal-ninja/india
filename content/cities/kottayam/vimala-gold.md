@@ -1,5 +1,5 @@
 ---
 title: "Vimala Gold"
 url: /kottayam/vimala-gold/
-shop: Schmuck
+shop: jewelry
 ---

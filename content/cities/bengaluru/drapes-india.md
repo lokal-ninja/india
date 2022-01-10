@@ -1,5 +1,5 @@
 ---
 title: "Drapes India"
 url: /bengaluru/drapes-india/
-shop: Raumausstattung
+shop: interior decoration
 ---

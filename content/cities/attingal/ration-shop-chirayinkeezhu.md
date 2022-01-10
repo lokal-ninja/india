@@ -1,5 +1,5 @@
 ---
 title: "Ration shop, Chirayinkeezhu"
 url: /attingal/ration-shop-chirayinkeezhu/
-shop: Lebensmittel
+shop: convenience
 ---

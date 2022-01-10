@@ -1,5 +1,5 @@
 ---
 title: "JM Workshop"
 url: /tirur/jm-workshop/
-shop: Motorrad
+shop: motorcycle
 ---

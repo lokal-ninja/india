@@ -1,5 +1,5 @@
 ---
 title: "Milan Enterprise"
 url: /nallasopara-west/milan-enterprise/
-shop: Gewürze
+shop: spices
 ---

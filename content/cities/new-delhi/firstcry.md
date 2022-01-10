@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /new-delhi/firstcry/
-shop: Babysachen
+shop: baby goods
 ---

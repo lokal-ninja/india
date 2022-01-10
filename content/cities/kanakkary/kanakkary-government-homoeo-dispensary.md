@@ -1,5 +1,5 @@
 ---
 title: "Kanakkary Government Homoeo Dispensary"
 url: /kanakkary/kanakkary-government-homoeo-dispensary/
-shop: Sanitätshaus
+shop: medical supply
 ---

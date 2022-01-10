@@ -1,5 +1,5 @@
 ---
 title: "Shopright Supermarket"
 url: /choondy/shopright-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

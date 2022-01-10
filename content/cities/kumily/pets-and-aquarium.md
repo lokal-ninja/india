@@ -1,5 +1,5 @@
 ---
 title: "Pets and Aquarium"
 url: /kumily/pets-and-aquarium/
-shop: Tiere
+shop: pet
 ---

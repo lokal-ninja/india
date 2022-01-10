@@ -1,5 +1,5 @@
 ---
 title: "Ganga Medicals"
 url: /thiruvananthapuram/ganga-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

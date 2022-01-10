@@ -1,5 +1,5 @@
 ---
 title: "CWT"
 url: /gorugram/cwt/
-shop: Reisebüro
+shop: travel agency
 ---

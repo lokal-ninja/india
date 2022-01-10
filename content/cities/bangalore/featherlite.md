@@ -1,5 +1,5 @@
 ---
 title: "Featherlite"
 url: /bangalore/featherlite/
-shop: Möbel
+shop: furniture
 ---

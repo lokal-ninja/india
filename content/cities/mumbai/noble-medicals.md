@@ -1,5 +1,5 @@
 ---
 title: "Noble Medicals"
 url: /mumbai/noble-medicals/
-shop: Drogerie
+shop: chemist
 ---

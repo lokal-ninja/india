@@ -1,5 +1,5 @@
 ---
 title: "Chai shop"
 url: /dharamsala/chai-shop/
-shop: Tee
+shop: tea
 ---

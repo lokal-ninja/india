@@ -1,5 +1,5 @@
 ---
 title: "Rahul Motoz"
 url: /delhi/rahul-motoz/
-shop: Motorrad
+shop: motorcycle
 ---

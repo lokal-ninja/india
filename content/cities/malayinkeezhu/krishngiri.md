@@ -1,5 +1,5 @@
 ---
 title: "krishngiri"
 url: /malayinkeezhu/krishngiri/
-shop: Supermarkt
+shop: supermarket
 ---

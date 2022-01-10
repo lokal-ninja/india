@@ -1,5 +1,5 @@
 ---
 title: "Mom's Supermarket"
 url: /palakkad/moms-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

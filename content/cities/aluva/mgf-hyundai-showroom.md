@@ -1,5 +1,5 @@
 ---
 title: "MGF Hyundai Showroom"
 url: /aluva/mgf-hyundai-showroom/
-shop: Autohaus
+shop: car
 ---

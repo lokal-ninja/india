@@ -1,5 +1,5 @@
 ---
 title: "Ramanuj Palace"
 url: /patna/ramanuj-palace-2/
-shop: Supermarkt
+shop: supermarket
 ---

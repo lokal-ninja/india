@@ -1,5 +1,5 @@
 ---
 title: "Rationshop, Karipal"
 url: /eramam-kuttur/rationshop-karipal/
-shop: Allgemein
+shop: shop
 ---

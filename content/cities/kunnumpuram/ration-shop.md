@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kunnumpuram/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

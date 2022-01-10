@@ -1,5 +1,5 @@
 ---
 title: "Aneesh Lucky Center"
 url: /vellathooval/aneesh-lucky-center/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AND"
 url: /bangalore/and/
-shop: Kleidung
+shop: clothes
 ---

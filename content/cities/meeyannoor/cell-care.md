@@ -1,5 +1,5 @@
 ---
 title: "Cell Care"
 url: /meeyannoor/cell-care/
-shop: Handy
+shop: mobile phone
 ---

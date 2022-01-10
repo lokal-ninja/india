@@ -1,5 +1,5 @@
 ---
 title: "Louis Philippe"
 url: /bengaluru/louis-philippe/
-shop: Kleidung
+shop: clothes
 ---

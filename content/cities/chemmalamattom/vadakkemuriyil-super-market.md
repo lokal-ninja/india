@@ -1,5 +1,5 @@
 ---
 title: "Vadakkemuriyil Super Market"
 url: /chemmalamattom/vadakkemuriyil-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

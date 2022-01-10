@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Kuttipuzha"
 url: /ernakulam/ration-shop-kuttipuzha/
-shop: Lebensmittel
+shop: convenience
 ---

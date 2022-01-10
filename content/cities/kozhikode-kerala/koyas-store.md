@@ -1,5 +1,5 @@
 ---
 title: "Koyas Store"
 url: /kozhikode-kerala/koyas-store/
-shop: Lebensmittel
+shop: convenience
 ---

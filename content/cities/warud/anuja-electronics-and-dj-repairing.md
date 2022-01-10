@@ -1,5 +1,5 @@
 ---
 title: "Anuja Electronics And DJ Repairing."
 url: /warud/anuja-electronics-and-dj-repairing/
-shop: Warenhaus
+shop: department store
 ---

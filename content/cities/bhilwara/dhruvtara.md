@@ -1,5 +1,5 @@
 ---
 title: "Dhruvtara"
 url: /bhilwara/dhruvtara/
-shop: Schreibwaren
+shop: office supplies
 ---

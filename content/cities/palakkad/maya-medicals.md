@@ -1,5 +1,5 @@
 ---
 title: "Maya Medicals"
 url: /palakkad/maya-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

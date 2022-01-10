@@ -1,5 +1,5 @@
 ---
 title: "Ration shop chamravattam"
 url: /chamravattam/ration-shop-chamravattam/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adithya Store"
 url: /pathanamthitta/adithya-store-2/
-shop: Tiere
+shop: pet
 ---

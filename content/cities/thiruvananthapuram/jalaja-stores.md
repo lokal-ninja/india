@@ -1,5 +1,5 @@
 ---
 title: "Jalaja Stores"
 url: /thiruvananthapuram/jalaja-stores/
-shop: Süßwaren
+shop: confectionery
 ---

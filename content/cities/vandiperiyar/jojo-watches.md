@@ -1,5 +1,5 @@
 ---
 title: "Jojo Watches"
 url: /vandiperiyar/jojo-watches/
-shop: Uhren
+shop: watches
 ---

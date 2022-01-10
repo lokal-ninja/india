@@ -1,5 +1,5 @@
 ---
 title: "New Premier Coffee"
 url: /thidanad/new-premier-coffee/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RK mall"
 url: /raipur/rk-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

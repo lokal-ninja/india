@@ -1,5 +1,5 @@
 ---
 title: "Aroor Supermarket"
 url: /purameri/aroor-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

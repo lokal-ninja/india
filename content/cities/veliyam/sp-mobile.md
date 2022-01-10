@@ -1,5 +1,5 @@
 ---
 title: "SP Mobile"
 url: /veliyam/sp-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parus Auto Workshop, Thiruvegappura"
 url: /thiruvegappura/parus-auto-workshop-thiruvegappura/
-shop: Autowerkstatt
+shop: car repair
 ---

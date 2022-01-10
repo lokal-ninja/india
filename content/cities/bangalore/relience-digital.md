@@ -1,5 +1,5 @@
 ---
 title: "Relience Digital"
 url: /bangalore/relience-digital/
-shop: Elektronik
+shop: electronics
 ---

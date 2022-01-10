@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /cherupuzha/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

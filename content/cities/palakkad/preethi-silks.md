@@ -1,5 +1,5 @@
 ---
 title: "Preethi Silks"
 url: /palakkad/preethi-silks/
-shop: Kleidung
+shop: clothes
 ---

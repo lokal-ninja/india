@@ -1,5 +1,5 @@
 ---
 title: "Apollo Pharmacy"
 url: /cuddalore/apollo-pharmacy/
-shop: Sanitätshaus
+shop: medical supply
 ---

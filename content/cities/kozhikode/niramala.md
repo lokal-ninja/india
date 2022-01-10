@@ -1,5 +1,5 @@
 ---
 title: "Niramala"
 url: /kozhikode/niramala/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glamour Hair Style"
 url: /vaduthala-kochi/glamour-hair-style/
-shop: Friseur
+shop: hairdresser
 ---

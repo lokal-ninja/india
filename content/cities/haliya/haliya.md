@@ -1,5 +1,5 @@
 ---
 title: "haliya"
 url: /haliya/haliya/
-shop: Supermarkt
+shop: supermarket
 ---

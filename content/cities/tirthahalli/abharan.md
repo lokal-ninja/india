@@ -1,5 +1,5 @@
 ---
 title: "Abharan"
 url: /tirthahalli/abharan/
-shop: Schmuck
+shop: jewelry
 ---

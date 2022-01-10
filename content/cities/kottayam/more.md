@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /kottayam/more/
-shop: Supermarkt
+shop: supermarket
 ---

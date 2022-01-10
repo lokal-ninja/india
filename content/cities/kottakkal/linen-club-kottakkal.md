@@ -1,5 +1,5 @@
 ---
 title: "Linen Club Kottakkal"
 url: /kottakkal/linen-club-kottakkal/
-shop: Kleidung
+shop: clothes
 ---

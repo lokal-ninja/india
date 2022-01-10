@@ -1,5 +1,5 @@
 ---
 title: "Levis"
 url: /bangalore/levis-3/
-shop: Kleidung
+shop: clothes
 ---

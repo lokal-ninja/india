@@ -1,5 +1,5 @@
 ---
 title: "KR Supermarket"
 url: /trivandrum/kr-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

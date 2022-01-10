@@ -1,5 +1,5 @@
 ---
 title: "Sai Medicals"
 url: /kozhikode/sai-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

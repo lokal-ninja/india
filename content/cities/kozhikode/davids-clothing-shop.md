@@ -1,5 +1,5 @@
 ---
 title: "Davids Clothing Shop"
 url: /kozhikode/davids-clothing-shop/
-shop: Kleidung
+shop: clothes
 ---

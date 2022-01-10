@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Kurupuzha"
 url: /thiruvananthapuram/ration-shop-kurupuzha/
-shop: Lebensmittel
+shop: convenience
 ---

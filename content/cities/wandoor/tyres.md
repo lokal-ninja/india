@@ -1,5 +1,5 @@
 ---
 title: "Tyres"
 url: /wandoor/tyres/
-shop: Reifen
+shop: tyres
 ---

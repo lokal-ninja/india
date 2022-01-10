@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /mumbai/seasons/
-shop: Kleidung
+shop: clothes
 ---

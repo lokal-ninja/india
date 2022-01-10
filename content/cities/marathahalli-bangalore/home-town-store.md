@@ -1,5 +1,5 @@
 ---
 title: "Home Town Store"
 url: /marathahalli-bangalore/home-town-store/
-shop: Warenhaus
+shop: department store
 ---

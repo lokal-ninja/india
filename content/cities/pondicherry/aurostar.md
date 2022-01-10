@@ -1,5 +1,5 @@
 ---
 title: "Aurostar"
 url: /pondicherry/aurostar/
-shop: Warenhaus
+shop: department store
 ---

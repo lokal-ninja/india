@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /pathanapuram/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

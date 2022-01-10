@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /sarita-vihar-delhi/hyundai/
-shop: Autohaus
+shop: car
 ---

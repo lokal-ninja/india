@@ -1,5 +1,5 @@
 ---
 title: "Nice Hairdressing, Cheruvally"
 url: /cheruvally/nice-hairdressing-cheruvally/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mayura"
 url: /kulathoormoozhy/mayura/
-shop: Schreibwaren
+shop: office supplies
 ---

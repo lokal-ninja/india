@@ -1,5 +1,5 @@
 ---
 title: "Mufti"
 url: /haldia/mufti/
-shop: Kleidung
+shop: clothes
 ---

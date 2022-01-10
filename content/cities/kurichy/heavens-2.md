@@ -1,5 +1,5 @@
 ---
 title: "Heavens"
 url: /kurichy/heavens-2/
-shop: Schreibwaren
+shop: office supplies
 ---

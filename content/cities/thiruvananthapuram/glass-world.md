@@ -1,5 +1,5 @@
 ---
 title: "Glass World"
 url: /thiruvananthapuram/glass-world/
-shop: Eisenwaren
+shop: hardware
 ---

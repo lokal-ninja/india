@@ -1,5 +1,5 @@
 ---
 title: "More Supermarket"
 url: /piravom/more-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

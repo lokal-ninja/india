@@ -1,5 +1,5 @@
 ---
 title: "Do:nyi-Polo Supermarket"
 url: /jonai/do-nyi-polo-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

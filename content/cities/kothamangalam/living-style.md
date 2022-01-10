@@ -1,5 +1,5 @@
 ---
 title: "Living Style"
 url: /kothamangalam/living-style/
-shop: Kleidung
+shop: clothes
 ---

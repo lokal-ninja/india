@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /wallardie/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "farm supply shop"
 url: /neeloor/farm-supply-shop/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

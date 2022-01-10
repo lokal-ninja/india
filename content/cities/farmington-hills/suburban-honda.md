@@ -1,5 +1,5 @@
 ---
 title: "Suburban Honda"
 url: /farmington-hills/suburban-honda/
-shop: Autohaus
+shop: car
 ---

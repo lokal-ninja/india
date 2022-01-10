@@ -1,5 +1,5 @@
 ---
 title: "Club Mahimdhra"
 url: /raipur/club-mahimdhra/
-shop: Reisebüro
+shop: travel agency
 ---

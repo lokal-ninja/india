@@ -1,5 +1,5 @@
 ---
 title: "Perumbayil Stores"
 url: /kanchiyar/perumbayil-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

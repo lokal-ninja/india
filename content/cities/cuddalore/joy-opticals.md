@@ -1,5 +1,5 @@
 ---
 title: "Joy Opticals"
 url: /cuddalore/joy-opticals/
-shop: Optiker
+shop: optician
 ---

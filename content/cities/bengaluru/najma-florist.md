@@ -1,5 +1,5 @@
 ---
 title: "Najma Florist"
 url: /bengaluru/najma-florist/
-shop: Blumen
+shop: florist
 ---

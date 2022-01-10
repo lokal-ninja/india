@@ -1,5 +1,5 @@
 ---
 title: "Sarvpriya Honda"
 url: /raikot/sarvpriya-honda/
-shop: Motorrad
+shop: motorcycle
 ---

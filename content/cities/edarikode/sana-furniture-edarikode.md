@@ -1,5 +1,5 @@
 ---
 title: "Sana furniture edarikode"
 url: /edarikode/sana-furniture-edarikode/
-shop: Möbel
+shop: furniture
 ---

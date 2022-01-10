@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /peyad/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

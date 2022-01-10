@@ -1,5 +1,5 @@
 ---
 title: "Mr brothers"
 url: /adimali/mr-brothers/
-shop: Supermarkt
+shop: supermarket
 ---

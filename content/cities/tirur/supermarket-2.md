@@ -1,5 +1,5 @@
 ---
 title: "Supermarket"
 url: /tirur/supermarket-2/
-shop: Supermarkt
+shop: supermarket
 ---

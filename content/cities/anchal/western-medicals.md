@@ -1,5 +1,5 @@
 ---
 title: "Western Medicals"
 url: /anchal/western-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

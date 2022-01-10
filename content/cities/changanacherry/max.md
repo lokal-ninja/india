@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /changanacherry/max/
-shop: Kleidung
+shop: clothes
 ---

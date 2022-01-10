@@ -1,5 +1,5 @@
 ---
 title: "jodhpur sweets"
 url: /ranchi/jodhpur-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

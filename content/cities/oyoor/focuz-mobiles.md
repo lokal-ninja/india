@@ -1,5 +1,5 @@
 ---
 title: "Focuz Mobiles"
 url: /oyoor/focuz-mobiles/
-shop: Handy
+shop: mobile phone
 ---

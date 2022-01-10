@@ -1,5 +1,5 @@
 ---
 title: "Padmanidhi"
 url: /cooch-behar/padmanidhi/
-shop: Sanitätshaus
+shop: medical supply
 ---

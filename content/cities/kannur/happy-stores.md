@@ -1,5 +1,5 @@
 ---
 title: "happy stores"
 url: /kannur/happy-stores/
-shop: Haushaltsartikel
+shop: houseware
 ---

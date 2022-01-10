@@ -1,5 +1,5 @@
 ---
 title: "Babu Theethai"
 url: /vellangallur/babu-theethai/
-shop: Allgemein
+shop: shop
 ---

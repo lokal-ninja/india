@@ -1,5 +1,5 @@
 ---
 title: "Prapti"
 url: /bangalore/prapti-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AISWARYA GARMENTS"
 url: /pathanamthitta/aiswarya-garments-2/
-shop: Kleidung
+shop: clothes
 ---

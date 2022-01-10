@@ -1,5 +1,5 @@
 ---
 title: "Ratiion Shop Anyartholu"
 url: /anniyarthozhu/ratiion-shop-anyartholu/
-shop: Lebensmittel
+shop: convenience
 ---

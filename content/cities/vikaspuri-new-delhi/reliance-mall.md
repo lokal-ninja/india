@@ -1,5 +1,5 @@
 ---
 title: "Reliance Mall"
 url: /vikaspuri-new-delhi/reliance-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

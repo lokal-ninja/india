@@ -1,5 +1,5 @@
 ---
 title: "Ziva Spa"
 url: /bengaluru/ziva-spa-2/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perinthalmanna Store"
 url: /tuvvur/perinthalmanna-store/
-shop: Allgemein
+shop: shop
 ---

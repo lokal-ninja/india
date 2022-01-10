@@ -1,5 +1,5 @@
 ---
 title: "EP Store"
 url: /kandonthar/ep-store/
-shop: Dorfladen
+shop: general
 ---

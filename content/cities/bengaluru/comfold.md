@@ -1,5 +1,5 @@
 ---
 title: "Comfold"
 url: /bengaluru/comfold/
-shop: Möbel
+shop: furniture
 ---

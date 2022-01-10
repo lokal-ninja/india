@@ -1,5 +1,5 @@
 ---
 title: "OPPO Show room"
 url: /thiruvananthapuram/oppo-show-room/
-shop: Allgemein
+shop: shop
 ---

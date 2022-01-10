@@ -1,5 +1,5 @@
 ---
 title: "Pallikkara"
 url: /pallikkare/pallikkara/
-shop: Elektrisch
+shop: electrical
 ---

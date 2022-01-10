@@ -1,5 +1,5 @@
 ---
 title: "Lee Kosto"
 url: /imphal/lee-kosto/
-shop: Supermarkt
+shop: supermarket
 ---

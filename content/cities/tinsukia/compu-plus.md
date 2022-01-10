@@ -1,5 +1,5 @@
 ---
 title: "Compu Plus"
 url: /tinsukia/compu-plus/
-shop: Elektronik
+shop: electronics
 ---

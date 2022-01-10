@@ -1,5 +1,5 @@
 ---
 title: "Safal"
 url: /delhi/safal/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

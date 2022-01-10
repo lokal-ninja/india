@@ -1,5 +1,5 @@
 ---
 title: "Bakes And Cakes"
 url: /kochi/bakes-and-cakes/
-shop: Konditorei
+shop: pastry
 ---

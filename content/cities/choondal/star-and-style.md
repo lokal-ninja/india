@@ -1,5 +1,5 @@
 ---
 title: "Star And Style"
 url: /choondal/star-and-style/
-shop: Schuhe
+shop: shoes
 ---

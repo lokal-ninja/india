@@ -1,5 +1,5 @@
 ---
 title: "united colors of beneton"
 url: /raipur/united-colors-of-beneton/
-shop: Kleidung
+shop: clothes
 ---

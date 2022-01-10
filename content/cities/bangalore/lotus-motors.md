@@ -1,5 +1,5 @@
 ---
 title: "Lotus Motors"
 url: /bangalore/lotus-motors/
-shop: Motorrad
+shop: motorcycle
 ---

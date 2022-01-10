@@ -1,5 +1,5 @@
 ---
 title: "JamJoom Hypermarket"
 url: /kalpetta/jamjoom-hypermarket/
-shop: Einkaufszentrum
+shop: mall
 ---

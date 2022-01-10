@@ -1,5 +1,5 @@
 ---
 title: "Sans Auto Electricals"
 url: /ettumanur-kottayam/sans-auto-electricals/
-shop: Autoteile
+shop: car parts
 ---

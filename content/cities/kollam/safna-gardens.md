@@ -1,5 +1,5 @@
 ---
 title: "Safna gardens"
 url: /kollam/safna-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

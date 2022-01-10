@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /bengaluru/columbia/
-shop: Kleidung
+shop: clothes
 ---

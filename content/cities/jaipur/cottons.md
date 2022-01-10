@@ -1,5 +1,5 @@
 ---
 title: "Cottons"
 url: /jaipur/cottons/
-shop: Modehaus
+shop: boutique
 ---

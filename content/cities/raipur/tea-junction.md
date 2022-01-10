@@ -1,5 +1,5 @@
 ---
 title: "tea junction"
 url: /raipur/tea-junction/
-shop: Tee
+shop: tea
 ---

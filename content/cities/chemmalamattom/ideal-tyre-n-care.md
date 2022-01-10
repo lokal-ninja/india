@@ -1,5 +1,5 @@
 ---
 title: "Ideal Tyre 'N' Care"
 url: /chemmalamattom/ideal-tyre-n-care/
-shop: Autowerkstatt
+shop: car repair
 ---

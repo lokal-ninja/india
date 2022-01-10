@@ -1,5 +1,5 @@
 ---
 title: "Indus Motors"
 url: /ernakulam/indus-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

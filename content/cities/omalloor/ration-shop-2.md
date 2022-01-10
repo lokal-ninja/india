@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /omalloor/ration-shop-2/
-shop: Lebensmittel
+shop: convenience
 ---

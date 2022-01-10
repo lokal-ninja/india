@@ -1,5 +1,5 @@
 ---
 title: "Home town"
 url: /bangalore/home-town/
-shop: Elektronik
+shop: electronics
 ---

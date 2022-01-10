@@ -1,5 +1,5 @@
 ---
 title: "Twilight Store"
 url: /bangalore/twilight-store/
-shop: Supermarkt
+shop: supermarket
 ---

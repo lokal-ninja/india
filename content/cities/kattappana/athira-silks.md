@@ -1,5 +1,5 @@
 ---
 title: "Athira silks"
 url: /kattappana/athira-silks/
-shop: Kleidung
+shop: clothes
 ---

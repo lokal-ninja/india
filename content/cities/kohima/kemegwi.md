@@ -1,5 +1,5 @@
 ---
 title: "Kemegwi"
 url: /kohima/kemegwi/
-shop: Schreibwaren
+shop: office supplies
 ---

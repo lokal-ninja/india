@@ -1,5 +1,5 @@
 ---
 title: "Miyapur Wine Mart"
 url: /hyderabad/miyapur-wine-mart/
-shop: Spirituosen
+shop: alcohol
 ---

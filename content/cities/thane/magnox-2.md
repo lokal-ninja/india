@@ -1,5 +1,5 @@
 ---
 title: "Magnox"
 url: /thane/magnox-2/
-shop: Supermarkt
+shop: supermarket
 ---

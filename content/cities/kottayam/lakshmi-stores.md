@@ -1,5 +1,5 @@
 ---
 title: "lakshmi stores"
 url: /kottayam/lakshmi-stores/
-shop: Allgemein
+shop: shop
 ---

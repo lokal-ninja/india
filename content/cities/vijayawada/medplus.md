@@ -1,5 +1,5 @@
 ---
 title: "MedPlus"
 url: /vijayawada/medplus/
-shop: Sanitätshaus
+shop: medical supply
 ---

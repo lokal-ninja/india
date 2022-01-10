@@ -1,5 +1,5 @@
 ---
 title: "tea stall"
 url: /dhanbad/tea-stall/
-shop: Tee
+shop: tea
 ---

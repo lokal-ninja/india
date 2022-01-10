@@ -1,5 +1,5 @@
 ---
 title: "Shaji Oil Mill"
 url: /kottarakara/shaji-oil-mill/
-shop: Allgemein
+shop: shop
 ---

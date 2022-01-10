@@ -1,5 +1,5 @@
 ---
 title: "Kalavara Traders"
 url: /kozhikode/kalavara-traders/
-shop: Allgemein
+shop: shop
 ---

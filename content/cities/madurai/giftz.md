@@ -1,5 +1,5 @@
 ---
 title: "GIFTZ"
 url: /madurai/giftz/
-shop: Andenken
+shop: gift
 ---

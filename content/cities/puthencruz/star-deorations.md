@@ -1,5 +1,5 @@
 ---
 title: "Star Deorations"
 url: /puthencruz/star-deorations/
-shop: Raumausstattung
+shop: interior decoration
 ---

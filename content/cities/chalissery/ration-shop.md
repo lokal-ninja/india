@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /chalissery/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

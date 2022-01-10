@@ -1,5 +1,5 @@
 ---
 title: "Lakshmi Suzuki"
 url: /davanagere/lakshmi-suzuki/
-shop: Motorrad
+shop: motorcycle
 ---

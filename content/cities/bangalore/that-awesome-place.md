@@ -1,5 +1,5 @@
 ---
 title: "that awesome place"
 url: /bangalore/that-awesome-place/
-shop: Musik
+shop: music
 ---

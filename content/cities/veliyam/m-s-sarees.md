@@ -1,5 +1,5 @@
 ---
 title: "M S Sarees"
 url: /veliyam/m-s-sarees/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SteveMaden"
 url: /bangalore/stevemaden/
-shop: Kleidung
+shop: clothes
 ---

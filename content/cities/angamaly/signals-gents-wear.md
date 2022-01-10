@@ -1,5 +1,5 @@
 ---
 title: "Signals Gents Wear"
 url: /angamaly/signals-gents-wear/
-shop: Kleidung
+shop: clothes
 ---

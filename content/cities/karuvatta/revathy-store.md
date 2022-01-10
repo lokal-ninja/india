@@ -1,5 +1,5 @@
 ---
 title: "Revathy store"
 url: /karuvatta/revathy-store/
-shop: Dorfladen
+shop: general
 ---

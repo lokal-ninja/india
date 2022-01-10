@@ -1,5 +1,5 @@
 ---
 title: "Gopinathan Stores"
 url: /kadakkarappally/gopinathan-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

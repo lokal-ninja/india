@@ -1,5 +1,5 @@
 ---
 title: "Mini Mart"
 url: /trippunithura-ernakulam/mini-mart/
-shop: Dorfladen
+shop: general
 ---

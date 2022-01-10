@@ -1,5 +1,5 @@
 ---
 title: "Fargo Tyres"
 url: /nilambur/fargo-tyres/
-shop: Reifen
+shop: tyres
 ---

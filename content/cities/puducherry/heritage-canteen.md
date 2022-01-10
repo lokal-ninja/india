@@ -1,5 +1,5 @@
 ---
 title: "Heritage Canteen"
 url: /puducherry/heritage-canteen/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peora"
 url: /trivandrum/peora/
-shop: Schmuck
+shop: jewelry
 ---

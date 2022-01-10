@@ -1,5 +1,5 @@
 ---
 title: "Vismay"
 url: /pala/vismay/
-shop: Kleidung
+shop: clothes
 ---

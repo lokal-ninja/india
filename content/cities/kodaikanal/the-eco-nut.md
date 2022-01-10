@@ -1,5 +1,5 @@
 ---
 title: "The Eco-Nut"
 url: /kodaikanal/the-eco-nut/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pets Worth"
 url: /coonoor/pets-worth/
-shop: Tiere
+shop: pet
 ---

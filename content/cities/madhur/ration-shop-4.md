@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /madhur/ration-shop-4/
-shop: Lebensmittel
+shop: convenience
 ---

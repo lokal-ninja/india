@@ -1,5 +1,5 @@
 ---
 title: "Sagar Fancy"
 url: /oyoor/sagar-fancy/
-shop: Schuhe
+shop: shoes
 ---

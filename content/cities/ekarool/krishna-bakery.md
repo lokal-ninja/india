@@ -1,5 +1,5 @@
 ---
 title: "Krishna Bakery"
 url: /ekarool/krishna-bakery/
-shop: Bäckerei
+shop: bakery
 ---

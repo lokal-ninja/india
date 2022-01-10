@@ -1,5 +1,5 @@
 ---
 title: "Rakshak"
 url: /nagpur/rakshak/
-shop: Supermarkt
+shop: supermarket
 ---

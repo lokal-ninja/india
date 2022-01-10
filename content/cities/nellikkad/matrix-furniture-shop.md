@@ -1,5 +1,5 @@
 ---
 title: "Matrix furniture shop"
 url: /nellikkad/matrix-furniture-shop/
-shop: Möbel
+shop: furniture
 ---

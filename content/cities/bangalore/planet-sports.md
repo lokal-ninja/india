@@ -1,5 +1,5 @@
 ---
 title: "Planet Sports"
 url: /bangalore/planet-sports/
-shop: Sport
+shop: sports
 ---

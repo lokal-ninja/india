@@ -1,5 +1,5 @@
 ---
 title: "Devender Hello Point"
 url: /delhi/devender-hello-point/
-shop: Schreibwaren
+shop: office supplies
 ---

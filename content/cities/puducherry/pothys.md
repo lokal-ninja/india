@@ -1,5 +1,5 @@
 ---
 title: "Pothys"
 url: /puducherry/pothys/
-shop: Einkaufszentrum
+shop: mall
 ---

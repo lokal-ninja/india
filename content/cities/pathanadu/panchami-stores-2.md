@@ -1,5 +1,5 @@
 ---
 title: "panchami stores"
 url: /pathanadu/panchami-stores-2/
-shop: Schreibwaren
+shop: office supplies
 ---

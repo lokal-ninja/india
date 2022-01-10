@@ -1,5 +1,5 @@
 ---
 title: "National agencies"
 url: /koothattukulam/national-agencies/
-shop: Elektronik
+shop: electronics
 ---

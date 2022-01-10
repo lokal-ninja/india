@@ -1,5 +1,5 @@
 ---
 title: "Tharakan Tyres"
 url: /kechery/tharakan-tyres/
-shop: Allgemein
+shop: shop
 ---

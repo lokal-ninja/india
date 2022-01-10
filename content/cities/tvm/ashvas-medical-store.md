@@ -1,5 +1,5 @@
 ---
 title: "ashvas medical store"
 url: /tvm/ashvas-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

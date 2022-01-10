@@ -1,5 +1,5 @@
 ---
 title: "Friendly Motors"
 url: /mysuru/friendly-motors-2/
-shop: Autohaus
+shop: car
 ---

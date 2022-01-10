@@ -1,5 +1,5 @@
 ---
 title: "shankar stores"
 url: /tiruchanur/shankar-stores/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kalichampothi"
 url: /madikai/kalichampothi-3/
-shop: Schneiderei
+shop: tailor
 ---

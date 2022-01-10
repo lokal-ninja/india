@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /thiruvalla-kerala/vodafone/
-shop: Handy
+shop: mobile phone
 ---

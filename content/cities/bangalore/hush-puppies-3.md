@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
 url: /bangalore/hush-puppies-3/
-shop: Schuhe
+shop: shoes
 ---

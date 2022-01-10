@@ -1,5 +1,5 @@
 ---
 title: "Univercell"
 url: /bangalore/univercell/
-shop: Handy
+shop: mobile phone
 ---

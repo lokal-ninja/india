@@ -1,5 +1,5 @@
 ---
 title: "Nissi Textiles"
 url: /pathanamthitta/nissi-textiles/
-shop: Kleidung
+shop: clothes
 ---

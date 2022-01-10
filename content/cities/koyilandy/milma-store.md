@@ -1,5 +1,5 @@
 ---
 title: "milma store"
 url: /koyilandy/milma-store/
-shop: Milch
+shop: dairy
 ---

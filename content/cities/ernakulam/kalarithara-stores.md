@@ -1,5 +1,5 @@
 ---
 title: "Kalarithara Stores"
 url: /ernakulam/kalarithara-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

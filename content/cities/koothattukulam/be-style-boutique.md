@@ -1,5 +1,5 @@
 ---
 title: "BE Style boutique"
 url: /koothattukulam/be-style-boutique/
-shop: Kosmetik
+shop: beauty
 ---

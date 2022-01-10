@@ -1,5 +1,5 @@
 ---
 title: "Karthika Tea Shop"
 url: /thrissur/karthika-tea-shop/
-shop: Tee
+shop: tea
 ---

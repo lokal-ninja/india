@@ -1,5 +1,5 @@
 ---
 title: "Joyalukkas Jwellery"
 url: /attakulangara-thiruvananthapuram/joyalukkas-jwellery/
-shop: Schmuck
+shop: jewelry
 ---

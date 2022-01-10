@@ -1,5 +1,5 @@
 ---
 title: "Suvarna"
 url: /er/suvarna/
-shop: Schreibwaren
+shop: office supplies
 ---

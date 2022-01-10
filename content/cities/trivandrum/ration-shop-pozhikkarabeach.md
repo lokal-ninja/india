@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Pozhikkarabeach"
 url: /trivandrum/ration-shop-pozhikkarabeach/
-shop: Lebensmittel
+shop: convenience
 ---

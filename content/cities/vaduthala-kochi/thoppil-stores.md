@@ -1,5 +1,5 @@
 ---
 title: "Thoppil Stores"
 url: /vaduthala-kochi/thoppil-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

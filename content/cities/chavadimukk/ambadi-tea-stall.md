@@ -1,5 +1,5 @@
 ---
 title: "Ambadi Tea Stall"
 url: /chavadimukk/ambadi-tea-stall/
-shop: Tee
+shop: tea
 ---

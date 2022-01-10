@@ -1,5 +1,5 @@
 ---
 title: "Cottonworld."
 url: /mumbai/cottonworld/
-shop: Kleidung
+shop: clothes
 ---

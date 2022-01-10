@@ -1,5 +1,5 @@
 ---
 title: "Ladies Today"
 url: /kozhikode/ladies-today/
-shop: Kosmetik
+shop: beauty
 ---

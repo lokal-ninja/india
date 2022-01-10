@@ -1,5 +1,5 @@
 ---
 title: "Vasantshobha"
 url: /rahuri/vasantshobha/
-shop: Lebensmittel
+shop: convenience
 ---

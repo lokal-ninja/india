@@ -1,5 +1,5 @@
 ---
 title: "ACTION SHOWROOM"
 url: /ranchi/action-showroom/
-shop: Schuhe
+shop: shoes
 ---

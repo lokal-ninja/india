@@ -1,5 +1,5 @@
 ---
 title: "Surinder Kiryana Store"
 url: /palampur/surinder-kiryana-store/
-shop: Lebensmittel
+shop: convenience
 ---

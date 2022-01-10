@@ -1,5 +1,5 @@
 ---
 title: "KK COOL BAR"
 url: /tirur/kk-cool-bar/
-shop: Bäckerei
+shop: bakery
 ---

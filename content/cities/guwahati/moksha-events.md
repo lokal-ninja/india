@@ -1,5 +1,5 @@
 ---
 title: "Moksha Events"
 url: /guwahati/moksha-events/
-shop: Warenhaus
+shop: department store
 ---

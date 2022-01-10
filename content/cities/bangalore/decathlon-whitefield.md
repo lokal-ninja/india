@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Whitefield"
 url: /bangalore/decathlon-whitefield/
-shop: Sport
+shop: sports
 ---

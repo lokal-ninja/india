@@ -1,5 +1,5 @@
 ---
 title: "sga cars"
 url: /coimbatore/sga-cars/
-shop: Autohaus
+shop: car
 ---

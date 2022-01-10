@@ -1,5 +1,5 @@
 ---
 title: "King Plaza"
 url: /mumbai/king-plaza/
-shop: Lebensmittel
+shop: convenience
 ---

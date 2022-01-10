@@ -1,5 +1,5 @@
 ---
 title: "chaya kada"
 url: /vennikulam/chaya-kada/
-shop: Tee
+shop: tea
 ---

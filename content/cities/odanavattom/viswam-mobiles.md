@@ -1,5 +1,5 @@
 ---
 title: "Viswam Mobiles"
 url: /odanavattom/viswam-mobiles/
-shop: Handy
+shop: mobile phone
 ---

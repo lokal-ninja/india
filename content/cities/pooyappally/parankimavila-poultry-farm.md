@@ -1,5 +1,5 @@
 ---
 title: "Parankimavila Poultry farm"
 url: /pooyappally/parankimavila-poultry-farm/
-shop: Metzgerei
+shop: butcher
 ---

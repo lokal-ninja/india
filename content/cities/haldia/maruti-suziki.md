@@ -1,5 +1,5 @@
 ---
 title: "Maruti-Suziki"
 url: /haldia/maruti-suziki/
-shop: Autohaus
+shop: car
 ---

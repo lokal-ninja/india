@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /charummood/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

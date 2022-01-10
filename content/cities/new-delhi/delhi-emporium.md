@@ -1,5 +1,5 @@
 ---
 title: "Delhi Emporium"
 url: /new-delhi/delhi-emporium/
-shop: Warenhaus
+shop: department store
 ---

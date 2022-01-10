@@ -1,5 +1,5 @@
 ---
 title: "Chengot Communication"
 url: /kozhikode/chengot-communication/
-shop: Handy
+shop: mobile phone
 ---

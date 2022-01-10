@@ -1,5 +1,5 @@
 ---
 title: "Thankappas Jewellery"
 url: /choondy/thankappas-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration shop, Munnerath"
 url: /azhikode/ration-shop-munnerath/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "public store"
 url: /pallichal-thodu/public-store/
-shop: Schreibwaren
+shop: office supplies
 ---

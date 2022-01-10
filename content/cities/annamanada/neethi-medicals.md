@@ -1,5 +1,5 @@
 ---
 title: "Neethi Medicals"
 url: /annamanada/neethi-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "neerus"
 url: /bengaluru/neerus-2/
-shop: Allgemein
+shop: shop
 ---

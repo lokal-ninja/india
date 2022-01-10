@@ -1,5 +1,5 @@
 ---
 title: "Rebook"
 url: /bangalore/rebook/
-shop: Kleidung
+shop: clothes
 ---

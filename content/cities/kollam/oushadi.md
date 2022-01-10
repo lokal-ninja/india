@@ -1,5 +1,5 @@
 ---
 title: "Oushadi"
 url: /kollam/oushadi/
-shop: Drogerie
+shop: chemist
 ---

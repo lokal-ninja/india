@@ -1,5 +1,5 @@
 ---
 title: "Vivo"
 url: /nagarukhra/vivo/
-shop: Handy
+shop: mobile phone
 ---

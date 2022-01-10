@@ -1,5 +1,5 @@
 ---
 title: "Raju Battery and Inverter"
 url: /rahuri/raju-battery-and-inverter/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modern"
 url: /ekarool/modern/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mubarak Stores"
 url: /karuvarakundu/mubarak-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

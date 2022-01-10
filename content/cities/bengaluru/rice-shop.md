@@ -1,5 +1,5 @@
 ---
 title: "Rice Shop"
 url: /bengaluru/rice-shop/
-shop: Allgemein
+shop: shop
 ---

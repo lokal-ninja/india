@@ -1,5 +1,5 @@
 ---
 title: "A One Mobile Center"
 url: /new-delhi/a-one-mobile-center/
-shop: Handy
+shop: mobile phone
 ---

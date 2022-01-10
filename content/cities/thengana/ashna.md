@@ -1,5 +1,5 @@
 ---
 title: "Ashna"
 url: /thengana/ashna/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cocopelee"
 url: /bangalore/cocopelee/
-shop: Kleidung
+shop: clothes
 ---

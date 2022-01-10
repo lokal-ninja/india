@@ -1,5 +1,5 @@
 ---
 title: "Petrol Fashions"
 url: /kattappana/petrol-fashions/
-shop: Kleidung
+shop: clothes
 ---

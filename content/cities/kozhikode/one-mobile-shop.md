@@ -1,5 +1,5 @@
 ---
 title: "#One Mobile shop"
 url: /kozhikode/one-mobile-shop/
-shop: Handy
+shop: mobile phone
 ---

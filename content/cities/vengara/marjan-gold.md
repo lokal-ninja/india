@@ -1,5 +1,5 @@
 ---
 title: "Marjan Gold"
 url: /vengara/marjan-gold/
-shop: Schmuck
+shop: jewelry
 ---

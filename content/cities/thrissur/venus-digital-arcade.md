@@ -1,5 +1,5 @@
 ---
 title: "venu's digital arcade"
 url: /thrissur/venus-digital-arcade/
-shop: Elektronik
+shop: electronics
 ---

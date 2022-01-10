@@ -1,5 +1,5 @@
 ---
 title: "GVC"
 url: /bangalore/gvc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

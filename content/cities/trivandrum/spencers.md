@@ -1,5 +1,5 @@
 ---
 title: "Spencers"
 url: /trivandrum/spencers/
-shop: Supermarkt
+shop: supermarket
 ---

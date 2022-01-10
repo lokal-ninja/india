@@ -1,5 +1,5 @@
 ---
 title: "Radha jewellary'"
 url: /bangalore/radha-jewellary/
-shop: Schmuck
+shop: jewelry
 ---

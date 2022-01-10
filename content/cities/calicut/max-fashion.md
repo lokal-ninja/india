@@ -1,5 +1,5 @@
 ---
 title: "max fashion"
 url: /calicut/max-fashion/
-shop: Allgemein
+shop: shop
 ---

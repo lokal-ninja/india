@@ -1,5 +1,5 @@
 ---
 title: "Aura"
 url: /raipur/aura/
-shop: Kosmetik
+shop: beauty
 ---

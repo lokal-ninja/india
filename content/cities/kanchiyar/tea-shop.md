@@ -1,5 +1,5 @@
 ---
 title: "Tea Shop"
 url: /kanchiyar/tea-shop/
-shop: Tee
+shop: tea
 ---

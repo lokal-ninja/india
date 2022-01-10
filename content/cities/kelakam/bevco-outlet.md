@@ -1,5 +1,5 @@
 ---
 title: "Bevco Outlet"
 url: /kelakam/bevco-outlet/
-shop: Spirituosen
+shop: alcohol
 ---

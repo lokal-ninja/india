@@ -1,5 +1,5 @@
 ---
 title: "Jazeera Car Care Center"
 url: /poroor/jazeera-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

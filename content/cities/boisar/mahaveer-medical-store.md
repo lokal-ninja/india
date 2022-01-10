@@ -1,5 +1,5 @@
 ---
 title: "Mahaveer Medical Store"
 url: /boisar/mahaveer-medical-store/
-shop: Drogerie
+shop: chemist
 ---

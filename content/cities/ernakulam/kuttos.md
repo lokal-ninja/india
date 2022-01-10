@@ -1,5 +1,5 @@
 ---
 title: "Kuttos"
 url: /ernakulam/kuttos/
-shop: Friseur
+shop: hairdresser
 ---

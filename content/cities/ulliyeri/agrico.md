@@ -1,5 +1,5 @@
 ---
 title: "Agrico"
 url: /ulliyeri/agrico/
-shop: Supermarkt
+shop: supermarket
 ---

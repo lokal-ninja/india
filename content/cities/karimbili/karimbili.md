@@ -1,5 +1,5 @@
 ---
 title: "karimbili"
 url: /karimbili/karimbili/
-shop: Allgemein
+shop: shop
 ---

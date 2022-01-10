@@ -1,5 +1,5 @@
 ---
 title: "Parmar"
 url: /bangalore/parmar/
-shop: Schreibwaren
+shop: office supplies
 ---

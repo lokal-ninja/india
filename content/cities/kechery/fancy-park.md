@@ -1,5 +1,5 @@
 ---
 title: "Fancy Park"
 url: /kechery/fancy-park/
-shop: Kosmetik
+shop: beauty
 ---

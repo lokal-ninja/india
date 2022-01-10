@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /varavoor/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

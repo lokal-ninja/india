@@ -1,5 +1,5 @@
 ---
 title: "Maria Mobiles"
 url: /nedumkunnam/maria-mobiles/
-shop: Handy
+shop: mobile phone
 ---

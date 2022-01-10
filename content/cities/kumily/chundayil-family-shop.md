@@ -1,5 +1,5 @@
 ---
 title: "Chundayil Family Shop"
 url: /kumily/chundayil-family-shop/
-shop: Supermarkt
+shop: supermarket
 ---

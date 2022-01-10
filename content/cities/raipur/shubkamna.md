@@ -1,5 +1,5 @@
 ---
 title: "Shubkamna"
 url: /raipur/shubkamna/
-shop: Kleidung
+shop: clothes
 ---

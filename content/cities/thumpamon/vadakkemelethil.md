@@ -1,5 +1,5 @@
 ---
 title: "Vadakkemelethil"
 url: /thumpamon/vadakkemelethil/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cauvery Sweets"
 url: /b-c-road/cauvery-sweets/
-shop: Bäckerei
+shop: bakery
 ---

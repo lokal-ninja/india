@@ -1,5 +1,5 @@
 ---
 title: "Haritha Vegetable Store"
 url: /muvattupuzha/haritha-vegetable-store/
-shop: Allgemein
+shop: shop
 ---

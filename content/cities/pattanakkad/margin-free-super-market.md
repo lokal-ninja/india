@@ -1,5 +1,5 @@
 ---
 title: "Margin Free Super Market"
 url: /pattanakkad/margin-free-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

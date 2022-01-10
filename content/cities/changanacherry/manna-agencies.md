@@ -1,5 +1,5 @@
 ---
 title: "Manna agencies"
 url: /changanacherry/manna-agencies/
-shop: Milch
+shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anjali Dairy"
 url: /dehradun/anjali-dairy/
-shop: Milch
+shop: dairy
 ---

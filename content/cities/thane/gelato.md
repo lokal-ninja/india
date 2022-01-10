@@ -1,5 +1,5 @@
 ---
 title: "Gelato"
 url: /thane/gelato/
-shop: Eisprodukte
+shop: ice cream
 ---

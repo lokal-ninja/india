@@ -1,5 +1,5 @@
 ---
 title: "Tea Shop Manacaud"
 url: /manacaud-thiruvananthapuram/tea-shop-manacaud/
-shop: Tee
+shop: tea
 ---

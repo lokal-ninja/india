@@ -1,5 +1,5 @@
 ---
 title: "Paragon"
 url: /thirumoolapuram/paragon/
-shop: Möbel
+shop: furniture
 ---

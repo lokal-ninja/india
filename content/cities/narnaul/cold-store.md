@@ -1,5 +1,5 @@
 ---
 title: "Cold Store"
 url: /narnaul/cold-store/
-shop: Mieten
+shop: storage rental
 ---

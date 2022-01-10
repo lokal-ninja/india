@@ -1,5 +1,5 @@
 ---
 title: "Cane Corner"
 url: /bangalore/cane-corner/
-shop: Allgemein
+shop: shop
 ---

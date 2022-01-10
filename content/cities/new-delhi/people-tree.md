@@ -1,5 +1,5 @@
 ---
 title: "People Tree"
 url: /new-delhi/people-tree/
-shop: Kleidung
+shop: clothes
 ---

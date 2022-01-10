@@ -1,5 +1,5 @@
 ---
 title: "Freshmills"
 url: /bengaluru/freshmills/
-shop: Lebensmittel
+shop: convenience
 ---

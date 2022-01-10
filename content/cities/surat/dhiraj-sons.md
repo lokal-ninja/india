@@ -1,5 +1,5 @@
 ---
 title: "Dhiraj sons"
 url: /surat/dhiraj-sons/
-shop: Supermarkt
+shop: supermarket
 ---

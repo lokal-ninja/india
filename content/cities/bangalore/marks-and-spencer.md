@@ -1,5 +1,5 @@
 ---
 title: "Marks And Spencer"
 url: /bangalore/marks-and-spencer/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colorplus"
 url: /bangalore/colorplus/
-shop: Kleidung
+shop: clothes
 ---

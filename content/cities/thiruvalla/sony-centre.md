@@ -1,5 +1,5 @@
 ---
 title: "Sony Centre"
 url: /thiruvalla/sony-centre/
-shop: Elektronik
+shop: electronics
 ---

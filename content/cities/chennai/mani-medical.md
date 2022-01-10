@@ -1,5 +1,5 @@
 ---
 title: "mani medical"
 url: /chennai/mani-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

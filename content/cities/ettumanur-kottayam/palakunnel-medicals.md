@@ -1,5 +1,5 @@
 ---
 title: "palakunnel medicals"
 url: /ettumanur-kottayam/palakunnel-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

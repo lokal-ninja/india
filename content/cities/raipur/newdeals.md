@@ -1,5 +1,5 @@
 ---
 title: "newdeals"
 url: /raipur/newdeals/
-shop: Möbel
+shop: furniture
 ---

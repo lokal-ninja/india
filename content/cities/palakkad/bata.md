@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /palakkad/bata/
-shop: Schuhe
+shop: shoes
 ---

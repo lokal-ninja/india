@@ -1,5 +1,5 @@
 ---
 title: "vijayanagara plywood and laminates"
 url: /hospet/vijayanagara-plywood-and-laminates/
-shop: Eisenwaren
+shop: hardware
 ---

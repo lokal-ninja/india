@@ -1,5 +1,5 @@
 ---
 title: "golden store"
 url: /puthuppally/golden-store/
-shop: Allgemein
+shop: shop
 ---

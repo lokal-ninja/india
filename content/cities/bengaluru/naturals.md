@@ -1,5 +1,5 @@
 ---
 title: "Naturals"
 url: /bengaluru/naturals/
-shop: Kosmetik
+shop: beauty
 ---

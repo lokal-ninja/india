@@ -1,5 +1,5 @@
 ---
 title: "Colorbar"
 url: /thane/colorbar/
-shop: Kosmetik
+shop: beauty
 ---

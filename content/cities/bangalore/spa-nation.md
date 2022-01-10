@@ -1,5 +1,5 @@
 ---
 title: "Spa nation"
 url: /bangalore/spa-nation/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "chicken centre"
 url: /ranni/chicken-centre-2/
-shop: Metzgerei
+shop: butcher
 ---

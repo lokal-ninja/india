@@ -1,5 +1,5 @@
 ---
 title: "Chikoos"
 url: /edoor/chikoos/
-shop: Schreibwaren
+shop: office supplies
 ---

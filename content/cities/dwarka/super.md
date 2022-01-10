@@ -1,5 +1,5 @@
 ---
 title: "super"
 url: /dwarka/super/
-shop: Supermarkt
+shop: supermarket
 ---

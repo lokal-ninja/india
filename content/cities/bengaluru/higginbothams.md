@@ -1,5 +1,5 @@
 ---
 title: "Higginbothams"
 url: /bengaluru/higginbothams/
-shop: Bücher
+shop: books
 ---

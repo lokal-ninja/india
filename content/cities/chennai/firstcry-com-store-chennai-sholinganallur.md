@@ -1,5 +1,5 @@
 ---
 title: "Firstcry.com Store Chennai Sholinganallur"
 url: /chennai/firstcry-com-store-chennai-sholinganallur/
-shop: Babysachen
+shop: baby goods
 ---

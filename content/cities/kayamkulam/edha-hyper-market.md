@@ -1,5 +1,5 @@
 ---
 title: "Edha hyper market"
 url: /kayamkulam/edha-hyper-market/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bombay Bazaar"
 url: /panjim/bombay-bazaar/
-shop: Warenhaus
+shop: department store
 ---

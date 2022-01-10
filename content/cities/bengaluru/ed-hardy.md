@@ -1,5 +1,5 @@
 ---
 title: "Ed Hardy"
 url: /bengaluru/ed-hardy/
-shop: Kleidung
+shop: clothes
 ---

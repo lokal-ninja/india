@@ -1,5 +1,5 @@
 ---
 title: "Yashi Auto Parts"
 url: /banapura-seoni-malwa/yashi-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

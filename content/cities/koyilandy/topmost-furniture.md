@@ -1,5 +1,5 @@
 ---
 title: "Topmost Furniture"
 url: /koyilandy/topmost-furniture/
-shop: Möbel
+shop: furniture
 ---

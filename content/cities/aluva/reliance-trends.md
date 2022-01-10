@@ -1,5 +1,5 @@
 ---
 title: "Reliance Trends"
 url: /aluva/reliance-trends/
-shop: Kleidung
+shop: clothes
 ---

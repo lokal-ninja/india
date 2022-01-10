@@ -1,5 +1,5 @@
 ---
 title: "Fab India"
 url: /thane/fab-india/
-shop: Kleidung
+shop: clothes
 ---

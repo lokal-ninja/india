@@ -1,5 +1,5 @@
 ---
 title: "Prouogue"
 url: /raipur/prouogue/
-shop: Kleidung
+shop: clothes
 ---

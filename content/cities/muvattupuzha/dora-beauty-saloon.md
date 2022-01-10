@@ -1,5 +1,5 @@
 ---
 title: "Dora beauty saloon"
 url: /muvattupuzha/dora-beauty-saloon/
-shop: Kosmetik
+shop: beauty
 ---

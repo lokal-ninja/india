@@ -1,5 +1,5 @@
 ---
 title: "Famous"
 url: /kunnumpuram/famous/
-shop: Bäckerei
+shop: bakery
 ---

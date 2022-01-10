@@ -1,5 +1,5 @@
 ---
 title: "Rockey Store"
 url: /vaduthala-kochi/rockey-store/
-shop: Allgemein
+shop: shop
 ---

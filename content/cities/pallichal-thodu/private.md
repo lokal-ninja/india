@@ -1,5 +1,5 @@
 ---
 title: "private"
 url: /pallichal-thodu/private/
-shop: Sanitätshaus
+shop: medical supply
 ---

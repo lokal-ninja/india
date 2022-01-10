@@ -1,5 +1,5 @@
 ---
 title: "Ration shop"
 url: /kallipalayam-namakkal/ration-shop/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heavenly Studio"
 url: /vettukad-thrissur/heavenly-studio/
-shop: Foto
+shop: photo
 ---

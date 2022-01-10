@@ -1,5 +1,5 @@
 ---
 title: "Sun Gents World"
 url: /varkala/sun-gents-world/
-shop: Kleidung
+shop: clothes
 ---

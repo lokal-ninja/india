@@ -1,5 +1,5 @@
 ---
 title: "Athul decorations"
 url: /vazhakulam/athul-decorations/
-shop: Raumausstattung
+shop: interior decoration
 ---

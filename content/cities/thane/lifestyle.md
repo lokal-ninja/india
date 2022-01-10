@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle"
 url: /thane/lifestyle/
-shop: Kleidung
+shop: clothes
 ---

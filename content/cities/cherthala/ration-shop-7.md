@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /cherthala/ration-shop-7/
-shop: Lebensmittel
+shop: convenience
 ---

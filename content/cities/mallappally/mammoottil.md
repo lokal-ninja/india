@@ -1,5 +1,5 @@
 ---
 title: "mammoottil"
 url: /mallappally/mammoottil/
-shop: Elektrisch
+shop: electrical
 ---

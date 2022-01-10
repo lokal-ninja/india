@@ -1,5 +1,5 @@
 ---
 title: "Supplyco koyilandy"
 url: /koyilandy/supplyco-koyilandy/
-shop: Supermarkt
+shop: supermarket
 ---

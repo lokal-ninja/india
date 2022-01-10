@@ -1,5 +1,5 @@
 ---
 title: "Godson"
 url: /kuruvila-city/godson/
-shop: Mieten
+shop: storage rental
 ---

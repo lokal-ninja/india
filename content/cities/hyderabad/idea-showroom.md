@@ -1,5 +1,5 @@
 ---
 title: "Idea Showroom"
 url: /hyderabad/idea-showroom/
-shop: Handy
+shop: mobile phone
 ---

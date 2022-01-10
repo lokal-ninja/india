@@ -1,5 +1,5 @@
 ---
 title: "Liva"
 url: /chandakunnu/liva/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ayurvedha Arya Vayidhyashala"
 url: /koduvally/ayurvedha-arya-vayidhyashala/
-shop: Sanitätshaus
+shop: medical supply
 ---

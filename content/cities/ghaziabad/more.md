@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /ghaziabad/more/
-shop: Warenhaus
+shop: department store
 ---

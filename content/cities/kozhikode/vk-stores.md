@@ -1,5 +1,5 @@
 ---
 title: "VK Stores"
 url: /kozhikode/vk-stores/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maheswari Textiles"
 url: /chengannur/maheswari-textiles/
-shop: Kleidung
+shop: clothes
 ---

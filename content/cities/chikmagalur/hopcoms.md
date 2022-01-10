@@ -1,5 +1,5 @@
 ---
 title: "HOPCOMS"
 url: /chikmagalur/hopcoms/
-shop: Rahmen
+shop: frame
 ---

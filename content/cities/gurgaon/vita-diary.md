@@ -1,5 +1,5 @@
 ---
 title: "VITA Diary"
 url: /gurgaon/vita-diary/
-shop: Lebensmittel
+shop: convenience
 ---

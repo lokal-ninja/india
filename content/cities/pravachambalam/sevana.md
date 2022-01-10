@@ -1,5 +1,5 @@
 ---
 title: "sevana"
 url: /pravachambalam/sevana/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariya"
 url: /muvattupuzha/mariya/
-shop: Kosmetik
+shop: beauty
 ---

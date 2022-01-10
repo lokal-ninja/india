@@ -1,5 +1,5 @@
 ---
 title: "Metro Stores"
 url: /bangalore/metro-stores/
-shop: Dorfladen
+shop: general
 ---

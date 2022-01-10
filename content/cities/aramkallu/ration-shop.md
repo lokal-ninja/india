@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /aramkallu/ration-shop/
-shop: Dorfladen
+shop: general
 ---

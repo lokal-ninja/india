@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thamarakkulam/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

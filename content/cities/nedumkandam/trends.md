@@ -1,5 +1,5 @@
 ---
 title: "Trends"
 url: /nedumkandam/trends/
-shop: Kleidung
+shop: clothes
 ---

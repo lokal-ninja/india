@@ -1,5 +1,5 @@
 ---
 title: "Chemistry"
 url: /raipur/chemistry/
-shop: Kleidung
+shop: clothes
 ---

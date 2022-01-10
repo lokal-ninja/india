@@ -1,5 +1,5 @@
 ---
 title: "fair price"
 url: /hyderabad/fair-price/
-shop: Einkaufszentrum
+shop: mall
 ---

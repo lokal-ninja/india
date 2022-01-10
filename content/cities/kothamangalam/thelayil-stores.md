@@ -1,5 +1,5 @@
 ---
 title: "Thelayil Stores"
 url: /kothamangalam/thelayil-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

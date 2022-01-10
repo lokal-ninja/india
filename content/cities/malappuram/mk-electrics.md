@@ -1,5 +1,5 @@
 ---
 title: "mk electrics"
 url: /malappuram/mk-electrics/
-shop: Elektronik
+shop: electronics
 ---

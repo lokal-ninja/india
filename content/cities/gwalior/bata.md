@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /gwalior/bata/
-shop: Schuhe
+shop: shoes
 ---

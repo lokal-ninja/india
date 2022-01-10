@@ -1,5 +1,5 @@
 ---
 title: "vimal super market"
 url: /mehsana/vimal-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

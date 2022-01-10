@@ -1,5 +1,5 @@
 ---
 title: "Wrangler"
 url: /bangalore/wrangler/
-shop: Kleidung
+shop: clothes
 ---

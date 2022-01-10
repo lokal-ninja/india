@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kambiline-neriamangalam/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

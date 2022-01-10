@@ -1,5 +1,5 @@
 ---
 title: "amar computer"
 url: /jodhpur/amar-computer/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "halal chicken centre"
 url: /anchal/halal-chicken-centre/
-shop: Metzgerei
+shop: butcher
 ---

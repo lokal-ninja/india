@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /pooyappally/choice/
-shop: Wasser
+shop: water
 ---

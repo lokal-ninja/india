@@ -1,5 +1,5 @@
 ---
 title: "Z-Mart Supermarket"
 url: /punnathura/z-mart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

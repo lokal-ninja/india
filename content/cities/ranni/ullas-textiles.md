@@ -1,5 +1,5 @@
 ---
 title: "ullas textiles"
 url: /ranni/ullas-textiles/
-shop: Kleidung
+shop: clothes
 ---

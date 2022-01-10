@@ -1,5 +1,5 @@
 ---
 title: "Jagmohan Automotives Private Limited"
 url: /kundli/jagmohan-automotives-private-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safa"
 url: /ekarool/safa/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nedumkunnam"
 url: /nedumkunnam/nedumkunnam/
-shop: Kleidung
+shop: clothes
 ---

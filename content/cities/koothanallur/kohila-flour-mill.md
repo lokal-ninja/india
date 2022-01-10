@@ -1,5 +1,5 @@
 ---
 title: "Kohila Flour Mill"
 url: /koothanallur/kohila-flour-mill/
-shop: Allgemein
+shop: shop
 ---

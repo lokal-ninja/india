@@ -1,5 +1,5 @@
 ---
 title: "BALAJI"
 url: /secunderabad/balaji/
-shop: Allgemein
+shop: shop
 ---

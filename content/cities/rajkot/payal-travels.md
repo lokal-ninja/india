@@ -1,5 +1,5 @@
 ---
 title: "Payal Travels"
 url: /rajkot/payal-travels/
-shop: Reisebüro
+shop: travel agency
 ---

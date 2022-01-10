@@ -1,5 +1,5 @@
 ---
 title: "വിപണി"
 url: /vayyattupuzha/vipnni/
-shop: Allgemein
+shop: shop
 ---

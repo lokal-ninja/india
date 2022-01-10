@@ -1,5 +1,5 @@
 ---
 title: "Santhosh"
 url: /tadkamalla/santhosh/
-shop: Lebensmittel
+shop: convenience
 ---

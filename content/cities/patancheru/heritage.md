@@ -1,5 +1,5 @@
 ---
 title: "Heritage"
 url: /patancheru/heritage/
-shop: Milch
+shop: dairy
 ---

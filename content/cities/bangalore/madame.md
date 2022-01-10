@@ -1,5 +1,5 @@
 ---
 title: "MaDAME"
 url: /bangalore/madame/
-shop: Kleidung
+shop: clothes
 ---

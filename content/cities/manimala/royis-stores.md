@@ -1,5 +1,5 @@
 ---
 title: "Royis stores"
 url: /manimala/royis-stores/
-shop: Mieten
+shop: storage rental
 ---

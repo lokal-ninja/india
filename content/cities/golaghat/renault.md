@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /golaghat/renault/
-shop: Autohaus
+shop: car
 ---

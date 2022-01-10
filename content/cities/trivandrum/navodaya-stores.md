@@ -1,5 +1,5 @@
 ---
 title: "Navodaya Stores"
 url: /trivandrum/navodaya-stores/
-shop: Supermarkt
+shop: supermarket
 ---

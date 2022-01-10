@@ -1,5 +1,5 @@
 ---
 title: "Hercules Sport international"
 url: /bangalore/hercules-sport-international/
-shop: Sport
+shop: sports
 ---

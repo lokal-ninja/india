@@ -1,5 +1,5 @@
 ---
 title: "Ramkay TVS"
 url: /chennai/ramkay-tvs/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "avkar parlor"
 url: /mehsana/avkar-parlor/
-shop: Lebensmittel
+shop: convenience
 ---

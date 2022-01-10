@@ -1,5 +1,5 @@
 ---
 title: "Quick chicken stall"
 url: /thottada/quick-chicken-stall/
-shop: Metzgerei
+shop: butcher
 ---

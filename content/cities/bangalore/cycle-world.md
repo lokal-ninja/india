@@ -1,5 +1,5 @@
 ---
 title: "Cycle World"
 url: /bangalore/cycle-world/
-shop: Sport
+shop: sports
 ---

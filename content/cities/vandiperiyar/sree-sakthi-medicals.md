@@ -1,5 +1,5 @@
 ---
 title: "Sree Sakthi Medicals"
 url: /vandiperiyar/sree-sakthi-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

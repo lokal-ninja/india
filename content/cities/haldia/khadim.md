@@ -1,5 +1,5 @@
 ---
 title: "Khadim"
 url: /haldia/khadim/
-shop: Schuhe
+shop: shoes
 ---

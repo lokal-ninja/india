@@ -1,5 +1,5 @@
 ---
 title: "Benetton"
 url: /bangalore/benetton/
-shop: Kleidung
+shop: clothes
 ---

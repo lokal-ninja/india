@@ -1,5 +1,5 @@
 ---
 title: "SD Pharmacy"
 url: /pathanamthitta/sd-pharmacy/
-shop: Sanitätshaus
+shop: medical supply
 ---

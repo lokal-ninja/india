@@ -1,5 +1,5 @@
 ---
 title: "Tailoring"
 url: /hyderabad/tailoring/
-shop: Schneiderei
+shop: tailor
 ---

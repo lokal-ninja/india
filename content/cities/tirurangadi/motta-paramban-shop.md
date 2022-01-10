@@ -1,5 +1,5 @@
 ---
 title: "motta paramban shop"
 url: /tirurangadi/motta-paramban-shop/
-shop: Lebensmittel
+shop: convenience
 ---

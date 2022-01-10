@@ -1,5 +1,5 @@
 ---
 title: "repair shop"
 url: /swaraj/repair-shop/
-shop: Motorrad
+shop: motorcycle
 ---

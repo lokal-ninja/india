@@ -1,5 +1,5 @@
 ---
 title: "Lucky Travels"
 url: /kurla-west-mumbai/lucky-travels/
-shop: Reisebüro
+shop: travel agency
 ---

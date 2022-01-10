@@ -1,5 +1,5 @@
 ---
 title: "Alengadans Vessels"
 url: /irinjalakuda/alengadans-vessels/
-shop: Dorfladen
+shop: general
 ---

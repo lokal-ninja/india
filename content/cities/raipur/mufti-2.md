@@ -1,5 +1,5 @@
 ---
 title: "Mufti"
 url: /raipur/mufti-2/
-shop: Kleidung
+shop: clothes
 ---

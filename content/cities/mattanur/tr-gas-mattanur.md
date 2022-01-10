@@ -1,5 +1,5 @@
 ---
 title: "TR Gas Mattanur"
 url: /mattanur/tr-gas-mattanur/
-shop: Gasflaschen
+shop: gas
 ---

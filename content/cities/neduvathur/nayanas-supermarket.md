@@ -1,5 +1,5 @@
 ---
 title: "Nayana's Supermarket"
 url: /neduvathur/nayanas-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

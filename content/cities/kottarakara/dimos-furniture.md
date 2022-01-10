@@ -1,5 +1,5 @@
 ---
 title: "Dimos Furniture"
 url: /kottarakara/dimos-furniture/
-shop: Möbel
+shop: furniture
 ---

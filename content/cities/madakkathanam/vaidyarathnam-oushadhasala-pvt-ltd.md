@@ -1,5 +1,5 @@
 ---
 title: "Vaidyarathnam Oushadhasala Pvt.Ltd"
 url: /madakkathanam/vaidyarathnam-oushadhasala-pvt-ltd/
-shop: Sanitätshaus
+shop: medical supply
 ---

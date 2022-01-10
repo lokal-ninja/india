@@ -1,5 +1,5 @@
 ---
 title: "United Colour of Benetton"
 url: /bangalore/united-colour-of-benetton-2/
-shop: Kleidung
+shop: clothes
 ---

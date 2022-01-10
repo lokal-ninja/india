@@ -1,5 +1,5 @@
 ---
 title: "Oxygen Digital Shop"
 url: /kattappana/oxygen-digital-shop/
-shop: Handy
+shop: mobile phone
 ---

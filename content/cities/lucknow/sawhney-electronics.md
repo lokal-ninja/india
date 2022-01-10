@@ -1,5 +1,5 @@
 ---
 title: "Sawhney Electronics"
 url: /lucknow/sawhney-electronics/
-shop: Elektronik
+shop: electronics
 ---

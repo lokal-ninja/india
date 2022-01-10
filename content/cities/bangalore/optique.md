@@ -1,5 +1,5 @@
 ---
 title: "Optique"
 url: /bangalore/optique/
-shop: Optiker
+shop: optician
 ---

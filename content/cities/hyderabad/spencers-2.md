@@ -1,5 +1,5 @@
 ---
 title: "Spencers"
 url: /hyderabad/spencers-2/
-shop: Supermarkt
+shop: supermarket
 ---

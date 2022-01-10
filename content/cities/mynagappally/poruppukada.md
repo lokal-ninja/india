@@ -1,5 +1,5 @@
 ---
 title: "poruppukada"
 url: /mynagappally/poruppukada/
-shop: Allgemein
+shop: shop
 ---

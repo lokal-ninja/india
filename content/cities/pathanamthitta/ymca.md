@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /pathanamthitta/ymca/
-shop: Allgemein
+shop: shop
 ---

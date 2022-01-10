@@ -1,5 +1,5 @@
 ---
 title: "Reddy shop"
 url: /mancherial/reddy-shop/
-shop: Dorfladen
+shop: general
 ---

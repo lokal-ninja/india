@@ -1,5 +1,5 @@
 ---
 title: "World of Titan"
 url: /bangalore/world-of-titan/
-shop: Allgemein
+shop: shop
 ---

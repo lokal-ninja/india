@@ -1,5 +1,5 @@
 ---
 title: "FusionBeats"
 url: /bangalore/fusionbeats/
-shop: Kleidung
+shop: clothes
 ---

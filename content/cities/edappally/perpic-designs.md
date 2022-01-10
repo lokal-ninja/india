@@ -1,5 +1,5 @@
 ---
 title: "Perpic Designs"
 url: /edappally/perpic-designs/
-shop: Basteln
+shop: craft
 ---

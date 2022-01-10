@@ -1,5 +1,5 @@
 ---
 title: "Unnivava"
 url: /adimali/unnivava/
-shop: Spielzeug
+shop: toys
 ---

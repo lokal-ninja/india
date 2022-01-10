@@ -1,5 +1,5 @@
 ---
 title: "Growmart supermarket"
 url: /ananthavoor/growmart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

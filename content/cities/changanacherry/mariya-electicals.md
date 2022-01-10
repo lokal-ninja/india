@@ -1,5 +1,5 @@
 ---
 title: "mariya electicals"
 url: /changanacherry/mariya-electicals/
-shop: Elektronik
+shop: electronics
 ---

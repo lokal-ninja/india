@@ -1,5 +1,5 @@
 ---
 title: "Movable"
 url: /trivandrum/movable/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Idea"
 url: /pakkam/idea/
-shop: Lebensmittel
+shop: convenience
 ---
