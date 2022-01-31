@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /thane/sunglass-hut/
-shop: shop
+shop: boutique
 ---

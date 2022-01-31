@@ -1,5 +1,5 @@
 ---
 title: "Nathaya Designer Studio"
 url: /bangalore/nathaya-designer-studio/
-shop: shop
+shop: boutique
 ---

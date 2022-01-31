@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /valakom/ration-shop/
+url: /vellanad/ration-shop-3/
 shop: convenience
 ---

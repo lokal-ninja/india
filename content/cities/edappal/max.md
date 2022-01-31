@@ -1,5 +1,5 @@
 ---
 title: "max"
 url: /edappal/max/
-shop: shop
+shop: boutique
 ---

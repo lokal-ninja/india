@@ -1,6 +1,6 @@
 ---
-title: valakom
+title: Valakom
 url: /valakom/
-latitude: 8.955
-longitude: 76.843
+latitude: 9.981
+longitude: 76.52
 ---
