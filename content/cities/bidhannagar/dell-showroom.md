@@ -1,5 +1,5 @@
 ---
-title: "DELL SHOWROOM"
+title: "DELL Showroom"
 url: /bidhannagar/dell-showroom/
-shop: shop
+shop: computer
 ---
