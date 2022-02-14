@@ -1,5 +1,5 @@
 ---
-title: "MADEENA SUPER MARKET"
+title: "Madeena super market"
 url: /karinkallathani/madeena-super-market/
 shop: supermarket
 ---

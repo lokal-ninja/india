@@ -1,5 +1,5 @@
 ---
-title: "Amar kirana shop"
+title: "Amar Kirana Shop"
 url: /bidar/amar-kirana-shop/
 shop: shop
 ---

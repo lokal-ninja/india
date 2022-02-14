@@ -1,5 +1,5 @@
 ---
 title: "Premaji Sweets"
 url: /pune/premaji-sweets/
-shop: confectionery
+shop: chocolate
 ---
