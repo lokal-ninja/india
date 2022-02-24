@@ -1,6 +1,6 @@
 ---
-title: VETTIYAR
+title: vettiyar
 url: /vettiyar/
-latitude: 9.218
-longitude: 76.595
+latitude: 9.23
+longitude: 76.592
 ---
