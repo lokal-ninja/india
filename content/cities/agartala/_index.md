@@ -1,6 +1,6 @@
 ---
-title: Agartala
+title: agartala
 url: /agartala/
-latitude: 23.829
-longitude: 91.275
+latitude: 23.831
+longitude: 91.289
 ---
