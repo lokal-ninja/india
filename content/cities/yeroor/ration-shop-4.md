@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /kottarakara/ration-shop/
+url: /yeroor/ration-shop-4/
 shop: convenience
 ---
