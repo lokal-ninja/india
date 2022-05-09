@@ -1,6 +1,6 @@
 ---
 title: Rangreth, Budgam
 url: /rangreth-budgam/
-latitude: 33.999
-longitude: 74.794
+latitude: 34
+longitude: 74.792
 ---
