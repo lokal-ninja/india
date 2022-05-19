@@ -1,6 +1,6 @@
 ---
 title: Kadubeesinhalli
 url: /kadubeesinhalli/
-latitude: 12.935
-longitude: 77.699
+latitude: 12.936
+longitude: 77.698
 ---
