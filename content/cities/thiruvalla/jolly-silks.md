@@ -1,5 +1,5 @@
 ---
 title: "Jolly Silks"
 url: /thiruvalla/jolly-silks/
-shop: clothes
+shop: shop
 ---
