@@ -1,5 +1,5 @@
 ---
-title: "ration shop"
+title: "Ration Shop"
 url: /ernakulam/ration-shop/
-shop: supermarket
+shop: convenience
 ---
