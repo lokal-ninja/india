@@ -1,6 +1,6 @@
 ---
-title: mynagappally
+title: Mynagappally
 url: /mynagappally/
-latitude: 9.064
-longitude: 76.566
+latitude: 9.022
+longitude: 76.593
 ---
