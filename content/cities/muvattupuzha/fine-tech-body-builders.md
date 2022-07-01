@@ -1,5 +1,5 @@
 ---
-title: "FINE TECH BODY BUILDERS"
+title: "fine tech body builders"
 url: /muvattupuzha/fine-tech-body-builders/
 shop: car repair
 ---
