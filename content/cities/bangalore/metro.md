@@ -1,5 +1,5 @@
 ---
-title: "METRO"
+title: "Metro"
 url: /bangalore/metro/
-shop: wholesale
+shop: shoes
 ---
