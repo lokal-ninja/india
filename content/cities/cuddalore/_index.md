@@ -1,6 +1,6 @@
 ---
 title: Cuddalore
 url: /cuddalore/
-latitude: 11.76
-longitude: 79.754
+latitude: 11.742
+longitude: 79.76
 ---
