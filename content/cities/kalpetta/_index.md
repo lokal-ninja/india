@@ -1,6 +1,6 @@
 ---
 title: Kalpetta
 url: /kalpetta/
-latitude: 11.61
-longitude: 76.082
+latitude: 11.6
+longitude: 76.081
 ---
