@@ -1,6 +1,6 @@
 ---
 title: Mangaluru
 url: /mangaluru/
-latitude: 12.924
-longitude: 74.846
+latitude: 12.886
+longitude: 74.881
 ---
