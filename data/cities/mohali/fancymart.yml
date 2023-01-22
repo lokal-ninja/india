@@ -3,9 +3,9 @@ type: node
 latitude: 30.64938
 longitude: 76.84443
 postcode: "140603"
-city: mohali
-street: "ChauraBazar Old Ambala Road Zirakpur"
-housenumber: Sco 45
-phone: "+91 9818088148"
+city: Mohali
+street: ""
+housenumber: 
+phone: "+91 98180 88148"
 opening_hours: "Mo-Su 09:00-19:30"
-website: ""
+website: "https://fancymart.in"
