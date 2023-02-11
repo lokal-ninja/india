@@ -1,5 +1,5 @@
 ---
 title: "Mother Dairy"
-url: /delhi/mother-dairy-2/
+url: /delhi/mother-dairy/
 shop: dairy
 ---

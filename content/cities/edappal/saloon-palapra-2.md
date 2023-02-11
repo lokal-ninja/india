@@ -1,5 +1,5 @@
 ---
 title: "Saloon Palapra"
-url: /edappal/saloon-palapra-2/
+url: /edappal/saloon-palapra/
 shop: hairdresser
 ---

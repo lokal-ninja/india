@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
-url: /haldia/mini-market-3/
+url: /haldia/mini-market/
 shop: convenience
 ---

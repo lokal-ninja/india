@@ -1,5 +1,5 @@
 ---
 title: "Star Bazaar"
-url: /ahmedabad/star-bazaar-2/
+url: /ahmedabad/star-bazaar/
 shop: supermarket
 ---

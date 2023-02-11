@@ -1,5 +1,5 @@
 ---
 title: "Ashoka Sales"
-url: /sakti/ashoka-sales-2/
+url: /sakti/ashoka-sales/
 shop: general
 ---

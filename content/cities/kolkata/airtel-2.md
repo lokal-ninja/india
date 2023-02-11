@@ -1,5 +1,5 @@
 ---
 title: "Airtel"
-url: /kolkata/airtel-2/
+url: /kolkata/airtel/
 shop: mobile phone
 ---

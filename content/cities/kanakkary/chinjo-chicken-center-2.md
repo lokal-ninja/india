@@ -1,5 +1,5 @@
 ---
 title: "Chinjo Chicken Center"
-url: /kanakkary/chinjo-chicken-center-2/
+url: /kanakkary/chinjo-chicken-center/
 shop: bakery
 ---

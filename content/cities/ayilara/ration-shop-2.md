@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /ayilara/ration-shop-2/
+url: /ayilara/ration-shop/
 shop: convenience
 ---

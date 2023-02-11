@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /kuttampuzha/ration-shop-2/
+url: /kuttampuzha/ration-shop/
 shop: convenience
 ---

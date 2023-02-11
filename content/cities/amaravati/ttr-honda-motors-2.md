@@ -1,5 +1,5 @@
 ---
 title: "TTR Honda Motors"
-url: /amaravati/ttr-honda-motors-2/
+url: /amaravati/ttr-honda-motors/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grocery Store"
-url: /gurugram/grocery-store-2/
+url: /gurugram/grocery-store/
 shop: convenience
 ---

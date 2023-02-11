@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /panmana/ration-shop-6/
+url: /panmana/ration-shop/
 shop: convenience
 ---

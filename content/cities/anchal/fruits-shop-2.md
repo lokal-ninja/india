@@ -1,5 +1,5 @@
 ---
 title: "Fruits Shop"
-url: /anchal/fruits-shop-2/
+url: /anchal/fruits-shop/
 shop: greengrocer
 ---

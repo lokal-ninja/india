@@ -1,5 +1,5 @@
 ---
 title: "AM"
-url: /kappimala/am-2/
+url: /kappimala/am/
 shop: shoes
 ---

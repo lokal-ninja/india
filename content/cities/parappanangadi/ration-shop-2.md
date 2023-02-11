@@ -1,5 +1,0 @@
----
-title: "Ration Shop"
-url: /parappanangadi/ration-shop-2/
-shop: convenience
----

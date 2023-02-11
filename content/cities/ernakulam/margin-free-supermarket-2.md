@@ -1,5 +1,5 @@
 ---
 title: "Margin free supermarket"
-url: /ernakulam/margin-free-supermarket-2/
+url: /ernakulam/margin-free-supermarket/
 shop: supermarket
 ---

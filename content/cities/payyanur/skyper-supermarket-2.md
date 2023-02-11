@@ -1,5 +1,5 @@
 ---
 title: "skyper supermarket"
-url: /payyanur/skyper-supermarket-2/
+url: /payyanur/skyper-supermarket/
 shop: supermarket
 ---

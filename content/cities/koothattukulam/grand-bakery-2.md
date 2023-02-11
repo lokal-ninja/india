@@ -1,5 +1,5 @@
 ---
 title: "Grand Bakery"
-url: /koothattukulam/grand-bakery-2/
+url: /koothattukulam/grand-bakery/
 shop: bakery
 ---

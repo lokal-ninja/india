@@ -1,5 +1,5 @@
 ---
 title: "Mahamaya Pan Masala"
-url: /sakti/mahamaya-pan-masala-2/
+url: /sakti/mahamaya-pan-masala/
 shop: shop
 ---

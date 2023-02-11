@@ -1,5 +1,5 @@
 ---
 title: "Sonali's Boutique"
-url: /kolkata/sonalis-boutique-2/
+url: /kolkata/sonalis-boutique/
 shop: tailor
 ---

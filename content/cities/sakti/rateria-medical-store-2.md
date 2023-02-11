@@ -1,5 +1,5 @@
 ---
 title: "Rateria Medical Store"
-url: /sakti/rateria-medical-store-2/
+url: /sakti/rateria-medical-store/
 shop: medical supply
 ---

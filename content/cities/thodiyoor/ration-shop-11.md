@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /thodiyoor/ration-shop-11/
+url: /thodiyoor/ration-shop/
 shop: convenience
 ---

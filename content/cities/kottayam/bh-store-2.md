@@ -1,5 +1,5 @@
 ---
 title: "BH Store"
-url: /kottayam/bh-store-2/
+url: /kottayam/bh-store/
 shop: variety store
 ---

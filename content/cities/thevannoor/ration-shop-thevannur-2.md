@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Thevannur"
-url: /thevannoor/ration-shop-thevannur-2/
+url: /thevannoor/ration-shop-thevannur/
 shop: convenience
 ---

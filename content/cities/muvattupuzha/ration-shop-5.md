@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /muvattupuzha/ration-shop-5/
+url: /muvattupuzha/ration-shop/
 shop: shop
 ---

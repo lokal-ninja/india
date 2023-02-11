@@ -1,5 +1,5 @@
 ---
 title: "Best Bakery"
-url: /edappally/best-bakery-2/
+url: /edappally/best-bakery/
 shop: bakery
 ---

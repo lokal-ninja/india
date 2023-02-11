@@ -1,5 +1,5 @@
 ---
 title: "S & S Super Stores"
-url: /puthappally/s-and-s-super-stores-2/
+url: /puthappally/s-and-s-super-stores/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shree Sailam TVS"
-url: /sakti/shree-sailam-tvs-2/
+url: /sakti/shree-sailam-tvs/
 shop: motorcycle
 ---

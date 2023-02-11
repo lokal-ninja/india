@@ -1,5 +1,5 @@
 ---
 title: "Preetam Tractors"
-url: /sakti/preetam-tractors-2/
+url: /sakti/preetam-tractors/
 shop: shop
 ---

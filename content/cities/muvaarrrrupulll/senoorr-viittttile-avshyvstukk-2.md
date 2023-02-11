@@ -1,5 +1,0 @@
----
-title: "സെനോറ വീട്ടിലെ അവശ്യവസ്തുക്കൾ"
-url: /muvaarrrrupulll/senoorr-viittttile-avshyvstukk-2/
-shop: furniture
----

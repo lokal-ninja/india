@@ -1,5 +1,5 @@
 ---
 title: "Kandachalil stores"
-url: /vellilamkandam/kandachalil-stores-2/
+url: /vellilamkandam/kandachalil-stores/
 shop: office supplies
 ---

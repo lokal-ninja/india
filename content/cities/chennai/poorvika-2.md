@@ -1,5 +1,5 @@
 ---
 title: "Poorvika"
-url: /chennai/poorvika-2/
+url: /chennai/poorvika/
 shop: mobile phone
 ---

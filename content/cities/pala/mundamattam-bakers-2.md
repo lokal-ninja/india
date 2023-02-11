@@ -1,5 +1,5 @@
 ---
 title: "Mundamattam Bakers"
-url: /pala/mundamattam-bakers-2/
+url: /pala/mundamattam-bakers/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SANTOSH FURNITURE"
-url: /ranchi/santosh-furniture-2/
+url: /ranchi/santosh-furniture/
 shop: furniture
 ---

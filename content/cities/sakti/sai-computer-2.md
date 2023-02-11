@@ -1,5 +1,5 @@
 ---
 title: "Sai Computer"
-url: /sakti/sai-computer-2/
+url: /sakti/sai-computer/
 shop: computer
 ---
