@@ -1,6 +1,6 @@
 ---
 title: Elumbulasseri
 url: /elumbulasseri/
-latitude: 10.923
-longitude: 76.46
+latitude: 10.931
+longitude: 76.469
 ---
