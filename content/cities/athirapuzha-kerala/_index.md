@@ -1,6 +1,6 @@
 ---
 title: athirapuzha,kerala
 url: /athirapuzha-kerala/
-latitude: 9.67
-longitude: 76.546
+latitude: 9.671
+longitude: 76.544
 ---
