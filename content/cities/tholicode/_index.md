@@ -1,6 +1,6 @@
 ---
 title: Tholicode
 url: /tholicode/
-latitude: 8.645
-longitude: 77.055
+latitude: 8.646
+longitude: 77.054
 ---

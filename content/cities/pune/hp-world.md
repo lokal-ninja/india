@@ -1,5 +1,5 @@
 ---
 title: "HP World"
 url: /pune/hp-world/
-shop: erotic
+shop: computer
 ---

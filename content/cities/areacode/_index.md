@@ -1,6 +1,6 @@
 ---
 title: Areacode
 url: /areacode/
-latitude: 11.25
-longitude: 76.061
+latitude: 11.287
+longitude: 76.075
 ---

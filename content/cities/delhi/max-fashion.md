@@ -1,5 +1,5 @@
 ---
-title: "Max Fashion"
+title: "Max fashion"
 url: /delhi/max-fashion/
 shop: clothes
 ---
