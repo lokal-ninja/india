@@ -1,6 +1,6 @@
 ---
 title: Chennai
 url: /chennai/
-latitude: 13.034
-longitude: 80.268
+latitude: 13.044
+longitude: 80.264
 ---
