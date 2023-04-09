@@ -1,6 +1,6 @@
 ---
 title: Kakkoor
 url: /kakkoor/
-latitude: 9.894
-longitude: 76.538
+latitude: 9.896
+longitude: 76.537
 ---

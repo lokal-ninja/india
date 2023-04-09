@@ -1,6 +1,6 @@
 ---
-title: KATTAPPANA
+title: kattappana
 url: /kattappana/
-latitude: 9.745
-longitude: 77.102
+latitude: 9.753
+longitude: 77.11
 ---

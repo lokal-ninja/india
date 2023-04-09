@@ -1,6 +1,6 @@
 ---
 title: PAKKAM
 url: /pakkam/
-latitude: 12.407
-longitude: 75.056
+latitude: 12.402
+longitude: 75.059
 ---
