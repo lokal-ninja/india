@@ -1,6 +1,6 @@
 ---
 title: Pathanamthitta
 url: /pathanamthitta/
-latitude: 9.265
-longitude: 76.787
+latitude: 9.266
+longitude: 76.788
 ---

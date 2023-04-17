@@ -1,5 +1,5 @@
 ---
-title: "sheter angadi"
+title: "Sheter Angadi"
 url: /arasikere/sheter-angadi/
 shop: supermarket
 ---
