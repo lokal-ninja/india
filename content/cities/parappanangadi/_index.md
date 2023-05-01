@@ -1,6 +1,6 @@
 ---
 title: parappanangadi
 url: /parappanangadi/
-latitude: 11.07
-longitude: 75.854
+latitude: 11.071
+longitude: 75.845
 ---

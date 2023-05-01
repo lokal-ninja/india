@@ -1,5 +1,5 @@
 ---
 title: "Valentine"
 url: /bangalore/valentine/
-shop: clothes
+shop: beauty
 ---
