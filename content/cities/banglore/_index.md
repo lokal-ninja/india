@@ -1,6 +1,6 @@
 ---
-title: Banglore
+title: banglore
 url: /banglore/
-latitude: 12.922
-longitude: 77.614
+latitude: 12.975
+longitude: 77.694
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ration shop"
+title: "Ration Shop"
 url: /marakkanam/ration-shop/
-shop: shop
+shop: convenience
 ---

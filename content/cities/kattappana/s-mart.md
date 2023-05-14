@@ -1,5 +1,5 @@
 ---
-title: "S Mart"
+title: "S-Mart"
 url: /kattappana/s-mart/
 shop: gift
 ---

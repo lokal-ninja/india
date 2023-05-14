@@ -1,6 +1,6 @@
 ---
 title: Kanpur
 url: /kanpur/
-latitude: 26.446
-longitude: 80.293
+latitude: 26.511
+longitude: 80.236
 ---
