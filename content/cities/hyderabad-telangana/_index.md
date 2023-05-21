@@ -1,6 +1,6 @@
 ---
-title: Hyderabad, Telangana
+title: Hyderabad, Telangana.
 url: /hyderabad-telangana/
-latitude: 17.499
-longitude: 78.385
+latitude: 17.331
+longitude: 78.576
 ---

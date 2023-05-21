@@ -1,6 +1,6 @@
 ---
 title: Khammam
 url: /khammam/
-latitude: 17.232
-longitude: 80.14
+latitude: 17.249
+longitude: 80.139
 ---
