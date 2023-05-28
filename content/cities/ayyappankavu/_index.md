@@ -1,6 +1,6 @@
 ---
 title: Ayyappankavu
 url: /ayyappankavu/
-latitude: 10.933
-longitude: 76.484
+latitude: 10.932
+longitude: 76.485
 ---
