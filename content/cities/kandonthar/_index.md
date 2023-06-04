@@ -1,6 +1,6 @@
 ---
 title: Kandonthar
 url: /kandonthar/
-latitude: 12.114
-longitude: 75.292
+latitude: 12.113
+longitude: 75.291
 ---
