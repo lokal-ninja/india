@@ -1,6 +1,6 @@
 ---
 title: ettumanoor
 url: /ettumanoor/
-latitude: 9.669
-longitude: 76.579
+latitude: 9.673
+longitude: 76.569
 ---
