@@ -1,6 +1,6 @@
 ---
 title: Selaiyur, Chennai
 url: /selaiyur-chennai/
-latitude: 12.91
-longitude: 80.143
+latitude: 12.912
+longitude: 80.138
 ---
