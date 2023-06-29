@@ -1,6 +1,6 @@
 ---
 title: Kankol
 url: /kankol/
-latitude: 12.157
-longitude: 75.228
+latitude: 12.154
+longitude: 75.224
 ---

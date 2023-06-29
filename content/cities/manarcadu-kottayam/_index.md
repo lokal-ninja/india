@@ -1,6 +1,6 @@
 ---
-title: Manarcadu, kottayam
+title: Manarcadu, Kottayam
 url: /manarcadu-kottayam/
-latitude: 9.585
+latitude: 9.587
 longitude: 76.584
 ---

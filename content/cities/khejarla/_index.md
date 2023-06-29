@@ -1,6 +1,6 @@
 ---
 title: Khejarla
 url: /khejarla/
-latitude: 26.332
+latitude: 26.333
 longitude: 73.685
 ---

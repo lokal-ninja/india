@@ -1,6 +1,6 @@
 ---
 title: Eramam kuttur
 url: /eramam-kuttur/
-latitude: 12.175
-longitude: 75.36
+latitude: 12.158
+longitude: 75.388
 ---

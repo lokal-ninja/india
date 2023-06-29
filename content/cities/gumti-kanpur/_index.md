@@ -1,6 +1,6 @@
 ---
 title: Gumti, Kanpur
 url: /gumti-kanpur/
-latitude: 26.468
-longitude: 80.315
+latitude: 26.467
+longitude: 80.314
 ---

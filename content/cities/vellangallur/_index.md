@@ -1,6 +1,6 @@
 ---
-title: Vellangallur
+title: VELLANGALLUR
 url: /vellangallur/
-latitude: 10.303
-longitude: 76.215
+latitude: 10.307
+longitude: 76.222
 ---

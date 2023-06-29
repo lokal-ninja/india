@@ -1,6 +1,6 @@
 ---
 title: Chavutuvary
 url: /chavutuvary/
-latitude: 9.608
-longitude: 76.532
+latitude: 9.611
+longitude: 76.534
 ---
