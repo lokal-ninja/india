@@ -1,6 +1,6 @@
 ---
 title: East Marady
 url: /east-marady/
-latitude: 9.945
-longitude: 76.574
+latitude: 9.942
+longitude: 76.576
 ---

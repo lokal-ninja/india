@@ -1,5 +1,5 @@
 ---
-title: "mahalakshmi jewellery"
+title: "Mahalakshmi Jewellery"
 url: /thiruninravur/mahalakshmi-jewellery/
 shop: jewelry
 ---

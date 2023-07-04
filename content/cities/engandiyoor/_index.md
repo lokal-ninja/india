@@ -1,6 +1,6 @@
 ---
 title: Engandiyoor
 url: /engandiyoor/
-latitude: 10.498
-longitude: 76.058
+latitude: 10.503
+longitude: 76.067
 ---
