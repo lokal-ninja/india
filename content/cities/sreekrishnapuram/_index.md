@@ -1,6 +1,6 @@
 ---
 title: Sreekrishnapuram
 url: /sreekrishnapuram/
-latitude: 10.906
-longitude: 76.412
+latitude: 10.915
+longitude: 76.397
 ---
