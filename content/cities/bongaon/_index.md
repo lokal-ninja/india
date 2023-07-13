@@ -1,6 +1,6 @@
 ---
 title: Bongaon
 url: /bongaon/
-latitude: 23.045
-longitude: 88.833
+latitude: 23.048
+longitude: 88.824
 ---

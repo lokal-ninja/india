@@ -1,6 +1,6 @@
 ---
 title: Udiyankulangara
 url: /udiyankulangara/
-latitude: 8.38
-longitude: 77.124
+latitude: 8.379
+longitude: 77.123
 ---
