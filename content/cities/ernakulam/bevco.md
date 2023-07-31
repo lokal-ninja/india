@@ -1,5 +1,5 @@
 ---
-title: "Bevco"
+title: "bevco"
 url: /ernakulam/bevco/
 shop: alcohol
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maravanthuruthu
 url: /maravanthuruthu/
-latitude: 9.791
-longitude: 76.4
+latitude: 9.801
+longitude: 76.398
 ---

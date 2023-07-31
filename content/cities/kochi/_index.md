@@ -1,6 +1,6 @@
 ---
-title: kochi
+title: Kochi
 url: /kochi/
-latitude: 9.936
-longitude: 76.261
+latitude: 9.956
+longitude: 76.243
 ---

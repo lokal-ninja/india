@@ -1,6 +1,6 @@
 ---
 title: Pooyappally
 url: /pooyappally/
-latitude: 8.888
-longitude: 76.762
+latitude: 8.893
+longitude: 76.758
 ---

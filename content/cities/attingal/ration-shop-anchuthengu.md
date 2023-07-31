@@ -1,5 +1,5 @@
 ---
-title: "Ration shop"
-url: /attingal/ration-shop/
+title: "Ration shop, Anchuthengu"
+url: /attingal/ration-shop-anchuthengu/
 shop: convenience
 ---
