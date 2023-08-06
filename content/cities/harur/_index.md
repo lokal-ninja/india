@@ -1,6 +1,6 @@
 ---
 title: Harur
 url: /harur/
-latitude: 12.052
-longitude: 78.475
+latitude: 12.056
+longitude: 78.481
 ---

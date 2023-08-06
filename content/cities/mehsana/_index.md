@@ -1,6 +1,6 @@
 ---
 title: mehsana
 url: /mehsana/
-latitude: 23.597
-longitude: 72.389
+latitude: 23.603
+longitude: 72.391
 ---
