@@ -1,6 +1,6 @@
 ---
-title: Kuttiyani
+title: kuttiyani
 url: /kuttiyani/
 latitude: 8.597
-longitude: 76.934
+longitude: 76.933
 ---
