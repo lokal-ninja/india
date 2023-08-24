@@ -1,6 +1,6 @@
 ---
 title: Jalpaiguri
 url: /jalpaiguri/
-latitude: 26.528
-longitude: 88.723
+latitude: 26.526
+longitude: 88.72
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Grand highstreet"
+title: "Grand Highstreet"
 url: /pune/grand-highstreet/
 shop: mall
 ---

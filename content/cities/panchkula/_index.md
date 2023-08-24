@@ -1,6 +1,6 @@
 ---
 title: Panchkula
 url: /panchkula/
-latitude: 30.714
-longitude: 76.847
+latitude: 30.692
+longitude: 76.851
 ---
