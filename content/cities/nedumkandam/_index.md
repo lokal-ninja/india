@@ -1,6 +1,6 @@
 ---
 title: nedumkandam
 url: /nedumkandam/
-latitude: 9.838
-longitude: 77.16
+latitude: 9.836
+longitude: 77.161
 ---

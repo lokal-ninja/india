@@ -1,6 +1,6 @@
 ---
 title: Fort Kochi
 url: /fort-kochi/
-latitude: 9.967
-longitude: 76.243
+latitude: 9.965
+longitude: 76.241
 ---

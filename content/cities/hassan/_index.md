@@ -1,6 +1,6 @@
 ---
 title: Hassan
 url: /hassan/
-latitude: 13.023
-longitude: 76.101
+latitude: 13.015
+longitude: 76.094
 ---

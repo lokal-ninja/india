@@ -1,6 +1,6 @@
 ---
 title: Mandur
 url: /mandur/
-latitude: 12.065
+latitude: 12.064
 longitude: 75.261
 ---

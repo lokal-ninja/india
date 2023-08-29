@@ -1,6 +1,6 @@
 ---
 title: Kuttampuzha
 url: /kuttampuzha/
-latitude: 10.152
-longitude: 76.739
+latitude: 10.163
+longitude: 76.748
 ---

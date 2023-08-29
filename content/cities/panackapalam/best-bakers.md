@@ -1,5 +1,5 @@
 ---
-title: "best bakers"
+title: "Best bakers"
 url: /panackapalam/best-bakers/
 shop: bakery
 ---
