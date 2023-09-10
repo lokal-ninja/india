@@ -1,6 +1,6 @@
 ---
 title: Pudukkottai
 url: /pudukkottai/
-latitude: 10.385
-longitude: 78.825
+latitude: 10.387
+longitude: 78.821
 ---
