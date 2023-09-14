@@ -1,5 +1,5 @@
 ---
 title: "Rocia"
-url: /bangalore/rocia/
+url: /bangalore/rocia-sampige-road/
 shop: shoes
 ---

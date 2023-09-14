@@ -1,6 +1,6 @@
 ---
 title: vidyanagar
 url: /vidyanagar/
-latitude: 12.517
-longitude: 75.014
+latitude: 12.518
+longitude: 75.017
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charalkadavu"
-url: /pakkam/charalkadavu/
+url: /pakkam/charalkadavu-charalkadavu/
 shop: convenience
 ---

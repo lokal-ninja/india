@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /chennai/bata/
+url: /chennai/bata-gopathi-narayanaswami-chetty-road/
 shop: shoes
 ---

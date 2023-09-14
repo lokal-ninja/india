@@ -1,5 +1,5 @@
 ---
 title: "SHE'S Passion"
-url: /raipur/shes-passion/
+url: /raipur/shes-passion-labhanda-g-eroad-jivan-vihar/
 shop: clothes
 ---

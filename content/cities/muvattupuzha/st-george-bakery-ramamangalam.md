@@ -1,5 +1,5 @@
 ---
-title: "St. George Bakery"
-url: /muvattupuzha/st-george-bakery/
+title: "St. George bakery"
+url: /muvattupuzha/st-george-bakery-ramamangalam/
 shop: bakery
 ---

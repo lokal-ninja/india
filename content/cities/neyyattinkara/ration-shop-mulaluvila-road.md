@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /neyyattinkara/ration-shop/
+url: /neyyattinkara/ration-shop-mulaluvila-road/
 shop: convenience
 ---

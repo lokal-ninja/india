@@ -1,5 +1,5 @@
 ---
 title: "DMart"
-url: /hyderabad/dmart/
+url: /hyderabad/dmart-idpl/
 shop: supermarket
 ---

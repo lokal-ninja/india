@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
-url: /kozhikode/grocery-outlet/
+url: /kozhikode/grocery-outlet-peravakutty-road/
 shop: supermarket
 ---

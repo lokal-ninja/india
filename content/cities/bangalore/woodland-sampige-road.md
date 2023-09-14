@@ -1,5 +1,5 @@
 ---
 title: "Woodland"
-url: /bangalore/woodland/
+url: /bangalore/woodland-sampige-road/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /manjinikkara/ration-shop/
+url: /manjinikkara/ration-shop-omallur-elavumthitta-road/
 shop: convenience
 ---

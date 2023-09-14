@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
-url: /bangalore/adidas/
+url: /bangalore/adidas-magrath-road/
 shop: sports
 ---

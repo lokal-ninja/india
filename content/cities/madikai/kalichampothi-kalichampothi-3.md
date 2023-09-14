@@ -1,5 +1,5 @@
 ---
 title: "Kalichampothi"
-url: /madikai/kalichampothi/
+url: /madikai/kalichampothi-kalichampothi-3/
 shop: bakery
 ---

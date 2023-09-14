@@ -1,5 +1,5 @@
 ---
 title: "Sweet Chariot"
-url: /bangalore/sweet-chariot/
+url: /bangalore/sweet-chariot-rajajinagar/
 shop: supermarket
 ---

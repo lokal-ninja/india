@@ -1,5 +1,5 @@
 ---
 title: "Lee"
-url: /bangalore/lee/
+url: /bangalore/lee-bannerghatta-road/
 shop: clothes
 ---

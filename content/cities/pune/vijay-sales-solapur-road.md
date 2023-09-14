@@ -1,5 +1,5 @@
 ---
 title: "Vijay Sales"
-url: /pune/vijay-sales/
+url: /pune/vijay-sales-solapur-road/
 shop: supermarket
 ---

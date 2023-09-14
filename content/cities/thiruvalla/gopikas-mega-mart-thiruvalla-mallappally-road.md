@@ -1,5 +1,5 @@
 ---
 title: "Gopikas Mega Mart"
-url: /thiruvalla/gopikas-mega-mart/
+url: /thiruvalla/gopikas-mega-mart-thiruvalla-mallappally-road/
 shop: supermarket
 ---

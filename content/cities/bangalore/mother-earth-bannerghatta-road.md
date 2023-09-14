@@ -1,5 +1,5 @@
 ---
 title: "Mother Earth"
-url: /bangalore/mother-earth/
+url: /bangalore/mother-earth-bannerghatta-road/
 shop: clothes
 ---

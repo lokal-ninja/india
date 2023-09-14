@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /areacode/ration-shop/
+url: /areacode/ration-shop-kinaradappan-edakkattuparamb-road/
 shop: convenience
 ---

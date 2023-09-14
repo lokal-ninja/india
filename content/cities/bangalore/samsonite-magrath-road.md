@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
-url: /bangalore/samsonite/
+url: /bangalore/samsonite-magrath-road/
 shop: bag
 ---

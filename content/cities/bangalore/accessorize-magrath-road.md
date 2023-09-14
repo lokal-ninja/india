@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
-url: /bangalore/accessorize/
+url: /bangalore/accessorize-magrath-road/
 shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
-url: /bangalore/nike/
+url: /bangalore/nike-hosur-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Landmark"
-url: /bangalore/landmark/
+url: /bangalore/landmark-dr-rajkumar-road/
 shop: convenience
 ---

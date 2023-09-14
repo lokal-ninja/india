@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
-url: /hyderabad/mercedes-benz/
+url: /hyderabad/mercedes-benz-sanath-nagar-main-road/
 shop: car repair
 ---

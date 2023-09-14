@@ -1,5 +1,5 @@
 ---
 title: "Nandini Milk Booth"
-url: /mysuru/nandini-milk-booth/
+url: /mysuru/nandini-milk-booth-vishvamanava-road/
 shop: convenience
 ---

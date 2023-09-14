@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /edappon/ration-shop/
+url: /edappon/ration-shop-kurisumoodu-pattoor-road-2/
 shop: convenience
 ---

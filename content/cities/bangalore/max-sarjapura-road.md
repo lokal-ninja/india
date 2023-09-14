@@ -1,5 +1,5 @@
 ---
 title: "Max"
-url: /bangalore/max/
+url: /bangalore/max-sarjapura-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /cherthala/ration-shop/
+url: /cherthala/ration-shop-kuttikattu-junction/
 shop: convenience
 ---

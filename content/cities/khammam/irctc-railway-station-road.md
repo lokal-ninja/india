@@ -1,5 +1,5 @@
 ---
 title: "IRCTC"
-url: /khammam/irctc/
+url: /khammam/irctc-railway-station-road/
 shop: kiosk
 ---

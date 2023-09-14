@@ -1,5 +1,5 @@
 ---
 title: "Raymond"
-url: /thane/raymond/
+url: /thane/raymond-eastern-express-highway/
 shop: clothes
 ---

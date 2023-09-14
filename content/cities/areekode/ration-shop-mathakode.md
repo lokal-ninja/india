@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /areekode/ration-shop/
+url: /areekode/ration-shop-mathakode/
 shop: convenience
 ---

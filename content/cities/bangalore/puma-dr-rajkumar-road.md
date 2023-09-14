@@ -1,5 +1,5 @@
 ---
 title: "Puma"
-url: /bangalore/puma/
+url: /bangalore/puma-dr-rajkumar-road/
 shop: clothes
 ---

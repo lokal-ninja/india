@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /bangalore/bata/
+url: /bangalore/bata-dr-rajkumar-road/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "More"
-url: /hyderabad/more/
+url: /hyderabad/more-ntr-nagar-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Van Heusen"
-url: /chennai/van-heusen/
+url: /chennai/van-heusen-medavakkam-main-road/
 shop: clothes
 ---

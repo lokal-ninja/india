@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /engandiyoor/ration-shop/
+url: /engandiyoor/ration-shop-near-thirunarayana-school/
 shop: convenience
 ---

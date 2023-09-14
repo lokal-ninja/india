@@ -1,5 +1,5 @@
 ---
 title: "DMart"
-url: /bangalore/dmart/
+url: /bangalore/dmart-hennuru-bagaluru-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "jockey"
-url: /bangalore/jockey/
+url: /bangalore/jockey-bannerghatta-road/
 shop: clothes
 ---

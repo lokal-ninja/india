@@ -1,5 +1,5 @@
 ---
 title: "Store"
-url: /parassala/store/
+url: /parassala/store-alampara-manivila-road/
 shop: general
 ---

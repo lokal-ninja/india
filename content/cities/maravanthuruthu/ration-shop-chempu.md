@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /maravanthuruthu/ration-shop/
+url: /maravanthuruthu/ration-shop-chempu/
 shop: convenience
 ---

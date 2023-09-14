@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /kollam/ration-shop/
+url: /kollam/ration-shop-karikode/
 shop: convenience
 ---

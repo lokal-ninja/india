@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
-url: /bangalore/samsung/
+url: /bangalore/samsung-epip-area-whitefield/
 shop: electronics
 ---

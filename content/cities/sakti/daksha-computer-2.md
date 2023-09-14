@@ -1,5 +1,5 @@
 ---
 title: "Daksha Computer"
-url: /sakti/daksha-computer/
+url: /sakti/daksha-computer-2/
 shop: computer
 ---

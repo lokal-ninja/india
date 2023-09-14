@@ -1,5 +1,5 @@
 ---
 title: "Surya"
-url: /koothali/surya/
+url: /koothali/surya-koothali/
 shop: pet
 ---

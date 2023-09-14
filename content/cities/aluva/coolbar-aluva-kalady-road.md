@@ -1,5 +1,5 @@
 ---
 title: "Coolbar"
-url: /aluva/coolbar/
+url: /aluva/coolbar-aluva-kalady-road/
 shop: shop
 ---

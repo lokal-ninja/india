@@ -1,5 +1,5 @@
 ---
 title: "Enamor"
-url: /bangalore/enamor/
+url: /bangalore/enamor-sampige-rd-malleshwaram/
 shop: clothes
 ---

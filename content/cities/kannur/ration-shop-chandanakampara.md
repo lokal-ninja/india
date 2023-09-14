@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /kannur/ration-shop/
+url: /kannur/ration-shop-chandanakampara/
 shop: general
 ---

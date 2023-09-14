@@ -1,5 +1,5 @@
 ---
 title: "Sadhna"
-url: /udaipur/sadhna/
+url: /udaipur/sadhna-udaipur-bari-road/
 shop: clothes
 ---

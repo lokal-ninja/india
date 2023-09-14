@@ -1,5 +1,5 @@
 ---
 title: "Trends"
-url: /prayagraj/trends/
+url: /prayagraj/trends-bahadurganj/
 shop: clothes
 ---

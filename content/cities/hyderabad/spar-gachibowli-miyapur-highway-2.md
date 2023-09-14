@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /hyderabad/spar/
+url: /hyderabad/spar-gachibowli-miyapur-highway-2/
 shop: supermarket
 ---

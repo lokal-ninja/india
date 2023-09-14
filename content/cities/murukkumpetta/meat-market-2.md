@@ -1,5 +1,5 @@
 ---
 title: "Meat Market"
-url: /murukkumpetta/meat-market/
+url: /murukkumpetta/meat-market-2/
 shop: butcher
 ---

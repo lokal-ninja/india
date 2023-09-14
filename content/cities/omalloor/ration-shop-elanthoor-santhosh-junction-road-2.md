@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /omalloor/ration-shop/
+url: /omalloor/ration-shop-elanthoor-santhosh-junction-road-2/
 shop: convenience
 ---

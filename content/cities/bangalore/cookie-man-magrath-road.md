@@ -1,5 +1,5 @@
 ---
 title: "Cookie Man"
-url: /bangalore/cookie-man/
+url: /bangalore/cookie-man-magrath-road/
 shop: bakery
 ---

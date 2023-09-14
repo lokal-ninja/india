@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
-url: /bangalore/levis/
+url: /bangalore/levis-magrath-road/
 shop: clothes
 ---

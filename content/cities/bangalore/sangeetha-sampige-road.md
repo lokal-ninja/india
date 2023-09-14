@@ -1,5 +1,5 @@
 ---
 title: "Sangeetha"
-url: /bangalore/sangeetha/
+url: /bangalore/sangeetha-sampige-road/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /devikulam/ration-shop/
+url: /devikulam/ration-shop-lockhart/
 shop: convenience
 ---

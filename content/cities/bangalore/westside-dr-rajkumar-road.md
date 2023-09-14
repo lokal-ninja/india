@@ -1,5 +1,5 @@
 ---
 title: "Westside"
-url: /bangalore/westside/
+url: /bangalore/westside-dr-rajkumar-road/
 shop: clothes
 ---

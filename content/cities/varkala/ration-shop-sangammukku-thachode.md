@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /varkala/ration-shop/
+url: /varkala/ration-shop-sangammukku-thachode/
 shop: convenience
 ---

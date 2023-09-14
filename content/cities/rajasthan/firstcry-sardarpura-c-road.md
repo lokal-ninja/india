@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
-url: /rajasthan/firstcry/
+url: /rajasthan/firstcry-sardarpura-c-road/
 shop: baby goods
 ---

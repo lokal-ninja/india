@@ -1,5 +1,5 @@
 ---
 title: "Chicken center"
-url: /hyderabad/chicken-center/
+url: /hyderabad/chicken-center-sanathnagar/
 shop: butcher
 ---

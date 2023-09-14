@@ -1,5 +1,5 @@
 ---
 title: "Spencers"
-url: /chennai/spencers/
+url: /chennai/spencers-arcot-road/
 shop: supermarket
 ---

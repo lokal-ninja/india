@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /kunnamthanam/ration-shop/
+url: /kunnamthanam/ration-shop-kunnamthanam-chenganasssery/
 shop: convenience
 ---

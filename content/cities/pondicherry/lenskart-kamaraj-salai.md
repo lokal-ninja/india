@@ -1,5 +1,5 @@
 ---
 title: "Lenskart"
-url: /pondicherry/lenskart/
+url: /pondicherry/lenskart-kamaraj-salai/
 shop: optician
 ---

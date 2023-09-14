@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
-url: /bangalore/swarovski/
+url: /bangalore/swarovski-magrath-road/
 shop: clothes
 ---

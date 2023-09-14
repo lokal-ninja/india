@@ -1,5 +1,5 @@
 ---
 title: "WALKMATE"
-url: /koothali/walkmate/
+url: /koothali/walkmate-koothali/
 shop: shoes
 ---

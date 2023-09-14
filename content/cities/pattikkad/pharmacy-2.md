@@ -1,5 +1,5 @@
 ---
 title: "Pharmacy"
-url: /pattikkad/pharmacy/
+url: /pattikkad/pharmacy-2/
 shop: chemist
 ---

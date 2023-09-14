@@ -1,5 +1,5 @@
 ---
 title: "Celio"
-url: /bangalore/celio/
+url: /bangalore/celio-sampige-rd-malleshwaram/
 shop: clothes
 ---

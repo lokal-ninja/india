@@ -1,5 +1,5 @@
 ---
 title: "Ration shop"
-url: /trivandrum/ration-shop/
+url: /trivandrum/ration-shop-mullassery/
 shop: shop
 ---

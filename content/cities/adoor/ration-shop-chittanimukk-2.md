@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /adoor/ration-shop/
+url: /adoor/ration-shop-chittanimukk-2/
 shop: convenience
 ---

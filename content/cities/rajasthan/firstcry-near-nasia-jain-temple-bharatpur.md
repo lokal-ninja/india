@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
-url: /rajasthan/firstcry/
+url: /rajasthan/firstcry-near-nasia-jain-temple-bharatpur/
 shop: baby goods
 ---

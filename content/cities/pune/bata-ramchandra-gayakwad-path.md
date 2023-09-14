@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /pune/bata/
+url: /pune/bata-ramchandra-gayakwad-path/
 shop: shoes
 ---

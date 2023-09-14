@@ -1,5 +1,5 @@
 ---
 title: "Fabindia"
-url: /bangalore/fabindia/
+url: /bangalore/fabindia-sampige-rd-malleshwaram/
 shop: clothes
 ---

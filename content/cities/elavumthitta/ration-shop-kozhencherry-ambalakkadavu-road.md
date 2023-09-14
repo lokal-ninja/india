@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /elavumthitta/ration-shop/
+url: /elavumthitta/ration-shop-kozhencherry-ambalakkadavu-road/
 shop: convenience
 ---

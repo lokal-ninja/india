@@ -1,5 +1,5 @@
 ---
 title: "Pakkam"
-url: /pakkam/pakkam/
-shop: convenience
+url: /pakkam/pakkam-pakkam-2/
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lee"
-url: /bangalore/lee/
+url: /bangalore/lee-epip-area-whitefield/
 shop: clothes
 ---

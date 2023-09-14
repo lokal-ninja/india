@@ -1,5 +1,5 @@
 ---
 title: "Fancy"
-url: /tirur/fancy/
+url: /tirur/fancy-iringavoor/
 shop: shop
 ---

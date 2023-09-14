@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
-url: /bangalore/levis/
+url: /bangalore/levis-epip-area-whitefield/
 shop: clothes
 ---

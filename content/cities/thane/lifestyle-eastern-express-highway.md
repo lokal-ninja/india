@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle"
-url: /thane/lifestyle/
+url: /thane/lifestyle-eastern-express-highway/
 shop: clothes
 ---

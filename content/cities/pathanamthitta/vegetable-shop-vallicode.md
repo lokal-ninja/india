@@ -1,5 +1,5 @@
 ---
 title: "Vegetable Shop"
-url: /pathanamthitta/vegetable-shop/
+url: /pathanamthitta/vegetable-shop-vallicode/
 shop: greengrocer
 ---

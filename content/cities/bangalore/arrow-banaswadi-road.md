@@ -1,5 +1,5 @@
 ---
 title: "Arrow"
-url: /bangalore/arrow/
+url: /bangalore/arrow-banaswadi-road/
 shop: clothes
 ---

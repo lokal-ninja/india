@@ -1,5 +1,5 @@
 ---
 title: "Zudio"
-url: /pune/zudio/
+url: /pune/zudio-balewadi-high-street/
 shop: clothes
 ---

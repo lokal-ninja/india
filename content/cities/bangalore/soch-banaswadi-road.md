@@ -1,5 +1,5 @@
 ---
 title: "Soch"
-url: /bangalore/soch/
+url: /bangalore/soch-banaswadi-road/
 shop: clothes
 ---

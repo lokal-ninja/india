@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
-url: /delhi/firstcry/
+url: /delhi/firstcry-kohat-enclave/
 shop: baby goods
 ---

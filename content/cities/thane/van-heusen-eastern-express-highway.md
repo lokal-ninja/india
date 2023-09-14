@@ -1,5 +1,5 @@
 ---
 title: "Van Heusen"
-url: /thane/van-heusen/
+url: /thane/van-heusen-eastern-express-highway/
 shop: clothes
 ---

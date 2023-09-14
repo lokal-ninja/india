@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /bangalore/spar/
+url: /bangalore/spar-thanisandra-main-road/
 shop: supermarket
 ---

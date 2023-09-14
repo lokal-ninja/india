@@ -1,5 +1,5 @@
 ---
 title: "Lenskart"
-url: /puducherry/lenskart/
+url: /puducherry/lenskart-boulevard-anna-salai/
 shop: optician
 ---

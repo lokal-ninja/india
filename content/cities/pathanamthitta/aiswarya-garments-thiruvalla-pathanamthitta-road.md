@@ -1,5 +1,5 @@
 ---
 title: "AISWARYA GARMENTS"
-url: /pathanamthitta/aiswarya-garments/
+url: /pathanamthitta/aiswarya-garments-thiruvalla-pathanamthitta-road/
 shop: clothes
 ---

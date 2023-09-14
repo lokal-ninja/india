@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
-url: /kochi/bevco/
+url: /kochi/bevco-pandikudy-road/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tea Shop"
-url: /meeyannoor/tea-shop/
+url: /meeyannoor/tea-shop-2/
 shop: tea
 ---

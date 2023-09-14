@@ -1,5 +1,5 @@
 ---
 title: "GlobalDesi"
-url: /bangalore/globaldesi/
+url: /bangalore/globaldesi-sampige-rd-malleshwaram/
 shop: clothes
 ---

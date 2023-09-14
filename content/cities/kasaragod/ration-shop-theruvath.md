@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /kasaragod/ration-shop/
+url: /kasaragod/ration-shop-theruvath/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vismaya"
-url: /trivandrum/vismaya/
+url: /trivandrum/vismaya-kattakada/
 shop: bakery
 ---

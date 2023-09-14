@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
-url: /ottapalam/ration-shop/
+url: /ottapalam/ration-shop-kanniyampuram/
 shop: convenience
 ---

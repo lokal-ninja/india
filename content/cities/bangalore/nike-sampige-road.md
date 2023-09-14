@@ -1,5 +1,5 @@
 ---
 title: "Nike"
-url: /bangalore/nike/
+url: /bangalore/nike-sampige-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smart Textiles"
-url: /tirurangadi/smart-textiles/
+url: /tirurangadi/smart-textiles-parappanangadi-areacode-road/
 shop: clothes
 ---

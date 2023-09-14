@@ -1,5 +1,5 @@
 ---
 title: "Dmart"
-url: /hyderabad/dmart/
+url: /hyderabad/dmart-sarojini-devi-road/
 shop: supermarket
 ---
