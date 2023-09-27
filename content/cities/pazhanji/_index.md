@@ -1,6 +1,6 @@
 ---
-title: pazhanji
+title: Pazhanji
 url: /pazhanji/
-latitude: 10.688
-longitude: 76.053
+latitude: 10.687
+longitude: 76.047
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nellikkad
 url: /nellikkad/
-latitude: 10.939
+latitude: 10.94
 longitude: 75.937
 ---

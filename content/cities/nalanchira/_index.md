@@ -1,6 +1,6 @@
 ---
-title: Nalanchira
+title: nalanchira
 url: /nalanchira/
-latitude: 8.545
-longitude: 76.945
+latitude: 8.549
+longitude: 76.943
 ---
