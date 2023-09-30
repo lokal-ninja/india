@@ -1,5 +1,5 @@
 ---
-title: "M J COMPANY'S"
+title: "M J Company's"
 url: /mysore/m-j-companys/
-shop: shop
+shop: electronics
 ---

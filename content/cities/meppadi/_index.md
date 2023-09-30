@@ -1,6 +1,6 @@
 ---
 title: Meppadi
 url: /meppadi/
-latitude: 11.553
-longitude: 76.132
+latitude: 11.554
+longitude: 76.131
 ---
