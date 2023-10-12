@@ -1,6 +1,6 @@
 ---
-title: Adimali
+title: ADIMALI
 url: /adimali/
 latitude: 10.016
-longitude: 76.953
+longitude: 76.954
 ---

@@ -1,6 +1,6 @@
 ---
 title: Prayagraj
 url: /prayagraj/
-latitude: 25.451
-longitude: 81.831
+latitude: 25.407
+longitude: 81.868
 ---
