@@ -1,6 +1,6 @@
 ---
-title: Cherpunkal
+title: cherpunkal
 url: /cherpunkal/
-latitude: 9.693
-longitude: 76.639
+latitude: 9.691
+longitude: 76.637
 ---

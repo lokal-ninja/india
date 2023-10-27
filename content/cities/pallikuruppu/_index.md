@@ -1,6 +1,6 @@
 ---
-title: Pallikuruppu
+title: pallikuruppu
 url: /pallikuruppu/
-latitude: 10.961
-longitude: 76.476
+latitude: 10.97
+longitude: 76.474
 ---
