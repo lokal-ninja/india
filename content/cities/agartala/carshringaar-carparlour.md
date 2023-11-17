@@ -1,5 +1,5 @@
 ---
-title: "carshringaar carparlour"
+title: "Carshringaar Carparlour"
 url: /agartala/carshringaar-carparlour/
-shop: car parts
+shop: car repair
 ---

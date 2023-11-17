@@ -1,11 +1,11 @@
-id: 9642707077
-type: node
-latitude: 23.83125
-longitude: 91.28892
+id: 1049262382
+type: way
+latitude: 23.83123
+longitude: 91.28889
 postcode: "799001"
 city: agartala
-street: "A.A.Road, near yamaha showroom."
-housenumber: 51
-phone: "+91-7005400250"
-opening_hours: "Mo-Su 10:00-22:00"
+street: "agartala, near yamaha showroom"
+housenumber: 
+phone: "+917005400250"
+opening_hours: "Mo-Su 10:00-21:00"
 website: ""

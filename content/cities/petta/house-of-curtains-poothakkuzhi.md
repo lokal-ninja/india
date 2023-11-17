@@ -1,5 +1,5 @@
 ---
-title: "house of curtains  poothakkuzhi"
+title: "house of curtains poothakkuzhi"
 url: /petta/house-of-curtains-poothakkuzhi/
 shop: shop
 ---
