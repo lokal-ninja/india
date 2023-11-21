@@ -1,6 +1,6 @@
 ---
 title: Meerut
 url: /meerut/
-latitude: 28.995
-longitude: 77.708
+latitude: 29.065
+longitude: 77.71
 ---
