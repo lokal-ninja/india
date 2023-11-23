@@ -1,6 +1,6 @@
 ---
 title: ranni
 url: /ranni/
-latitude: 9.389
-longitude: 76.842
+latitude: 9.388
+longitude: 76.843
 ---
