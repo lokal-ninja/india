@@ -1,6 +1,6 @@
 ---
 title: patancheru
 url: /patancheru/
-latitude: 17.525
-longitude: 78.266
+latitude: 17.528
+longitude: 78.268
 ---
