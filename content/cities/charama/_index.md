@@ -1,6 +1,6 @@
 ---
 title: Charama
 url: /charama/
-latitude: 20.489
-longitude: 81.368
+latitude: 20.491
+longitude: 81.369
 ---
