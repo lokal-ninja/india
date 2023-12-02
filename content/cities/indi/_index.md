@@ -1,6 +1,6 @@
 ---
 title: Indi
 url: /indi/
-latitude: 17.179
-longitude: 75.951
+latitude: 17.178
+longitude: 75.95
 ---
