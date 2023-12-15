@@ -1,6 +1,6 @@
 ---
 title: Tiruchirappalli
 url: /tiruchirappalli/
-latitude: 10.824
-longitude: 78.693
+latitude: 10.822
+longitude: 78.694
 ---

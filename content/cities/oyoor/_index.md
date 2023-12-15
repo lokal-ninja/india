@@ -1,6 +1,6 @@
 ---
 title: Oyoor
 url: /oyoor/
-latitude: 8.88
-longitude: 76.759
+latitude: 8.874
+longitude: 76.773
 ---

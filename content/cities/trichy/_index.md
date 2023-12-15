@@ -1,6 +1,6 @@
 ---
 title: Trichy
 url: /trichy/
-latitude: 10.8
-longitude: 78.681
+latitude: 10.796
+longitude: 78.752
 ---
