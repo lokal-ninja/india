@@ -1,6 +1,6 @@
 ---
 title: Arakkonam
 url: /arakkonam/
-latitude: 13.095
-longitude: 79.659
+latitude: 13.091
+longitude: 79.66
 ---
