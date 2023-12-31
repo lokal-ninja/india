@@ -1,6 +1,6 @@
 ---
 title: Gwalior
 url: /gwalior/
-latitude: 26.211
-longitude: 78.187
+latitude: 26.216
+longitude: 78.182
 ---
