@@ -1,6 +1,6 @@
 ---
-title: Kalladikode
+title: kalladikode
 url: /kalladikode/
 latitude: 10.899
-longitude: 76.534
+longitude: 76.535
 ---

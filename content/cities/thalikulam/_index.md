@@ -1,6 +1,6 @@
 ---
-title: THALIKULAM
+title: Thalikulam
 url: /thalikulam/
-latitude: 10.362
-longitude: 76.109
+latitude: 10.37
+longitude: 76.106
 ---

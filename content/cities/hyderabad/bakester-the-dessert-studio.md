@@ -1,5 +1,5 @@
 ---
-title: "BAKESTER - the dessert studio"
+title: "Bakester - The Dessert Studio"
 url: /hyderabad/bakester-the-dessert-studio/
 shop: bakery
 ---
