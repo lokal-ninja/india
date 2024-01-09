@@ -1,5 +1,5 @@
 ---
-title: "eden's bakery"
+title: "Eden's bakery"
 url: /kottayam/edens-bakery/
 shop: bakery
 ---

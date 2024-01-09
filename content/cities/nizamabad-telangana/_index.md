@@ -1,6 +1,6 @@
 ---
 title: Nizamabad, Telangana
 url: /nizamabad-telangana/
-latitude: 18.656
-longitude: 78.124
+latitude: 18.657
+longitude: 78.123
 ---

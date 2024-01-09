@@ -1,6 +1,6 @@
 ---
 title: Siolim
 url: /siolim/
-latitude: 15.632
-longitude: 73.767
+latitude: 15.62
+longitude: 73.765
 ---
