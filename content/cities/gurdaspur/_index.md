@@ -1,6 +1,6 @@
 ---
 title: Gurdaspur
 url: /gurdaspur/
-latitude: 32.032
-longitude: 75.394
+latitude: 32.034
+longitude: 75.396
 ---
