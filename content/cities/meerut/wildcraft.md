@@ -1,5 +1,5 @@
 ---
 title: "Wildcraft"
 url: /meerut/wildcraft/
-shop: bag
+shop: outdoor
 ---

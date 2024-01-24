@@ -1,6 +1,6 @@
 ---
 title: pachalam
 url: /pachalam/
-latitude: 9.999
-longitude: 76.28
+latitude: 10.001
+longitude: 76.279
 ---
