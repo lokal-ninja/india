@@ -1,6 +1,6 @@
 ---
 title: Amaravati
 url: /amaravati/
-latitude: 20.916
-longitude: 77.773
+latitude: 20.912
+longitude: 77.753
 ---
