@@ -1,6 +1,6 @@
 ---
 title: Thiruvambady
 url: /thiruvambady/
-latitude: 11.361
-longitude: 76.008
+latitude: 11.413
+longitude: 76.04
 ---

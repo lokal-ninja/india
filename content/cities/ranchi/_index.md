@@ -1,6 +1,6 @@
 ---
-title: ranchi
+title: Ranchi
 url: /ranchi/
-latitude: 23.353
-longitude: 85.325
+latitude: 23.382
+longitude: 85.3
 ---
