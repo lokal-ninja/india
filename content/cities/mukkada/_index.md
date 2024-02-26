@@ -1,6 +1,6 @@
 ---
 title: mukkada
 url: /mukkada/
-latitude: 9.46
+latitude: 9.462
 longitude: 76.8
 ---
