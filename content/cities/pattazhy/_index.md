@@ -1,6 +1,6 @@
 ---
 title: Pattazhy
 url: /pattazhy/
-latitude: 9.077
-longitude: 76.799
+latitude: 9.081
+longitude: 76.797
 ---
