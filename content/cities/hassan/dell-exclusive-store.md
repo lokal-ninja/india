@@ -1,5 +1,5 @@
 ---
-title: "DELL Exclusive Store"
+title: "Dell Exclusive Store"
 url: /hassan/dell-exclusive-store/
 shop: computer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Murshidabad
 url: /murshidabad/
-latitude: 23.938
-longitude: 88.195
+latitude: 23.947
+longitude: 88.19
 ---
