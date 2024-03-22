@@ -1,6 +1,6 @@
 ---
 title: Balasore
 url: /balasore/
-latitude: 21.57
-longitude: 86.791
+latitude: 21.5
+longitude: 86.931
 ---
