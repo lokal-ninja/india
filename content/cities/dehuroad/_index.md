@@ -1,6 +1,6 @@
 ---
 title: Dehuroad
 url: /dehuroad/
-latitude: 18.675
-longitude: 73.731
+latitude: 18.676
+longitude: 73.732
 ---
