@@ -1,6 +1,6 @@
 ---
 title: Thookkupalam
 url: /thookkupalam/
-latitude: 9.813
-longitude: 77.196
+latitude: 9.815
+longitude: 77.194
 ---
