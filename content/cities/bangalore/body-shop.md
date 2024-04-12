@@ -1,5 +1,5 @@
 ---
-title: "body shop"
+title: "Body Shop"
 url: /bangalore/body-shop/
 shop: beauty
 ---
