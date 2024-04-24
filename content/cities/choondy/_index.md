@@ -1,6 +1,6 @@
 ---
 title: Choondy
 url: /choondy/
-latitude: 9.97
-longitude: 76.439
+latitude: 9.969
+longitude: 76.438
 ---

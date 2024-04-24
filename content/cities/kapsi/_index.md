@@ -1,6 +1,6 @@
 ---
 title: Kapsi
 url: /kapsi/
-latitude: 20.091
-longitude: 80.677
+latitude: 20.09
+longitude: 80.676
 ---
