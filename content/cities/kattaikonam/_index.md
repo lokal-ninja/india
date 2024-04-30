@@ -1,6 +1,6 @@
 ---
 title: Kattaikonam
 url: /kattaikonam/
-latitude: 8.603
-longitude: 76.897
+latitude: 8.602
+longitude: 76.898
 ---
