@@ -1,6 +1,6 @@
 ---
 title: Kilirani
 url: /kilirani/
-latitude: 10.945
+latitude: 10.944
 longitude: 76.483
 ---

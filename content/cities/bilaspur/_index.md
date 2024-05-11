@@ -1,6 +1,6 @@
 ---
-title: BILASPUR
+title: bilaspur
 url: /bilaspur/
-latitude: 22.074
-longitude: 82.159
+latitude: 22.085
+longitude: 82.156
 ---

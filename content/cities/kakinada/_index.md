@@ -1,6 +1,6 @@
 ---
 title: Kakinada
 url: /kakinada/
-latitude: 16.935
-longitude: 82.227
+latitude: 16.936
+longitude: 82.228
 ---
