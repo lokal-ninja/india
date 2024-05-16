@@ -1,6 +1,6 @@
 ---
 title: Haldia
 url: /haldia/
-latitude: 22.059
+latitude: 22.06
 longitude: 88.075
 ---

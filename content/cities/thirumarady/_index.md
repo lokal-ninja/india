@@ -1,6 +1,6 @@
 ---
 title: Thirumarady
 url: /thirumarady/
-latitude: 9.89
-longitude: 76.552
+latitude: 9.891
+longitude: 76.546
 ---
