@@ -1,6 +1,6 @@
 ---
 title: Mulund (West)
 url: /mulund-west/
-latitude: 19.184
-longitude: 72.951
+latitude: 19.175
+longitude: 72.954
 ---
