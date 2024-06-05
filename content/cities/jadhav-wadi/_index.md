@@ -1,6 +1,6 @@
 ---
 title: Jadhav Wadi
 url: /jadhav-wadi/
-latitude: 18.675
-longitude: 73.822
+latitude: 18.676
+longitude: 73.823
 ---
