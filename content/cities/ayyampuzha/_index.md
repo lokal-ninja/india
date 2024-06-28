@@ -1,6 +1,6 @@
 ---
 title: Ayyampuzha
 url: /ayyampuzha/
-latitude: 10.248
-longitude: 76.451
+latitude: 10.247
+longitude: 76.473
 ---

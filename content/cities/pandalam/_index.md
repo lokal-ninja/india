@@ -1,6 +1,6 @@
 ---
-title: PANDALAM
+title: Pandalam
 url: /pandalam/
-latitude: 9.222
-longitude: 76.679
+latitude: 9.225
+longitude: 76.676
 ---

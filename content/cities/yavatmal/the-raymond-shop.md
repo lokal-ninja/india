@@ -1,5 +1,5 @@
 ---
-title: " The Raymond Shop "
+title: "The Raymond Shop "
 url: /yavatmal/the-raymond-shop/
 shop: clothes
 ---
