@@ -1,6 +1,6 @@
 ---
-title: kombidijamakkal
+title: KOMBIDIJAMAKKAL
 url: /kombidijamakkal/
-latitude: 10.307
-longitude: 76.276
+latitude: 10.312
+longitude: 76.278
 ---
