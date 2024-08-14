@@ -1,6 +1,6 @@
 ---
 title: Kallambalam
 url: /kallambalam/
-latitude: 8.767
-longitude: 76.809
+latitude: 8.763
+longitude: 76.792
 ---
