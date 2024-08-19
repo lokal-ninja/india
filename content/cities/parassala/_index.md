@@ -1,6 +1,6 @@
 ---
-title: Parassala
+title: parassala
 url: /parassala/
-latitude: 8.342
-longitude: 77.156
+latitude: 8.359
+longitude: 77.153
 ---
