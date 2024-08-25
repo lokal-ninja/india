@@ -1,6 +1,6 @@
 ---
 title: Mattanur
 url: /mattanur/
-latitude: 11.923
-longitude: 75.572
+latitude: 11.932
+longitude: 75.579
 ---
