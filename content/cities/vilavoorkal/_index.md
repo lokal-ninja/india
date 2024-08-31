@@ -1,6 +1,6 @@
 ---
 title: vilavoorkal
 url: /vilavoorkal/
-latitude: 8.496
-longitude: 77.021
+latitude: 8.491
+longitude: 77.011
 ---

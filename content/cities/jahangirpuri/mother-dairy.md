@@ -1,5 +1,5 @@
 ---
-title: "mother dairy"
+title: "Mother Dairy"
 url: /jahangirpuri/mother-dairy/
 shop: dairy
 ---

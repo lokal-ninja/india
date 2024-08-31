@@ -1,6 +1,6 @@
 ---
 title: Vandiperiyar
 url: /vandiperiyar/
-latitude: 9.575
-longitude: 77.093
+latitude: 9.573
+longitude: 77.092
 ---
