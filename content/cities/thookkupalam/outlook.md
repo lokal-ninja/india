@@ -1,5 +1,5 @@
 ---
 title: "outlook"
 url: /thookkupalam/outlook/
-shop: hairdresser
+shop: Friseur
 ---

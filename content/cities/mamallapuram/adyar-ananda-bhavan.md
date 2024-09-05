@@ -1,5 +1,5 @@
 ---
 title: "Adyar Ananda Bhavan"
 url: /mamallapuram/adyar-ananda-bhavan/
-shop: confectionery
+shop: Süßwaren
 ---

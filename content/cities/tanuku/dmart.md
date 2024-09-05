@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /tanuku/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

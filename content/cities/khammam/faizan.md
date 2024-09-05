@@ -1,5 +1,5 @@
 ---
 title: "Faizan"
 url: /khammam/faizan/
-shop: clothes
+shop: Kleidung
 ---

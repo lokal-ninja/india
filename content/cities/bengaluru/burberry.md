@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
 url: /bengaluru/burberry/
-shop: clothes
+shop: Kleidung
 ---

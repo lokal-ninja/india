@@ -1,5 +1,5 @@
 ---
 title: "Westside"
 url: /hyderabad/westside/
-shop: clothes
+shop: Kleidung
 ---

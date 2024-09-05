@@ -1,5 +1,5 @@
 ---
 title: "SHUBH TRADING"
 url: /dharwad/shubh-trading/
-shop: wholesale
+shop: Großhandel
 ---

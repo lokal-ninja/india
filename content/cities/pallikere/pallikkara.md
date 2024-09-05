@@ -1,5 +1,5 @@
 ---
 title: "Pallikkara"
 url: /pallikere/pallikkara/
-shop: mall
+shop: Einkaufszentrum
 ---

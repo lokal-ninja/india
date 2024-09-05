@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /manipal/crocs/
-shop: shoes
+shop: Schuhe
 ---

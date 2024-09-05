@@ -1,5 +1,5 @@
 ---
 title: "Aayilyam"
 url: /kalakkallu/aayilyam/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baggit"
 url: /thane/baggit/
-shop: boutique
+shop: Modehaus
 ---

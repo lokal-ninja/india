@@ -1,5 +1,5 @@
 ---
 title: "Mahar jewellery"
 url: /vengara/mahar-jewellery/
-shop: jewelry
+shop: Schmuck
 ---

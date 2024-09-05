@@ -1,5 +1,5 @@
 ---
 title: "Om Toyota"
 url: /sikar/om-toyota/
-shop: car
+shop: Autohaus
 ---

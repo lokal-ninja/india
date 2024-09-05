@@ -1,5 +1,5 @@
 ---
 title: "Cheppallil Vegetables"
 url: /veliyam/cheppallil-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

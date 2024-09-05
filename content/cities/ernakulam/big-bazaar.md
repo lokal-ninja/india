@@ -1,5 +1,5 @@
 ---
 title: "Big Bazaar"
 url: /ernakulam/big-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

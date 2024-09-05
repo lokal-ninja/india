@@ -1,5 +1,5 @@
 ---
 title: "SportXS"
 url: /bangalore/sportxs/
-shop: sports
+shop: Sport
 ---

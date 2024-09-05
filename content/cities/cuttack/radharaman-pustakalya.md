@@ -1,5 +1,5 @@
 ---
 title: "Radharaman Pustakalya"
 url: /cuttack/radharaman-pustakalya/
-shop: books
+shop: Bücher
 ---

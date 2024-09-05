@@ -1,5 +1,5 @@
 ---
 title: "BM Trading"
 url: /cherkala/bm-trading/
-shop: hardware
+shop: Eisenwaren
 ---

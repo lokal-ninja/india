@@ -1,5 +1,5 @@
 ---
 title: "ZIYA MOTORS"
 url: /arakkonam/ziya-motors/
-shop: motorcycle
+shop: Motorrad
 ---

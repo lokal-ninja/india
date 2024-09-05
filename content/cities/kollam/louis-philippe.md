@@ -1,5 +1,5 @@
 ---
-title: "louis philippe"
+title: "Louis Philippe"
 url: /kollam/louis-philippe/
-shop: clothes
+shop: Kleidung
 ---

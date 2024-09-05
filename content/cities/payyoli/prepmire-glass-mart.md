@@ -1,5 +1,5 @@
 ---
 title: "Prepmire Glass Mart"
 url: /payyoli/prepmire-glass-mart/
-shop: trade
+shop: Baustoffe
 ---

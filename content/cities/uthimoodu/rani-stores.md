@@ -1,5 +1,5 @@
 ---
 title: "Rani Stores"
 url: /uthimoodu/rani-stores/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

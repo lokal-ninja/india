@@ -1,5 +1,5 @@
 ---
 title: "leophotographyhub"
 url: /jalandhar/leophotographyhub/
-shop: photo
+shop: Foto
 ---

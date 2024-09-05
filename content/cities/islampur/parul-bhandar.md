@@ -1,5 +1,5 @@
 ---
 title: "Parul Bhandar"
 url: /islampur/parul-bhandar/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Babu Lal Mahadev Prasad"
 url: /prayagraj/babu-lal-mahadev-prasad/
-shop: spices
+shop: Gewürze
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfiya bakery"
 url: /thiruvananthapuram/alfiya-bakery/
-shop: bakery
+shop: Bäckerei
 ---

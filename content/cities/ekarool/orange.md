@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /ekarool/orange/
-shop: shoes
+shop: Schuhe
 ---

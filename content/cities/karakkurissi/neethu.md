@@ -1,5 +1,5 @@
 ---
 title: "Neethu"
 url: /karakkurissi/neethu/
-shop: clothes
+shop: Kleidung
 ---

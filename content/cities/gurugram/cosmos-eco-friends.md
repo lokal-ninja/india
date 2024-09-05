@@ -1,5 +1,5 @@
 ---
 title: "Cosmos Eco Friends"
 url: /gurugram/cosmos-eco-friends/
-shop: supermarket
+shop: Supermarkt
 ---

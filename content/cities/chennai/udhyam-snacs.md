@@ -1,5 +1,5 @@
 ---
 title: "udhyam snacs"
 url: /chennai/udhyam-snacs/
-shop: tea
+shop: Tee
 ---

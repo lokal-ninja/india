@@ -1,5 +1,5 @@
 ---
 title: "Puthenkulangara Vegetable Store"
 url: /piravam/puthenkulangara-vegetable-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

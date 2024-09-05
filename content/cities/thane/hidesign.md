@@ -1,5 +1,5 @@
 ---
 title: "HIDESIGN"
 url: /thane/hidesign/
-shop: boutique
+shop: Modehaus
 ---

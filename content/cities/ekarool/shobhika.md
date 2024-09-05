@@ -1,5 +1,5 @@
 ---
 title: "Shobhika"
 url: /ekarool/shobhika/
-shop: clothes
+shop: Kleidung
 ---

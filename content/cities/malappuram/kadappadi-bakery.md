@@ -1,5 +1,5 @@
 ---
 title: "kadappadi bakery"
 url: /malappuram/kadappadi-bakery/
-shop: bakery
+shop: Bäckerei
 ---

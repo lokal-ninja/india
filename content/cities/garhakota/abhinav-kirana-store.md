@@ -1,5 +1,5 @@
 ---
 title: "Abhinav Kirana Store"
 url: /garhakota/abhinav-kirana-store/
-shop: supermarket
+shop: Supermarkt
 ---

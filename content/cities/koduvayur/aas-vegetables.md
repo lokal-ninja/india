@@ -1,5 +1,5 @@
 ---
 title: "AAS vegetables"
 url: /koduvayur/aas-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

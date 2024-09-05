@@ -1,5 +1,5 @@
 ---
 title: "Pressto"
 url: /mumbai/pressto/
-shop: laundry
+shop: Wäscherei
 ---

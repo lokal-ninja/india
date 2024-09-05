@@ -1,5 +1,5 @@
 ---
 title: "bismillah"
 url: /melparamba/bismillah/
-shop: supermarket
+shop: Supermarkt
 ---

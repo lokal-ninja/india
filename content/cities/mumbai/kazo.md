@@ -1,5 +1,5 @@
 ---
 title: "Kazo"
 url: /mumbai/kazo/
-shop: clothes
+shop: Kleidung
 ---

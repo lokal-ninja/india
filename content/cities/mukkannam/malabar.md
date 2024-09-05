@@ -1,5 +1,5 @@
 ---
 title: "Malabar"
 url: /mukkannam/malabar/
-shop: butcher
+shop: Metzgerei
 ---

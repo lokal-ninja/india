@@ -1,5 +1,5 @@
 ---
 title: "Kheliya"
 url: /pune/kheliya/
-shop: toys
+shop: Spielzeug
 ---

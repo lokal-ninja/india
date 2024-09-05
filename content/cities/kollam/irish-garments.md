@@ -1,5 +1,5 @@
 ---
 title: "Irish Garments"
 url: /kollam/irish-garments/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cultxverse"
 url: /aluva/cultxverse/
-shop: clothes
+shop: Kleidung
 ---

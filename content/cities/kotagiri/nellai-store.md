@@ -1,5 +1,5 @@
 ---
 title: "Nellai Store"
 url: /kotagiri/nellai-store/
-shop: convenience
+shop: Lebensmittel
 ---

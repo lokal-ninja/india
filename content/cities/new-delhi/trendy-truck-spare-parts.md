@@ -1,5 +1,5 @@
 ---
 title: "TRENDY - Truck Spare parts"
 url: /new-delhi/trendy-truck-spare-parts/
-shop: car parts
+shop: Autoteile
 ---

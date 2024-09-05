@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /ongole/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

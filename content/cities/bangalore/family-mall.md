@@ -1,5 +1,5 @@
 ---
 title: "Family Mall"
 url: /bangalore/family-mall/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jantha Shope"
 url: /kasaragod/jantha-shope/
-shop: bag
+shop: Taschen & Koffer
 ---

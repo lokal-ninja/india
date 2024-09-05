@@ -1,5 +1,5 @@
 ---
 title: "SkinYoga"
 url: /ahmadabad/skinyoga/
-shop: supermarket
+shop: Supermarkt
 ---

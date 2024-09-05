@@ -1,5 +1,5 @@
 ---
 title: "Naalukettu"
 url: /chalissery/naalukettu/
-shop: supermarket
+shop: Supermarkt
 ---

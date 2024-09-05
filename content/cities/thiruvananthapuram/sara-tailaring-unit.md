@@ -1,5 +1,5 @@
 ---
 title: "Sara tailaring unit"
 url: /thiruvananthapuram/sara-tailaring-unit/
-shop: tailor
+shop: Schneiderei
 ---

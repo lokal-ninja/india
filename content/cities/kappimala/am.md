@@ -1,5 +1,5 @@
 ---
 title: "AM"
 url: /kappimala/am/
-shop: bakery
+shop: Bäckerei
 ---

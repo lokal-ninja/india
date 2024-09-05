@@ -1,5 +1,5 @@
 ---
 title: "Fresh Choice Super Market"
 url: /gurgaon/fresh-choice-super-market/
-shop: department store
+shop: Warenhaus
 ---

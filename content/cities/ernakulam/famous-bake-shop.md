@@ -1,5 +1,5 @@
 ---
 title: "Famous Bake Shop"
 url: /ernakulam/famous-bake-shop/
-shop: bakery
+shop: Bäckerei
 ---

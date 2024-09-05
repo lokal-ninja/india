@@ -1,5 +1,5 @@
 ---
 title: "Benaka Sweets"
 url: /bangalore/benaka-sweets/
-shop: bakery
+shop: Bäckerei
 ---

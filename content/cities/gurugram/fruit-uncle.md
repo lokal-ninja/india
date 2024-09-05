@@ -1,5 +1,5 @@
 ---
 title: "Fruit Uncle"
 url: /gurugram/fruit-uncle/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

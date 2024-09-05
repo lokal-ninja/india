@@ -1,5 +1,5 @@
 ---
 title: "Munnar Tea and Spices"
 url: /kottarakkara/munnar-tea-and-spices/
-shop: spices
+shop: Gewürze
 ---

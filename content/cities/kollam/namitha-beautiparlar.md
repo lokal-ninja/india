@@ -1,5 +1,5 @@
 ---
 title: "Namitha beautiparlar"
 url: /kollam/namitha-beautiparlar/
-shop: beauty
+shop: Kosmetik
 ---

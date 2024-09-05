@@ -1,5 +1,5 @@
 ---
 title: "Arafa vegetables"
 url: /thiruvananthapuram/arafa-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

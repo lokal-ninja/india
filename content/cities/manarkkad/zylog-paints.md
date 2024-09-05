@@ -1,5 +1,5 @@
 ---
 title: "Zylog paints"
 url: /manarkkad/zylog-paints/
-shop: paint
+shop: Farben
 ---

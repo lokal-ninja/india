@@ -1,5 +1,5 @@
 ---
 title: "Laven"
 url: /bengaluru/laven/
-shop: clothes
+shop: Kleidung
 ---

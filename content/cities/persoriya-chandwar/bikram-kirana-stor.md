@@ -1,5 +1,5 @@
 ---
 title: "Bikram Kirana Stor"
 url: /persoriya-chandwar/bikram-kirana-stor/
-shop: supermarket
+shop: Supermarkt
 ---

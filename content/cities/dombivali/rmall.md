@@ -1,5 +1,5 @@
 ---
 title: "Rmall"
 url: /dombivali/rmall/
-shop: mall
+shop: Einkaufszentrum
 ---

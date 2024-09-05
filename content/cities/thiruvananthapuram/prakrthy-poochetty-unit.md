@@ -1,5 +1,5 @@
 ---
 title: "Prakrthy poochetty unit"
 url: /thiruvananthapuram/prakrthy-poochetty-unit/
-shop: garden centre
+shop: Garten-Center
 ---

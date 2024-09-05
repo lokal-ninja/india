@@ -1,5 +1,5 @@
 ---
 title: "Benison"
 url: /bangalore/benison/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kushals"
 url: /bengaluru/kushals/
-shop: jewelry
+shop: Schmuck
 ---

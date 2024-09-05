@@ -1,5 +1,5 @@
 ---
 title: "Cottonking"
 url: /pune/cottonking/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mio Amore"
 url: /kolkata/mio-amore/
-shop: pastry
+shop: Konditorei
 ---

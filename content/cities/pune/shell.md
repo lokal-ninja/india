@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pune/shell/
-shop: convenience
+shop: Lebensmittel
 ---

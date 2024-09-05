@@ -1,5 +1,5 @@
 ---
 title: "NK store"
 url: /karakkurissi/nk-store/
-shop: convenience
+shop: Lebensmittel
 ---

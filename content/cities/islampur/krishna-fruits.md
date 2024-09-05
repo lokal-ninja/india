@@ -1,5 +1,5 @@
 ---
 title: "Krishna Fruits"
 url: /islampur/krishna-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aayushi Super Shoppy"
 url: /mumbai/aayushi-super-shoppy/
-shop: convenience
+shop: Lebensmittel
 ---

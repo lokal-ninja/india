@@ -1,5 +1,5 @@
 ---
 title: "Ajmistores"
 url: /kollam/ajmistores/
-shop: shop
+shop: Allgemein
 ---

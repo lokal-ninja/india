@@ -1,5 +1,5 @@
 ---
 title: "KGN"
 url: /annamolly/kgn/
-shop: bakery
+shop: Bäckerei
 ---

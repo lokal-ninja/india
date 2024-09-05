@@ -1,5 +1,5 @@
 ---
 title: "Variety"
 url: /pallikurup/variety/
-shop: shop
+shop: Allgemein
 ---

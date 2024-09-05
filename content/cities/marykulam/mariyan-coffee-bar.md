@@ -1,5 +1,5 @@
 ---
 title: "Mariyan Coffee Bar"
 url: /marykulam/mariyan-coffee-bar/
-shop: coffee
+shop: Kaffee
 ---

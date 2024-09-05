@@ -1,5 +1,5 @@
 ---
 title: "Sagar"
 url: /mumbai/sagar/
-shop: chemist
+shop: Drogerie
 ---

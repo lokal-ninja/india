@@ -1,5 +1,5 @@
 ---
 title: "Bismi"
 url: /alappuzha/bismi/
-shop: supermarket
+shop: Supermarkt
 ---

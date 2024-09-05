@@ -1,5 +1,5 @@
 ---
 title: "Amaya"
 url: /perunad/amaya/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "kamala"
 url: /manimala/kamala/
-shop: clothes
+shop: Kleidung
 ---

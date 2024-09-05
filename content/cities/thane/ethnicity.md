@@ -1,5 +1,5 @@
 ---
 title: "Ethnicity"
 url: /thane/ethnicity/
-shop: clothes
+shop: Kleidung
 ---

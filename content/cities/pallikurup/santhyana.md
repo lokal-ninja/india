@@ -1,5 +1,5 @@
 ---
 title: "Santhyana"
 url: /pallikurup/santhyana/
-shop: shop
+shop: Allgemein
 ---

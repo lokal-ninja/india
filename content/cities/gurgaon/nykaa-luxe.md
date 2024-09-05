@@ -1,5 +1,5 @@
 ---
 title: "Nykaa Luxe"
 url: /gurgaon/nykaa-luxe/
-shop: beauty
+shop: Kosmetik
 ---

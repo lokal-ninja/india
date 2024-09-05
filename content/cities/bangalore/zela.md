@@ -1,5 +1,5 @@
 ---
 title: "Zela"
 url: /bangalore/zela/
-shop: beauty
+shop: Kosmetik
 ---

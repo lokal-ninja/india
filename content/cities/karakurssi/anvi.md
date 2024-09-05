@@ -1,5 +1,5 @@
 ---
 title: "ANVI"
 url: /karakurssi/anvi/
-shop: electronics
+shop: Elektronik
 ---

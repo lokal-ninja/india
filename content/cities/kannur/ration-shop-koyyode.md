@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Koyyode"
 url: /kannur/ration-shop-koyyode/
-shop: convenience
+shop: Lebensmittel
 ---

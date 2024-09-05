@@ -1,5 +1,5 @@
 ---
 title: "Hareesree stitching unit"
 url: /kollam/hareesree-stitching-unit/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PINKZ"
 url: /madurai/pinkz/
-shop: gift
+shop: Andenken
 ---

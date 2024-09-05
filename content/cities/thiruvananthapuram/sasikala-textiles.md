@@ -1,5 +1,5 @@
 ---
 title: "Sasikala textiles"
 url: /thiruvananthapuram/sasikala-textiles/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Counto Honda"
 url: /mapusa/counto-honda/
-shop: motorcycle
+shop: Motorrad
 ---

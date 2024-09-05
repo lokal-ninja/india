@@ -1,5 +1,5 @@
 ---
-title: "Mongini's"
+title: "Monginis"
 url: /bandra-mumbai/monginis/
-shop: pastry
+shop: Bäckerei
 ---

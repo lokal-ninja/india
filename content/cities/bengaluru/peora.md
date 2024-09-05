@@ -1,5 +1,5 @@
 ---
 title: "PEORA"
 url: /bengaluru/peora/
-shop: clothes
+shop: Kleidung
 ---

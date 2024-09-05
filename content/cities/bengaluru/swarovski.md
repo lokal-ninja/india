@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /bengaluru/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /peruvallur/ration-shop-irumbankudukku/
-shop: convenience
+shop: Lebensmittel
 ---

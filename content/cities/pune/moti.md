@@ -1,5 +1,5 @@
 ---
 title: "Moti"
 url: /pune/moti/
-shop: bakery
+shop: Bäckerei
 ---

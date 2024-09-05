@@ -1,5 +1,5 @@
 ---
 title: "Smoothy juice"
 url: /kollam/smoothy-juice/
-shop: bakery
+shop: Bäckerei
 ---

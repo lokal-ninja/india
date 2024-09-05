@@ -1,5 +1,5 @@
 ---
 title: "Pablo Shoe Studio"
 url: /chalakudy/pablo-shoe-studio/
-shop: shoes
+shop: Schuhe
 ---

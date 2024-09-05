@@ -1,5 +1,5 @@
 ---
 title: "MALABAR GARDEN"
 url: /panalam/malabar-garden/
-shop: garden centre
+shop: Garten-Center
 ---

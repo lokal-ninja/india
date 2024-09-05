@@ -1,5 +1,5 @@
 ---
 title: "Dhanya Bakery"
 url: /east-kadungalloor/dhanya-bakery/
-shop: bakery
+shop: Bäckerei
 ---

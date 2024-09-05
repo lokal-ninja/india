@@ -1,5 +1,5 @@
 ---
 title: "Hamleys"
 url: /bengaluru/hamleys/
-shop: toys
+shop: Spielzeug
 ---

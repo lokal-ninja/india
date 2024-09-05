@@ -1,5 +1,5 @@
 ---
 title: "Lenovo"
 url: /pune/lenovo/
-shop: computer
+shop: Computer
 ---

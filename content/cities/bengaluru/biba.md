@@ -1,5 +1,5 @@
 ---
 title: "Biba"
 url: /bengaluru/biba/
-shop: clothes
+shop: Kleidung
 ---

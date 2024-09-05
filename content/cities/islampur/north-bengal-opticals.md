@@ -1,5 +1,5 @@
 ---
 title: "North Bengal Opticals"
 url: /islampur/north-bengal-opticals/
-shop: optician
+shop: Optiker
 ---

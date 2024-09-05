@@ -1,5 +1,5 @@
 ---
 title: "Voylla"
 url: /bengaluru/voylla/
-shop: jewelry
+shop: Schmuck
 ---

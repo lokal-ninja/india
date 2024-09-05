@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /aurangabad/bajaj/
-shop: motorcycle
+shop: Motorrad
 ---

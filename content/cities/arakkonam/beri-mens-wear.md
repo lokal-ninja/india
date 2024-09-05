@@ -1,5 +1,5 @@
 ---
 title: "Beri Men's Wear"
 url: /arakkonam/beri-mens-wear/
-shop: clothes
+shop: Kleidung
 ---

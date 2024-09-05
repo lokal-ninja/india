@@ -1,5 +1,5 @@
 ---
 title: "SABIL DRESSES"
 url: /kasaragod/sabil-dresses/
-shop: clothes
+shop: Kleidung
 ---

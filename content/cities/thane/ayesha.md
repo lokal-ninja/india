@@ -1,5 +1,5 @@
 ---
 title: "Ayesha"
 url: /thane/ayesha/
-shop: jewelry
+shop: Schmuck
 ---

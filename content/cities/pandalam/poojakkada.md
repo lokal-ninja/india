@@ -1,5 +1,5 @@
 ---
 title: "Poojakkada"
 url: /pandalam/poojakkada/
-shop: convenience
+shop: Lebensmittel
 ---

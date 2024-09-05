@@ -1,5 +1,5 @@
 ---
 title: "FRIENDS"
 url: /pallikurup/friends/
-shop: motorcycle
+shop: Motorrad
 ---

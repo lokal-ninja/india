@@ -1,5 +1,5 @@
 ---
 title: "Coloroots"
 url: /jaipur/coloroots/
-shop: interior decoration
+shop: Raumausstattung
 ---

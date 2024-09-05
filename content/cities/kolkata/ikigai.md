@@ -1,5 +1,5 @@
 ---
 title: "Ikigai"
 url: /kolkata/ikigai/
-shop: convenience
+shop: Lebensmittel
 ---

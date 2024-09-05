@@ -1,5 +1,5 @@
 ---
 title: "Chinnu stores"
 url: /kollam/chinnu-stores/
-shop: general
+shop: Dorfladen
 ---

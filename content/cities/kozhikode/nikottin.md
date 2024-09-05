@@ -1,5 +1,5 @@
 ---
 title: "NIKOTTIN"
 url: /kozhikode/nikottin/
-shop: clothes
+shop: Kleidung
 ---

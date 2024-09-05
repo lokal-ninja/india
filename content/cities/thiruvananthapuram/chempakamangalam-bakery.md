@@ -1,5 +1,5 @@
 ---
 title: "Chempakamangalam Bakery"
 url: /thiruvananthapuram/chempakamangalam-bakery/
-shop: bakery
+shop: Bäckerei
 ---

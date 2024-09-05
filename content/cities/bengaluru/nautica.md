@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /bengaluru/nautica/
-shop: clothes
+shop: Kleidung
 ---

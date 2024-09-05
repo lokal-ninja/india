@@ -1,5 +1,5 @@
 ---
 title: "Sainik Tiles"
 url: /karpi/sainik-tiles/
-shop: shop
+shop: Allgemein
 ---

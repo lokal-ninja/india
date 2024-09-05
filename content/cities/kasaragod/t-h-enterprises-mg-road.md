@@ -1,5 +1,5 @@
 ---
 title: "T.H ENTERPRISES"
 url: /kasaragod/t-h-enterprises-mg-road/
-shop: shop
+shop: Allgemein
 ---

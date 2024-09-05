@@ -1,5 +1,5 @@
 ---
 title: "Akhil Stores"
 url: /odanavattom/akhil-stores/
-shop: convenience
+shop: Lebensmittel
 ---

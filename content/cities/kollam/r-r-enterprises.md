@@ -1,5 +1,5 @@
 ---
 title: "R R enterprises"
 url: /kollam/r-r-enterprises/
-shop: shop
+shop: Allgemein
 ---

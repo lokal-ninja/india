@@ -1,5 +1,5 @@
 ---
 title: "Exclusive"
 url: /haldia/exclusive/
-shop: clothes
+shop: Kleidung
 ---

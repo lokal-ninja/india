@@ -1,5 +1,5 @@
 ---
 title: "rationshop"
 url: /kozhikode/rationshop/
-shop: supermarket
+shop: Supermarkt
 ---

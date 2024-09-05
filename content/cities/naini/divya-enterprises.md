@@ -1,5 +1,5 @@
 ---
 title: "Divya Enterprises"
 url: /naini/divya-enterprises/
-shop: convenience
+shop: Lebensmittel
 ---

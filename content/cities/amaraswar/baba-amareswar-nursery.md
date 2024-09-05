@@ -1,5 +1,5 @@
 ---
 title: "Baba Amareswar Nursery"
 url: /amaraswar/baba-amareswar-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

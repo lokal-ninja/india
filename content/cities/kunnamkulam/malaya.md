@@ -1,5 +1,5 @@
 ---
 title: "Malaya"
 url: /kunnamkulam/malaya/
-shop: jewelry
+shop: Schmuck
 ---

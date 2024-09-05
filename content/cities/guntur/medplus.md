@@ -1,5 +1,5 @@
 ---
 title: "MedPlus"
 url: /guntur/medplus/
-shop: medical supply
+shop: Sanitätshaus
 ---

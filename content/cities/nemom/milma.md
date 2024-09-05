@@ -1,5 +1,5 @@
 ---
 title: "milma"
 url: /nemom/milma/
-shop: dairy
+shop: Milch
 ---

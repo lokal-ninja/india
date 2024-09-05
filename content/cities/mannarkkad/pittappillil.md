@@ -1,5 +1,5 @@
 ---
 title: "Pittappillil"
 url: /mannarkkad/pittappillil/
-shop: electronics
+shop: Elektronik
 ---

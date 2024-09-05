@@ -1,5 +1,5 @@
 ---
 title: "Keerthana Tailoring"
 url: /trivandrum/keerthana-tailoring/
-shop: tailor
+shop: Schneiderei
 ---

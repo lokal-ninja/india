@@ -1,5 +1,5 @@
 ---
 title: "NP Garments"
 url: /thiruvanthapuram/np-garments/
-shop: clothes
+shop: Kleidung
 ---

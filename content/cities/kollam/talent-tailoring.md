@@ -1,5 +1,5 @@
 ---
 title: "Talent tailoring"
 url: /kollam/talent-tailoring/
-shop: tailor
+shop: Schneiderei
 ---

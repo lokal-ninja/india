@@ -1,5 +1,5 @@
 ---
 title: "Washia"
 url: /panchkula/washia/
-shop: laundry
+shop: Wäscherei
 ---

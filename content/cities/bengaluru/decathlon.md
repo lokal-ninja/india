@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /bengaluru/decathlon/
-shop: sports
+shop: Sport
 ---

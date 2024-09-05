@@ -1,5 +1,5 @@
 ---
 title: "Allus Footwear"
 url: /kumily/allus-footwear/
-shop: shoes
+shop: Schuhe
 ---

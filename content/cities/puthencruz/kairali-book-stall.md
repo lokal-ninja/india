@@ -1,5 +1,5 @@
 ---
 title: "Kairali Book Stall"
 url: /puthencruz/kairali-book-stall/
-shop: books
+shop: Bücher
 ---

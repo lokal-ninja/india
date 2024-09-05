@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /bangalore/decathlon/
-shop: sports
+shop: Sport
 ---

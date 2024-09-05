@@ -1,5 +1,5 @@
 ---
 title: "Kalyan Jewellary"
 url: /thanjavur/kalyan-jewellary/
-shop: jewelry
+shop: Schmuck
 ---

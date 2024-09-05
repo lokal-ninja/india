@@ -1,5 +1,5 @@
 ---
 title: "Milkycreams"
 url: /thiruvananthapuram/milkycreams/
-shop: shop
+shop: Allgemein
 ---

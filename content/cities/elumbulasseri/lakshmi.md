@@ -1,5 +1,5 @@
 ---
 title: "Lakshmi"
 url: /elumbulasseri/lakshmi/
-shop: clothes
+shop: Kleidung
 ---

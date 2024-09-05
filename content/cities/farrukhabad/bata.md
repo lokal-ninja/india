@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /farrukhabad/bata/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arun Bakery"
 url: /peringandoor/arun-bakery/
-shop: bakery
+shop: Bäckerei
 ---

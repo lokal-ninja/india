@@ -1,5 +1,5 @@
 ---
 title: "Jackson Fruits"
 url: /pandalam/jackson-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

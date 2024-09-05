@@ -1,5 +1,5 @@
 ---
 title: "Preetha Bakery"
 url: /kandonthar/preetha-bakery/
-shop: bakery
+shop: Bäckerei
 ---

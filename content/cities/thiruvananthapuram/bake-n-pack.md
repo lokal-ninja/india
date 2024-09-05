@@ -1,5 +1,5 @@
 ---
 title: "Bake N Pack"
 url: /thiruvananthapuram/bake-n-pack/
-shop: shop
+shop: Allgemein
 ---

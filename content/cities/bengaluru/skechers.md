@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /bengaluru/skechers/
-shop: shoes
+shop: Schuhe
 ---

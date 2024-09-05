@@ -1,5 +1,5 @@
 ---
 title: "BakeryFoodproduct"
 url: /thiruvananthapuram/bakeryfoodproduct/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kripa"
 url: /kollam/kripa/
-shop: shop
+shop: Allgemein
 ---

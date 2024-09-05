@@ -1,5 +1,5 @@
 ---
 title: "LJ Iyengars Bakery"
 url: /bangalore/lj-iyengars-bakery/
-shop: bakery
+shop: Bäckerei
 ---

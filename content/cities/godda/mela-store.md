@@ -1,5 +1,5 @@
 ---
 title: "mela store"
 url: /godda/mela-store/
-shop: supermarket
+shop: Supermarkt
 ---

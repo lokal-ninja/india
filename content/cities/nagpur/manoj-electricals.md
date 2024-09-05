@@ -1,5 +1,5 @@
 ---
 title: "Manoj Electricals"
 url: /nagpur/manoj-electricals/
-shop: electrical
+shop: Elektrisch
 ---

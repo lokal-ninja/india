@@ -1,5 +1,5 @@
 ---
 title: "MAYA"
 url: /muzaffarnagar/maya/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bihari Market"
 url: /gurgaon/bihari-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

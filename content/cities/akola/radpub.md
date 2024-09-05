@@ -1,5 +1,5 @@
 ---
 title: "radpub"
 url: /akola/radpub/
-shop: supermarket
+shop: Supermarkt
 ---

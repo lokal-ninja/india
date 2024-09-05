@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /mumbai/metro/
-shop: wholesale
+shop: Großhandel
 ---

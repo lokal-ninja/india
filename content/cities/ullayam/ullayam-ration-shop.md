@@ -1,5 +1,5 @@
 ---
 title: "Ullayam Ration Shop"
 url: /ullayam/ullayam-ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

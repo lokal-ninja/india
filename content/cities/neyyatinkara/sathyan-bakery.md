@@ -1,5 +1,5 @@
 ---
 title: "sathyan bakery"
 url: /neyyatinkara/sathyan-bakery/
-shop: bakery
+shop: Bäckerei
 ---

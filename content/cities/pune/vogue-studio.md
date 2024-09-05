@@ -1,5 +1,5 @@
 ---
 title: "Vogue Studio"
 url: /pune/vogue-studio/
-shop: hairdresser
+shop: Friseur
 ---

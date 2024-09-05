@@ -1,5 +1,5 @@
 ---
 title: "Steel"
 url: /kollam/steel/
-shop: shop
+shop: Allgemein
 ---

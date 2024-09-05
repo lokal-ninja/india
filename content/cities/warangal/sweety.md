@@ -1,5 +1,5 @@
 ---
 title: "Sweety"
 url: /warangal/sweety/
-shop: photo
+shop: Foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jazeela Tyres"
 url: /wandoor/jazeela-tyres/
-shop: tyres
+shop: Reifen
 ---

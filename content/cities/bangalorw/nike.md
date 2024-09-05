@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /bangalorw/nike/
-shop: clothes
+shop: Kleidung
 ---

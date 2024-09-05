@@ -1,5 +1,5 @@
 ---
 title: "Colours"
 url: /kollam/colours/
-shop: shop
+shop: Allgemein
 ---

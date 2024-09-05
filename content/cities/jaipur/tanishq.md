@@ -1,5 +1,5 @@
 ---
 title: "Tanishq"
 url: /jaipur/tanishq/
-shop: jewelry
+shop: Schmuck
 ---

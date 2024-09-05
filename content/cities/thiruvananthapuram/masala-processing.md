@@ -1,5 +1,5 @@
 ---
 title: "Masala processing"
 url: /thiruvananthapuram/masala-processing/
-shop: spices
+shop: Gewürze
 ---

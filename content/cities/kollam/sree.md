@@ -1,5 +1,5 @@
 ---
 title: "Sree"
 url: /kollam/sree/
-shop: shop
+shop: Allgemein
 ---

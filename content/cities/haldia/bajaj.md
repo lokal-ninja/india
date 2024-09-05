@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /haldia/bajaj/
-shop: motorcycle
+shop: Motorrad
 ---

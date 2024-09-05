@@ -1,5 +1,5 @@
 ---
 title: "Vishal"
 url: /jaipur/vishal/
-shop: supermarket
+shop: Supermarkt
 ---

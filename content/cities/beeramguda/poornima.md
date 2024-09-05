@@ -1,5 +1,5 @@
 ---
 title: "Poornima"
 url: /beeramguda/poornima/
-shop: beauty
+shop: Kosmetik
 ---

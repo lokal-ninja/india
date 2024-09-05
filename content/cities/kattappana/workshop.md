@@ -1,5 +1,5 @@
 ---
 title: "workshop"
 url: /kattappana/workshop/
-shop: motorcycle
+shop: Motorrad
 ---

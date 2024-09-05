@@ -1,5 +1,5 @@
 ---
 title: "Inmark"
 url: /bangalore/inmark/
-shop: clothes
+shop: Kleidung
 ---

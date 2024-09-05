@@ -1,5 +1,5 @@
 ---
 title: "Bismi Hypermarket"
 url: /muvattupuzha/bismi-hypermarket/
-shop: convenience
+shop: Lebensmittel
 ---

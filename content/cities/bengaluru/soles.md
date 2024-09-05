@@ -1,5 +1,5 @@
 ---
 title: "Soles"
 url: /bengaluru/soles/
-shop: shoes
+shop: Schuhe
 ---

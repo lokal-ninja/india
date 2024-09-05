@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /mysore/adidas/
-shop: sports
+shop: Sport
 ---

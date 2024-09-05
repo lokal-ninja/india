@@ -1,5 +1,5 @@
 ---
 title: "Sancys"
 url: /bangalore/sancys/
-shop: laundry
+shop: Wäscherei
 ---

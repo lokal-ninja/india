@@ -1,5 +1,5 @@
 ---
 title: "EXPOSED"
 url: /calicut/exposed/
-shop: clothes
+shop: Kleidung
 ---

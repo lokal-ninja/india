@@ -1,5 +1,5 @@
 ---
 title: "Nia Photostat"
 url: /thrissur/nia-photostat/
-shop: electronics
+shop: Elektronik
 ---

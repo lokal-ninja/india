@@ -1,5 +1,5 @@
 ---
 title: "Atc Mens's Clothing House"
 url: /hyderabad/atc-menss-clothing-house/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hena Enterprises"
 url: /chennai/hena-enterprises/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "city style"
 url: /ranchi/city-style/
-shop: mall
+shop: Einkaufszentrum
 ---

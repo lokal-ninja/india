@@ -1,5 +1,5 @@
 ---
 title: "Laxmi Builders"
 url: /islampur/laxmi-builders/
-shop: hardware
+shop: Eisenwaren
 ---

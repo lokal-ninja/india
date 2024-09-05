@@ -1,5 +1,5 @@
 ---
 title: "Sangeetha"
 url: /kilimamoor/sangeetha/
-shop: furniture
+shop: Möbel
 ---

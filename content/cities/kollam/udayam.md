@@ -1,5 +1,5 @@
 ---
 title: "Udayam"
 url: /kollam/udayam/
-shop: shop
+shop: Allgemein
 ---

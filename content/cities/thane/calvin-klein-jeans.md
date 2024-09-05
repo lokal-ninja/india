@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein Jeans"
 url: /thane/calvin-klein-jeans/
-shop: clothes
+shop: Kleidung
 ---

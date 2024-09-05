@@ -1,5 +1,5 @@
 ---
 title: "ARAMANA JWELLERS"
 url: /kasaragod/aramana-jwellers/
-shop: jewelry
+shop: Schmuck
 ---

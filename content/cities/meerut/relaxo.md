@@ -1,5 +1,5 @@
 ---
 title: "Relaxo"
 url: /meerut/relaxo/
-shop: shoes
+shop: Schuhe
 ---

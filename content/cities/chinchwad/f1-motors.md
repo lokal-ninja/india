@@ -1,5 +1,5 @@
 ---
 title: "F1 Motors"
 url: /chinchwad/f1-motors/
-shop: car
+shop: Autohaus
 ---

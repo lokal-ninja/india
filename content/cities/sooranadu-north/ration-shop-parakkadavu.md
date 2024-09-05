@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /sooranadu-north/ration-shop-parakkadavu/
-shop: convenience
+shop: Lebensmittel
 ---

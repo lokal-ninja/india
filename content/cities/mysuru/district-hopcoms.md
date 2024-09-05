@@ -1,5 +1,5 @@
 ---
 title: "District HOPCOMS"
 url: /mysuru/district-hopcoms/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

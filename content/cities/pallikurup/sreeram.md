@@ -1,5 +1,5 @@
 ---
 title: "SreeRam"
 url: /pallikurup/sreeram/
-shop: electronics
+shop: Elektronik
 ---

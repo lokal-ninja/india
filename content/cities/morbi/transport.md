@@ -1,5 +1,5 @@
 ---
 title: "transport"
 url: /morbi/transport/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trafford sports"
 url: /mangattukavala/trafford-sports/
-shop: sports
+shop: Sport
 ---

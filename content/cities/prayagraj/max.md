@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /prayagraj/max/
-shop: clothes
+shop: Kleidung
 ---

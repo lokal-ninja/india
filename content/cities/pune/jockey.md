@@ -1,5 +1,5 @@
 ---
 title: "Jockey"
 url: /pune/jockey/
-shop: clothes
+shop: Kleidung
 ---

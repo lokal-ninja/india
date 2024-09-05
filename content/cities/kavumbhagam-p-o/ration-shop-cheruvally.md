@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Cheruvally"
 url: /kavumbhagam-p-o/ration-shop-cheruvally/
-shop: convenience
+shop: Lebensmittel
 ---

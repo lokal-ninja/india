@@ -1,5 +1,5 @@
 ---
 title: "TVS"
 url: /ramgarhwa/tvs/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alippazham"
 url: /thiruvananthapuram/alippazham/
-shop: shop
+shop: Allgemein
 ---

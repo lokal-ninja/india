@@ -1,5 +1,5 @@
 ---
 title: "Biotique"
 url: /new-delhi/biotique/
-shop: beauty
+shop: Kosmetik
 ---

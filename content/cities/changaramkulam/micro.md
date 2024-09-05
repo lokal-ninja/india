@@ -1,5 +1,5 @@
 ---
 title: "Micro"
 url: /changaramkulam/micro/
-shop: bakery
+shop: Bäckerei
 ---

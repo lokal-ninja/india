@@ -1,5 +1,5 @@
 ---
 title: "Swathymol"
 url: /thiruvanathapuram/swathymol/
-shop: general
+shop: Dorfladen
 ---

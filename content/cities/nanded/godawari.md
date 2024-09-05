@@ -1,5 +1,5 @@
 ---
 title: "GODAWARI"
 url: /nanded/godawari/
-shop: bakery
+shop: Bäckerei
 ---

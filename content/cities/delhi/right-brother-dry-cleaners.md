@@ -1,5 +1,5 @@
 ---
 title: "Right Brother Dry Cleaners"
 url: /delhi/right-brother-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

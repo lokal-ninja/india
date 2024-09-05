@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle"
 url: /bengaluru/lifestyle/
-shop: clothes
+shop: Kleidung
 ---

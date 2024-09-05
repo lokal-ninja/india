@@ -1,5 +1,5 @@
 ---
 title: "AkshaTeastall"
 url: /thiruvananthapuram/akshateastall/
-shop: tea
+shop: Tee
 ---

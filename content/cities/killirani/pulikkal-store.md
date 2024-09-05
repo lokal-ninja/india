@@ -1,5 +1,5 @@
 ---
 title: "Pulikkal Store"
 url: /killirani/pulikkal-store/
-shop: shop
+shop: Allgemein
 ---

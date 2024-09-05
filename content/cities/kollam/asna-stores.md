@@ -1,5 +1,5 @@
 ---
 title: "Asna stores"
 url: /kollam/asna-stores/
-shop: shop
+shop: Allgemein
 ---

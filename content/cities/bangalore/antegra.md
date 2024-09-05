@@ -1,5 +1,5 @@
 ---
 title: "Antegra"
 url: /bangalore/antegra/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shopper's Point"
 url: /kottayam/shoppers-point/
-shop: supermarket
+shop: Supermarkt
 ---

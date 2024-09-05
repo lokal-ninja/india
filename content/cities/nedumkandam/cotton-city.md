@@ -1,5 +1,5 @@
 ---
 title: "Cotton City"
 url: /nedumkandam/cotton-city/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Popular auto electricals"
 url: /thiruvananthapuram/popular-auto-electricals/
-shop: electronics
+shop: Elektronik
 ---

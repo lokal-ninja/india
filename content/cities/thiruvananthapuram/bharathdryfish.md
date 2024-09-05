@@ -1,5 +1,5 @@
 ---
 title: "Bharathdryfish"
 url: /thiruvananthapuram/bharathdryfish/
-shop: fishing
+shop: Angeln
 ---

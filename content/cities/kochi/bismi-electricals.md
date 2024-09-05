@@ -1,5 +1,5 @@
 ---
 title: "Bismi Electricals"
 url: /kochi/bismi-electricals/
-shop: appliance
+shop: Haushaltsgeräte
 ---

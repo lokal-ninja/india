@@ -1,5 +1,5 @@
 ---
 title: "Fabindia"
 url: /new-delhi/fabindia-ramphal-chowk/
-shop: clothes
+shop: Kleidung
 ---

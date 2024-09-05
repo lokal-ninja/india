@@ -1,5 +1,5 @@
 ---
 title: "Pariwar"
 url: /guwahati/pariwar/
-shop: supermarket
+shop: Supermarkt
 ---

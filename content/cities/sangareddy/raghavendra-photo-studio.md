@@ -1,5 +1,5 @@
 ---
 title: "Raghavendra photo studio"
 url: /sangareddy/raghavendra-photo-studio/
-shop: photo
+shop: Foto
 ---

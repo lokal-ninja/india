@@ -1,5 +1,5 @@
 ---
 title: "Family marcket"
 url: /ravaneeswaram/family-marcket/
-shop: general
+shop: Dorfladen
 ---

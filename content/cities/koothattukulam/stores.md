@@ -1,5 +1,5 @@
 ---
 title: "Stores"
 url: /koothattukulam/stores/
-shop: general
+shop: Dorfladen
 ---

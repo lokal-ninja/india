@@ -1,5 +1,5 @@
 ---
 title: "arvind general shop"
 url: /bageshwar-uttarakhand/arvind-general-shop/
-shop: convenience
+shop: Lebensmittel
 ---

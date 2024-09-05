@@ -1,5 +1,5 @@
 ---
 title: "Anizham beutyparlar"
 url: /thiruvananthapuram/anizham-beutyparlar/
-shop: beauty
+shop: Kosmetik
 ---

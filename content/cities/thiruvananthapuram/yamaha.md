@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /thiruvananthapuram/yamaha/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Splash"
 url: /pandalam/splash/
-shop: sports
+shop: Sport
 ---

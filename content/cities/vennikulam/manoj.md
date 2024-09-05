@@ -1,5 +1,5 @@
 ---
 title: "manoj"
 url: /vennikulam/manoj/
-shop: shop
+shop: Allgemein
 ---

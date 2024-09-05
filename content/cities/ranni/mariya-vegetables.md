@@ -1,5 +1,5 @@
 ---
 title: "mariya vegetables"
 url: /ranni/mariya-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

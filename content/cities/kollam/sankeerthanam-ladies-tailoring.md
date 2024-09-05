@@ -1,5 +1,5 @@
 ---
 title: "Sankeerthanam Ladies Tailoring"
 url: /kollam/sankeerthanam-ladies-tailoring/
-shop: tailor
+shop: Schneiderei
 ---

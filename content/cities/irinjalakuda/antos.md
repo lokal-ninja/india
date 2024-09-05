@@ -1,5 +1,5 @@
 ---
 title: "Anto's"
 url: /irinjalakuda/antos/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

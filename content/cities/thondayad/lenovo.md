@@ -1,5 +1,5 @@
 ---
 title: "LENOVO"
 url: /thondayad/lenovo/
-shop: computer
+shop: Computer
 ---

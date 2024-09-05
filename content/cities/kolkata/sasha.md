@@ -1,5 +1,5 @@
 ---
 title: "Sasha"
 url: /kolkata/sasha/
-shop: clothes
+shop: Kleidung
 ---

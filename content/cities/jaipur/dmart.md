@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /jaipur/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

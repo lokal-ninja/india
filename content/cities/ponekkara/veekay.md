@@ -1,5 +1,5 @@
 ---
 title: "Veekay"
 url: /ponekkara/veekay/
-shop: supermarket
+shop: Supermarkt
 ---

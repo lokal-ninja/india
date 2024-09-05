@@ -1,5 +1,5 @@
 ---
 title: "Mukkadan"
 url: /changanacherry/mukkadan/
-shop: electrical
+shop: Elektrisch
 ---

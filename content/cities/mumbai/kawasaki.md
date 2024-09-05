@@ -1,5 +1,5 @@
 ---
 title: "Kawasaki"
 url: /mumbai/kawasaki/
-shop: motorcycle
+shop: Motorrad
 ---

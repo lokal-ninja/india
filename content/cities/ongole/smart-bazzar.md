@@ -1,5 +1,5 @@
 ---
 title: "Smart bazzar"
 url: /ongole/smart-bazzar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "simi store"
 url: /thiruvananthapuram/simi-store/
-shop: general
+shop: Dorfladen
 ---

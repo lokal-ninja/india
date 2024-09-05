@@ -1,5 +1,5 @@
 ---
 title: "Vandanam"
 url: /jaipur/vandanam/
-shop: boutique
+shop: Modehaus
 ---

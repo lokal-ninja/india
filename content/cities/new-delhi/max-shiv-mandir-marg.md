@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /new-delhi/max-shiv-mandir-marg/
-shop: clothes
+shop: Kleidung
 ---

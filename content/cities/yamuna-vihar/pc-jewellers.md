@@ -1,5 +1,5 @@
 ---
 title: "PC Jewellers"
 url: /yamuna-vihar/pc-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

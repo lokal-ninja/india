@@ -1,5 +1,5 @@
 ---
 title: "Mekha stitching"
 url: /thiruvananthapuram/mekha-stitching/
-shop: clothes
+shop: Kleidung
 ---

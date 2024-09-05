@@ -1,5 +1,5 @@
 ---
 title: "MALAYAYIL"
 url: /mukkannam/malayayil/
-shop: bakery
+shop: Bäckerei
 ---

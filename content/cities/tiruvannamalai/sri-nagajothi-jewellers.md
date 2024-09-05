@@ -1,5 +1,5 @@
 ---
 title: "sri nagajothi jewellers"
 url: /tiruvannamalai/sri-nagajothi-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biju Stores"
 url: /aluva/biju-stores/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

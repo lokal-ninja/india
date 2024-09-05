@@ -1,5 +1,5 @@
 ---
 title: "Balaji"
 url: /pune/balaji/
-shop: supermarket
+shop: Supermarkt
 ---

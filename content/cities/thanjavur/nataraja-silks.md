@@ -1,5 +1,5 @@
 ---
 title: "Nataraja Silks"
 url: /thanjavur/nataraja-silks/
-shop: clothes
+shop: Kleidung
 ---

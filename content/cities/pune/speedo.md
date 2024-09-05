@@ -1,5 +1,5 @@
 ---
 title: "Speedo"
 url: /pune/speedo/
-shop: clothes
+shop: Kleidung
 ---

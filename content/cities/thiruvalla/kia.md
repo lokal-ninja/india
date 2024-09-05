@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /thiruvalla/kia/
-shop: car
+shop: Autohaus
 ---

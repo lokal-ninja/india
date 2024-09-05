@@ -1,5 +1,5 @@
 ---
 title: "Trendz"
 url: /karunagappally/trendz/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hemraj Empire"
 url: /pune/hemraj-empire/
-shop: supermarket
+shop: Supermarkt
 ---

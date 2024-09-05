@@ -1,5 +1,5 @@
 ---
 title: "Moustache"
 url: /haldia/moustache/
-shop: clothes
+shop: Kleidung
 ---

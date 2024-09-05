@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /pune/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

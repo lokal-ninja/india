@@ -1,5 +1,5 @@
 ---
 title: "Spencers"
 url: /chennai/spencers/
-shop: supermarket
+shop: Supermarkt
 ---

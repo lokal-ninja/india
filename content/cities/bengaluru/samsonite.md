@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /bengaluru/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sai Krupa Hardware"
 url: /kopergaon/sai-krupa-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

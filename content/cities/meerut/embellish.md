@@ -1,5 +1,5 @@
 ---
 title: "Embellish"
 url: /meerut/embellish/
-shop: beauty
+shop: Kosmetik
 ---

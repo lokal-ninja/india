@@ -1,5 +1,5 @@
 ---
 title: "Kankanam"
 url: /kollam/kankanam/
-shop: jewelry
+shop: Schmuck
 ---

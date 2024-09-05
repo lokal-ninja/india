@@ -1,5 +1,5 @@
 ---
 title: "Chillies"
 url: /kollam/chillies/
-shop: shop
+shop: Allgemein
 ---

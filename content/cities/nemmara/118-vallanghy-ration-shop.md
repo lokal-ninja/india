@@ -1,5 +1,5 @@
 ---
 title: "118 Vallanghy Ration Shop"
 url: /nemmara/118-vallanghy-ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

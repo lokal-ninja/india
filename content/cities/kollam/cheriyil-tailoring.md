@@ -1,5 +1,5 @@
 ---
 title: "Cheriyil tailoring"
 url: /kollam/cheriyil-tailoring/
-shop: shop
+shop: Allgemein
 ---

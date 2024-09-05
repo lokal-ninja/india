@@ -1,5 +1,5 @@
 ---
 title: "Rubans"
 url: /bengaluru/rubans/
-shop: jewelry
+shop: Schmuck
 ---

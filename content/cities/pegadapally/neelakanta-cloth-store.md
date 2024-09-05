@@ -1,5 +1,5 @@
 ---
 title: "NEELAKANTA CLOTH STORE"
 url: /pegadapally/neelakanta-cloth-store/
-shop: clothes
+shop: Kleidung
 ---

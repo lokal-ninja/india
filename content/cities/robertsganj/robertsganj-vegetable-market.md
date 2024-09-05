@@ -1,5 +1,5 @@
 ---
 title: "Robertsganj Vegetable Market"
 url: /robertsganj/robertsganj-vegetable-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MamaEarth Corporate Office"
 url: /gurugram/mamaearth-corporate-office/
-shop: supermarket
+shop: Supermarkt
 ---

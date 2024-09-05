@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /pachalam/ration-shop/
-shop: shop
+shop: Allgemein
 ---

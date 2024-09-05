@@ -1,5 +1,5 @@
 ---
 title: "indiagate"
 url: /kaasaragod/indiagate/
-shop: clothes
+shop: Kleidung
 ---

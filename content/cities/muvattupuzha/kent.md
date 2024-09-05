@@ -1,5 +1,5 @@
 ---
 title: "KENT"
 url: /muvattupuzha/kent/
-shop: hairdresser
+shop: Friseur
 ---

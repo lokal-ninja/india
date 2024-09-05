@@ -1,5 +1,5 @@
 ---
 title: "Soumya workshop"
 url: /thiruvananthapuram/soumya-workshop/
-shop: motorcycle
+shop: Motorrad
 ---

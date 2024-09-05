@@ -1,5 +1,5 @@
 ---
 title: "Dainik bhaskar printing press"
 url: /sidguwan/dainik-bhaskar-printing-press/
-shop: copyshop
+shop: Kopieren
 ---

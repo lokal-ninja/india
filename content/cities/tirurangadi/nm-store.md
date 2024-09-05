@@ -1,5 +1,5 @@
 ---
 title: "NM store"
 url: /tirurangadi/nm-store/
-shop: convenience
+shop: Lebensmittel
 ---

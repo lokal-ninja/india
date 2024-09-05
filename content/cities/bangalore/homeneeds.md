@@ -1,5 +1,5 @@
 ---
 title: "Homeneeds"
 url: /bangalore/homeneeds/
-shop: supermarket
+shop: Supermarkt
 ---

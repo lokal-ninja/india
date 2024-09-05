@@ -1,5 +1,5 @@
 ---
 title: "RIS"
 url: /pallikurup/ris/
-shop: shop
+shop: Allgemein
 ---

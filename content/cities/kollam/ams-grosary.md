@@ -1,5 +1,5 @@
 ---
 title: "AMS Grosary"
 url: /kollam/ams-grosary/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

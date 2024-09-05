@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /muvaarrrrupulll/milma-ensi-rroodd-vaalllppilllli-3/
-shop: dairy
+shop: Milch
 ---

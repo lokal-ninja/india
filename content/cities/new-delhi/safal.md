@@ -1,5 +1,5 @@
 ---
 title: "Safal"
 url: /new-delhi/safal/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "തളിർ"
 url: /kottarakara/tlli/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "pantaloons"
 url: /raipur/pantaloons/
-shop: clothes
+shop: Kleidung
 ---

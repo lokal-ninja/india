@@ -1,5 +1,5 @@
 ---
 title: "Tod's"
 url: /bengaluru/tods/
-shop: shoes
+shop: Schuhe
 ---

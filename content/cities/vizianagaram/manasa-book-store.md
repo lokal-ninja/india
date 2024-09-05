@@ -1,5 +1,5 @@
 ---
 title: "Manasa Book Store"
 url: /vizianagaram/manasa-book-store/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dhananjay Orovesion"
 url: /sagar/dhananjay-orovesion/
-shop: supermarket
+shop: Supermarkt
 ---

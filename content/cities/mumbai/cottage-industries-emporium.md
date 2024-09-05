@@ -1,5 +1,5 @@
 ---
 title: "Cottage Industries Emporium"
 url: /mumbai/cottage-industries-emporium/
-shop: gift
+shop: Andenken
 ---

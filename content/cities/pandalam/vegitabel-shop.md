@@ -1,5 +1,5 @@
 ---
 title: "VEgitabel Shop"
 url: /pandalam/vegitabel-shop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

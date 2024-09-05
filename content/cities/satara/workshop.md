@@ -1,5 +1,5 @@
 ---
 title: "workshop"
 url: /satara/workshop/
-shop: weapons
+shop: Waffen
 ---

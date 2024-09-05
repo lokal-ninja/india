@@ -1,5 +1,5 @@
 ---
 title: "Chithra stiching centre"
 url: /thiruvananthapuram/chithra-stiching-centre/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "drxdeepakjatav"
 url: /raisen/drxdeepakjatav/
-shop: chemist
+shop: Drogerie
 ---

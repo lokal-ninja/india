@@ -1,5 +1,5 @@
 ---
 title: "Royal Enfield"
 url: /sikar/royal-enfield/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easyday"
 url: /kurukshetra/easyday/
-shop: supermarket
+shop: Supermarkt
 ---

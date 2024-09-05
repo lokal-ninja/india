@@ -1,5 +1,5 @@
 ---
 title: "Motorheads"
 url: /chennai/motorheads/
-shop: car repair
+shop: Autowerkstatt
 ---

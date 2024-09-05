@@ -1,5 +1,5 @@
 ---
 title: "Rajam Handloom"
 url: /thiruvanthapuram/rajam-handloom/
-shop: clothes
+shop: Kleidung
 ---

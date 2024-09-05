@@ -1,5 +1,5 @@
 ---
 title: "Louis Phillippe"
 url: /bangalore/louis-phillippe/
-shop: clothes
+shop: Kleidung
 ---

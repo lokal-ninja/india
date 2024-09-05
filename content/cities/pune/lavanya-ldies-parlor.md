@@ -1,5 +1,5 @@
 ---
 title: "Lavanya Ldies Parlor"
 url: /pune/lavanya-ldies-parlor/
-shop: beauty
+shop: Kosmetik
 ---

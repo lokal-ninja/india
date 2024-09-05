@@ -1,5 +1,5 @@
 ---
 title: "Gourango Readymade Garments"
 url: /islampur/gourango-readymade-garments/
-shop: clothes
+shop: Kleidung
 ---

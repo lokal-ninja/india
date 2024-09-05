@@ -1,5 +1,5 @@
 ---
 title: "Thejas vegitable"
 url: /thiruvananthapuram/thejas-vegitable/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

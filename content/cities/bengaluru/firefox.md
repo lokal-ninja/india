@@ -1,5 +1,5 @@
 ---
 title: "Firefox"
 url: /bengaluru/firefox/
-shop: bicycle
+shop: Fahrrad
 ---

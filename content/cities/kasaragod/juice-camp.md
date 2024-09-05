@@ -1,5 +1,5 @@
 ---
 title: "JUICE CAMP"
 url: /kasaragod/juice-camp/
-shop: shop
+shop: Allgemein
 ---

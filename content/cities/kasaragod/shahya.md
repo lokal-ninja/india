@@ -1,5 +1,5 @@
 ---
 title: "SHAHYA"
 url: /kasaragod/shahya/
-shop: clothes
+shop: Kleidung
 ---

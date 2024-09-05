@@ -1,5 +1,5 @@
 ---
 title: "Pandey Ji Store"
 url: /delhi/pandey-ji-store/
-shop: convenience
+shop: Lebensmittel
 ---

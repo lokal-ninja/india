@@ -1,5 +1,5 @@
 ---
 title: "Parakkattu"
 url: /thadiyampadu/parakkattu/
-shop: supermarket
+shop: Supermarkt
 ---

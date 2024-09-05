@@ -1,5 +1,5 @@
 ---
 title: "HP gas agency"
 url: /vengara/hp-gas-agency/
-shop: shop
+shop: Allgemein
 ---

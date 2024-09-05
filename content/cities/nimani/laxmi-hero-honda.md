@@ -1,5 +1,5 @@
 ---
 title: "Laxmi hero honda"
 url: /nimani/laxmi-hero-honda/
-shop: motorcycle
+shop: Motorrad
 ---

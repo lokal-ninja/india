@@ -1,5 +1,5 @@
 ---
 title: "Nabeel garments"
 url: /kollam/nabeel-garments/
-shop: clothes
+shop: Kleidung
 ---

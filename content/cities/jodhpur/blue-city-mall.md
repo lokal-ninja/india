@@ -1,5 +1,5 @@
 ---
 title: "Blue City Mall"
 url: /jodhpur/blue-city-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

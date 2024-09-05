@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /puducherry/honda/
-shop: motorcycle
+shop: Motorrad
 ---

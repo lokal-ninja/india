@@ -1,5 +1,5 @@
 ---
 title: "U.S. Polo Assn."
 url: /bangalore/u-s-polo-assn/
-shop: clothes
+shop: Kleidung
 ---

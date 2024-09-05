@@ -1,5 +1,5 @@
 ---
 title: "Punjab Handlooms"
 url: /bangalore/punjab-handlooms/
-shop: clothes
+shop: Kleidung
 ---

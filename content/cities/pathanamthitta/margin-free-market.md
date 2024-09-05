@@ -1,5 +1,5 @@
 ---
 title: "MARGIN FREE MARKET"
 url: /pathanamthitta/margin-free-market/
-shop: supermarket
+shop: Supermarkt
 ---

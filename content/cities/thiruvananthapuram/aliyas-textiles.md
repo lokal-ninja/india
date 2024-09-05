@@ -1,5 +1,5 @@
 ---
 title: "Aliyas Textiles"
 url: /thiruvananthapuram/aliyas-textiles/
-shop: clothes
+shop: Kleidung
 ---

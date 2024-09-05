@@ -1,5 +1,5 @@
 ---
 title: "Breitling"
 url: /bengaluru/breitling/
-shop: watches
+shop: Uhren
 ---

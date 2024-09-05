@@ -1,5 +1,5 @@
 ---
 title: "vegatable store"
 url: /thiruvalla/vegatable-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canali"
 url: /bengaluru/canali/
-shop: clothes
+shop: Kleidung
 ---

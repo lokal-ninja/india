@@ -1,5 +1,5 @@
 ---
 title: "Pawzup"
 url: /mumbai/pawzup/
-shop: pet
+shop: Tiere
 ---

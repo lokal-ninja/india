@@ -1,5 +1,5 @@
 ---
 title: "Manyavar"
 url: /meerut/manyavar/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raymonds"
 url: /bangalore/raymonds/
-shop: clothes
+shop: Kleidung
 ---

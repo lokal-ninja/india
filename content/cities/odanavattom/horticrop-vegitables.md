@@ -1,5 +1,5 @@
 ---
 title: "Horticrop Vegitables"
 url: /odanavattom/horticrop-vegitables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

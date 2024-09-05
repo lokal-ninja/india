@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /mysore/nike/
-shop: sports
+shop: Sport
 ---

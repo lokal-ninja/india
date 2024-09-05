@@ -1,5 +1,5 @@
 ---
 title: "A R Plaza"
 url: /kadakkavoor/a-r-plaza/
-shop: mall
+shop: Einkaufszentrum
 ---

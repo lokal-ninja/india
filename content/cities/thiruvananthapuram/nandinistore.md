@@ -1,5 +1,5 @@
 ---
 title: "Nandinistore"
 url: /thiruvananthapuram/nandinistore/
-shop: general
+shop: Dorfladen
 ---

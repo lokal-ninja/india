@@ -1,5 +1,5 @@
 ---
 title: "Unicorn"
 url: /pune/unicorn/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /jaipur/firstcry/
-shop: baby goods
+shop: Babysachen
 ---

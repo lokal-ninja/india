@@ -1,5 +1,5 @@
 ---
 title: "Urban Kurtis"
 url: /bavdhan-budruk/urban-kurtis/
-shop: clothes
+shop: Kleidung
 ---

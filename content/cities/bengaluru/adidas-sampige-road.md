@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /bengaluru/adidas-sampige-road/
-shop: sports
+shop: Sport
 ---

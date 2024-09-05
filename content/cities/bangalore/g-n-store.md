@@ -1,5 +1,5 @@
 ---
 title: "G N Store"
 url: /bangalore/g-n-store/
-shop: convenience
+shop: Lebensmittel
 ---

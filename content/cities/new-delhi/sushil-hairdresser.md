@@ -1,5 +1,5 @@
 ---
 title: "Sushil Hairdresser"
 url: /new-delhi/sushil-hairdresser/
-shop: hairdresser
+shop: Friseur
 ---

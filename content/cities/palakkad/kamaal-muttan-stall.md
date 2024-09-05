@@ -1,5 +1,5 @@
 ---
 title: "Kamaal Muttan Stall"
 url: /palakkad/kamaal-muttan-stall/
-shop: butcher
+shop: Metzgerei
 ---

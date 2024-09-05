@@ -1,5 +1,5 @@
 ---
 title: "SunRise"
 url: /pallikurup/sunrise/
-shop: clothes
+shop: Kleidung
 ---

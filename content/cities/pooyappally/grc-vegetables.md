@@ -1,5 +1,5 @@
 ---
 title: "GRC Vegetables"
 url: /pooyappally/grc-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

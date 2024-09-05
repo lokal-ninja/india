@@ -1,5 +1,5 @@
 ---
 title: "sathya stores"
 url: /coimbatore/sathya-stores/
-shop: kiosk
+shop: Kiosk
 ---

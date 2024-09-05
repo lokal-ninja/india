@@ -1,5 +1,5 @@
 ---
 title: "Krishna Trading Company"
 url: /bhogpur/krishna-trading-company/
-shop: hardware
+shop: Eisenwaren
 ---

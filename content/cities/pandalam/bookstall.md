@@ -1,5 +1,5 @@
 ---
 title: "Bookstall"
 url: /pandalam/bookstall/
-shop: books
+shop: Bücher
 ---

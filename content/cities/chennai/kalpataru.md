@@ -1,5 +1,5 @@
 ---
 title: "Kalpataru"
 url: /chennai/kalpataru/
-shop: religion
+shop: Religion
 ---

@@ -1,5 +1,5 @@
 ---
 title: "lalita fancy store"
 url: /raipur/lalita-fancy-store/
-shop: boutique
+shop: Modehaus
 ---

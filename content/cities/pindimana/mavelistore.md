@@ -1,5 +1,5 @@
 ---
 title: "Mavelistore"
 url: /pindimana/mavelistore/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /bengaluru/zara/
-shop: clothes
+shop: Kleidung
 ---

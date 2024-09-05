@@ -1,5 +1,5 @@
 ---
 title: "Mufti"
 url: /bengaluru/mufti/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocia"
 url: /bengaluru/rocia/
-shop: shoes
+shop: Schuhe
 ---

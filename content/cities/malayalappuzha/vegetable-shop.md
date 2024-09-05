@@ -1,5 +1,5 @@
 ---
 title: "vegetable shop"
 url: /malayalappuzha/vegetable-shop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

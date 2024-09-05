@@ -1,5 +1,5 @@
 ---
 title: "Raja Men's Parlour"
 url: /nagpur/raja-mens-parlour/
-shop: hairdresser
+shop: Friseur
 ---

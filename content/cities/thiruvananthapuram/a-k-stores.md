@@ -1,5 +1,5 @@
 ---
 title: "A K stores"
 url: /thiruvananthapuram/a-k-stores/
-shop: general
+shop: Dorfladen
 ---

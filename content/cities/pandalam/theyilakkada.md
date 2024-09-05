@@ -1,5 +1,5 @@
 ---
 title: "Theyilakkada"
 url: /pandalam/theyilakkada/
-shop: convenience
+shop: Lebensmittel
 ---

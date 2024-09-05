@@ -1,5 +1,5 @@
 ---
 title: "Neelima"
 url: /pathanamthitta/neelima/
-shop: hairdresser
+shop: Friseur
 ---

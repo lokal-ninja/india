@@ -1,5 +1,5 @@
 ---
 title: "Meena Bazaar"
 url: /palampur/meena-bazaar/
-shop: clothes
+shop: Kleidung
 ---

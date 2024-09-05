@@ -1,5 +1,5 @@
 ---
 title: "Ola"
 url: /prayagraj/ola/
-shop: motorcycle
+shop: Motorrad
 ---

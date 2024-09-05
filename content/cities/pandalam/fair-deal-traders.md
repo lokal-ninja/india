@@ -1,5 +1,5 @@
 ---
 title: "Fair Deal Traders"
 url: /pandalam/fair-deal-traders/
-shop: clothes
+shop: Kleidung
 ---

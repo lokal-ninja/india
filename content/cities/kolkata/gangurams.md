@@ -1,5 +1,5 @@
 ---
 title: "Gangurams"
 url: /kolkata/gangurams/
-shop: convenience
+shop: Lebensmittel
 ---

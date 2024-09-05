@@ -1,5 +1,5 @@
 ---
 title: "Shani Store"
 url: /kechery/shani-store/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "soorya"
 url: /kollam/soorya/
-shop: supermarket
+shop: Supermarkt
 ---

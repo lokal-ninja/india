@@ -1,5 +1,5 @@
 ---
 title: "BOHO"
 url: /kundalahalli-bangalore/boho/
-shop: mall
+shop: Einkaufszentrum
 ---

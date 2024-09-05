@@ -1,5 +1,5 @@
 ---
 title: "jewel park"
 url: /mallappally/jewel-park/
-shop: jewelry
+shop: Schmuck
 ---

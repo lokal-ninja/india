@@ -1,5 +1,5 @@
 ---
 title: "Dzine"
 url: /kozhikode/dzine/
-shop: clothes
+shop: Kleidung
 ---

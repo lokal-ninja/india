@@ -1,5 +1,5 @@
 ---
 title: "Kailash Bhandar"
 url: /amguri/kailash-bhandar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /gurgaon/adidas/
-shop: sports
+shop: Sport
 ---

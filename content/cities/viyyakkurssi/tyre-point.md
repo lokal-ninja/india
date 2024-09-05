@@ -1,5 +1,5 @@
 ---
 title: "Tyre Point"
 url: /viyyakkurssi/tyre-point/
-shop: shop
+shop: Allgemein
 ---

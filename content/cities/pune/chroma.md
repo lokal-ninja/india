@@ -1,5 +1,5 @@
 ---
 title: "Chroma"
 url: /pune/chroma/
-shop: supermarket
+shop: Supermarkt
 ---

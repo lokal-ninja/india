@@ -1,5 +1,5 @@
 ---
 title: "Occassions"
 url: /bengaluru/occassions/
-shop: bakery
+shop: Bäckerei
 ---

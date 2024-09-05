@@ -1,5 +1,5 @@
 ---
 title: "shalini's creation"
 url: /amritsar/shalinis-creation/
-shop: clothes
+shop: Kleidung
 ---

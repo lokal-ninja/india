@@ -1,5 +1,5 @@
 ---
 title: "Kunchal's"
 url: /new-delhi/kunchals/
-shop: beauty
+shop: Kosmetik
 ---

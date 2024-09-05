@@ -1,5 +1,5 @@
 ---
 title: "Trends"
 url: /kollam/trends/
-shop: clothes
+shop: Kleidung
 ---

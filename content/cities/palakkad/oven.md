@@ -1,5 +1,5 @@
 ---
 title: "Oven"
 url: /palakkad/oven/
-shop: bakery
+shop: Bäckerei
 ---

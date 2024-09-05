@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Vadasserikara"
 url: /vadasserikkara/ration-shop-vadasserikara/
-shop: convenience
+shop: Lebensmittel
 ---

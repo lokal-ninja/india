@@ -1,5 +1,5 @@
 ---
 title: "Nexus"
 url: /mannarkkad/nexus/
-shop: electronics
+shop: Elektronik
 ---

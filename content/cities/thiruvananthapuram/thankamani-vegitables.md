@@ -1,5 +1,5 @@
 ---
 title: "Thankamani vegitables"
 url: /thiruvananthapuram/thankamani-vegitables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

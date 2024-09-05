@@ -1,5 +1,5 @@
 ---
 title: "feathers"
 url: /kunnamkulam/feathers/
-shop: hairdresser
+shop: Friseur
 ---

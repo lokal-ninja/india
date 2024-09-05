@@ -1,5 +1,5 @@
 ---
 title: "Jockey"
 url: /puthanathani/jockey/
-shop: clothes
+shop: Kleidung
 ---

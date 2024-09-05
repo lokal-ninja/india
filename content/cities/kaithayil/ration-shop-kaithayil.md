@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Kaithayil"
 url: /kaithayil/ration-shop-kaithayil/
-shop: convenience
+shop: Lebensmittel
 ---

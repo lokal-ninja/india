@@ -1,5 +1,5 @@
 ---
 title: "Rationshop"
 url: /amala-nagar/rationshop/
-shop: shop
+shop: Allgemein
 ---

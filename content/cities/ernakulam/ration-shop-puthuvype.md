@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /ernakulam/ration-shop-puthuvype/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /kochi/milma/
-shop: dairy
+shop: Milch
 ---

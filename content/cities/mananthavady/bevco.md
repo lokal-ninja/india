@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
 url: /mananthavady/bevco/
-shop: alcohol
+shop: Spirituosen
 ---

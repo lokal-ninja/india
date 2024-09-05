@@ -1,5 +1,5 @@
 ---
 title: "Famous Chicken Centre"
 url: /hyderabad/famous-chicken-centre/
-shop: butcher
+shop: Metzgerei
 ---

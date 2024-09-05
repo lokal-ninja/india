@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /madanapalle/dmart/
-shop: supermarket
+shop: Supermarkt
 ---

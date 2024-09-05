@@ -1,5 +1,5 @@
 ---
 title: "Welcare"
 url: /mannarkkad/welcare/
-shop: shop
+shop: Allgemein
 ---

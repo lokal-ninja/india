@@ -1,5 +1,5 @@
 ---
 title: "American Tourister"
 url: /prayagraj/american-tourister/
-shop: bag
+shop: Taschen & Koffer
 ---

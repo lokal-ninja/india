@@ -1,5 +1,5 @@
 ---
 title: "Paradise Hotel"
 url: /kanjiramattom/paradise-hotel/
-shop: convenience
+shop: Lebensmittel
 ---

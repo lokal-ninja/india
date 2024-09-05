@@ -1,5 +1,5 @@
 ---
 title: "Delfino's Hymart"
 url: /goa/delfinos-hymart/
-shop: supermarket
+shop: Supermarkt
 ---

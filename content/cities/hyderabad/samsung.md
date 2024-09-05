@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /hyderabad/samsung/
-shop: electronics
+shop: Elektronik
 ---

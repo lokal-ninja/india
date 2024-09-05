@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /thane/reebok/
-shop: clothes
+shop: Kleidung
 ---

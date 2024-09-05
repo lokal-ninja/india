@@ -1,5 +1,5 @@
 ---
 title: "Bakers World"
 url: /chennai/bakers-world/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "wines"
 url: /hyderabad/wines/
-shop: alcohol
+shop: Spirituosen
 ---

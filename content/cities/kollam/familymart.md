@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /kollam/familymart/
-shop: convenience
+shop: Lebensmittel
 ---

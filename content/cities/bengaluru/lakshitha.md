@@ -1,5 +1,5 @@
 ---
 title: "Lakshitha"
 url: /bengaluru/lakshitha/
-shop: clothes
+shop: Kleidung
 ---

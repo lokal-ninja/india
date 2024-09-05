@@ -1,5 +1,5 @@
 ---
 title: "padma tailors"
 url: /hyderabad/padma-tailors/
-shop: tailor
+shop: Schneiderei
 ---

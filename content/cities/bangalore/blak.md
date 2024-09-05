@@ -1,5 +1,5 @@
 ---
 title: "Blak"
 url: /bangalore/blak/
-shop: shoes
+shop: Schuhe
 ---

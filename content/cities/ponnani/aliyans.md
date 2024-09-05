@@ -1,5 +1,5 @@
 ---
 title: "Aliyan's"
 url: /ponnani/aliyans/
-shop: bakery
+shop: Bäckerei
 ---

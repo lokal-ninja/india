@@ -1,5 +1,5 @@
 ---
 title: "Woodland"
 url: /panikkarapuraya/woodland/
-shop: furniture
+shop: Möbel
 ---

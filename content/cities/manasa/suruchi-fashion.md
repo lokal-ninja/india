@@ -1,5 +1,5 @@
 ---
 title: "Suruchi Fashion"
 url: /manasa/suruchi-fashion/
-shop: clothes
+shop: Kleidung
 ---

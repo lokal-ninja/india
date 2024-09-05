@@ -1,5 +1,5 @@
 ---
 title: "Creation"
 url: /jaipur/creation/
-shop: clothes
+shop: Kleidung
 ---

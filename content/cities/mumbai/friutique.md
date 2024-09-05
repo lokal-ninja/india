@@ -1,5 +1,5 @@
 ---
 title: "friutique"
 url: /mumbai/friutique/
-shop: shop
+shop: Allgemein
 ---

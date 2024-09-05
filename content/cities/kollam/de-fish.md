@@ -1,5 +1,5 @@
 ---
 title: "De Fish"
 url: /kollam/de-fish/
-shop: fishing
+shop: Angeln
 ---

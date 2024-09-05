@@ -1,5 +1,5 @@
 ---
 title: "Edapparambil Textiles"
 url: /pala/edapparambil-textiles/
-shop: clothes
+shop: Kleidung
 ---

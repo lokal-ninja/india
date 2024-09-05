@@ -1,5 +1,5 @@
 ---
 title: "Hidesign"
 url: /bangalore/hidesign/
-shop: bag
+shop: Taschen & Koffer
 ---

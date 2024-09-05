@@ -1,5 +1,5 @@
 ---
 title: "Dhosth Bakers"
 url: /kattappana/dhosth-bakers/
-shop: bakery
+shop: Bäckerei
 ---

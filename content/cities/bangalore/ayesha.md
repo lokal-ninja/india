@@ -1,5 +1,5 @@
 ---
 title: "Ayesha"
 url: /bangalore/ayesha/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sreesastha vegetable"
 url: /thiruvananthapuram/sreesastha-vegetable/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

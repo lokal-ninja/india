@@ -1,5 +1,5 @@
 ---
 title: "Book Corner"
 url: /meerut/book-corner/
-shop: books
+shop: Bücher
 ---

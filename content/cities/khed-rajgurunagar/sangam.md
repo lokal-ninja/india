@@ -1,5 +1,5 @@
 ---
 title: "Sangam"
 url: /khed-rajgurunagar/sangam/
-shop: clothes
+shop: Kleidung
 ---

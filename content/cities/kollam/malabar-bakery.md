@@ -1,5 +1,5 @@
 ---
 title: "Malabar Bakery"
 url: /kollam/malabar-bakery/
-shop: bakery
+shop: Bäckerei
 ---

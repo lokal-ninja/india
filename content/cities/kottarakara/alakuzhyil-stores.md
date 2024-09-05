@@ -1,5 +1,5 @@
 ---
 title: "Alakuzhyil Stores"
 url: /kottarakara/alakuzhyil-stores/
-shop: convenience
+shop: Lebensmittel
 ---

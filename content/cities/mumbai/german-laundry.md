@@ -1,5 +1,5 @@
 ---
 title: "German Laundry"
 url: /mumbai/german-laundry/
-shop: laundry
+shop: Wäscherei
 ---

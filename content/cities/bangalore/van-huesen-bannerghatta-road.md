@@ -1,5 +1,5 @@
 ---
 title: "Van Huesen"
 url: /bangalore/van-huesen-bannerghatta-road/
-shop: clothes
+shop: Kleidung
 ---

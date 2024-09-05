@@ -1,5 +1,5 @@
 ---
 title: "Calcetto"
 url: /prayagraj/calcetto/
-shop: shoes
+shop: Schuhe
 ---

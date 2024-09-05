@@ -1,5 +1,5 @@
 ---
 title: "Diamond store"
 url: /kozhikode/diamond-store/
-shop: books
+shop: Bücher
 ---

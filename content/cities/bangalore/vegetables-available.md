@@ -1,5 +1,5 @@
 ---
 title: "Vegetables Available"
 url: /bangalore/vegetables-available/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

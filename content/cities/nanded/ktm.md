@@ -1,5 +1,5 @@
 ---
 title: "KTM"
 url: /nanded/ktm/
-shop: motorcycle
+shop: Motorrad
 ---

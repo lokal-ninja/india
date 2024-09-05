@@ -1,5 +1,5 @@
 ---
 title: "Lorenzofootwear"
 url: /thiruvananthapuram/lorenzofootwear/
-shop: shoes
+shop: Schuhe
 ---

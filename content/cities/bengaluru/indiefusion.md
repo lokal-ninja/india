@@ -1,5 +1,5 @@
 ---
 title: "IndieFusion"
 url: /bengaluru/indiefusion/
-shop: clothes
+shop: Kleidung
 ---

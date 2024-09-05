@@ -1,5 +1,5 @@
 ---
 title: "PARX"
 url: /calicut/parx/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "sumaya"
 url: /pathanadu/sumaya/
-shop: clothes
+shop: Kleidung
 ---

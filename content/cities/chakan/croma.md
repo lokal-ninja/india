@@ -1,5 +1,5 @@
 ---
 title: "Croma"
 url: /chakan/croma/
-shop: electronics
+shop: Elektronik
 ---

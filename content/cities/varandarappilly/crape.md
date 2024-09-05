@@ -1,5 +1,5 @@
 ---
 title: "Crape"
 url: /varandarappilly/crape/
-shop: supermarket
+shop: Supermarkt
 ---

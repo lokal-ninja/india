@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thripunithara/ration-shop/
-shop: convenience
+shop: Lebensmittel
 ---

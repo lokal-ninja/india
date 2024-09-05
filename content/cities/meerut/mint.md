@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /meerut/mint/
-shop: convenience
+shop: Lebensmittel
 ---

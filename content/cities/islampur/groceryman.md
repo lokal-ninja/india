@@ -1,5 +1,5 @@
 ---
 title: "Groceryman"
 url: /islampur/groceryman/
-shop: general
+shop: Dorfladen
 ---

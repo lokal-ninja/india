@@ -1,5 +1,5 @@
 ---
 title: "Ammukutty ironing Centre"
 url: /angamaly/ammukutty-ironing-centre/
-shop: laundry
+shop: Wäscherei
 ---

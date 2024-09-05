@@ -1,5 +1,5 @@
 ---
 title: "Nalakath"
 url: /kulapadam/nalakath/
-shop: convenience
+shop: Lebensmittel
 ---

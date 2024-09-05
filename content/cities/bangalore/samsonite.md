@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /bangalore/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

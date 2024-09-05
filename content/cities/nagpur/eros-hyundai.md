@@ -1,5 +1,5 @@
 ---
 title: "Eros Hyundai"
 url: /nagpur/eros-hyundai/
-shop: car
+shop: Autohaus
 ---

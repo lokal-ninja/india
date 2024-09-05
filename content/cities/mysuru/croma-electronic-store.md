@@ -1,5 +1,5 @@
 ---
 title: "Croma Electronic Store"
 url: /mysuru/croma-electronic-store/
-shop: supermarket
+shop: Supermarkt
 ---

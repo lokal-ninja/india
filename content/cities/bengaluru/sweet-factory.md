@@ -1,5 +1,5 @@
 ---
 title: "Sweet Factory"
 url: /bengaluru/sweet-factory/
-shop: confectionery
+shop: Süßwaren
 ---

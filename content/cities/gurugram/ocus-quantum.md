@@ -1,5 +1,5 @@
 ---
 title: "Ocus Quantum"
 url: /gurugram/ocus-quantum/
-shop: mall
+shop: Einkaufszentrum
 ---

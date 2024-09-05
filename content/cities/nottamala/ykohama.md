@@ -1,5 +1,5 @@
 ---
 title: "YKOHAMA"
 url: /nottamala/ykohama/
-shop: shop
+shop: Allgemein
 ---

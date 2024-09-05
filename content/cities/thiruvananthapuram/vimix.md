@@ -1,5 +1,5 @@
 ---
 title: "Vimix"
 url: /thiruvananthapuram/vimix/
-shop: shop
+shop: Allgemein
 ---

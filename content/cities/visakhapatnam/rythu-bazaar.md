@@ -1,5 +1,5 @@
 ---
 title: "Rythu Bazaar"
 url: /visakhapatnam/rythu-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NIHAL AUTO ELECTRICALS"
 url: /karakurssi/nihal-auto-electricals/
-shop: shop
+shop: Allgemein
 ---

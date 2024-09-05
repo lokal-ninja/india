@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Santhigram"
 url: /santhigram/ration-shop-santhigram/
-shop: convenience
+shop: Lebensmittel
 ---

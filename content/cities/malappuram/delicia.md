@@ -1,5 +1,5 @@
 ---
 title: "delicia"
 url: /malappuram/delicia/
-shop: bakery
+shop: Bäckerei
 ---

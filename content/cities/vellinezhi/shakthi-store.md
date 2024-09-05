@@ -1,5 +1,5 @@
 ---
 title: "Shakthi Store"
 url: /vellinezhi/shakthi-store/
-shop: clothes
+shop: Kleidung
 ---

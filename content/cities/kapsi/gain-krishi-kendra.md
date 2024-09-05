@@ -1,5 +1,5 @@
 ---
 title: "Gain Krishi Kendra"
 url: /kapsi/gain-krishi-kendra/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

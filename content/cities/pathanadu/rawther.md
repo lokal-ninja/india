@@ -1,5 +1,5 @@
 ---
 title: "rawther"
 url: /pathanadu/rawther/
-shop: clothes
+shop: Kleidung
 ---

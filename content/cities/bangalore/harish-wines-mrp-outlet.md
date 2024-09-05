@@ -1,5 +1,5 @@
 ---
 title: "Harish Wines - MRP Outlet"
 url: /bangalore/harish-wines-mrp-outlet/
-shop: alcohol
+shop: Spirituosen
 ---

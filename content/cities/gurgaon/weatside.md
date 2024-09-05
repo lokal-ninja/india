@@ -1,5 +1,5 @@
 ---
 title: "Weatside"
 url: /gurgaon/weatside/
-shop: clothes
+shop: Kleidung
 ---

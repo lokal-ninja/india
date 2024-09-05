@@ -1,5 +1,5 @@
 ---
 title: "Origins"
 url: /pune/origins/
-shop: clothes
+shop: Kleidung
 ---

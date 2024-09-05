@@ -1,5 +1,5 @@
 ---
 title: "Mother Diary"
 url: /gurgaon/mother-diary-new-colony/
-shop: convenience
+shop: Lebensmittel
 ---

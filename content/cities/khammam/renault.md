@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /khammam/renault/
-shop: car
+shop: Autohaus
 ---

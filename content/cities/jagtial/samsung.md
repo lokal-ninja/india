@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /jagtial/samsung/
-shop: electronics
+shop: Elektronik
 ---

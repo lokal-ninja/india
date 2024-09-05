@@ -1,5 +1,5 @@
 ---
 title: "KIA SERVICE CENTRE"
 url: /bengaluru/kia-service-centre/
-shop: car repair
+shop: Autowerkstatt
 ---

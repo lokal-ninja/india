@@ -1,5 +1,5 @@
 ---
 title: "Gucci"
 url: /bengaluru/gucci/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chemistry"
 url: /bangalore/chemistry/
-shop: clothes
+shop: Kleidung
 ---

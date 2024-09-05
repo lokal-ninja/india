@@ -1,5 +1,5 @@
 ---
 title: "Sulu Gardens"
 url: /oyoor/sulu-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

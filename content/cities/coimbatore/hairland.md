@@ -1,5 +1,5 @@
 ---
 title: "Hairland"
 url: /coimbatore/hairland/
-shop: hairdresser
+shop: Friseur
 ---

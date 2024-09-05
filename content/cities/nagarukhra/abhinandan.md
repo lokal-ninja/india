@@ -1,5 +1,5 @@
 ---
 title: "Abhinandan"
 url: /nagarukhra/abhinandan/
-shop: electronics
+shop: Elektronik
 ---

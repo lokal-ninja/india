@@ -1,5 +1,5 @@
 ---
 title: "Swarowski"
 url: /thane/swarowski/
-shop: jewelry
+shop: Schmuck
 ---

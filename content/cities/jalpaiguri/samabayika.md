@@ -1,5 +1,5 @@
 ---
 title: "Samabayika"
 url: /jalpaiguri/samabayika/
-shop: supermarket
+shop: Supermarkt
 ---

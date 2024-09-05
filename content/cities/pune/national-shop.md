@@ -1,5 +1,5 @@
 ---
 title: "National shop"
 url: /pune/national-shop/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "vilayil furniture"
 url: /kollam/vilayil-furniture/
-shop: furniture
+shop: Möbel
 ---

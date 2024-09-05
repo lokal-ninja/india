@@ -1,5 +1,5 @@
 ---
 title: "Madheena Super Market"
 url: /kollam/madheena-super-market/
-shop: supermarket
+shop: Supermarkt
 ---

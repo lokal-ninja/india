@@ -1,5 +1,5 @@
 ---
 title: "kudlu shop"
 url: /kudlu/kudlu-shop/
-shop: bakery
+shop: Bäckerei
 ---

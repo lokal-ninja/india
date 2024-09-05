@@ -1,5 +1,5 @@
 ---
 title: "Sangeeta Mobiles"
 url: /bengaluru/sangeeta-mobiles/
-shop: electronics
+shop: Elektronik
 ---

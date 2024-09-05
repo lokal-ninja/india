@@ -1,5 +1,5 @@
 ---
 title: "SAM Vegitables"
 url: /pandalam/sam-vegitables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

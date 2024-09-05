@@ -1,5 +1,5 @@
 ---
 title: "Store"
 url: /parassala/store/
-shop: general
+shop: Dorfladen
 ---

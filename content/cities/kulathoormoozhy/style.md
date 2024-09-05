@@ -1,5 +1,5 @@
 ---
 title: "style"
 url: /kulathoormoozhy/style/
-shop: hairdresser
+shop: Friseur
 ---

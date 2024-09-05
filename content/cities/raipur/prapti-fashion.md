@@ -1,5 +1,5 @@
 ---
 title: "Prapti Fashion"
 url: /raipur/prapti-fashion/
-shop: clothes
+shop: Kleidung
 ---

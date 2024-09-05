@@ -1,5 +1,5 @@
 ---
 title: "AYUSH CARE"
 url: /kasaragod/ayush-care/
-shop: bag
+shop: Taschen & Koffer
 ---

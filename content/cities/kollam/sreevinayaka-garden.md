@@ -1,5 +1,5 @@
 ---
 title: "Sreevinayaka Garden"
 url: /kollam/sreevinayaka-garden/
-shop: garden centre
+shop: Garten-Center
 ---

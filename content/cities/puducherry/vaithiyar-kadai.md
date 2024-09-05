@@ -1,5 +1,5 @@
 ---
 title: "Vaithiyar kadai"
 url: /puducherry/vaithiyar-kadai/
-shop: herbalist
+shop: Kräuter
 ---

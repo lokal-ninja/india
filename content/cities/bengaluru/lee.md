@@ -1,5 +1,5 @@
 ---
 title: "Lee"
 url: /bengaluru/lee/
-shop: clothes
+shop: Kleidung
 ---

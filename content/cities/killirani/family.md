@@ -1,5 +1,5 @@
 ---
 title: "Family"
 url: /killirani/family/
-shop: clothes
+shop: Kleidung
 ---

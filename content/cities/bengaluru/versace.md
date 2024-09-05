@@ -1,5 +1,5 @@
 ---
 title: "Versace"
 url: /bengaluru/versace/
-shop: clothes
+shop: Kleidung
 ---

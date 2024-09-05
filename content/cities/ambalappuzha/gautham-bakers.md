@@ -1,5 +1,5 @@
 ---
 title: "Gautham bakers"
 url: /ambalappuzha/gautham-bakers/
-shop: bakery
+shop: Bäckerei
 ---

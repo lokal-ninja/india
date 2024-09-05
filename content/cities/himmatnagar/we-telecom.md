@@ -1,5 +1,5 @@
 ---
 title: "WE TELECOM"
 url: /himmatnagar/we-telecom/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "vinayaka stores"
 url: /kunnamkulam/vinayaka-stores/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

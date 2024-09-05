@@ -1,5 +1,5 @@
 ---
 title: "SNA"
 url: /manarkkad/sna/
-shop: shop
+shop: Allgemein
 ---

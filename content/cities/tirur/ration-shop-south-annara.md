@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /tirur/ration-shop-south-annara/
-shop: convenience
+shop: Lebensmittel
 ---

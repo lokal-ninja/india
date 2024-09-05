@@ -1,5 +1,5 @@
 ---
 title: "Mums Mall"
 url: /chandigarh/mums-mall/
-shop: supermarket
+shop: Supermarkt
 ---

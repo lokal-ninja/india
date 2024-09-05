@@ -1,5 +1,5 @@
 ---
 title: "Finix"
 url: /thiruvananthapuram/finix/
-shop: shop
+shop: Allgemein
 ---

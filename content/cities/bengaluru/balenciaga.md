@@ -1,5 +1,5 @@
 ---
 title: "Balenciaga"
 url: /bengaluru/balenciaga/
-shop: clothes
+shop: Kleidung
 ---

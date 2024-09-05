@@ -1,5 +1,5 @@
 ---
 title: "Arathi medicals Onakkunnu"
 url: /onakkunnu/arathi-medicals-onakkunnu/
-shop: chemist
+shop: Drogerie
 ---

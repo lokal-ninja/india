@@ -1,5 +1,5 @@
 ---
 title: "Lee Cooper"
 url: /thane/lee-cooper/
-shop: clothes
+shop: Kleidung
 ---

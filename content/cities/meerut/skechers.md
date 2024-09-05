@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /meerut/skechers/
-shop: shoes
+shop: Schuhe
 ---

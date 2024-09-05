@@ -1,5 +1,5 @@
 ---
 title: "Colorpus"
 url: /raipur/colorpus/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KM Vegitables"
 url: /kayamkulam/km-vegitables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

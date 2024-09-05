@@ -1,5 +1,5 @@
 ---
 title: "OFFERS"
 url: /kasaragod/offers/
-shop: clothes
+shop: Kleidung
 ---

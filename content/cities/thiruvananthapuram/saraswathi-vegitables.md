@@ -1,5 +1,5 @@
 ---
 title: "Saraswathi vegitables"
 url: /thiruvananthapuram/saraswathi-vegitables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

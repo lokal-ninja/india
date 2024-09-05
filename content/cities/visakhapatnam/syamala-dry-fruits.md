@@ -1,5 +1,5 @@
 ---
 title: "Syamala Dry Fruits"
 url: /visakhapatnam/syamala-dry-fruits/
-shop: general
+shop: Dorfladen
 ---

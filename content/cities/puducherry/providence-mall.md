@@ -1,5 +1,5 @@
 ---
 title: "Providence Mall"
 url: /puducherry/providence-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

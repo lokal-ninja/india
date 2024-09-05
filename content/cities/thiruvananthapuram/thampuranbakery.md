@@ -1,5 +1,5 @@
 ---
 title: "Thampuranbakery"
 url: /thiruvananthapuram/thampuranbakery/
-shop: shop
+shop: Allgemein
 ---

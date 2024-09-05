@@ -1,5 +1,5 @@
 ---
 title: "New U"
 url: /gurgaon/new-u/
-shop: beauty
+shop: Kosmetik
 ---

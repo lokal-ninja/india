@@ -1,5 +1,5 @@
 ---
 title: "Matha Stitching"
 url: /trivandrum/matha-stitching/
-shop: tailor
+shop: Schneiderei
 ---

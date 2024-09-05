@@ -1,5 +1,5 @@
 ---
 title: "Sam Opticals"
 url: /anchal/sam-opticals/
-shop: optician
+shop: Optiker
 ---

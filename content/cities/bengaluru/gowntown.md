@@ -1,5 +1,5 @@
 ---
 title: "Gowntown"
 url: /bengaluru/gowntown/
-shop: beauty
+shop: Kosmetik
 ---

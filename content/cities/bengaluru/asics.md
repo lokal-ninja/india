@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /bengaluru/asics/
-shop: shoes
+shop: Schuhe
 ---
