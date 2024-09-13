@@ -1,5 +1,5 @@
 ---
 title: "tishacreation"
 url: /mumbai/tishacreation/
-shop: Supermarkt
+shop: supermarket
 ---

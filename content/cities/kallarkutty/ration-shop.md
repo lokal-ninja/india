@@ -1,5 +1,5 @@
 ---
 title: "Ration shop"
 url: /kallarkutty/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

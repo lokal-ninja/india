@@ -1,5 +1,5 @@
 ---
 title: "Agarwal Mobiles"
 url: /islampur/agarwal-mobiles/
-shop: Handy
+shop: mobile phone
 ---

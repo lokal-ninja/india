@@ -1,5 +1,5 @@
 ---
 title: "Malda Pearl Emporium"
 url: /malda/malda-pearl-emporium/
-shop: Schmuck
+shop: jewelry
 ---

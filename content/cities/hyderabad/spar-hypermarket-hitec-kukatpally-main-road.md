@@ -1,5 +1,5 @@
 ---
 title: "Spar Hypermarket"
 url: /hyderabad/spar-hypermarket-hitec-kukatpally-main-road/
-shop: Supermarkt
+shop: supermarket
 ---

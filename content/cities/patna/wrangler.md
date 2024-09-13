@@ -1,5 +1,5 @@
 ---
 title: "Wrangler"
 url: /patna/wrangler/
-shop: Kleidung
+shop: clothes
 ---

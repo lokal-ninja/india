@@ -1,5 +1,5 @@
 ---
 title: "UNITY SUPERMARKET"
 url: /nilambur/unity-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

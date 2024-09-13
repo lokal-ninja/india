@@ -1,5 +1,5 @@
 ---
 title: "pp store"
 url: /kozhikode/pp-store/
-shop: Supermarkt
+shop: supermarket
 ---

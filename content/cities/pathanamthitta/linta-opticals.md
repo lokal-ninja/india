@@ -1,5 +1,5 @@
 ---
 title: "Linta Opticals"
 url: /pathanamthitta/linta-opticals/
-shop: Optiker
+shop: optician
 ---

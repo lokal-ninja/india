@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /tirunelveli/volkswagen/
-shop: Autohaus
+shop: car
 ---

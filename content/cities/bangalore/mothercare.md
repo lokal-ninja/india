@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /bangalore/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

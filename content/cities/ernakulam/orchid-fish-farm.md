@@ -1,5 +1,5 @@
 ---
 title: "Orchid Fish Farm"
 url: /ernakulam/orchid-fish-farm/
-shop: Angeln
+shop: fishing
 ---

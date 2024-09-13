@@ -1,5 +1,5 @@
 ---
 title: "Aishu"
 url: /kollam/aishu/
-shop: Allgemein
+shop: shop
 ---

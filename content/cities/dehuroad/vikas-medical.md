@@ -1,5 +1,5 @@
 ---
 title: "Vikas Medical"
 url: /dehuroad/vikas-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

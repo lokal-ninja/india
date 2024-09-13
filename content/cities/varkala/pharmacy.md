@@ -1,5 +1,5 @@
 ---
 title: "Pharmacy"
 url: /varkala/pharmacy/
-shop: Drogerie
+shop: chemist
 ---

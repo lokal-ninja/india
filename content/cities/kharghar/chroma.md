@@ -1,5 +1,5 @@
 ---
 title: "Chroma"
 url: /kharghar/chroma/
-shop: Allgemein
+shop: shop
 ---

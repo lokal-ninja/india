@@ -1,5 +1,5 @@
 ---
-title: "Levis"
+title: "Levi's"
 url: /raipur/levis/
-shop: Kleidung
+shop: clothes
 ---

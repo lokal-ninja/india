@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /mysuru/puma-gokulam-main-rd-jayalakshmipuram/
-shop: Sport
+shop: sports
 ---

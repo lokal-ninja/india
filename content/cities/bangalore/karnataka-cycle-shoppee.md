@@ -1,5 +1,5 @@
 ---
 title: "Karnataka Cycle Shoppee"
 url: /bangalore/karnataka-cycle-shoppee/
-shop: Sport
+shop: sports
 ---

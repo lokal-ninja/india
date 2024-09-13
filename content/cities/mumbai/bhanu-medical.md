@@ -1,5 +1,5 @@
 ---
 title: "Bhanu Medical"
 url: /mumbai/bhanu-medical/
-shop: Supermarkt
+shop: supermarket
 ---

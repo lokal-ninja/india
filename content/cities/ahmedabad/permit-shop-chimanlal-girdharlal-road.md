@@ -1,5 +1,5 @@
 ---
 title: "Permit Shop"
 url: /ahmedabad/permit-shop-chimanlal-girdharlal-road/
-shop: Spirituosen
+shop: alcohol
 ---

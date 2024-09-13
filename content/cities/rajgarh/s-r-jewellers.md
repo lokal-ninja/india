@@ -1,5 +1,5 @@
 ---
 title: "S R Jewellers"
 url: /rajgarh/s-r-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

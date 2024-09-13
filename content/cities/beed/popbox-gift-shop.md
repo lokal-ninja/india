@@ -1,5 +1,5 @@
 ---
 title: "Popbox Gift Shop"
 url: /beed/popbox-gift-shop/
-shop: Supermarkt
+shop: supermarket
 ---

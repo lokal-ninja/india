@@ -1,5 +1,5 @@
 ---
 title: "Gangar Supermarket"
 url: /mumbai/gangar-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

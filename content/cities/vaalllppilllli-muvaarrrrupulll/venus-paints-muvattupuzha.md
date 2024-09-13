@@ -1,5 +1,5 @@
 ---
 title: "Venus Paints Muvattupuzha"
 url: /vaalllppilllli-muvaarrrrupulll/venus-paints-muvattupuzha/
-shop: Farben
+shop: paint
 ---

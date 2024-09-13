@@ -1,5 +1,5 @@
 ---
 title: "Audi Goa"
 url: /porvorim/audi-goa/
-shop: Autohaus
+shop: car
 ---

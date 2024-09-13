@@ -1,5 +1,5 @@
 ---
 title: "Brooks Running"
 url: /bengaluru/brooks-running/
-shop: Sport
+shop: sports
 ---

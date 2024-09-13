@@ -1,5 +1,5 @@
 ---
 title: "Sri Motors"
 url: /chennai/sri-motors/
-shop: Motorrad
+shop: motorcycle
 ---

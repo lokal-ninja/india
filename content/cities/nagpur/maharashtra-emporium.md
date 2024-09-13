@@ -1,5 +1,5 @@
 ---
 title: "Maharashtra Emporium"
 url: /nagpur/maharashtra-emporium/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /hyderabad/toyota/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NIKOTTIN"
 url: /kasargod/nikottin/
-shop: Kleidung
+shop: clothes
 ---

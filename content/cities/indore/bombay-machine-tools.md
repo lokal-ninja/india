@@ -1,5 +1,5 @@
 ---
 title: "Bombay Machine Tools"
 url: /indore/bombay-machine-tools/
-shop: Eisenwaren
+shop: hardware
 ---

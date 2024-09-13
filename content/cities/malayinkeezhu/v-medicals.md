@@ -1,5 +1,5 @@
 ---
 title: "V Medicals"
 url: /malayinkeezhu/v-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahatmyam Unit"
 url: /kollam/mahatmyam-unit/
-shop: Allgemein
+shop: shop
 ---

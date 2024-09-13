@@ -1,5 +1,5 @@
 ---
 title: "Orange Supermarket"
 url: /bengaluru-karnataka/orange-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "apco hyundai dealer"
 url: /thottada/apco-hyundai-dealer/
-shop: Autohaus
+shop: car
 ---

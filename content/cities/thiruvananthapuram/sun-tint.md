@@ -1,5 +1,5 @@
 ---
 title: "SUN TINT"
 url: /thiruvananthapuram/sun-tint/
-shop: Autoteile
+shop: car parts
 ---

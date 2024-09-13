@@ -1,5 +1,5 @@
 ---
 title: "Family"
 url: /chalissery/family/
-shop: Supermarkt
+shop: supermarket
 ---

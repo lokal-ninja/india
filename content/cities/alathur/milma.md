@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /alathur/milma/
-shop: Milch
+shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collection"
 url: /karakkurissi/collection/
-shop: Schreibwaren
+shop: office supplies
 ---

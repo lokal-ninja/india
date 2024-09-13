@@ -1,5 +1,5 @@
 ---
 title: "payyanattu medicals"
 url: /kottayam/payyanattu-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

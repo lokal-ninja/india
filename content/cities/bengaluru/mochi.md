@@ -1,5 +1,5 @@
 ---
 title: "Mochi"
 url: /bengaluru/mochi/
-shop: Schuhe
+shop: shoes
 ---

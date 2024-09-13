@@ -1,5 +1,5 @@
 ---
 title: "archana auto parts"
 url: /choondal/archana-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

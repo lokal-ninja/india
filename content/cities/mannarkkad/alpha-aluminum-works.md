@@ -1,5 +1,5 @@
 ---
 title: "Alpha Aluminum Works"
 url: /mannarkkad/alpha-aluminum-works/
-shop: Allgemein
+shop: shop
 ---

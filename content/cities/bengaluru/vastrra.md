@@ -1,5 +1,5 @@
 ---
 title: "Vastrra"
 url: /bengaluru/vastrra/
-shop: Kleidung
+shop: clothes
 ---

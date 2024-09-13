@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Aalumkuzhi"
 url: /thiruvananthapuram/ration-shop-aalumkuzhi/
-shop: Lebensmittel
+shop: convenience
 ---

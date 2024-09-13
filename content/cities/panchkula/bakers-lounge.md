@@ -1,5 +1,5 @@
 ---
 title: "Baker's Lounge"
 url: /panchkula/bakers-lounge/
-shop: Bäckerei
+shop: bakery
 ---

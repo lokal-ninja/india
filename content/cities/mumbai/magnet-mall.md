@@ -1,5 +1,5 @@
 ---
 title: "Magnet Mall"
 url: /mumbai/magnet-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

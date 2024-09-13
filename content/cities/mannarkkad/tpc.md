@@ -1,5 +1,5 @@
 ---
 title: "TPC"
 url: /mannarkkad/tpc/
-shop: Kleidung
+shop: clothes
 ---

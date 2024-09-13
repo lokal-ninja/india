@@ -1,5 +1,5 @@
 ---
 title: "Red Tape"
 url: /raipur/red-tape/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
 url: /kochi/bevco-pandikudy-road/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Footsteps"
 url: /prayagraj/footsteps/
-shop: Schuhe
+shop: shoes
 ---

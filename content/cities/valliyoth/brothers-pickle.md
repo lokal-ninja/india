@@ -1,5 +1,5 @@
 ---
 title: "Brothers Pickle"
 url: /valliyoth/brothers-pickle/
-shop: Lebensmittel
+shop: convenience
 ---

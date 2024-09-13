@@ -1,5 +1,5 @@
 ---
 title: "Spice Basket"
 url: /puducherry/spice-basket/
-shop: Gewürze
+shop: spices
 ---

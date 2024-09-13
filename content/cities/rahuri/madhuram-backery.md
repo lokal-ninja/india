@@ -1,5 +1,5 @@
 ---
 title: "Madhuram Backery"
 url: /rahuri/madhuram-backery/
-shop: Bäckerei
+shop: bakery
 ---

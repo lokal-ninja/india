@@ -1,5 +1,5 @@
 ---
 title: "MV FOOTWEAR"
 url: /surat-gujarat/mv-footwear/
-shop: Allgemein
+shop: shop
 ---

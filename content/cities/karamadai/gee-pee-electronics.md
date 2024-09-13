@@ -1,5 +1,5 @@
 ---
 title: "Gee Pee Electronics"
 url: /karamadai/gee-pee-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Center"
 url: /koothanallur/city-center/
-shop: Kramladen
+shop: variety store
 ---

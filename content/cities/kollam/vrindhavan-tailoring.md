@@ -1,5 +1,5 @@
 ---
 title: "Vrindhavan tailoring"
 url: /kollam/vrindhavan-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

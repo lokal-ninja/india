@@ -1,5 +1,5 @@
 ---
 title: "Saloon"
 url: /machilipatnam/saloon/
-shop: Kosmetik
+shop: beauty
 ---

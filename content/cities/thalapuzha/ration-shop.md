@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thalapuzha/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

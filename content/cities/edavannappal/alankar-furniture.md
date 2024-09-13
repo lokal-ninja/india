@@ -1,5 +1,5 @@
 ---
 title: "Alankar furniture"
 url: /edavannappal/alankar-furniture/
-shop: Möbel
+shop: furniture
 ---

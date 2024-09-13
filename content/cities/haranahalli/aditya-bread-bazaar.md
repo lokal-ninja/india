@@ -1,5 +1,5 @@
 ---
 title: "Aditya Bread Bazaar"
 url: /haranahalli/aditya-bread-bazaar/
-shop: Bäckerei
+shop: bakery
 ---

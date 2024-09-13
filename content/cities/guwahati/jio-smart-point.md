@@ -1,5 +1,5 @@
 ---
 title: "Jio Smart Point"
 url: /guwahati/jio-smart-point/
-shop: Supermarkt
+shop: supermarket
 ---

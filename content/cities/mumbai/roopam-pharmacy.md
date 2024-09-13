@@ -1,5 +1,5 @@
 ---
 title: "ROOPAM PHARMACY"
 url: /mumbai/roopam-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

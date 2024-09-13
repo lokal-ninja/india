@@ -1,5 +1,5 @@
 ---
 title: "hanes"
 url: /bangalore/hanes/
-shop: Kleidung
+shop: clothes
 ---

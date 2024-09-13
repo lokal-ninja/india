@@ -1,5 +1,5 @@
 ---
 title: "Soch"
 url: /belgaum/soch/
-shop: Kleidung
+shop: clothes
 ---

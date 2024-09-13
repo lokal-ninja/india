@@ -1,5 +1,5 @@
 ---
 title: "Jhupri Market"
 url: /kolkata/jhupri-market/
-shop: Lebensmittel
+shop: convenience
 ---

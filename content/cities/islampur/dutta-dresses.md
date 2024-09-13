@@ -1,5 +1,5 @@
 ---
 title: "Dutta Dresses"
 url: /islampur/dutta-dresses/
-shop: Kleidung
+shop: clothes
 ---

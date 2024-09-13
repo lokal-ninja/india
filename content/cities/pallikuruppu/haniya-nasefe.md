@@ -1,5 +1,5 @@
 ---
 title: "Haniya Nasefe"
 url: /pallikuruppu/haniya-nasefe/
-shop: Lebensmittel
+shop: convenience
 ---

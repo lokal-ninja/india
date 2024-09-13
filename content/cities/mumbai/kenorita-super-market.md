@@ -1,5 +1,5 @@
 ---
 title: "Kenorita Super Market"
 url: /mumbai/kenorita-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

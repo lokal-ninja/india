@@ -1,5 +1,5 @@
 ---
 title: "Vastram"
 url: /raipur/vastram/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SECOND HAND MOBILE SALES"
 url: /kasargod/second-hand-mobile-sales/
-shop: Handy
+shop: mobile phone
 ---

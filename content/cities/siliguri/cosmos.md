@@ -1,5 +1,5 @@
 ---
 title: "Cosmos"
 url: /siliguri/cosmos/
-shop: Einkaufszentrum
+shop: mall
 ---

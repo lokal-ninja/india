@@ -1,5 +1,5 @@
 ---
 title: "Aji's Grocery Shop"
 url: /thiruvananthapuram/ajis-grocery-shop/
-shop: Supermarkt
+shop: supermarket
 ---

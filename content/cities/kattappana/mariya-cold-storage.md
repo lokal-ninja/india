@@ -1,5 +1,5 @@
 ---
 title: "mariya cold storage"
 url: /kattappana/mariya-cold-storage/
-shop: Supermarkt
+shop: supermarket
 ---

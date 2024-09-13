@@ -1,5 +1,5 @@
 ---
 title: "Mangalathu Tyre House"
 url: /kayamkulam/mangalathu-tyre-house/
-shop: Reifen
+shop: tyres
 ---

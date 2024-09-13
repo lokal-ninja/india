@@ -1,5 +1,5 @@
 ---
 title: "Om Sai Collection"
 url: /pune/om-sai-collection/
-shop: Kleidung
+shop: clothes
 ---

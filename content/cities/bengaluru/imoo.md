@@ -1,5 +1,5 @@
 ---
 title: "imoo"
 url: /bengaluru/imoo/
-shop: Handy
+shop: mobile phone
 ---

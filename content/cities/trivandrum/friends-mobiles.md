@@ -1,5 +1,5 @@
 ---
 title: "Friends Mobiles"
 url: /trivandrum/friends-mobiles/
-shop: Handy
+shop: mobile phone
 ---

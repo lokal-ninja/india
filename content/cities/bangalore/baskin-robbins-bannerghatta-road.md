@@ -1,5 +1,5 @@
 ---
 title: "Baskin-Robbins"
 url: /bangalore/baskin-robbins-bannerghatta-road/
-shop: Bäckerei
+shop: bakery
 ---

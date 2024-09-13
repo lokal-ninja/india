@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
 url: /kochi/bevco-kurisupally-road/
-shop: Spirituosen
+shop: alcohol
 ---

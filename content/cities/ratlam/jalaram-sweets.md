@@ -1,5 +1,5 @@
 ---
 title: "Jalaram Sweets"
 url: /ratlam/jalaram-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

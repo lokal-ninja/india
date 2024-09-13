@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thiruvalla/ration-shop-2/
-shop: Lebensmittel
+shop: convenience
 ---

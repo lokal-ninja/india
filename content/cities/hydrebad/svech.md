@@ -1,5 +1,5 @@
 ---
 title: "Svech"
 url: /hydrebad/svech/
-shop: Supermarkt
+shop: supermarket
 ---

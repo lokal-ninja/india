@@ -1,5 +1,5 @@
 ---
 title: "Moolakkada"
 url: /kumily/moolakkada/
-shop: Mieten
+shop: storage rental
 ---

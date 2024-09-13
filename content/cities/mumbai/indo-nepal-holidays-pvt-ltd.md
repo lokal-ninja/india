@@ -1,5 +1,5 @@
 ---
 title: "Indo Nepal Holidays Pvt Ltd"
 url: /mumbai/indo-nepal-holidays-pvt-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

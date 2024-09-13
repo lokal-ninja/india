@@ -1,5 +1,5 @@
 ---
 title: "Ponnus tailoring"
 url: /kollam/ponnus-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

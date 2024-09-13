@@ -1,5 +1,5 @@
 ---
 title: "Retail Timber Depot"
 url: /kuppady/retail-timber-depot/
-shop: Holz
+shop: wood
 ---

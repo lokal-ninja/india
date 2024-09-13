@@ -1,5 +1,5 @@
 ---
 title: "Sri Shanthi Enterprises"
 url: /pallipattu/sri-shanthi-enterprises/
-shop: Elektrisch
+shop: electrical
 ---

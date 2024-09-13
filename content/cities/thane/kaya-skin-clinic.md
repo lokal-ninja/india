@@ -1,5 +1,5 @@
 ---
 title: "Kaya Skin Clinic"
 url: /thane/kaya-skin-clinic/
-shop: Kosmetik
+shop: beauty
 ---

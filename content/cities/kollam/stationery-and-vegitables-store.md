@@ -1,5 +1,5 @@
 ---
 title: "Stationery and Vegitables Store"
 url: /kollam/stationery-and-vegitables-store/
-shop: Schreibwaren
+shop: office supplies
 ---

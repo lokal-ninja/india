@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Sports"
 url: /mysuru/pioneer-sports/
-shop: Sport
+shop: sports
 ---

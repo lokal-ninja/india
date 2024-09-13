@@ -1,5 +1,5 @@
 ---
 title: "NCS Multiplex"
 url: /vizianagaram/ncs-multiplex/
-shop: Einkaufszentrum
+shop: mall
 ---

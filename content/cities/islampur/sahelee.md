@@ -1,5 +1,5 @@
 ---
 title: "Sahelee"
 url: /islampur/sahelee/
-shop: Kosmetik
+shop: beauty
 ---

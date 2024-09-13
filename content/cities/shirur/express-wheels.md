@@ -1,5 +1,5 @@
 ---
 title: "Express Wheels"
 url: /shirur/express-wheels/
-shop: Autowerkstatt
+shop: car repair
 ---

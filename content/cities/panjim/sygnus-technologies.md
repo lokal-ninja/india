@@ -1,5 +1,5 @@
 ---
 title: "Sygnus Technologies"
 url: /panjim/sygnus-technologies/
-shop: Hifi
+shop: hifi
 ---

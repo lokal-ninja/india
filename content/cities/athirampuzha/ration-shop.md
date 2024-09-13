@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /athirampuzha/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BAJAJ"
 url: /mannarkkad/bajaj/
-shop: Motorrad
+shop: motorcycle
 ---

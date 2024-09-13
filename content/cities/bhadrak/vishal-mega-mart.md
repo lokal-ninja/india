@@ -1,5 +1,5 @@
 ---
 title: "Vishal Mega Mart"
 url: /bhadrak/vishal-mega-mart/
-shop: Einkaufszentrum
+shop: mall
 ---

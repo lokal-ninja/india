@@ -1,5 +1,5 @@
 ---
 title: "Bismi fancy"
 url: /collegepadi/bismi-fancy/
-shop: Kosmetik
+shop: beauty
 ---

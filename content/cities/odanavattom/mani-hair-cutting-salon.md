@@ -1,5 +1,5 @@
 ---
 title: "Mani Hair Cutting Salon"
 url: /odanavattom/mani-hair-cutting-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahalaxami Medicals"
 url: /pune/mahalaxami-medicals/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tandoori Cha"
 url: /bengaluru/tandoori-cha/
-shop: Tee
+shop: tea
 ---

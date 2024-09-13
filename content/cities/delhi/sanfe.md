@@ -1,5 +1,5 @@
 ---
 title: "Sanfe"
 url: /delhi/sanfe/
-shop: Supermarkt
+shop: supermarket
 ---

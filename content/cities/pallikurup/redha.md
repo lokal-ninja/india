@@ -1,5 +1,5 @@
 ---
 title: "Redha"
 url: /pallikurup/redha/
-shop: Lebensmittel
+shop: convenience
 ---

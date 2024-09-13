@@ -1,5 +1,5 @@
 ---
 title: "Campingzaa"
 url: /kalpetta/campingzaa/
-shop: Reisebüro
+shop: travel agency
 ---

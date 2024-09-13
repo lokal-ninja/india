@@ -1,5 +1,5 @@
 ---
 title: "Bharat Gas"
 url: /rayavaram/bharat-gas/
-shop: Gasflaschen
+shop: gas
 ---

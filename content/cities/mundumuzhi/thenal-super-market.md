@@ -1,5 +1,5 @@
 ---
 title: "Thenal Super Market"
 url: /mundumuzhi/thenal-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

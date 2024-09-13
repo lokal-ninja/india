@@ -1,5 +1,5 @@
 ---
 title: "Plant Shop"
 url: /wandoor/plant-shop/
-shop: Garten-Center
+shop: garden centre
 ---

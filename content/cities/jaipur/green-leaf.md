@@ -1,5 +1,5 @@
 ---
 title: "Green Leaf"
 url: /jaipur/green-leaf/
-shop: Einkaufszentrum
+shop: mall
 ---

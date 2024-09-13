@@ -1,5 +1,5 @@
 ---
 title: "JB"
 url: /annamolly/jb/
-shop: Allgemein
+shop: shop
 ---

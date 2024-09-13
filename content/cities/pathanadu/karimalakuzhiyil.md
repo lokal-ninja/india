@@ -1,5 +1,5 @@
 ---
 title: "karimalakuzhiyil"
 url: /pathanadu/karimalakuzhiyil/
-shop: Autowerkstatt
+shop: car repair
 ---

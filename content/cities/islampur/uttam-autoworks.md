@@ -1,5 +1,5 @@
 ---
 title: "Uttam Autoworks"
 url: /islampur/uttam-autoworks/
-shop: Motorrad
+shop: motorcycle
 ---

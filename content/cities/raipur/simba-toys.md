@@ -1,5 +1,5 @@
 ---
 title: "SIMBA Toys"
 url: /raipur/simba-toys/
-shop: Spielzeug
+shop: toys
 ---

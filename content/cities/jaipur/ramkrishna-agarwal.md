@@ -1,5 +1,5 @@
 ---
 title: "Ramkrishna Agarwal"
 url: /jaipur/ramkrishna-agarwal/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /pathady/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

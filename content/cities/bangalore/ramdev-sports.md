@@ -1,5 +1,5 @@
 ---
 title: "Ramdev Sports"
 url: /bangalore/ramdev-sports/
-shop: Sport
+shop: sports
 ---

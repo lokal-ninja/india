@@ -1,5 +1,5 @@
 ---
 title: "ServiceMyMobile.com"
 url: /bangalore/servicemymobile-com/
-shop: Handy
+shop: mobile phone
 ---

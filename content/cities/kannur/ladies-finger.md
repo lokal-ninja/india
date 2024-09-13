@@ -1,5 +1,5 @@
 ---
 title: "Ladies finger"
 url: /kannur/ladies-finger/
-shop: Kleidung
+shop: clothes
 ---

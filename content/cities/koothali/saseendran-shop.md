@@ -1,5 +1,5 @@
 ---
 title: "saseendran shop"
 url: /koothali/saseendran-shop/
-shop: Allgemein
+shop: shop
 ---

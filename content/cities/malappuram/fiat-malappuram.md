@@ -1,5 +1,5 @@
 ---
 title: "Fiat Malappuram"
 url: /malappuram/fiat-malappuram/
-shop: Autohaus
+shop: car
 ---

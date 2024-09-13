@@ -1,5 +1,5 @@
 ---
 title: "Harithashree HKS"
 url: /kollam/harithashree-hks/
-shop: Dorfladen
+shop: general
 ---

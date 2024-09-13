@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /bengaluru/max/
-shop: Kleidung
+shop: clothes
 ---

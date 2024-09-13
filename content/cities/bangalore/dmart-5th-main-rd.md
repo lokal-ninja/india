@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /bangalore/dmart-5th-main-rd/
-shop: Supermarkt
+shop: supermarket
 ---

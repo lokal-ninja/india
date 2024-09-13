@@ -1,5 +1,5 @@
 ---
 title: "Nandu Steels"
 url: /cherthala/nandu-steels/
-shop: Eisenwaren
+shop: hardware
 ---

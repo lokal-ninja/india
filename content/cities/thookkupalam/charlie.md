@@ -1,5 +1,5 @@
 ---
 title: "Charlie"
 url: /thookkupalam/charlie/
-shop: Friseur
+shop: hairdresser
 ---

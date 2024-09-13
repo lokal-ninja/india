@@ -1,5 +1,5 @@
 ---
 title: "Nandi Sweets"
 url: /meerut/nandi-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

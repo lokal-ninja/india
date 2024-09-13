@@ -1,5 +1,5 @@
 ---
 title: "SRVAN SALOON"
 url: /avanigadda/srvan-saloon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercy Electronics"
 url: /thiruvanmiyur-chennai/mercy-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CitiMed Lifecare"
 url: /patna/citimed-lifecare/
-shop: Drogerie
+shop: chemist
 ---

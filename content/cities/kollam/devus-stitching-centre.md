@@ -1,5 +1,5 @@
 ---
 title: "Devus stitching centre"
 url: /kollam/devus-stitching-centre/
-shop: Schneiderei
+shop: tailor
 ---

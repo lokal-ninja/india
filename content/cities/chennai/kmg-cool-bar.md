@@ -1,5 +1,5 @@
 ---
 title: "KMG cool bar"
 url: /chennai/kmg-cool-bar/
-shop: Tee
+shop: tea
 ---

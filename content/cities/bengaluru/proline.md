@@ -1,5 +1,5 @@
 ---
 title: "Proline"
 url: /bengaluru/proline/
-shop: Kleidung
+shop: clothes
 ---

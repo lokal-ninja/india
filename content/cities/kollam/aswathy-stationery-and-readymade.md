@@ -1,5 +1,5 @@
 ---
 title: "Aswathy stationery and readymade"
 url: /kollam/aswathy-stationery-and-readymade/
-shop: Schreibwaren
+shop: office supplies
 ---

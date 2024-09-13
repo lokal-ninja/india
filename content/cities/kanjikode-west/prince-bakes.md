@@ -1,5 +1,5 @@
 ---
 title: "Prince Bakes"
 url: /kanjikode-west/prince-bakes/
-shop: Bäckerei
+shop: bakery
 ---

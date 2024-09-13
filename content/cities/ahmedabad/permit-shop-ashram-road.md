@@ -1,5 +1,5 @@
 ---
 title: "Permit Shop"
 url: /ahmedabad/permit-shop-ashram-road/
-shop: Spirituosen
+shop: alcohol
 ---

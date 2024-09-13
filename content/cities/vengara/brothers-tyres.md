@@ -1,5 +1,5 @@
 ---
 title: "Brothers Tyres"
 url: /vengara/brothers-tyres/
-shop: Reifen
+shop: tyres
 ---

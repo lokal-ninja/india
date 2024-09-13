@@ -1,5 +1,5 @@
 ---
 title: "Room Decor"
 url: /karinkallathani/room-decor-calicut-malappuram-palakkad-road/
-shop: Möbel
+shop: furniture
 ---

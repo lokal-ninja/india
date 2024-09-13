@@ -1,5 +1,5 @@
 ---
 title: "GlassLand"
 url: /mannarkkad/glassland/
-shop: Eisenwaren
+shop: hardware
 ---

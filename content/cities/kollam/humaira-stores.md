@@ -1,5 +1,5 @@
 ---
 title: "Humaira Stores"
 url: /kollam/humaira-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

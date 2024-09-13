@@ -1,5 +1,5 @@
 ---
 title: "S.G Boys"
 url: /kozhikode/s-g-boys/
-shop: Kleidung
+shop: clothes
 ---

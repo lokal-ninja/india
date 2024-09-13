@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bangalore/spar-bannerghatta-road/
-shop: Supermarkt
+shop: supermarket
 ---

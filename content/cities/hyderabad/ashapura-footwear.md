@@ -1,5 +1,5 @@
 ---
 title: "Ashapura Footwear"
 url: /hyderabad/ashapura-footwear/
-shop: Allgemein
+shop: shop
 ---

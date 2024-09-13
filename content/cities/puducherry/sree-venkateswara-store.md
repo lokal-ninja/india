@@ -1,5 +1,5 @@
 ---
 title: "Sree venkateswara store"
 url: /puducherry/sree-venkateswara-store/
-shop: Lebensmittel
+shop: convenience
 ---

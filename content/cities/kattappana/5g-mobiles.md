@@ -1,5 +1,5 @@
 ---
 title: "5G Mobiles"
 url: /kattappana/5g-mobiles/
-shop: Handy
+shop: mobile phone
 ---

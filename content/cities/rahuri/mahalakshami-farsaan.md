@@ -1,5 +1,5 @@
 ---
 title: "Mahalakshami farsaan"
 url: /rahuri/mahalakshami-farsaan/
-shop: Allgemein
+shop: shop
 ---

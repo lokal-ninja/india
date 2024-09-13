@@ -1,5 +1,5 @@
 ---
 title: "Mad About Dogs"
 url: /kolkata/mad-about-dogs/
-shop: Tiere
+shop: pet
 ---

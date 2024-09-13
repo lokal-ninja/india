@@ -1,5 +1,5 @@
 ---
 title: "Malabar"
 url: /kallamchola/malabar/
-shop: Supermarkt
+shop: supermarket
 ---

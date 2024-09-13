@@ -1,5 +1,5 @@
 ---
 title: "Jadhav Mobile Shop"
 url: /sonai/jadhav-mobile-shop/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "studio"
 url: /neelamperoor/studio/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sindhu Store"
 url: /kollam/sindhu-store/
-shop: Allgemein
+shop: shop
 ---

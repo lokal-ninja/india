@@ -1,5 +1,5 @@
 ---
 title: "ADARSH AUTO SHOP"
 url: /kasaragod/adarsh-auto-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super medical"
 url: /chennai/super-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

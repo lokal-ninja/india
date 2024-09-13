@@ -1,5 +1,5 @@
 ---
 title: "SN Shop"
 url: /trivandrum/sn-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /melampara/ration-shop/
-shop: Dorfladen
+shop: general
 ---

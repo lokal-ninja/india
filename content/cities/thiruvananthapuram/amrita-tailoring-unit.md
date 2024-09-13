@@ -1,5 +1,5 @@
 ---
 title: "Amrita Tailoring Unit"
 url: /thiruvananthapuram/amrita-tailoring-unit/
-shop: Schneiderei
+shop: tailor
 ---

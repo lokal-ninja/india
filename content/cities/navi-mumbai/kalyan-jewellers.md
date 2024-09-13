@@ -1,5 +1,5 @@
 ---
 title: "Kalyan Jewellers"
 url: /navi-mumbai/kalyan-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

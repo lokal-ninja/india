@@ -1,5 +1,5 @@
 ---
 title: "Shriram Medical"
 url: /ahmednagar/shriram-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

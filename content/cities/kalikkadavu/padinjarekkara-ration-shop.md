@@ -1,5 +1,5 @@
 ---
 title: "Padinjarekkara Ration Shop"
 url: /kalikkadavu/padinjarekkara-ration-shop/
-shop: Allgemein
+shop: shop
 ---

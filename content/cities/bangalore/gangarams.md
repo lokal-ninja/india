@@ -1,5 +1,5 @@
 ---
 title: "Gangarams"
 url: /bangalore/gangarams/
-shop: Bücher
+shop: books
 ---

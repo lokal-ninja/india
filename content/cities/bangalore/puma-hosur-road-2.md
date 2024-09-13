@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /bangalore/puma-hosur-road-2/
-shop: Kleidung
+shop: clothes
 ---

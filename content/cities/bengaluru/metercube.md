@@ -1,5 +1,5 @@
 ---
 title: "metercube"
 url: /bengaluru/metercube/
-shop: Möbel
+shop: furniture
 ---

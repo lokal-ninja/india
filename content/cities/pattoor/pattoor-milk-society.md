@@ -1,5 +1,5 @@
 ---
 title: "Pattoor Milk Society"
 url: /pattoor/pattoor-milk-society/
-shop: Milch
+shop: dairy
 ---

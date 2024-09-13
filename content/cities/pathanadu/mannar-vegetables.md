@@ -1,5 +1,5 @@
 ---
 title: "mannar vegetables"
 url: /pathanadu/mannar-vegetables/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gupta Sweets"
 url: /meerut/gupta-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

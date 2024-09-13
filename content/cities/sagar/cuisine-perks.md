@@ -1,5 +1,5 @@
 ---
 title: "Cuisine Perks"
 url: /sagar/cuisine-perks/
-shop: Supermarkt
+shop: supermarket
 ---

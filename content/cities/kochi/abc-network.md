@@ -1,5 +1,5 @@
 ---
 title: "ABC Network"
 url: /kochi/abc-network/
-shop: Elektronik
+shop: electronics
 ---

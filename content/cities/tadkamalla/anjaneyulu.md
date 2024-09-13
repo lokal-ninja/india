@@ -1,5 +1,5 @@
 ---
 title: "Anjaneyulu"
 url: /tadkamalla/anjaneyulu/
-shop: Sanitätshaus
+shop: medical supply
 ---

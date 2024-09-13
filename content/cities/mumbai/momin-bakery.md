@@ -1,5 +1,5 @@
 ---
 title: "Momin Bakery"
 url: /mumbai/momin-bakery/
-shop: Dorfladen
+shop: general
 ---

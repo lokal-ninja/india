@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /thiruvalla/honda/
-shop: Autohaus
+shop: car
 ---

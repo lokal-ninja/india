@@ -1,5 +1,5 @@
 ---
 title: "Heaven's Saloon"
 url: /bengaluru/heavens-saloon/
-shop: Friseur
+shop: hairdresser
 ---

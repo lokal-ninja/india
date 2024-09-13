@@ -1,5 +1,5 @@
 ---
 title: "mazhavil"
 url: /manimala/mazhavil/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CITY PARDHA"
 url: /kasaragod/city-pardha/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alameen Surgicals"
 url: /payyannur/alameen-surgicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

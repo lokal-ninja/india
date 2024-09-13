@@ -1,5 +1,5 @@
 ---
 title: "S B Decorations and Flowers"
 url: /kalladikode/s-b-decorations-and-flowers/
-shop: Raumausstattung
+shop: interior decoration
 ---

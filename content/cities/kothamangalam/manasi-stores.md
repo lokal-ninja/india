@@ -1,5 +1,5 @@
 ---
 title: "Manasi Stores"
 url: /kothamangalam/manasi-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

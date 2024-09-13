@@ -1,5 +1,5 @@
 ---
 title: "Daily Angadi Supermarket"
 url: /ernakulam/daily-angadi-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

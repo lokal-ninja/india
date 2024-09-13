@@ -1,5 +1,5 @@
 ---
 title: "Dior"
 url: /bengaluru/dior/
-shop: Kleidung
+shop: clothes
 ---

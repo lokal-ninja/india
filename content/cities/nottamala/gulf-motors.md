@@ -1,5 +1,5 @@
 ---
 title: "GULF MOTORS"
 url: /nottamala/gulf-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "thazhithillathu medical store"
 url: /vadasserikkara/thazhithillathu-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

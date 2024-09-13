@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /davanagere/bata/
-shop: Schuhe
+shop: shoes
 ---

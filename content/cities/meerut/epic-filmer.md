@@ -1,5 +1,5 @@
 ---
 title: "Epic Filmer"
 url: /meerut/epic-filmer/
-shop: Foto
+shop: photo
 ---

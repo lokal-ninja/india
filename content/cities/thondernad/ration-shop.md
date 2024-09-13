@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thondernad/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

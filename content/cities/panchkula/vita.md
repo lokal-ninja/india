@@ -1,5 +1,5 @@
 ---
 title: "Vita"
 url: /panchkula/vita/
-shop: Milch
+shop: dairy
 ---

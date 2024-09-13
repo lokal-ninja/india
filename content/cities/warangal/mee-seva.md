@@ -1,5 +1,5 @@
 ---
 title: "Mee Seva"
 url: /warangal/mee-seva/
-shop: Allgemein
+shop: shop
 ---

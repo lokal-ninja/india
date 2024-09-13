@@ -1,5 +1,5 @@
 ---
 title: "Omee Traders"
 url: /yashwant-nagar/omee-traders/
-shop: Baustoffe
+shop: trade
 ---

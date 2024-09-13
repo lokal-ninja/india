@@ -1,5 +1,5 @@
 ---
 title: "SwalihFruits"
 url: /thiruvananthapuram/swalihfruits/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "photonet"
 url: /santhanpara/photonet/
-shop: Foto
+shop: photo
 ---

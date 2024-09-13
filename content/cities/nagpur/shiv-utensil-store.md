@@ -1,5 +1,5 @@
 ---
 title: "Shiv Utensil Store"
 url: /nagpur/shiv-utensil-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

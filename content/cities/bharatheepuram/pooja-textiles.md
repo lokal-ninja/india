@@ -1,5 +1,5 @@
 ---
 title: "Pooja Textiles"
 url: /bharatheepuram/pooja-textiles/
-shop: Kleidung
+shop: clothes
 ---

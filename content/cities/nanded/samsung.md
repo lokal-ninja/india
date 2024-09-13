@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /nanded/samsung/
-shop: Elektronik
+shop: electronics
 ---

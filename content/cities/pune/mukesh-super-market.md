@@ -1,5 +1,5 @@
 ---
 title: "Mukesh Super Market"
 url: /pune/mukesh-super-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "F H steels"
 url: /ettumanoor/f-h-steels/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /edappon/ration-shop-state-highway-edappon-para/
-shop: Lebensmittel
+shop: convenience
 ---

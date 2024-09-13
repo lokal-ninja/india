@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /hassan/next/
-shop: Elektronik
+shop: electronics
 ---

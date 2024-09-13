@@ -1,5 +1,5 @@
 ---
 title: "shreya stationary"
 url: /ranchi/shreya-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inkjection Studio"
 url: /bagha-purana/inkjection-studio/
-shop: Tattoo
+shop: tattoo
 ---

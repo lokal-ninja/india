@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Narakakkanam"
 url: /narakakkanam/ration-shop-narakakkanam/
-shop: Lebensmittel
+shop: convenience
 ---

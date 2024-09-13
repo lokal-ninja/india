@@ -1,5 +1,5 @@
 ---
 title: "Glam"
 url: /meerut/glam/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RESCUE"
 url: /bengaluru/rescue/
-shop: Autowerkstatt
+shop: car repair
 ---

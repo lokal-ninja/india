@@ -1,5 +1,5 @@
 ---
 title: "Chamunda Sweets"
 url: /pune/chamunda-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

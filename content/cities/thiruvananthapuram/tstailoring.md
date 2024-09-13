@@ -1,5 +1,5 @@
 ---
 title: "TSTailoring"
 url: /thiruvananthapuram/tstailoring/
-shop: Schneiderei
+shop: tailor
 ---

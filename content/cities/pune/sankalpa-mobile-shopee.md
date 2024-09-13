@@ -1,5 +1,5 @@
 ---
 title: "Sankalpa Mobile Shopee"
 url: /pune/sankalpa-mobile-shopee/
-shop: Handy
+shop: mobile phone
 ---

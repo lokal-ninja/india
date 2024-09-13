@@ -1,5 +1,5 @@
 ---
 title: "Dady Fabrics"
 url: /thrissur/dady-fabrics/
-shop: Kleidung
+shop: clothes
 ---

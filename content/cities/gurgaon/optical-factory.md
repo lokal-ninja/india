@@ -1,5 +1,5 @@
 ---
 title: "Optical Factory"
 url: /gurgaon/optical-factory/
-shop: Optiker
+shop: optician
 ---

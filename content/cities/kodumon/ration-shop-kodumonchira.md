@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Kodumonchira"
 url: /kodumon/ration-shop-kodumonchira/
-shop: Lebensmittel
+shop: convenience
 ---

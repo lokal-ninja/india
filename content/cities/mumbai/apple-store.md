@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /mumbai/apple-store/
-shop: Elektronik
+shop: electronics
 ---

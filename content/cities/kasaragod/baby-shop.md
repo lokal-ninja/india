@@ -1,5 +1,5 @@
 ---
 title: "BABY SHOP"
 url: /kasaragod/baby-shop/
-shop: Kleidung
+shop: clothes
 ---

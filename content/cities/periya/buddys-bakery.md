@@ -1,5 +1,5 @@
 ---
 title: "Buddy's bakery"
 url: /periya/buddys-bakery/
-shop: Bäckerei
+shop: bakery
 ---

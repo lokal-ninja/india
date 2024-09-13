@@ -1,5 +1,5 @@
 ---
 title: "Town bakery"
 url: /changanacherry/town-bakery/
-shop: Bäckerei
+shop: bakery
 ---

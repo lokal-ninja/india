@@ -1,5 +1,5 @@
 ---
 title: "Fonway"
 url: /kanjiramattom/fonway/
-shop: Handy
+shop: mobile phone
 ---

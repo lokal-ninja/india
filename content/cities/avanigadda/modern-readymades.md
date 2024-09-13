@@ -1,5 +1,5 @@
 ---
 title: "MODERN READYMADES"
 url: /avanigadda/modern-readymades/
-shop: Kleidung
+shop: clothes
 ---

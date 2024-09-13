@@ -1,5 +1,5 @@
 ---
 title: "Blahayil stores"
 url: /adoor/blahayil-stores-manakala/
-shop: Dorfladen
+shop: general
 ---

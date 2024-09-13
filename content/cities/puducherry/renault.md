@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /puducherry/renault/
-shop: Autohaus
+shop: car
 ---

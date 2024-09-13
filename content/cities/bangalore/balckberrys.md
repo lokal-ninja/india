@@ -1,5 +1,5 @@
 ---
 title: "Balckberrys"
 url: /bangalore/balckberrys/
-shop: Kleidung
+shop: clothes
 ---

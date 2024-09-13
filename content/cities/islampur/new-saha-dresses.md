@@ -1,5 +1,5 @@
 ---
 title: "New Saha Dresses"
 url: /islampur/new-saha-dresses/
-shop: Kleidung
+shop: clothes
 ---

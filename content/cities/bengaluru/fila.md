@@ -1,5 +1,5 @@
 ---
 title: "Fila"
 url: /bengaluru/fila/
-shop: Kleidung
+shop: clothes
 ---

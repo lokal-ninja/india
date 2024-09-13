@@ -1,5 +1,5 @@
 ---
 title: "Ivanjalian store"
 url: /chennai/ivanjalian-store/
-shop: Supermarkt
+shop: supermarket
 ---

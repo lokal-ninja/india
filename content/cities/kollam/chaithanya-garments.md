@@ -1,5 +1,5 @@
 ---
 title: "Chaithanya  Garments"
 url: /kollam/chaithanya-garments/
-shop: Kleidung
+shop: clothes
 ---

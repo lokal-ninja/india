@@ -1,5 +1,5 @@
 ---
 title: "Sreebhagavathi Pooja Store"
 url: /meeyannoor/sreebhagavathi-pooja-store/
-shop: Allgemein
+shop: shop
 ---

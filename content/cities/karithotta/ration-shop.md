@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /karithotta/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

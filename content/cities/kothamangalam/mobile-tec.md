@@ -1,5 +1,5 @@
 ---
 title: "Mobile Tec"
 url: /kothamangalam/mobile-tec/
-shop: Handy
+shop: mobile phone
 ---

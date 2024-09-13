@@ -1,5 +1,5 @@
 ---
 title: "Kundu Store"
 url: /islampur/kundu-store/
-shop: Dorfladen
+shop: general
 ---

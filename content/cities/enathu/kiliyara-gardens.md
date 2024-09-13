@@ -1,5 +1,5 @@
 ---
 title: "Kiliyara Gardens"
 url: /enathu/kiliyara-gardens/
-shop: Allgemein
+shop: shop
 ---

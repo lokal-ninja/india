@@ -1,5 +1,5 @@
 ---
 title: "Laptop Store"
 url: /pune/laptop-store/
-shop: Computer
+shop: computer
 ---

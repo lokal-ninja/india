@@ -1,5 +1,5 @@
 ---
 title: "ZUDIO"
 url: /pune/zudio/
-shop: Kleidung
+shop: clothes
 ---

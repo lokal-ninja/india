@@ -1,5 +1,5 @@
 ---
 title: "Zudio"
 url: /jaipur/zudio/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KarunyaStichingCentre"
 url: /thiruvananthapuram/karunyastichingcentre/
-shop: Schneiderei
+shop: tailor
 ---

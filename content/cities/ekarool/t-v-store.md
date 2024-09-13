@@ -1,5 +1,5 @@
 ---
 title: "T.V Store"
 url: /ekarool/t-v-store/
-shop: Dorfladen
+shop: general
 ---

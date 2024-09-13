@@ -1,5 +1,5 @@
 ---
 title: "SM"
 url: /kilirani/sm/
-shop: Elektronik
+shop: electronics
 ---

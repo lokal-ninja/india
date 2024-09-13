@@ -1,5 +1,5 @@
 ---
 title: "Airtel"
 url: /jodhpur/airtel/
-shop: Handy
+shop: mobile phone
 ---

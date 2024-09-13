@@ -1,5 +1,5 @@
 ---
 title: "Tic Toc"
 url: /puducherry/tic-toc/
-shop: Videothek
+shop: video
 ---

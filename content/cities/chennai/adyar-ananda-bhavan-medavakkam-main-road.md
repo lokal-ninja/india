@@ -1,5 +1,5 @@
 ---
 title: "Adyar Ananda Bhavan"
 url: /chennai/adyar-ananda-bhavan-medavakkam-main-road/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HANEEFA ELECTRONICS"
 url: /kasaragod/haneefa-electronics/
-shop: Elektronik
+shop: electronics
 ---

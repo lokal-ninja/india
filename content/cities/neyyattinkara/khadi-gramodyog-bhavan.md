@@ -1,5 +1,5 @@
 ---
 title: "Khadi Gramodyog Bhavan"
 url: /neyyattinkara/khadi-gramodyog-bhavan/
-shop: Kleidung
+shop: clothes
 ---

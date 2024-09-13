@@ -1,5 +1,5 @@
 ---
 title: "Aradana vegitable"
 url: /thiruvananthapuram/aradana-vegitable/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

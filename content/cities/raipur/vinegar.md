@@ -1,5 +1,5 @@
 ---
 title: "Vinegar"
 url: /raipur/vinegar/
-shop: Modehaus
+shop: boutique
 ---

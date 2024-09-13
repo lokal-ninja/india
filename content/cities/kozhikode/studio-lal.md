@@ -1,5 +1,5 @@
 ---
 title: "Studio Lal"
 url: /kozhikode/studio-lal/
-shop: Kopieren
+shop: copyshop
 ---

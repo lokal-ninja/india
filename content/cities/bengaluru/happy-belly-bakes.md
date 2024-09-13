@@ -1,5 +1,5 @@
 ---
 title: "Happy Belly Bakes"
 url: /bengaluru/happy-belly-bakes/
-shop: Bäckerei
+shop: bakery
 ---

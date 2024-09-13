@@ -1,5 +1,5 @@
 ---
 title: "Sargam"
 url: /kolani/sargam/
-shop: Handy
+shop: mobile phone
 ---

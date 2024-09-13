@@ -1,5 +1,5 @@
 ---
 title: "MGV Collections"
 url: /madhur/mgv-collections/
-shop: Kleidung
+shop: clothes
 ---

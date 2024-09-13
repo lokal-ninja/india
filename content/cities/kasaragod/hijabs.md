@@ -1,5 +1,5 @@
 ---
 title: "HIJABS"
 url: /kasaragod/hijabs/
-shop: Kleidung
+shop: clothes
 ---

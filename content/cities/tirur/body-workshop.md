@@ -1,5 +1,5 @@
 ---
 title: "Body workshop"
 url: /tirur/body-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ushas"
 url: /pathanadu/ushas/
-shop: Elektronik
+shop: electronics
 ---

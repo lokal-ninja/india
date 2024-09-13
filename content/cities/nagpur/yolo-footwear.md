@@ -1,5 +1,5 @@
 ---
 title: "Yolo Footwear"
 url: /nagpur/yolo-footwear/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "salala mobiles"
 url: /thookkupalam/salala-mobiles/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arifa store"
 url: /odanavattom/arifa-store/
-shop: Lebensmittel
+shop: convenience
 ---

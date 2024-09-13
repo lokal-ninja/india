@@ -1,5 +1,5 @@
 ---
 title: "K R Bakers"
 url: /manimala/k-r-bakers/
-shop: Bäckerei
+shop: bakery
 ---

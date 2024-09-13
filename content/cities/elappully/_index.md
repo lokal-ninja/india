@@ -1,6 +1,6 @@
 ---
 title: Elappully
 url: /elappully/
-latitude: 10.758
-longitude: 76.75
+latitude: 10.757
+longitude: 76.746
 ---

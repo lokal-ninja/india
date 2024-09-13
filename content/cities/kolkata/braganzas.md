@@ -1,5 +1,5 @@
 ---
 title: "Braganzas"
 url: /kolkata/braganzas/
-shop: Instrumente
+shop: musical instrument
 ---

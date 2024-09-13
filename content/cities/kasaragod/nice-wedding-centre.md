@@ -1,5 +1,5 @@
 ---
 title: "NICE WEDDING CENTRE"
 url: /kasaragod/nice-wedding-centre/
-shop: Kleidung
+shop: clothes
 ---

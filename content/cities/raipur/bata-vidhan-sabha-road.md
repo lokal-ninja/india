@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /raipur/bata-vidhan-sabha-road/
-shop: Schuhe
+shop: shoes
 ---

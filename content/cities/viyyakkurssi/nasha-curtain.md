@@ -1,5 +1,5 @@
 ---
 title: "Nasha Curtain"
 url: /viyyakkurssi/nasha-curtain/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abdul Hair Saloon"
 url: /roorkee/abdul-hair-saloon/
-shop: Friseur
+shop: hairdresser
 ---

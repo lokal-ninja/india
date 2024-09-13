@@ -1,5 +1,5 @@
 ---
 title: "Trends"
 url: /palakkad/trends/
-shop: Kleidung
+shop: clothes
 ---

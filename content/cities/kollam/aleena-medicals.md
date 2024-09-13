@@ -1,5 +1,5 @@
 ---
 title: "Aleena .Medicals"
 url: /kollam/aleena-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

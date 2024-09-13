@@ -1,5 +1,5 @@
 ---
 title: "TASTA"
 url: /surat/tasta/
-shop: Kleidung
+shop: clothes
 ---

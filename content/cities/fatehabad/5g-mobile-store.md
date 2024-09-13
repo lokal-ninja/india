@@ -1,5 +1,5 @@
 ---
 title: "5g Mobile Store"
 url: /fatehabad/5g-mobile-store/
-shop: Handy
+shop: mobile phone
 ---

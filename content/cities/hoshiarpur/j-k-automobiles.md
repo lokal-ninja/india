@@ -1,5 +1,5 @@
 ---
 title: "J K Automobiles"
 url: /hoshiarpur/j-k-automobiles/
-shop: Autoteile
+shop: car parts
 ---

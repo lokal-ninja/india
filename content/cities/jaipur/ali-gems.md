@@ -1,5 +1,5 @@
 ---
 title: "Ali Gems"
 url: /jaipur/ali-gems/
-shop: Schmuck
+shop: jewelry
 ---

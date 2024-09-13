@@ -1,5 +1,5 @@
 ---
 title: "Good Morning Supermart"
 url: /bangalore/good-morning-supermart/
-shop: Supermarkt
+shop: supermarket
 ---

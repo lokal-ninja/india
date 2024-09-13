@@ -1,5 +1,5 @@
 ---
 title: "kizhakkemuzhi Agency"
 url: /thookkupalam/kizhakkemuzhi-agency/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /kollam/pink/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /vilakkupara/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

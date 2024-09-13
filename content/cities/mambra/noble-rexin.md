@@ -1,5 +1,5 @@
 ---
 title: "Noble Rexin"
 url: /mambra/noble-rexin/
-shop: Allgemein
+shop: shop
 ---

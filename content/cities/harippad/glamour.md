@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /harippad/glamour/
-shop: Schreibwaren
+shop: office supplies
 ---

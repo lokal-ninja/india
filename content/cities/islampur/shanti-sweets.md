@@ -1,5 +1,5 @@
 ---
 title: "Shanti Sweets"
 url: /islampur/shanti-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

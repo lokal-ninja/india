@@ -1,5 +1,5 @@
 ---
 title: "BADRIYA SUPERMARKET BALADKA"
 url: /baladka/badriya-supermarket-baladka/
-shop: Schreibwaren
+shop: office supplies
 ---

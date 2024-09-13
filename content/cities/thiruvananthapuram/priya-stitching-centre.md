@@ -1,5 +1,5 @@
 ---
 title: "Priya stitching centre"
 url: /thiruvananthapuram/priya-stitching-centre/
-shop: Schneiderei
+shop: tailor
 ---

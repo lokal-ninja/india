@@ -1,5 +1,5 @@
 ---
 title: "D Mart"
 url: /suryapet/d-mart/
-shop: Einkaufszentrum
+shop: mall
 ---

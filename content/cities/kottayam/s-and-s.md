@@ -1,5 +1,5 @@
 ---
 title: "s and s"
 url: /kottayam/s-and-s/
-shop: Schreibwaren
+shop: office supplies
 ---

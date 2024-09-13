@@ -1,5 +1,5 @@
 ---
 title: "Youvashakthi"
 url: /thiruvananthapuram/youvashakthi/
-shop: Allgemein
+shop: shop
 ---

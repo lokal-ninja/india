@@ -1,5 +1,5 @@
 ---
 title: "Vani Honda"
 url: /davanagere/vani-honda/
-shop: Motorrad
+shop: motorcycle
 ---

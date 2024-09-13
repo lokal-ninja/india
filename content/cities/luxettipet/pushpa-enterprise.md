@@ -1,5 +1,5 @@
 ---
 title: "Pushpa Enterprise"
 url: /luxettipet/pushpa-enterprise/
-shop: Bücher
+shop: books
 ---

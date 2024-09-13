@@ -1,5 +1,5 @@
 ---
 title: "Ickara Super market"
 url: /nadavayal/ickara-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

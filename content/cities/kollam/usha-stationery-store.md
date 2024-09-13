@@ -1,5 +1,5 @@
 ---
 title: "Usha Stationery Store"
 url: /kollam/usha-stationery-store/
-shop: Schreibwaren
+shop: office supplies
 ---

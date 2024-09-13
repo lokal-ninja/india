@@ -1,5 +1,5 @@
 ---
 title: "Kavyakala Studio"
 url: /chittar/kavyakala-studio/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biba"
 url: /meerut/biba/
-shop: Kleidung
+shop: clothes
 ---

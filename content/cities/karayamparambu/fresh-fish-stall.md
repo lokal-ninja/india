@@ -1,5 +1,5 @@
 ---
 title: "Fresh Fish Stall"
 url: /karayamparambu/fresh-fish-stall/
-shop: Fisch
+shop: seafood
 ---

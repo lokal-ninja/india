@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /thane/metro/
-shop: Schuhe
+shop: shoes
 ---

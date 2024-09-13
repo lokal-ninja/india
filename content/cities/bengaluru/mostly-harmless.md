@@ -1,5 +1,5 @@
 ---
 title: "Mostly Harmless"
 url: /bengaluru/mostly-harmless/
-shop: Computer
+shop: computer
 ---

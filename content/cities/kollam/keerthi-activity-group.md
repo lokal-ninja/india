@@ -1,5 +1,5 @@
 ---
 title: "Keerthi activity group"
 url: /kollam/keerthi-activity-group/
-shop: Allgemein
+shop: shop
 ---

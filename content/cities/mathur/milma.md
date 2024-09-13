@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /mathur/milma/
-shop: Milch
+shop: dairy
 ---

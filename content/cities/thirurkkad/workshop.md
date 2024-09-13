@@ -1,5 +1,5 @@
 ---
 title: "Workshop"
 url: /thirurkkad/workshop/
-shop: Allgemein
+shop: shop
 ---

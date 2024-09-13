@@ -1,5 +1,5 @@
 ---
 title: "model milk"
 url: /hyderabad/model-milk/
-shop: Milch
+shop: dairy
 ---

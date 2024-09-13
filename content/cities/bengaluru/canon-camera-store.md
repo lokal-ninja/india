@@ -1,5 +1,5 @@
 ---
 title: "Canon- camera store"
 url: /bengaluru/canon-camera-store/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Babu store"
 url: /kakkattukada/babu-store/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beverages"
 url: /tirur/beverages/
-shop: Getränke
+shop: beverages
 ---

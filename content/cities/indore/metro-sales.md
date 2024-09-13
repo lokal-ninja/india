@@ -1,5 +1,5 @@
 ---
 title: "Metro Sales"
 url: /indore/metro-sales/
-shop: Allgemein
+shop: shop
 ---

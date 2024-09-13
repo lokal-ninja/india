@@ -1,5 +1,5 @@
 ---
 title: "Ram Kirana Bhandar"
 url: /surkhi/ram-kirana-bhandar/
-shop: Supermarkt
+shop: supermarket
 ---

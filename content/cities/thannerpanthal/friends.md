@@ -1,5 +1,5 @@
 ---
 title: "FRIENDS"
 url: /thannerpanthal/friends/
-shop: Motorrad
+shop: motorcycle
 ---

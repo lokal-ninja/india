@@ -1,5 +1,5 @@
 ---
 title: "HappyTraders"
 url: /kollam/happytraders/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /thrissur/orange/
-shop: Handy
+shop: mobile phone
 ---

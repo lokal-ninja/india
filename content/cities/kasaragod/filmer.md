@@ -1,5 +1,5 @@
 ---
 title: "FILMER"
 url: /kasaragod/filmer/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahamaya Pan Masala"
 url: /sakti/mahamaya-pan-masala/
-shop: Tabak
+shop: tobacco
 ---

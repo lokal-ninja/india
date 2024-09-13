@@ -1,5 +1,5 @@
 ---
 title: "Shri Siddhivinayak Traders"
 url: /indi/shri-siddhivinayak-traders/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaithanya Taioloring Unit"
 url: /trivandrum/chaithanya-taioloring-unit/
-shop: Schneiderei
+shop: tailor
 ---

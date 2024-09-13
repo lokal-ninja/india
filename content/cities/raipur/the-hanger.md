@@ -1,5 +1,5 @@
 ---
 title: "The Hanger"
 url: /raipur/the-hanger/
-shop: Modehaus
+shop: boutique
 ---

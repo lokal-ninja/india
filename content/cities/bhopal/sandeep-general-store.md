@@ -1,5 +1,5 @@
 ---
 title: "Sandeep General Store"
 url: /bhopal/sandeep-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

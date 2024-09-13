@@ -1,5 +1,5 @@
 ---
 title: "Anees Gold"
 url: /kayamkulam/anees-gold/
-shop: Schmuck
+shop: jewelry
 ---

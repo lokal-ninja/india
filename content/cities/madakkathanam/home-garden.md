@@ -1,5 +1,5 @@
 ---
 title: "Home Garden"
 url: /madakkathanam/home-garden/
-shop: Garten-Center
+shop: garden centre
 ---

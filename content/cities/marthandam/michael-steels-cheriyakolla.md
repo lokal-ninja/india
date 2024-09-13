@@ -1,5 +1,5 @@
 ---
 title: "Michael Steels,Cheriyakolla"
 url: /marthandam/michael-steels-cheriyakolla/
-shop: Eisenwaren
+shop: hardware
 ---

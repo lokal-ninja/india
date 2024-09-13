@@ -1,5 +1,5 @@
 ---
 title: "Amitra Paramedical Centre"
 url: /changanacherry-kottayam/amitra-paramedical-centre/
-shop: Sanitätshaus
+shop: medical supply
 ---

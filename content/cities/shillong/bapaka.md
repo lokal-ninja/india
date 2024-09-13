@@ -1,5 +1,5 @@
 ---
 title: "Bapaka"
 url: /shillong/bapaka/
-shop: Supermarkt
+shop: supermarket
 ---

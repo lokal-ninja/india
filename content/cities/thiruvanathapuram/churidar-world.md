@@ -1,5 +1,5 @@
 ---
 title: "Churidar world"
 url: /thiruvanathapuram/churidar-world/
-shop: Kleidung
+shop: clothes
 ---

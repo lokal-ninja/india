@@ -1,5 +1,5 @@
 ---
 title: "Mahalaxmi Mobile"
 url: /cuttack/mahalaxmi-mobile/
-shop: Handy
+shop: mobile phone
 ---

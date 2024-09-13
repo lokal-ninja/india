@@ -1,5 +1,5 @@
 ---
 title: "Saina Store"
 url: /kollam/saina-store/
-shop: Allgemein
+shop: shop
 ---

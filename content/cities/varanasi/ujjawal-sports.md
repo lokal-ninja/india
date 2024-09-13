@@ -1,5 +1,5 @@
 ---
 title: "Ujjawal Sports"
 url: /varanasi/ujjawal-sports/
-shop: Sport
+shop: sports
 ---

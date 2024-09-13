@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Travels"
 url: /mumbai/deluxe-travels/
-shop: Reisebüro
+shop: travel agency
 ---

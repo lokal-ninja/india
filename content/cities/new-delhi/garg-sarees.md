@@ -1,5 +1,5 @@
 ---
 title: "GARG SAREES"
 url: /new-delhi/garg-sarees/
-shop: Kleidung
+shop: clothes
 ---

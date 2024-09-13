@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /karuvatta/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

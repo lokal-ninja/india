@@ -1,5 +1,5 @@
 ---
 title: "Brother's Stores"
 url: /vettiyar/brothers-stores/
-shop: Lebensmittel
+shop: convenience
 ---

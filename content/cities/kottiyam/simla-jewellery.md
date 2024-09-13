@@ -1,5 +1,5 @@
 ---
 title: "Simla Jewellery"
 url: /kottiyam/simla-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

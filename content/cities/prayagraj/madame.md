@@ -1,5 +1,5 @@
 ---
 title: "Madame"
 url: /prayagraj/madame/
-shop: Kleidung
+shop: clothes
 ---

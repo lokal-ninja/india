@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /gurgaon/reebok/
-shop: Kleidung
+shop: clothes
 ---

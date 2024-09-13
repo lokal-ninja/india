@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /raipur/liberty/
-shop: Schuhe
+shop: shoes
 ---

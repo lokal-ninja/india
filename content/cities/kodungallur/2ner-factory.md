@@ -1,5 +1,5 @@
 ---
 title: "2ner Factory"
 url: /kodungallur/2ner-factory/
-shop: Autowerkstatt
+shop: car repair
 ---

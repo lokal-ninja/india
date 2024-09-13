@@ -1,5 +1,5 @@
 ---
 title: "Lampur Bazar"
 url: /comilla/lampur-bazar/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revathy Readymade"
 url: /kollam/revathy-readymade/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flower Shop"
 url: /jagtial/flower-shop/
-shop: Allgemein
+shop: shop
 ---

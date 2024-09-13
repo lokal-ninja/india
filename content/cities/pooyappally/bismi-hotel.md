@@ -1,5 +1,5 @@
 ---
 title: "Bismi Hotel"
 url: /pooyappally/bismi-hotel/
-shop: Tee
+shop: tea
 ---

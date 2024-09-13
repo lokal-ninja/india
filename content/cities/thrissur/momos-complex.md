@@ -1,5 +1,5 @@
 ---
 title: "Momos Complex"
 url: /thrissur/momos-complex/
-shop: Allgemein
+shop: shop
 ---

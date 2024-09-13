@@ -1,5 +1,5 @@
 ---
 title: "Vijaya Stores"
 url: /bhagavathipadi/vijaya-stores/
-shop: Dorfladen
+shop: general
 ---

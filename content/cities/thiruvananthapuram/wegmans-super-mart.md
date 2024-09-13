@@ -1,5 +1,5 @@
 ---
 title: "WEGMANS SUPER MART"
 url: /thiruvananthapuram/wegmans-super-mart/
-shop: Supermarkt
+shop: supermarket
 ---

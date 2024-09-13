@@ -1,5 +1,5 @@
 ---
 title: "Ethan's Home Decor"
 url: /kadamattom/ethans-home-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

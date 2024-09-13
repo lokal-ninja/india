@@ -1,5 +1,5 @@
 ---
 title: "Kunal Enterprizes"
 url: /pune/kunal-enterprizes/
-shop: Möbel
+shop: furniture
 ---

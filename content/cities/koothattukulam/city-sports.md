@@ -1,5 +1,5 @@
 ---
 title: "City Sports"
 url: /koothattukulam/city-sports/
-shop: Sport
+shop: sports
 ---

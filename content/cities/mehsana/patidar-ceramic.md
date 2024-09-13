@@ -1,5 +1,5 @@
 ---
 title: "patidar ceramic"
 url: /mehsana/patidar-ceramic/
-shop: Eisenwaren
+shop: hardware
 ---

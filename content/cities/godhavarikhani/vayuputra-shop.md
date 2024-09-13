@@ -1,5 +1,5 @@
 ---
 title: "vayuputra shop"
 url: /godhavarikhani/vayuputra-shop/
-shop: Sanitätshaus
+shop: medical supply
 ---

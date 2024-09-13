@@ -1,5 +1,5 @@
 ---
 title: "Kochunnies"
 url: /cherthala/kochunnies/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "lanithottam"
 url: /koratty/lanithottam/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Om Novelties"
 url: /pune/om-novelties/
-shop: Schreibwaren
+shop: office supplies
 ---

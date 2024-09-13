@@ -1,5 +1,5 @@
 ---
 title: "ambika Fish shop"
 url: /chinchwad/ambika-fish-shop/
-shop: Fisch
+shop: seafood
 ---

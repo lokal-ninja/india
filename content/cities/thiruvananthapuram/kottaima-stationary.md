@@ -1,5 +1,5 @@
 ---
 title: "Kottaima stationary"
 url: /thiruvananthapuram/kottaima-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

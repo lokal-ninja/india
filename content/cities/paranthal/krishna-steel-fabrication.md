@@ -1,5 +1,5 @@
 ---
 title: "Krishna Steel Fabrication"
 url: /paranthal/krishna-steel-fabrication/
-shop: Eisenwaren
+shop: hardware
 ---

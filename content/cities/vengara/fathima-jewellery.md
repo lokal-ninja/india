@@ -1,5 +1,5 @@
 ---
 title: "Fathima Jewellery"
 url: /vengara/fathima-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

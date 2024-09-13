@@ -1,5 +1,5 @@
 ---
 title: "Saha Kirana Store"
 url: /kapsi/saha-kirana-store/
-shop: Supermarkt
+shop: supermarket
 ---

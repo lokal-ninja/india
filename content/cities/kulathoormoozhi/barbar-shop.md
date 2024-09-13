@@ -1,5 +1,5 @@
 ---
 title: "barbar shop"
 url: /kulathoormoozhi/barbar-shop/
-shop: Friseur
+shop: hairdresser
 ---

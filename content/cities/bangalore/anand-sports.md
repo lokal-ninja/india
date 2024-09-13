@@ -1,5 +1,5 @@
 ---
 title: "Anand Sports"
 url: /bangalore/anand-sports/
-shop: Sport
+shop: sports
 ---

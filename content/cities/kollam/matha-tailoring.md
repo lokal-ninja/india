@@ -1,5 +1,5 @@
 ---
 title: "Matha tailoring"
 url: /kollam/matha-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

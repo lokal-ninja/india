@@ -1,5 +1,5 @@
 ---
 title: "Cuppa"
 url: /kalyani/cuppa/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MUSIC STATION"
 url: /anand/music-station/
-shop: Instrumente
+shop: musical instrument
 ---

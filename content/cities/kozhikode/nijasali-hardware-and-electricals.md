@@ -1,5 +1,5 @@
 ---
 title: "Nijasali Hardware And Electricals"
 url: /kozhikode/nijasali-hardware-and-electricals/
-shop: Eisenwaren
+shop: hardware
 ---

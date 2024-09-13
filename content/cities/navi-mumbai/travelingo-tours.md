@@ -1,5 +1,5 @@
 ---
 title: "TravelinGo Tours"
 url: /navi-mumbai/travelingo-tours/
-shop: Reisebüro
+shop: travel agency
 ---

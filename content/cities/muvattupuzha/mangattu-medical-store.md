@@ -1,5 +1,5 @@
 ---
 title: "Mangattu Medical Store"
 url: /muvattupuzha/mangattu-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

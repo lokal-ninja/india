@@ -1,5 +1,5 @@
 ---
 title: "HARIOM TRADERS"
 url: /sanganer-jaipur/hariom-traders/
-shop: Lebensmittel
+shop: convenience
 ---

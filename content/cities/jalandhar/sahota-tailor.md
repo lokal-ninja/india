@@ -1,5 +1,5 @@
 ---
 title: "Sahota Tailor"
 url: /jalandhar/sahota-tailor/
-shop: Schneiderei
+shop: tailor
 ---

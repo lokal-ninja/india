@@ -1,5 +1,5 @@
 ---
 title: "Creative Handicrafts Powai"
 url: /mumbai/creative-handicrafts-powai/
-shop: Kleidung
+shop: clothes
 ---

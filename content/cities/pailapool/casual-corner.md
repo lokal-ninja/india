@@ -1,5 +1,5 @@
 ---
 title: "Casual Corner"
 url: /pailapool/casual-corner/
-shop: Haushaltsgeräte
+shop: appliance
 ---

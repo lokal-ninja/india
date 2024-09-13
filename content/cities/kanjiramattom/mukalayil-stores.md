@@ -1,5 +1,5 @@
 ---
 title: "Mukalayil Stores"
 url: /kanjiramattom/mukalayil-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

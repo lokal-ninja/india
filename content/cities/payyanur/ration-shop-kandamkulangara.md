@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /payyanur/ration-shop-kandamkulangara/
-shop: Lebensmittel
+shop: convenience
 ---

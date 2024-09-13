@@ -1,5 +1,5 @@
 ---
 title: "Airtel"
 url: /nanded/airtel/
-shop: Handy
+shop: mobile phone
 ---

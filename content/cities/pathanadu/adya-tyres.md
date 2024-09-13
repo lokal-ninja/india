@@ -1,5 +1,5 @@
 ---
 title: "Adya tyres"
 url: /pathanadu/adya-tyres/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rinbow"
 url: /edamuttam/rinbow/
-shop: Friseur
+shop: hairdresser
 ---

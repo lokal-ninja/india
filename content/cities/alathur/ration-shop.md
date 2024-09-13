@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /alathur/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

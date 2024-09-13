@@ -1,5 +1,5 @@
 ---
 title: "Madhavam Garments"
 url: /kollam/madhavam-garments/
-shop: Kleidung
+shop: clothes
 ---

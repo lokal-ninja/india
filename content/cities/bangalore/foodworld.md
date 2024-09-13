@@ -1,5 +1,5 @@
 ---
 title: "Foodworld"
 url: /bangalore/foodworld/
-shop: Supermarkt
+shop: supermarket
 ---

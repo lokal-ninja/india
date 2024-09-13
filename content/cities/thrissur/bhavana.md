@@ -1,5 +1,5 @@
 ---
 title: "Bhavana"
 url: /thrissur/bhavana/
-shop: Eisenwaren
+shop: hardware
 ---

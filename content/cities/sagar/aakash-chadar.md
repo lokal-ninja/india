@@ -1,5 +1,5 @@
 ---
 title: "Aakash Chadar"
 url: /sagar/aakash-chadar/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sreevinayaka Garments"
 url: /thiruvananthapuram/sreevinayaka-garments/
-shop: Kleidung
+shop: clothes
 ---

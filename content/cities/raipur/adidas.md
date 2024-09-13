@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /raipur/adidas/
-shop: Schuhe
+shop: shoes
 ---

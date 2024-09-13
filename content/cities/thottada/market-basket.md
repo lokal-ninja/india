@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /thottada/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

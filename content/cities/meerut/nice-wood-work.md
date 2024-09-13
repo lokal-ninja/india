@@ -1,5 +1,5 @@
 ---
 title: "Nice Wood Work"
 url: /meerut/nice-wood-work/
-shop: Möbel
+shop: furniture
 ---

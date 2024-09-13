@@ -1,5 +1,5 @@
 ---
 title: "thalolam"
 url: /trivandrum/thalolam/
-shop: Kleidung
+shop: clothes
 ---

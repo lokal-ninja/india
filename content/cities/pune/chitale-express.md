@@ -1,5 +1,5 @@
 ---
 title: "Chitale Express"
 url: /pune/chitale-express/
-shop: Lebensmittel
+shop: convenience
 ---

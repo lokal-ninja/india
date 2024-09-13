@@ -1,5 +1,5 @@
 ---
 title: "SK cake"
 url: /thiruvananthapuram/sk-cake/
-shop: Bäckerei
+shop: bakery
 ---

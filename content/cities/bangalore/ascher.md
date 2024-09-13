@@ -1,5 +1,5 @@
 ---
 title: "Ascher"
 url: /bangalore/ascher/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vaibhavi Jewels"
 url: /surat/vaibhavi-jewels/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sree Sai Ram Gents Tailors"
 url: /kukatpally/sree-sai-ram-gents-tailors/
-shop: Schneiderei
+shop: tailor
 ---

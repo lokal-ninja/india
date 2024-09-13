@@ -1,5 +1,5 @@
 ---
 title: "Ali-n-Arts Florist"
 url: /bangalore/ali-n-arts-florist/
-shop: Blumen
+shop: florist
 ---

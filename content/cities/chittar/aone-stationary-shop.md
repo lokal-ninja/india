@@ -1,5 +1,5 @@
 ---
 title: "aone stationary shop"
 url: /chittar/aone-stationary-shop/
-shop: Schreibwaren
+shop: office supplies
 ---

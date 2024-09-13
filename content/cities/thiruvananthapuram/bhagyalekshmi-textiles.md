@@ -1,5 +1,5 @@
 ---
 title: "Bhagyalekshmi textiles"
 url: /thiruvananthapuram/bhagyalekshmi-textiles/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sona Clothes"
 url: /islampur/sona-clothes/
-shop: Kleidung
+shop: clothes
 ---

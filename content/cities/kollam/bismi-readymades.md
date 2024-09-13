@@ -1,5 +1,5 @@
 ---
 title: "Bismi readymades"
 url: /kollam/bismi-readymades/
-shop: Allgemein
+shop: shop
 ---

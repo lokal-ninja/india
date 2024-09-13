@@ -1,5 +1,5 @@
 ---
 title: "lekshmi textiles"
 url: /trivandrum/lekshmi-textiles/
-shop: Kleidung
+shop: clothes
 ---

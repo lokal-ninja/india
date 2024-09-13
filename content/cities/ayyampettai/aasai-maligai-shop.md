@@ -1,5 +1,5 @@
 ---
 title: "Aasai Maligai Shop"
 url: /ayyampettai/aasai-maligai-shop/
-shop: Supermarkt
+shop: supermarket
 ---

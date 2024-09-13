@@ -1,5 +1,5 @@
 ---
 title: "Wildcraft"
 url: /chennai/wildcraft/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Ambalampady"
 url: /muvattupuzha/ration-shop-ambalampady/
-shop: Lebensmittel
+shop: convenience
 ---

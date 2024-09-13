@@ -1,5 +1,5 @@
 ---
 title: "Mitra tailoring unit"
 url: /kollam/mitra-tailoring-unit/
-shop: Schneiderei
+shop: tailor
 ---

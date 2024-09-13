@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thumbotta/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

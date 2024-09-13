@@ -1,5 +1,5 @@
 ---
 title: "Kakkodu"
 url: /kollam/kakkodu/
-shop: Allgemein
+shop: shop
 ---

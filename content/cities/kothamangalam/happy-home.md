@@ -1,5 +1,5 @@
 ---
 title: "Happy Home"
 url: /kothamangalam/happy-home/
-shop: Schreibwaren
+shop: office supplies
 ---

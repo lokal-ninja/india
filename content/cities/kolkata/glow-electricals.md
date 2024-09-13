@@ -1,5 +1,5 @@
 ---
 title: "Glow Electricals"
 url: /kolkata/glow-electricals/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bobby"
 url: /nedumkunnam/bobby/
-shop: Sanitätshaus
+shop: medical supply
 ---

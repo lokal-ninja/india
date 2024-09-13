@@ -1,5 +1,5 @@
 ---
 title: "Ushas bakeri"
 url: /kollam/ushas-bakeri/
-shop: Allgemein
+shop: shop
 ---

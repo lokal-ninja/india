@@ -1,5 +1,5 @@
 ---
 title: "Kamala Textiles"
 url: /thiruvananthapuram/kamala-textiles/
-shop: Kleidung
+shop: clothes
 ---

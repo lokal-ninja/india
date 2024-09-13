@@ -1,5 +1,5 @@
 ---
 title: "Vismaya Interior"
 url: /chemmalamattom/vismaya-interior/
-shop: Raumausstattung
+shop: interior decoration
 ---

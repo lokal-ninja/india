@@ -1,5 +1,5 @@
 ---
 title: "mobile shop"
 url: /malappuram/mobile-shop/
-shop: Handy
+shop: mobile phone
 ---

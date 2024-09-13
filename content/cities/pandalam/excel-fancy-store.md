@@ -1,5 +1,5 @@
 ---
 title: "Excel Fancy Store"
 url: /pandalam/excel-fancy-store/
-shop: Kramladen
+shop: variety store
 ---

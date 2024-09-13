@@ -1,5 +1,5 @@
 ---
 title: "Aapla Bazar"
 url: /sawantwadi/aapla-bazar/
-shop: Einkaufszentrum
+shop: mall
 ---

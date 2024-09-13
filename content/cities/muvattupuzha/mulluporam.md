@@ -1,5 +1,5 @@
 ---
 title: "mulluporam"
 url: /muvattupuzha/mulluporam/
-shop: Schreibwaren
+shop: office supplies
 ---

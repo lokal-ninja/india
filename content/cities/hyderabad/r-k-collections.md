@@ -1,5 +1,5 @@
 ---
 title: "R K Collections"
 url: /hyderabad/r-k-collections/
-shop: Einkaufszentrum
+shop: mall
 ---

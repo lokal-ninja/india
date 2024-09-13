@@ -1,5 +1,5 @@
 ---
 title: "Secunderabad centre Mall"
 url: /secunderabad/secunderabad-centre-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

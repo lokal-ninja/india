@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /changaramkulam/honda/
-shop: Motorrad
+shop: motorcycle
 ---

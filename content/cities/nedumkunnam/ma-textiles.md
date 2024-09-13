@@ -1,5 +1,5 @@
 ---
 title: "MA textiles"
 url: /nedumkunnam/ma-textiles/
-shop: Kleidung
+shop: clothes
 ---

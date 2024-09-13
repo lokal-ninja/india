@@ -1,5 +1,5 @@
 ---
 title: "Masters Medical Books"
 url: /kottiyam/masters-medical-books/
-shop: Bücher
+shop: books
 ---

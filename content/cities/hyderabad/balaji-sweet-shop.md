@@ -1,5 +1,5 @@
 ---
 title: "Balaji Sweet shop"
 url: /hyderabad/balaji-sweet-shop/
-shop: Süßwaren
+shop: confectionery
 ---

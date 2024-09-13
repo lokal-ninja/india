@@ -1,5 +1,5 @@
 ---
 title: "MOBILE.COM"
 url: /kasaragod/mobile-com/
-shop: Handy
+shop: mobile phone
 ---

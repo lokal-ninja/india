@@ -1,5 +1,5 @@
 ---
 title: "Carmel Mart"
 url: /pachalam/carmel-mart/
-shop: Supermarkt
+shop: supermarket
 ---

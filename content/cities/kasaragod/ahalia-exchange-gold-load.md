@@ -1,5 +1,5 @@
 ---
 title: "AHALIA EXCHANGE GOLD LOAD"
 url: /kasaragod/ahalia-exchange-gold-load/
-shop: Allgemein
+shop: shop
 ---

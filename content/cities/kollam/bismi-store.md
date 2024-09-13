@@ -1,5 +1,5 @@
 ---
 title: "Bismi Store"
 url: /kollam/bismi-store/
-shop: Gewürze
+shop: spices
 ---

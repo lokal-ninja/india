@@ -1,5 +1,5 @@
 ---
 title: "Mekkatel Auto Parts"
 url: /kidangoor/mekkatel-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "swiss supermarket"
 url: /kollam/swiss-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

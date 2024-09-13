@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /chirackal/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smart Point"
 url: /doddanekundi-bangalore/smart-point/
-shop: Supermarkt
+shop: supermarket
 ---

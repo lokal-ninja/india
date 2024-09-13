@@ -1,5 +1,5 @@
 ---
 title: "Archana Electronics"
 url: /meerut/archana-electronics/
-shop: Elektronik
+shop: electronics
 ---

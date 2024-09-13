@@ -1,5 +1,5 @@
 ---
 title: "Meenashi lottery shop"
 url: /changanacherry/meenashi-lottery-shop/
-shop: Lotterie
+shop: lottery
 ---

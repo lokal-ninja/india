@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kunnoni/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

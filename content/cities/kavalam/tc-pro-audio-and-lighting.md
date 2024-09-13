@@ -1,5 +1,5 @@
 ---
 title: "tc pro audio and lighting"
 url: /kavalam/tc-pro-audio-and-lighting/
-shop: Mieten
+shop: storage rental
 ---

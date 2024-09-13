@@ -1,5 +1,5 @@
 ---
 title: "Prestige Smart Kitchen"
 url: /pala/prestige-smart-kitchen/
-shop: Haushaltsgeräte
+shop: appliance
 ---

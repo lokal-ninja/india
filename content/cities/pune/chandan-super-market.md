@@ -1,5 +1,5 @@
 ---
 title: "Chandan Super Market"
 url: /pune/chandan-super-market/
-shop: Lebensmittel
+shop: convenience
 ---

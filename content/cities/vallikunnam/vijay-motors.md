@@ -1,5 +1,5 @@
 ---
 title: "Vijay Motors"
 url: /vallikunnam/vijay-motors/
-shop: Motorrad
+shop: motorcycle
 ---

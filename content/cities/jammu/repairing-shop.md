@@ -1,5 +1,5 @@
 ---
 title: "REPAIRING SHOP"
 url: /jammu/repairing-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

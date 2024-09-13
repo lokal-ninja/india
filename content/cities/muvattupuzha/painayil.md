@@ -1,5 +1,5 @@
 ---
 title: "Painayil"
 url: /muvattupuzha/painayil/
-shop: Bäckerei
+shop: bakery
 ---

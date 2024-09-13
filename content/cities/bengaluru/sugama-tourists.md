@@ -1,5 +1,5 @@
 ---
 title: "Sugama Tourists"
 url: /bengaluru/sugama-tourists/
-shop: Reisebüro
+shop: travel agency
 ---

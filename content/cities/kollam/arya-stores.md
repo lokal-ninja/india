@@ -1,5 +1,5 @@
 ---
 title: "Arya stores"
 url: /kollam/arya-stores/
-shop: Dorfladen
+shop: general
 ---

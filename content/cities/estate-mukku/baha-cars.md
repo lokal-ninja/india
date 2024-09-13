@@ -1,5 +1,5 @@
 ---
 title: "Baha Cars"
 url: /estate-mukku/baha-cars/
-shop: Autohaus
+shop: car
 ---

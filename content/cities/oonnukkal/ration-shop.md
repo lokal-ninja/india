@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /oonnukkal/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

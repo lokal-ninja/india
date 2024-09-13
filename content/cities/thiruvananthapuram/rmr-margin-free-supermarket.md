@@ -1,5 +1,5 @@
 ---
 title: "RMR Margin Free supermarket"
 url: /thiruvananthapuram/rmr-margin-free-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

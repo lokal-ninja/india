@@ -1,5 +1,5 @@
 ---
 title: "The Chennai Shopping Mall"
 url: /mahabubnagar/the-chennai-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

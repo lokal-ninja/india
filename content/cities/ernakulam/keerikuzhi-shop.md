@@ -1,5 +1,5 @@
 ---
 title: "Keerikuzhi Shop"
 url: /ernakulam/keerikuzhi-shop/
-shop: Dorfladen
+shop: general
 ---

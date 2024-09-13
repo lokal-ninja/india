@@ -1,5 +1,5 @@
 ---
 title: "Pinata"
 url: /bangalore/pinata/
-shop: Allgemein
+shop: shop
 ---

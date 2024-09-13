@@ -1,5 +1,5 @@
 ---
 title: "We Care Arikada"
 url: /puthur-thrrissur/we-care-arikada/
-shop: Allgemein
+shop: shop
 ---

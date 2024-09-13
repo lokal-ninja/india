@@ -1,5 +1,5 @@
 ---
 title: "CAR AUTO MOBILES"
 url: /vidyanagar/car-auto-mobiles/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GM Vegetable commission mundy"
 url: /thalavadi/gm-vegetable-commission-mundy/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

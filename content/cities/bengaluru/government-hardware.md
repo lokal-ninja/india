@@ -1,5 +1,5 @@
 ---
 title: "Government Hardware"
 url: /bengaluru/government-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dutta Jwelery"
 url: /cooch-behar/dutta-jwelery/
-shop: Schmuck
+shop: jewelry
 ---

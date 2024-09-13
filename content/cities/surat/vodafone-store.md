@@ -1,5 +1,5 @@
 ---
 title: "Vodafone Store"
 url: /surat/vodafone-store/
-shop: Handy
+shop: mobile phone
 ---

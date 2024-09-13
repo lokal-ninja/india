@@ -1,5 +1,5 @@
 ---
 title: "Kesharia Medicals"
 url: /sagar/kesharia-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

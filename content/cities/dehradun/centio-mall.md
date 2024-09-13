@@ -1,5 +1,5 @@
 ---
 title: "Centio Mall"
 url: /dehradun/centio-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

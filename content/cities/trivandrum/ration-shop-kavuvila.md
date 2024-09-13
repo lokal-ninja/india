@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Kavuvila"
 url: /trivandrum/ration-shop-kavuvila/
-shop: Lebensmittel
+shop: convenience
 ---

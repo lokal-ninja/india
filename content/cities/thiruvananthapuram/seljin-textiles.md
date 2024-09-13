@@ -1,5 +1,5 @@
 ---
 title: "Seljin textiles"
 url: /thiruvananthapuram/seljin-textiles/
-shop: Kleidung
+shop: clothes
 ---

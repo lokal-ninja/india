@@ -1,5 +1,5 @@
 ---
 title: "Bhadarees collection"
 url: /kollam/bhadarees-collection/
-shop: Allgemein
+shop: shop
 ---

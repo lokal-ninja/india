@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /karunechi/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bakins"
 url: /pathanamthitta/bakins/
-shop: Bäckerei
+shop: bakery
 ---

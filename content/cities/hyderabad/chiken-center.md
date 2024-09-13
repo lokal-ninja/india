@@ -1,5 +1,5 @@
 ---
 title: "Chiken Center"
 url: /hyderabad/chiken-center/
-shop: Allgemein
+shop: shop
 ---

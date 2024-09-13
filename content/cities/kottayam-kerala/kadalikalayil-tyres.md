@@ -1,5 +1,5 @@
 ---
 title: "Kadalikalayil tyres"
 url: /kottayam-kerala/kadalikalayil-tyres/
-shop: Reifen
+shop: tyres
 ---

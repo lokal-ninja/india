@@ -1,5 +1,5 @@
 ---
 title: "KFC"
 url: /thane/kfc/
-shop: Allgemein
+shop: shop
 ---

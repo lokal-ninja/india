@@ -1,5 +1,5 @@
 ---
 title: "T.A MOBILES"
 url: /kasaragod/t-a-mobiles/
-shop: Handy
+shop: mobile phone
 ---

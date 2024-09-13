@@ -1,5 +1,5 @@
 ---
 title: "kabirs shop"
 url: /cochin/kabirs-shop/
-shop: Allgemein
+shop: shop
 ---

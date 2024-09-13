@@ -1,5 +1,5 @@
 ---
 title: "Dream cake"
 url: /thiruvananthapuram/dream-cake/
-shop: Bäckerei
+shop: bakery
 ---

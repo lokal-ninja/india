@@ -1,5 +1,5 @@
 ---
 title: "common scervice centre"
 url: /trivandrum/common-scervice-centre/
-shop: Allgemein
+shop: shop
 ---

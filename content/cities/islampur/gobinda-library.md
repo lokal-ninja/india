@@ -1,5 +1,5 @@
 ---
 title: "Gobinda Library"
 url: /islampur/gobinda-library/
-shop: Schreibwaren
+shop: office supplies
 ---

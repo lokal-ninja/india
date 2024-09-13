@@ -1,5 +1,5 @@
 ---
 title: "Krushna Gift House"
 url: /pune/krushna-gift-house/
-shop: Andenken
+shop: gift
 ---

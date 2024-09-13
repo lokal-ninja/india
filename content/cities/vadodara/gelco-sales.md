@@ -1,5 +1,5 @@
 ---
 title: "Gelco Sales"
 url: /vadodara/gelco-sales/
-shop: Supermarkt
+shop: supermarket
 ---

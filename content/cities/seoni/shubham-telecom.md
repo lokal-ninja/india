@@ -1,5 +1,5 @@
 ---
 title: "Shubham Telecom"
 url: /seoni/shubham-telecom/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thuvvur/ration-shop-ailessery/
-shop: Lebensmittel
+shop: convenience
 ---

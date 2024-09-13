@@ -1,5 +1,5 @@
 ---
 title: "Eye-link opticals"
 url: /hyderabad/eye-link-opticals/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Real"
 url: /trivandrum/real/
-shop: Supermarkt
+shop: supermarket
 ---

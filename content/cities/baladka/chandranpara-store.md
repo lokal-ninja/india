@@ -1,5 +1,5 @@
 ---
 title: "chandranpara store"
 url: /baladka/chandranpara-store/
-shop: Supermarkt
+shop: supermarket
 ---

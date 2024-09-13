@@ -1,5 +1,5 @@
 ---
 title: "Giria's"
 url: /mysuru/girias/
-shop: Elektronik
+shop: electronics
 ---

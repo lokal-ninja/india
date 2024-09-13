@@ -1,5 +1,5 @@
 ---
 title: "bigboss"
 url: /plackalpady/bigboss/
-shop: Kosmetik
+shop: beauty
 ---

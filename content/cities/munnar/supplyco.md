@@ -1,5 +1,5 @@
 ---
 title: "Supplyco"
 url: /munnar/supplyco/
-shop: Supermarkt
+shop: supermarket
 ---

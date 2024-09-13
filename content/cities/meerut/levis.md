@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /meerut/levis/
-shop: Kleidung
+shop: clothes
 ---

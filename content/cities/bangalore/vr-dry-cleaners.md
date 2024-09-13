@@ -1,5 +1,5 @@
 ---
 title: "VR Dry Cleaners"
 url: /bangalore/vr-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

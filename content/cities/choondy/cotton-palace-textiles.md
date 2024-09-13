@@ -1,5 +1,5 @@
 ---
 title: "Cotton Palace Textiles"
 url: /choondy/cotton-palace-textiles/
-shop: Kleidung
+shop: clothes
 ---

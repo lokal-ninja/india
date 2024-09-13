@@ -1,5 +1,5 @@
 ---
 title: "VEEKEY"
 url: /kolani/veekey/
-shop: Eisenwaren
+shop: hardware
 ---

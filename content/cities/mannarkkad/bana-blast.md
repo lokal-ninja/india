@@ -1,5 +1,5 @@
 ---
 title: "BANA BLAST"
 url: /mannarkkad/bana-blast/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mamvilayil Supermarket"
 url: /kottarakara/mamvilayil-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

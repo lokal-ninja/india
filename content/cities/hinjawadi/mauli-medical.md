@@ -1,5 +1,5 @@
 ---
 title: "Mauli medical"
 url: /hinjawadi/mauli-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

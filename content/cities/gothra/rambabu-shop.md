@@ -1,5 +1,5 @@
 ---
 title: "Rambabu shop"
 url: /gothra/rambabu-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meppadi fish market"
 url: /meppadi/meppadi-fish-market/
-shop: Angeln
+shop: fishing
 ---

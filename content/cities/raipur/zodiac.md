@@ -1,5 +1,5 @@
 ---
 title: "ZODIAC"
 url: /raipur/zodiac/
-shop: Kleidung
+shop: clothes
 ---

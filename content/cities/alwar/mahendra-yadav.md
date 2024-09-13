@@ -1,5 +1,5 @@
 ---
 title: "Mahendra Yadav"
 url: /alwar/mahendra-yadav/
-shop: Bestattungen
+shop: funeral directors
 ---

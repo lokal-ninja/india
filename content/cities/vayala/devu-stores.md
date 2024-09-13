@@ -1,5 +1,5 @@
 ---
 title: "Devu Stores"
 url: /vayala/devu-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

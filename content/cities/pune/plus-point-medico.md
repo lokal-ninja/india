@@ -1,5 +1,5 @@
 ---
 title: "Plus Point Medico"
 url: /pune/plus-point-medico/
-shop: Drogerie
+shop: chemist
 ---

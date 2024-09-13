@@ -1,5 +1,5 @@
 ---
 title: "shiva motors"
 url: /karakkamandapam/shiva-motors/
-shop: Autohaus
+shop: car
 ---

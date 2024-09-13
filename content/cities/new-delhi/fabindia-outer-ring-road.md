@@ -1,5 +1,5 @@
 ---
-title: "fabindia"
+title: "Fabindia"
 url: /new-delhi/fabindia-outer-ring-road/
-shop: Kleidung
+shop: clothes
 ---

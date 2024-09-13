@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /guntur/spencers/
-shop: Supermarkt
+shop: supermarket
 ---

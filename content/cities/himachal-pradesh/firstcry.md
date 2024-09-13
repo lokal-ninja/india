@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /himachal-pradesh/firstcry/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jai Prakash Prasad"
 url: /samtse/jai-prakash-prasad/
-shop: Lebensmittel
+shop: convenience
 ---

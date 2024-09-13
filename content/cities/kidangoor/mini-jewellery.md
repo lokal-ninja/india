@@ -1,5 +1,5 @@
 ---
 title: "Mini Jewellery"
 url: /kidangoor/mini-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

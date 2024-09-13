@@ -1,5 +1,5 @@
 ---
 title: "KRV Fireworks"
 url: /thrissur/krv-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

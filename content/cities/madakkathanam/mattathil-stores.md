@@ -1,5 +1,5 @@
 ---
 title: "Mattathil Stores"
 url: /madakkathanam/mattathil-stores/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QURO INTERNATIONAL"
 url: /kasaragod/quro-international/
-shop: Reisebüro
+shop: travel agency
 ---

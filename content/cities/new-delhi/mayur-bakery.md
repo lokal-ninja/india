@@ -1,5 +1,5 @@
 ---
 title: "mayur bakery"
 url: /new-delhi/mayur-bakery/
-shop: Bäckerei
+shop: bakery
 ---

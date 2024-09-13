@@ -1,5 +1,5 @@
 ---
 title: "Mother Dairy"
 url: /new-delhi/mother-dairy-shani-bazar-road/
-shop: Milch
+shop: dairy
 ---

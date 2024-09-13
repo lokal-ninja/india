@@ -1,5 +1,5 @@
 ---
 title: "R Odean"
 url: /mumbai/r-odean/
-shop: Einkaufszentrum
+shop: mall
 ---

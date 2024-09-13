@@ -1,5 +1,5 @@
 ---
 title: "It Care"
 url: /puducherry/it-care/
-shop: Handy
+shop: mobile phone
 ---

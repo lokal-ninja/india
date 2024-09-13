@@ -1,5 +1,5 @@
 ---
 title: "AirBender international courier"
 url: /phagwara/airbender-international-courier/
-shop: Andenken
+shop: gift
 ---

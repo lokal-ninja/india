@@ -1,5 +1,5 @@
 ---
 title: "S Medical Store"
 url: /robertsganj/s-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

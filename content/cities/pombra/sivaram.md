@@ -1,5 +1,5 @@
 ---
 title: "Sivaram"
 url: /pombra/sivaram/
-shop: Lebensmittel
+shop: convenience
 ---

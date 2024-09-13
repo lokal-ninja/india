@@ -1,5 +1,5 @@
 ---
 title: "Motamal store"
 url: /kuthuparamba/motamal-store/
-shop: Schreibwaren
+shop: office supplies
 ---

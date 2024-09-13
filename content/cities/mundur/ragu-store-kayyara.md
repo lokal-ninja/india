@@ -1,5 +1,5 @@
 ---
 title: "ragu store kayyara"
 url: /mundur/ragu-store-kayyara/
-shop: Kramladen
+shop: variety store
 ---

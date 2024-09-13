@@ -1,5 +1,5 @@
 ---
 title: "Vintech Computers"
 url: /hyderabad/vintech-computers/
-shop: Computer
+shop: computer
 ---

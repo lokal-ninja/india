@@ -1,5 +1,5 @@
 ---
 title: "Yamaha Dealership Pandalam"
 url: /pandalam/yamaha-dealership-pandalam/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baranwal Jwellers"
 url: /dostpur/baranwal-jwellers/
-shop: Schmuck
+shop: jewelry
 ---

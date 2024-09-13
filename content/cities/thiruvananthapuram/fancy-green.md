@@ -1,5 +1,5 @@
 ---
 title: "Fancy green"
 url: /thiruvananthapuram/fancy-green/
-shop: Modehaus
+shop: boutique
 ---

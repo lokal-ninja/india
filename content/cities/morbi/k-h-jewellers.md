@@ -1,5 +1,5 @@
 ---
 title: "K. H. Jewellers"
 url: /morbi/k-h-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

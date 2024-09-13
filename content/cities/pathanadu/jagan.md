@@ -1,5 +1,5 @@
 ---
 title: "jagan"
 url: /pathanadu/jagan/
-shop: Elektronik
+shop: electronics
 ---

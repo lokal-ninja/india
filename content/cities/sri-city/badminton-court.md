@@ -1,5 +1,5 @@
 ---
 title: "Badminton Court"
 url: /sri-city/badminton-court/
-shop: Sport
+shop: sports
 ---

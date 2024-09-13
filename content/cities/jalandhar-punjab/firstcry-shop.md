@@ -1,5 +1,5 @@
 ---
 title: "Firstcry shop"
 url: /jalandhar-punjab/firstcry-shop/
-shop: Babysachen
+shop: baby goods
 ---

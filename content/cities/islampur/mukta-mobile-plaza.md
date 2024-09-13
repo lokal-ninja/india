@@ -1,5 +1,5 @@
 ---
 title: "Mukta Mobile Plaza"
 url: /islampur/mukta-mobile-plaza/
-shop: Handy
+shop: mobile phone
 ---

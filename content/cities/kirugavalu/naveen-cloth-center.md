@@ -1,5 +1,5 @@
 ---
 title: "Naveen Cloth center"
 url: /kirugavalu/naveen-cloth-center/
-shop: Kleidung
+shop: clothes
 ---

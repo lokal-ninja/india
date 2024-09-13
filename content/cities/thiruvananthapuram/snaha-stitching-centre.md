@@ -1,5 +1,5 @@
 ---
 title: "Snaha stitching centre"
 url: /thiruvananthapuram/snaha-stitching-centre/
-shop: Schneiderei
+shop: tailor
 ---

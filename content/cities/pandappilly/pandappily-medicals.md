@@ -1,5 +1,5 @@
 ---
 title: "pandappily medicals"
 url: /pandappilly/pandappily-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

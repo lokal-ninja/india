@@ -1,5 +1,5 @@
 ---
 title: "Shrikrishna Electrostat"
 url: /gwalior/shrikrishna-electrostat/
-shop: Kopieren
+shop: copyshop
 ---

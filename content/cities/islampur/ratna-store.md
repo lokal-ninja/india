@@ -1,5 +1,5 @@
 ---
 title: "Ratna Store"
 url: /islampur/ratna-store/
-shop: Kramladen
+shop: variety store
 ---

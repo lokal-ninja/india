@@ -1,5 +1,5 @@
 ---
 title: "Varavukada"
 url: /kochi/varavukada/
-shop: Bäckerei
+shop: bakery
 ---

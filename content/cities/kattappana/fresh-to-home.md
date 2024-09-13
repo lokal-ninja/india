@@ -1,5 +1,5 @@
 ---
 title: "Fresh to home"
 url: /kattappana/fresh-to-home/
-shop: Angeln
+shop: fishing
 ---

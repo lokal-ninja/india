@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /palakkadu/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

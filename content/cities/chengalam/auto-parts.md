@@ -1,5 +1,5 @@
 ---
 title: "Auto parts"
 url: /chengalam/auto-parts/
-shop: Autoteile
+shop: car parts
 ---

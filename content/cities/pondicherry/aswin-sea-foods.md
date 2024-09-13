@@ -1,5 +1,5 @@
 ---
 title: "Aswin Sea Foods"
 url: /pondicherry/aswin-sea-foods/
-shop: Hofladen
+shop: farm
 ---

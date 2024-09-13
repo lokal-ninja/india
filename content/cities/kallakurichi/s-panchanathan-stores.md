@@ -1,5 +1,5 @@
 ---
 title: "S. Panchanathan Stores"
 url: /kallakurichi/s-panchanathan-stores/
-shop: Supermarkt
+shop: supermarket
 ---

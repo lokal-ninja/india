@@ -1,5 +1,5 @@
 ---
 title: "TT Hardware"
 url: /mannarkad/tt-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

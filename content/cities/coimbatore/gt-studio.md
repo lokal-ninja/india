@@ -1,5 +1,5 @@
 ---
 title: "GT STUDIO"
 url: /coimbatore/gt-studio/
-shop: Foto
+shop: photo
 ---

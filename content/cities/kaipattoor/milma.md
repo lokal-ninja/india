@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /kaipattoor/milma/
-shop: Milch
+shop: dairy
 ---

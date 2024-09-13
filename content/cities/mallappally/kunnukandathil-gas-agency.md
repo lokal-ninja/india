@@ -1,5 +1,5 @@
 ---
 title: "Kunnukandathil Gas Agency"
 url: /mallappally/kunnukandathil-gas-agency/
-shop: Treibstoff
+shop: fuel
 ---

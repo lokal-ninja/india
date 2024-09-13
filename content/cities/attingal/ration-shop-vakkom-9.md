@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /attingal/ration-shop-vakkom-9/
-shop: Allgemein
+shop: shop
 ---

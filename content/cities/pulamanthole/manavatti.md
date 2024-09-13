@@ -1,5 +1,5 @@
 ---
 title: "Manavatti"
 url: /pulamanthole/manavatti/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /gurgaon/spar/
-shop: Supermarkt
+shop: supermarket
 ---

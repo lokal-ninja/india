@@ -1,5 +1,5 @@
 ---
 title: "Karishma tailoring"
 url: /thiruvananthapuram/karishma-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

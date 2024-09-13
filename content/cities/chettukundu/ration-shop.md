@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /chettukundu/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

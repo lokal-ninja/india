@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Peringamala"
 url: /pallichal/ration-shop-peringamala/
-shop: Lebensmittel
+shop: convenience
 ---

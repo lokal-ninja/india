@@ -1,5 +1,5 @@
 ---
 title: "Padinjath Fashion Jewellers"
 url: /cherupuzha/padinjath-fashion-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

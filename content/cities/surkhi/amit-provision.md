@@ -1,5 +1,5 @@
 ---
 title: "Amit Provision"
 url: /surkhi/amit-provision/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RK Mart"
 url: /vizianagaram/rk-mart/
-shop: Supermarkt
+shop: supermarket
 ---

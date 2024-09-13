@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi"
 url: /kollam/xiaomi/
-shop: Handy
+shop: mobile phone
 ---

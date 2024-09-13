@@ -1,5 +1,5 @@
 ---
 title: "Monaf Stores"
 url: /patna/monaf-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

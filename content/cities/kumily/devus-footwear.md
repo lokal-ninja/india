@@ -1,5 +1,5 @@
 ---
 title: "Devus Footwear"
 url: /kumily/devus-footwear/
-shop: Schuhe
+shop: shoes
 ---

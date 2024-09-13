@@ -1,5 +1,5 @@
 ---
 title: "revlon"
 url: /bangalore/revlon/
-shop: Kosmetik
+shop: beauty
 ---

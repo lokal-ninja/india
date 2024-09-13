@@ -1,5 +1,5 @@
 ---
 title: "Aiswarya Stiching Centre"
 url: /trivandrum/aiswarya-stiching-centre/
-shop: Schneiderei
+shop: tailor
 ---

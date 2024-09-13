@@ -1,5 +1,5 @@
 ---
 title: "Arena"
 url: /kota/arena/
-shop: Autohaus
+shop: car
 ---

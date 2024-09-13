@@ -1,5 +1,5 @@
 ---
 title: "Saraswathi stiching"
 url: /thiruvananthapuram/saraswathi-stiching/
-shop: Schneiderei
+shop: tailor
 ---

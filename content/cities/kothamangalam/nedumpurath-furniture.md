@@ -1,5 +1,5 @@
 ---
 title: "Nedumpurath Furniture"
 url: /kothamangalam/nedumpurath-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iscon Emporio"
 url: /ahmedabad/iscon-emporio-2/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kilikood"
 url: /athavanad/kilikood/
-shop: Tiere
+shop: pet
 ---

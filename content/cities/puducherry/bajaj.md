@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /puducherry/bajaj/
-shop: Motorrad
+shop: motorcycle
 ---

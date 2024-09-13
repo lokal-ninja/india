@@ -1,5 +1,5 @@
 ---
 title: "SK Telecom"
 url: /meerut/sk-telecom/
-shop: Handy
+shop: mobile phone
 ---

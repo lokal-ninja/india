@@ -1,5 +1,5 @@
 ---
 title: "City Max"
 url: /karakkurussi/city-max/
-shop: Kleidung
+shop: clothes
 ---

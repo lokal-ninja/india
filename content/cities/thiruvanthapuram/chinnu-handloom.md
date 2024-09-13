@@ -1,5 +1,5 @@
 ---
 title: "Chinnu Handloom"
 url: /thiruvanthapuram/chinnu-handloom/
-shop: Kleidung
+shop: clothes
 ---

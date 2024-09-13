@@ -1,5 +1,5 @@
 ---
 title: "Kathirumelala"
 url: /kulapadam/kathirumelala/
-shop: Allgemein
+shop: shop
 ---

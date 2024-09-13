@@ -1,5 +1,5 @@
 ---
 title: "washing ton in"
 url: /thane/washing-ton-in/
-shop: Wäscherei
+shop: laundry
 ---

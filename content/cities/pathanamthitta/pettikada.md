@@ -1,5 +1,5 @@
 ---
 title: "pettikada"
 url: /pathanamthitta/pettikada/
-shop: Kiosk
+shop: kiosk
 ---

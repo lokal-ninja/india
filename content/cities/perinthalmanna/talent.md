@@ -1,5 +1,5 @@
 ---
 title: "Talent"
 url: /perinthalmanna/talent/
-shop: Bücher
+shop: books
 ---

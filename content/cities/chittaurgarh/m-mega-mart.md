@@ -1,5 +1,5 @@
 ---
 title: "M Mega Mart"
 url: /chittaurgarh/m-mega-mart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reliance Smart"
 url: /chakan/reliance-smart/
-shop: Supermarkt
+shop: supermarket
 ---

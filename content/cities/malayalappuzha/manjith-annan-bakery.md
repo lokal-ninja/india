@@ -1,5 +1,5 @@
 ---
 title: "manjith annan bakery"
 url: /malayalappuzha/manjith-annan-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /amritsar/metro/
-shop: Großhandel
+shop: wholesale
 ---

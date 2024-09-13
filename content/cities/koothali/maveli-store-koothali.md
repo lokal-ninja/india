@@ -1,5 +1,5 @@
 ---
 title: "maveli store"
 url: /koothali/maveli-store-koothali/
-shop: Kunst
+shop: art
 ---

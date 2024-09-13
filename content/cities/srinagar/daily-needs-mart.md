@@ -1,5 +1,5 @@
 ---
 title: "Daily Needs Mart"
 url: /srinagar/daily-needs-mart/
-shop: Warenhaus
+shop: department store
 ---

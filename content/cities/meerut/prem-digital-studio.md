@@ -1,5 +1,5 @@
 ---
 title: "Prem Digital Studio"
 url: /meerut/prem-digital-studio/
-shop: Foto
+shop: photo
 ---

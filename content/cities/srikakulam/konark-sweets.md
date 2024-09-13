@@ -1,5 +1,5 @@
 ---
 title: "Konark Sweets"
 url: /srikakulam/konark-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

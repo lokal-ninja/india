@@ -1,5 +1,5 @@
 ---
 title: "Trendswheel"
 url: /jaipur/trendswheel/
-shop: Supermarkt
+shop: supermarket
 ---

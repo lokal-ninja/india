@@ -1,5 +1,5 @@
 ---
 title: "Brothers Tyers"
 url: /thachampara/brothers-tyers/
-shop: Reifen
+shop: tyres
 ---

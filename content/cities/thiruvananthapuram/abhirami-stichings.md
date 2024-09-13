@@ -1,5 +1,5 @@
 ---
 title: "Abhirami Stichings"
 url: /thiruvananthapuram/abhirami-stichings/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mystore"
 url: /khammam/mystore/
-shop: Supermarkt
+shop: supermarket
 ---

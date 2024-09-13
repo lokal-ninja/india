@@ -1,5 +1,5 @@
 ---
 title: "Blackberrys"
 url: /gurgaon/blackberrys/
-shop: Kleidung
+shop: clothes
 ---

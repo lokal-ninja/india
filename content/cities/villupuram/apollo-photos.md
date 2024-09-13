@@ -1,5 +1,5 @@
 ---
 title: "Apollo Photos"
 url: /villupuram/apollo-photos/
-shop: Foto
+shop: photo
 ---

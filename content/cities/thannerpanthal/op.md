@@ -1,5 +1,5 @@
 ---
 title: "OP"
 url: /thannerpanthal/op/
-shop: Allgemein
+shop: shop
 ---

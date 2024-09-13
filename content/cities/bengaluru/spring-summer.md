@@ -1,5 +1,5 @@
 ---
 title: "Spring Summer"
 url: /bengaluru/spring-summer/
-shop: Kleidung
+shop: clothes
 ---

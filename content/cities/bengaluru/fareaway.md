@@ -1,5 +1,5 @@
 ---
 title: "Fareaway"
 url: /bengaluru/fareaway/
-shop: Lebensmittel
+shop: convenience
 ---

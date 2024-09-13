@@ -1,5 +1,5 @@
 ---
 title: "Hub Outdoor"
 url: /ghoom/hub-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

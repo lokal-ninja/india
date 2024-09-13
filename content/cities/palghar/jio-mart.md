@@ -1,5 +1,5 @@
 ---
 title: "Jio Mart"
 url: /palghar/jio-mart/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vishnusree stationery unit"
 url: /kollam/vishnusree-stationery-unit/
-shop: Schreibwaren
+shop: office supplies
 ---

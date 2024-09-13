@@ -1,5 +1,5 @@
 ---
 title: "Charu Villa"
 url: /jabalpur/charu-villa/
-shop: Gasflaschen
+shop: gas
 ---

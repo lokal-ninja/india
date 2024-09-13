@@ -1,5 +1,5 @@
 ---
 title: "Spykar"
 url: /thane/spykar/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuba Thamarassery"
 url: /thamarassery/cuba-thamarassery/
-shop: Kleidung
+shop: clothes
 ---

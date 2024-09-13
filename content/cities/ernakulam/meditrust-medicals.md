@@ -1,5 +1,5 @@
 ---
 title: "Meditrust Medicals"
 url: /ernakulam/meditrust-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

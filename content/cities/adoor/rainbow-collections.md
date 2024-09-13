@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Collections"
 url: /adoor/rainbow-collections/
-shop: Kleidung
+shop: clothes
 ---

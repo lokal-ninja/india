@@ -1,5 +1,5 @@
 ---
 title: "Mina Opticals"
 url: /kolkata/mina-opticals/
-shop: Optiker
+shop: optician
 ---

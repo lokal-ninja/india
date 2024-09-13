@@ -1,5 +1,5 @@
 ---
 title: "Lakshmi Dairy"
 url: /delhi/lakshmi-dairy/
-shop: Milch
+shop: dairy
 ---

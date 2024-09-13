@@ -1,5 +1,5 @@
 ---
 title: "tau diesal workshop"
 url: /gurugram/tau-diesal-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

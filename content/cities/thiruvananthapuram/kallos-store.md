@@ -1,5 +1,5 @@
 ---
 title: "Kallos store"
 url: /thiruvananthapuram/kallos-store/
-shop: Allgemein
+shop: shop
 ---

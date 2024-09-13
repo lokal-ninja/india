@@ -1,5 +1,5 @@
 ---
 title: "Little me"
 url: /pune/little-me/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amartex"
 url: /kumharsain/amartex/
-shop: Supermarkt
+shop: supermarket
 ---

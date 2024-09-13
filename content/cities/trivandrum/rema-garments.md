@@ -1,5 +1,5 @@
 ---
 title: "Rema Garments"
 url: /trivandrum/rema-garments/
-shop: Kleidung
+shop: clothes
 ---

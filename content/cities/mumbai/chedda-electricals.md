@@ -1,5 +1,5 @@
 ---
 title: "Chedda Electricals"
 url: /mumbai/chedda-electricals/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raipur Electronics"
 url: /jaynagar-majilpur/raipur-electronics/
-shop: Elektronik
+shop: electronics
 ---

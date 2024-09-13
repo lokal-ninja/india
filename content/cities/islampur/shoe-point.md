@@ -1,5 +1,5 @@
 ---
 title: "Shoe Point"
 url: /islampur/shoe-point/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Groceries Store"
 url: /vizianagaram/groceries-store/
-shop: Lebensmittel
+shop: convenience
 ---

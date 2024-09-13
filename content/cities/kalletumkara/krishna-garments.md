@@ -1,5 +1,5 @@
 ---
 title: "Krishna Garments"
 url: /kalletumkara/krishna-garments/
-shop: Kleidung
+shop: clothes
 ---

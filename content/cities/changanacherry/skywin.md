@@ -1,5 +1,5 @@
 ---
 title: "Skywin"
 url: /changanacherry/skywin/
-shop: Haushaltsgeräte
+shop: appliance
 ---

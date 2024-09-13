@@ -1,5 +1,5 @@
 ---
 title: "srivani"
 url: /sangareddy/srivani/
-shop: Supermarkt
+shop: supermarket
 ---

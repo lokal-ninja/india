@@ -1,5 +1,5 @@
 ---
 title: "Browsing World"
 url: /gingee/browsing-world/
-shop: Computer
+shop: computer
 ---

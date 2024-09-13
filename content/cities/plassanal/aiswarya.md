@@ -1,5 +1,5 @@
 ---
 title: "aiswarya"
 url: /plassanal/aiswarya/
-shop: Kosmetik
+shop: beauty
 ---

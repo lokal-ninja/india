@@ -1,5 +1,5 @@
 ---
 title: "Rigyel Hardware"
 url: /samtse/rigyel-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

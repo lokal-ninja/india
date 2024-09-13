@@ -1,5 +1,5 @@
 ---
 title: "Clothing Bar"
 url: /fatehabad/clothing-bar/
-shop: Supermarkt
+shop: supermarket
 ---

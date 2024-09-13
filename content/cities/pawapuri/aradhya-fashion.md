@@ -1,5 +1,5 @@
 ---
 title: "Aradhya Fashion"
 url: /pawapuri/aradhya-fashion/
-shop: Kleidung
+shop: clothes
 ---

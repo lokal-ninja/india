@@ -1,5 +1,5 @@
 ---
 title: "Luxmi Bakery"
 url: /palampur/luxmi-bakery/
-shop: Bäckerei
+shop: bakery
 ---

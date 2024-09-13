@@ -1,5 +1,5 @@
 ---
 title: "Abhi store"
 url: /thiruvananthapuram/abhi-store/
-shop: Dorfladen
+shop: general
 ---

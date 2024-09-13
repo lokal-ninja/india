@@ -1,5 +1,5 @@
 ---
 title: "Green Chilly"
 url: /mukkannam/green-chilly/
-shop: Tee
+shop: tea
 ---

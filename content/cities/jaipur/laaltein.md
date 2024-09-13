@@ -1,5 +1,5 @@
 ---
 title: "LAALTEIN"
 url: /jaipur/laaltein/
-shop: Kerzen
+shop: candles
 ---

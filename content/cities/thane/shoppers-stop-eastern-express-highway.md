@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Stop"
 url: /thane/shoppers-stop-eastern-express-highway/
-shop: Warenhaus
+shop: department store
 ---

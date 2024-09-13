@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /padanilam/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

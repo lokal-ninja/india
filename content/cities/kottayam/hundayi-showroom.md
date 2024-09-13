@@ -1,5 +1,5 @@
 ---
 title: "Hundayi Showroom"
 url: /kottayam/hundayi-showroom/
-shop: Allgemein
+shop: shop
 ---

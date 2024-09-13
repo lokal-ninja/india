@@ -1,5 +1,5 @@
 ---
 title: "Bongaon Cloth Haat"
 url: /bongaon/bongaon-cloth-haat/
-shop: Kleidung
+shop: clothes
 ---

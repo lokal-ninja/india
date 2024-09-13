@@ -1,5 +1,5 @@
 ---
 title: "Brand Yuva"
 url: /phagwara/brand-yuva/
-shop: Kleidung
+shop: clothes
 ---

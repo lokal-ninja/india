@@ -1,5 +1,5 @@
 ---
 title: "INDIHOLIC"
 url: /bangalore/indiholic/
-shop: Kleidung
+shop: clothes
 ---

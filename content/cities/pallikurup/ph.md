@@ -1,5 +1,5 @@
 ---
 title: "PH"
 url: /pallikurup/ph/
-shop: Handy
+shop: mobile phone
 ---

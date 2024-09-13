@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Supermart"
 url: /mangaluru/sunrise-supermart/
-shop: Lebensmittel
+shop: convenience
 ---

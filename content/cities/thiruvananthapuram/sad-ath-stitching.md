@@ -1,5 +1,5 @@
 ---
 title: "Sad ath stitching"
 url: /thiruvananthapuram/sad-ath-stitching/
-shop: Schneiderei
+shop: tailor
 ---

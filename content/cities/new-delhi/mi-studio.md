@@ -1,5 +1,5 @@
 ---
 title: "Mi Studio"
 url: /new-delhi/mi-studio/
-shop: Handy
+shop: mobile phone
 ---

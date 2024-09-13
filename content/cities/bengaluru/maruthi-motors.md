@@ -1,5 +1,5 @@
 ---
 title: "Maruthi motors"
 url: /bengaluru/maruthi-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

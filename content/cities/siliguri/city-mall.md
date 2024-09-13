@@ -1,5 +1,5 @@
 ---
 title: "City Mall"
 url: /siliguri/city-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

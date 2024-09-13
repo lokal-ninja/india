@@ -1,5 +1,5 @@
 ---
 title: "Happy Birthday Wishes"
 url: /kolkata/happy-birthday-wishes/
-shop: Supermarkt
+shop: supermarket
 ---

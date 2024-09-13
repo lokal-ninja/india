@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /elamakkara-kochi-kerala/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

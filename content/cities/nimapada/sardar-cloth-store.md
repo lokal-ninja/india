@@ -1,5 +1,5 @@
 ---
 title: "Sardar Cloth Store"
 url: /nimapada/sardar-cloth-store/
-shop: Kleidung
+shop: clothes
 ---

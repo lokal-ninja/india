@@ -1,5 +1,5 @@
 ---
 title: "Home Center"
 url: /bengaluru/home-center/
-shop: Raumausstattung
+shop: interior decoration
 ---

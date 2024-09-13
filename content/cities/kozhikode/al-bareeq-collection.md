@@ -1,5 +1,5 @@
 ---
 title: "Al Bareeq Collection"
 url: /kozhikode/al-bareeq-collection/
-shop: Dorfladen
+shop: general
 ---

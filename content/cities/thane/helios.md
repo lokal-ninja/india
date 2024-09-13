@@ -1,5 +1,5 @@
 ---
 title: "Helios"
 url: /thane/helios/
-shop: Elektronik
+shop: electronics
 ---

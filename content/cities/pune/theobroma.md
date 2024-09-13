@@ -1,5 +1,5 @@
 ---
 title: "Theobroma"
 url: /pune/theobroma/
-shop: Bäckerei
+shop: bakery
 ---

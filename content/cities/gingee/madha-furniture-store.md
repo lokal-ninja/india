@@ -1,5 +1,5 @@
 ---
 title: "Madha Furniture Store"
 url: /gingee/madha-furniture-store/
-shop: Möbel
+shop: furniture
 ---

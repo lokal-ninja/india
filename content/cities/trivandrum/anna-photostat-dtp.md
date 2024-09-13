@@ -1,5 +1,5 @@
 ---
 title: "Anna Photostat DTP"
 url: /trivandrum/anna-photostat-dtp/
-shop: Kopieren
+shop: copyshop
 ---

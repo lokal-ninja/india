@@ -1,5 +1,5 @@
 ---
 title: "Nandlal Kushwaha General Store"
 url: /robertsganj/nandlal-kushwaha-general-store/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DJI"
 url: /bengaluru/dji/
-shop: Elektronik
+shop: electronics
 ---

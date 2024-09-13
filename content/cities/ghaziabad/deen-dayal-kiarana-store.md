@@ -1,5 +1,5 @@
 ---
 title: "Deen Dayal Kiarana Store"
 url: /ghaziabad/deen-dayal-kiarana-store/
-shop: Lebensmittel
+shop: convenience
 ---

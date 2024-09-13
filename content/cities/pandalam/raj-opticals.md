@@ -1,5 +1,5 @@
 ---
 title: "Raj Opticals"
 url: /pandalam/raj-opticals/
-shop: Optiker
+shop: optician
 ---

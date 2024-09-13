@@ -1,5 +1,5 @@
 ---
 title: "Sumi Medicals"
 url: /palakkad/sumi-medicals/
-shop: Drogerie
+shop: chemist
 ---

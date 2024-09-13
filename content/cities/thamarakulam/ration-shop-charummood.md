@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /thamarakulam/ration-shop-charummood/
-shop: Allgemein
+shop: shop
 ---

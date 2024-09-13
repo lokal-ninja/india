@@ -1,5 +1,5 @@
 ---
 title: "Arokya"
 url: /davanagere/arokya/
-shop: Milch
+shop: dairy
 ---

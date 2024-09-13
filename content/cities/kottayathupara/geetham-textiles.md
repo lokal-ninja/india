@@ -1,5 +1,5 @@
 ---
 title: "Geetham Textiles"
 url: /kottayathupara/geetham-textiles/
-shop: Kleidung
+shop: clothes
 ---

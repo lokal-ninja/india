@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kunnathupalam/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

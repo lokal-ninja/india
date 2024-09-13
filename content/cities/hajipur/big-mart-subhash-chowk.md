@@ -1,5 +1,5 @@
 ---
 title: "Big Mart"
 url: /hajipur/big-mart-subhash-chowk/
-shop: Kleidung
+shop: clothes
 ---

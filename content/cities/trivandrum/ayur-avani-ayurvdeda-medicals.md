@@ -1,5 +1,5 @@
 ---
 title: "Ayur Avani Ayurvdeda Medicals"
 url: /trivandrum/ayur-avani-ayurvdeda-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

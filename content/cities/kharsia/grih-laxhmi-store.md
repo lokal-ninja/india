@@ -1,5 +1,5 @@
 ---
 title: "grih laxhmi store"
 url: /kharsia/grih-laxhmi-store/
-shop: Dorfladen
+shop: general
 ---

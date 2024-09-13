@@ -1,5 +1,5 @@
 ---
 title: "Anu Stores"
 url: /pandalam/anu-stores/
-shop: Lebensmittel
+shop: convenience
 ---

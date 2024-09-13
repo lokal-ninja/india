@@ -1,5 +1,5 @@
 ---
 title: "Power Electricals"
 url: /kothamangalam/power-electricals/
-shop: Elektrisch
+shop: electrical
 ---

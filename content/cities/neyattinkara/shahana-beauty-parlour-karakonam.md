@@ -1,5 +1,5 @@
 ---
 title: "Shahana Beauty Parlour,Karakonam"
 url: /neyattinkara/shahana-beauty-parlour-karakonam/
-shop: Kosmetik
+shop: beauty
 ---

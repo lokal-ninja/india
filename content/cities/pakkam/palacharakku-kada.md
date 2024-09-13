@@ -1,5 +1,5 @@
 ---
 title: "Palacharakku kada"
 url: /pakkam/palacharakku-kada/
-shop: Lebensmittel
+shop: convenience
 ---

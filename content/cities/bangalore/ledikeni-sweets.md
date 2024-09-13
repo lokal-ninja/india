@@ -1,5 +1,5 @@
 ---
 title: "Ledikeni Sweets"
 url: /bangalore/ledikeni-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

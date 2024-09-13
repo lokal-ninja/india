@@ -1,5 +1,5 @@
 ---
 title: "pdp"
 url: /mumbai/pdp/
-shop: Bäckerei
+shop: bakery
 ---

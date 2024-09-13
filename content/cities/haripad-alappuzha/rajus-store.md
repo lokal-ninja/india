@@ -1,5 +1,5 @@
 ---
 title: "Raju's Store"
 url: /haripad-alappuzha/rajus-store/
-shop: Dorfladen
+shop: general
 ---

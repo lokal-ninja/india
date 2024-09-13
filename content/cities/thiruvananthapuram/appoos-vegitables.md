@@ -1,5 +1,5 @@
 ---
 title: "Appoos vegitables"
 url: /thiruvananthapuram/appoos-vegitables/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

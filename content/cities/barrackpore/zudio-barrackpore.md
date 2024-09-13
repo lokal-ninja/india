@@ -1,5 +1,5 @@
 ---
 title: "zudio barrackpore"
 url: /barrackpore/zudio-barrackpore/
-shop: Kleidung
+shop: clothes
 ---

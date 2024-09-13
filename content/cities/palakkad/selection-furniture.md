@@ -1,5 +1,5 @@
 ---
 title: "Selection Furniture"
 url: /palakkad/selection-furniture/
-shop: Möbel
+shop: furniture
 ---

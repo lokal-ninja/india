@@ -1,6 +1,6 @@
 ---
 title: Kulapadam
 url: /kulapadam/
-latitude: 10.958
+latitude: 10.957
 longitude: 76.477
 ---

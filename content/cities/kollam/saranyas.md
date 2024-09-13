@@ -1,5 +1,5 @@
 ---
 title: "Saranyas"
 url: /kollam/saranyas/
-shop: Allgemein
+shop: shop
 ---

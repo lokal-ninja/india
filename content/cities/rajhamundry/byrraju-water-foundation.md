@@ -1,5 +1,5 @@
 ---
 title: "Byrraju Water Foundation"
 url: /rajhamundry/byrraju-water-foundation/
-shop: Wasser
+shop: water
 ---

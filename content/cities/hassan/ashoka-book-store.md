@@ -1,5 +1,5 @@
 ---
 title: "Ashoka Book Store"
 url: /hassan/ashoka-book-store/
-shop: Schreibwaren
+shop: office supplies
 ---

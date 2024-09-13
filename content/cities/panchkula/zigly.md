@@ -1,5 +1,5 @@
 ---
 title: "Zigly"
 url: /panchkula/zigly/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AKS"
 url: /karakkurussi/aks/
-shop: Eisenwaren
+shop: hardware
 ---

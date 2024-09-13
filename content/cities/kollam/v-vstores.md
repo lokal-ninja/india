@@ -1,5 +1,5 @@
 ---
 title: "V Vstores"
 url: /kollam/v-vstores/
-shop: Dorfladen
+shop: general
 ---

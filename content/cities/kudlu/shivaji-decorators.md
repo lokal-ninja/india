@@ -1,5 +1,5 @@
 ---
 title: "Shivaji Decorators"
 url: /kudlu/shivaji-decorators/
-shop: Raumausstattung
+shop: interior decoration
 ---

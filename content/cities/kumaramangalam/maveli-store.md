@@ -1,5 +1,5 @@
 ---
 title: "Maveli Store"
 url: /kumaramangalam/maveli-store/
-shop: Lebensmittel
+shop: convenience
 ---

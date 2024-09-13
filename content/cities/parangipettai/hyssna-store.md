@@ -1,5 +1,5 @@
 ---
 title: "Hyssna Store"
 url: /parangipettai/hyssna-store/
-shop: Warenhaus
+shop: department store
 ---

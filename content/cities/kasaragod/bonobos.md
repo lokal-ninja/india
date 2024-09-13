@@ -1,5 +1,5 @@
 ---
 title: "BONOBOS"
 url: /kasaragod/bonobos/
-shop: Kleidung
+shop: clothes
 ---

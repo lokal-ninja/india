@@ -1,5 +1,5 @@
 ---
 title: "Abhys spaces"
 url: /kollam/abhys-spaces/
-shop: Allgemein
+shop: shop
 ---

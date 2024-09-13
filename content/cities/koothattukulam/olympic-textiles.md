@@ -1,5 +1,5 @@
 ---
 title: "Olympic textiles"
 url: /koothattukulam/olympic-textiles/
-shop: Kleidung
+shop: clothes
 ---

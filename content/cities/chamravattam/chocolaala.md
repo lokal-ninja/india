@@ -1,5 +1,5 @@
 ---
 title: "Chocolaala"
 url: /chamravattam/chocolaala/
-shop: Süßwaren
+shop: confectionery
 ---

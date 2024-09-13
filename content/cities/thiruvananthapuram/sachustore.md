@@ -1,5 +1,5 @@
 ---
 title: "Sachustore"
 url: /thiruvananthapuram/sachustore/
-shop: Allgemein
+shop: shop
 ---

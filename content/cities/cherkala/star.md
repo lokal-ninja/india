@@ -1,5 +1,5 @@
 ---
 title: "Star"
 url: /cherkala/star/
-shop: Elektrisch
+shop: electrical
 ---

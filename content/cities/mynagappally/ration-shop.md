@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /mynagappally/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

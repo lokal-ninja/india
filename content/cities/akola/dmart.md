@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /akola/dmart/
-shop: Supermarkt
+shop: supermarket
 ---

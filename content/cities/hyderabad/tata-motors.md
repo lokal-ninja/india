@@ -1,5 +1,5 @@
 ---
 title: "Tata Motors"
 url: /hyderabad/tata-motors/
-shop: Autohaus
+shop: car
 ---

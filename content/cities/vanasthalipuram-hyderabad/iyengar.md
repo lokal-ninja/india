@@ -1,5 +1,5 @@
 ---
 title: "Iyengar"
 url: /vanasthalipuram-hyderabad/iyengar/
-shop: Bäckerei
+shop: bakery
 ---

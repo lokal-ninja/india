@@ -1,5 +1,5 @@
 ---
 title: "Digix Mobile Store"
 url: /calicut/digix-mobile-store/
-shop: Handy
+shop: mobile phone
 ---

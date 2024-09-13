@@ -1,5 +1,5 @@
 ---
 title: "Paro perfumes"
 url: /dehradun/paro-perfumes/
-shop: Supermarkt
+shop: supermarket
 ---

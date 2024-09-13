@@ -1,5 +1,5 @@
 ---
 title: "Perfect Dry Cleaning Experts"
 url: /noida/perfect-dry-cleaning-experts/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OdhavMobs Telecom"
 url: /talod/odhavmobs-telecom/
-shop: Handy
+shop: mobile phone
 ---

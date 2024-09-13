@@ -1,5 +1,5 @@
 ---
 title: "Meloottu Stores"
 url: /konni/meloottu-stores/
-shop: Supermarkt
+shop: supermarket
 ---

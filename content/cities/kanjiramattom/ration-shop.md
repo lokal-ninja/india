@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /kanjiramattom/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

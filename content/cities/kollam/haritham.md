@@ -1,5 +1,5 @@
 ---
 title: "Haritham"
 url: /kollam/haritham/
-shop: Allgemein
+shop: shop
 ---

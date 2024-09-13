@@ -1,5 +1,5 @@
 ---
 title: "Grand Fresh"
 url: /kozhikode/grand-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

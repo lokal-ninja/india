@@ -1,5 +1,5 @@
 ---
 title: "Sivaragam"
 url: /kollam/sivaragam/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tata"
 url: /perinthalmanna/tata/
-shop: Autowerkstatt
+shop: car repair
 ---

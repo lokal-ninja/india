@@ -1,5 +1,5 @@
 ---
 title: "Providence Abode"
 url: /dimapur/providence-abode/
-shop: Einkaufszentrum
+shop: mall
 ---

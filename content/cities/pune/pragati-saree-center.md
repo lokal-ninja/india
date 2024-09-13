@@ -1,5 +1,5 @@
 ---
 title: "Pragati Saree Center"
 url: /pune/pragati-saree-center/
-shop: Kleidung
+shop: clothes
 ---

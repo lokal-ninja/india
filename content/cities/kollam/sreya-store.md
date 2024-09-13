@@ -1,5 +1,5 @@
 ---
 title: "Sreya Store"
 url: /kollam/sreya-store/
-shop: Allgemein
+shop: shop
 ---

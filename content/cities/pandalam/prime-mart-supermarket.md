@@ -1,5 +1,5 @@
 ---
 title: "Prime Mart Supermarket"
 url: /pandalam/prime-mart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

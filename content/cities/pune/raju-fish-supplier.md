@@ -1,5 +1,5 @@
 ---
 title: "Raju Fish supplier"
 url: /pune/raju-fish-supplier/
-shop: Fisch
+shop: seafood
 ---

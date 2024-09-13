@@ -1,5 +1,5 @@
 ---
 title: "Juneja telecom"
 url: /jalandhar/juneja-telecom/
-shop: Andenken
+shop: gift
 ---

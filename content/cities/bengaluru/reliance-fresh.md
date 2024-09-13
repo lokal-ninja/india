@@ -1,5 +1,5 @@
 ---
 title: "Reliance Fresh"
 url: /bengaluru/reliance-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

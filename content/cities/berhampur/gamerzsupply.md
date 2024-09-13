@@ -1,5 +1,5 @@
 ---
 title: "GAMERZSUPPLY"
 url: /berhampur/gamerzsupply/
-shop: Videospiele
+shop: video games
 ---

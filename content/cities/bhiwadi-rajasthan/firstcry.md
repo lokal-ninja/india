@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /bhiwadi-rajasthan/firstcry/
-shop: Babysachen
+shop: baby goods
 ---

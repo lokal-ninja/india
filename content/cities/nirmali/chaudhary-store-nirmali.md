@@ -1,5 +1,5 @@
 ---
 title: "Chaudhary Store, Nirmali"
 url: /nirmali/chaudhary-store-nirmali/
-shop: Supermarkt
+shop: supermarket
 ---

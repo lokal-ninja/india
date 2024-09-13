@@ -1,5 +1,5 @@
 ---
 title: "Kalluvila Moto Suit"
 url: /ayoor/kalluvila-moto-suit/
-shop: Autoteile
+shop: car parts
 ---

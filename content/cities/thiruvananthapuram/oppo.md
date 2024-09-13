@@ -1,5 +1,5 @@
 ---
 title: "Oppo"
 url: /thiruvananthapuram/oppo/
-shop: Handy
+shop: mobile phone
 ---

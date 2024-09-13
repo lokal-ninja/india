@@ -1,5 +1,5 @@
 ---
 title: "Surya Mobles"
 url: /ponnani/surya-mobles/
-shop: Handy
+shop: mobile phone
 ---

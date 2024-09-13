@@ -1,5 +1,5 @@
 ---
 title: "Souradh Kirana"
 url: /sagar/souradh-kirana/
-shop: Supermarkt
+shop: supermarket
 ---

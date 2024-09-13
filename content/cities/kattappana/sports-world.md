@@ -1,5 +1,5 @@
 ---
 title: "Sports World"
 url: /kattappana/sports-world/
-shop: Sport
+shop: sports
 ---

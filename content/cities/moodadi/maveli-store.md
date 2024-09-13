@@ -1,5 +1,5 @@
 ---
 title: "Maveli Store"
 url: /moodadi/maveli-store/
-shop: Lebensmittel
+shop: convenience
 ---

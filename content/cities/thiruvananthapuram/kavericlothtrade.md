@@ -1,5 +1,5 @@
 ---
 title: "Kavericlothtrade"
 url: /thiruvananthapuram/kavericlothtrade/
-shop: Kleidung
+shop: clothes
 ---

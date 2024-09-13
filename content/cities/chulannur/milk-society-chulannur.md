@@ -1,5 +1,5 @@
 ---
 title: "Milk Society, Chulannur"
 url: /chulannur/milk-society-chulannur/
-shop: Milch
+shop: dairy
 ---

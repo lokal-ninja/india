@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /sooranadu-north/ration-shop-3/
-shop: Lebensmittel
+shop: convenience
 ---

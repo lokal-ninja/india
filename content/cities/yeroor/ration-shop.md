@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /yeroor/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

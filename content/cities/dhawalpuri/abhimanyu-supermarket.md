@@ -1,5 +1,5 @@
 ---
 title: "Abhimanyu Supermarket"
 url: /dhawalpuri/abhimanyu-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

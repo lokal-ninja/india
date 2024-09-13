@@ -1,5 +1,5 @@
 ---
 title: "Hoysala Honda"
 url: /hassan/hoysala-honda/
-shop: Motorrad
+shop: motorcycle
 ---

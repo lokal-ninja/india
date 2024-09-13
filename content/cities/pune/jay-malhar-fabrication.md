@@ -1,5 +1,5 @@
 ---
 title: "Jay Malhar Fabrication"
 url: /pune/jay-malhar-fabrication/
-shop: Möbel
+shop: furniture
 ---

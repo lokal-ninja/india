@@ -1,5 +1,5 @@
 ---
 title: "zehra"
 url: /pathanadu/zehra/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sreevinayaka fancy stores"
 url: /kollam/sreevinayaka-fancy-stores/
-shop: Modehaus
+shop: boutique
 ---

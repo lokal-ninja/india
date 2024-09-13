@@ -1,5 +1,5 @@
 ---
 title: "Fair and glow beautiparlor"
 url: /kollam/fair-and-glow-beautiparlor/
-shop: Kosmetik
+shop: beauty
 ---

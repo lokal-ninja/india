@@ -1,5 +1,5 @@
 ---
 title: "Chaman Ladies Tailors"
 url: /sagar/chaman-ladies-tailors/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chakiripadam Stores"
 url: /nedumkuzhy/chakiripadam-stores/
-shop: Allgemein
+shop: shop
 ---

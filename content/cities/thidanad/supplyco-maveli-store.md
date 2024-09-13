@@ -1,5 +1,5 @@
 ---
 title: "Supplyco Maveli Store"
 url: /thidanad/supplyco-maveli-store/
-shop: Warenhaus
+shop: department store
 ---

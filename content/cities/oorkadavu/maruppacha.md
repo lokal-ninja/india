@@ -1,5 +1,5 @@
 ---
 title: "maruppacha"
 url: /oorkadavu/maruppacha/
-shop: Bäckerei
+shop: bakery
 ---

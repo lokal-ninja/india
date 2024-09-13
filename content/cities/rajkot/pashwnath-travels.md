@@ -1,5 +1,5 @@
 ---
 title: "Pashwnath Travels"
 url: /rajkot/pashwnath-travels/
-shop: Reisebüro
+shop: travel agency
 ---

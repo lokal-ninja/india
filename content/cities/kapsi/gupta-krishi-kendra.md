@@ -1,5 +1,5 @@
 ---
 title: "Gupta Krishi Kendra"
 url: /kapsi/gupta-krishi-kendra/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

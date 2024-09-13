@@ -1,5 +1,5 @@
 ---
 title: "Star Bazar"
 url: /bangalore/star-bazar-nagarabhavi-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ubaid's General Store"
 url: /nowshera/ubaids-general-store/
-shop: Dorfladen
+shop: general
 ---

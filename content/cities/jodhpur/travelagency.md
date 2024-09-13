@@ -1,5 +1,5 @@
 ---
 title: "TravelAgency"
 url: /jodhpur/travelagency/
-shop: Reisebüro
+shop: travel agency
 ---

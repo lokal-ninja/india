@@ -1,5 +1,5 @@
 ---
 title: "TRENDS"
 url: /kasargod/trends/
-shop: Kleidung
+shop: clothes
 ---

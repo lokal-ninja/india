@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
 url: /keezhampara/bevco/
-shop: Spirituosen
+shop: alcohol
 ---

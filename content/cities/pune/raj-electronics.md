@@ -1,5 +1,5 @@
 ---
 title: "Raj Electronics"
 url: /pune/raj-electronics/
-shop: Elektronik
+shop: electronics
 ---

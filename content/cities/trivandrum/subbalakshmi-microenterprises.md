@@ -1,5 +1,5 @@
 ---
 title: "Subbalakshmi Microenterprises"
 url: /trivandrum/subbalakshmi-microenterprises/
-shop: Allgemein
+shop: shop
 ---

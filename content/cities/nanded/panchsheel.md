@@ -1,5 +1,5 @@
 ---
 title: "Panchsheel"
 url: /nanded/panchsheel/
-shop: Kleidung
+shop: clothes
 ---

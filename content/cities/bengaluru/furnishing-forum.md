@@ -1,5 +1,5 @@
 ---
 title: "Furnishing Forum"
 url: /bengaluru/furnishing-forum/
-shop: Raumausstattung
+shop: interior decoration
 ---

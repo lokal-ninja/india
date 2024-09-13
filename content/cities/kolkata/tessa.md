@@ -1,5 +1,5 @@
 ---
 title: "Tessa"
 url: /kolkata/tessa/
-shop: Spirituosen
+shop: alcohol
 ---

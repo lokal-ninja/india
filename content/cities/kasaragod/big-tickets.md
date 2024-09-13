@@ -1,5 +1,5 @@
 ---
 title: "BIG TICKETS"
 url: /kasaragod/big-tickets/
-shop: Reisebüro
+shop: travel agency
 ---

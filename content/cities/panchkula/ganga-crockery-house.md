@@ -1,5 +1,5 @@
 ---
 title: "Ganga Crockery House"
 url: /panchkula/ganga-crockery-house/
-shop: Haushaltsartikel
+shop: houseware
 ---

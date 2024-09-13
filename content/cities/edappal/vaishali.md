@@ -1,5 +1,5 @@
 ---
 title: "VAISHALI"
 url: /edappal/vaishali/
-shop: Schmuck
+shop: jewelry
 ---

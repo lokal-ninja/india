@@ -1,5 +1,5 @@
 ---
 title: "Girias Shivamogga"
 url: /shivamogga/girias-shivamogga/
-shop: Elektronik
+shop: electronics
 ---

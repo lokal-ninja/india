@@ -1,5 +1,5 @@
 ---
 title: "XTREME"
 url: /kasaragod/xtreme/
-shop: Handy
+shop: mobile phone
 ---

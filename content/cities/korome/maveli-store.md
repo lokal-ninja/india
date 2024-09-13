@@ -1,5 +1,5 @@
 ---
 title: "Maveli Store"
 url: /korome/maveli-store/
-shop: Lebensmittel
+shop: convenience
 ---

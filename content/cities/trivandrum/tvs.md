@@ -1,5 +1,5 @@
 ---
 title: "TVS"
 url: /trivandrum/tvs/
-shop: Motorrad
+shop: motorcycle
 ---

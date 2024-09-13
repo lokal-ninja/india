@@ -1,5 +1,5 @@
 ---
 title: "Flying Machine"
 url: /thane/flying-machine/
-shop: Kleidung
+shop: clothes
 ---

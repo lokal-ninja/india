@@ -1,5 +1,5 @@
 ---
 title: "Rahath Stores"
 url: /kanjiramattom/rahath-stores/
-shop: Lebensmittel
+shop: convenience
 ---

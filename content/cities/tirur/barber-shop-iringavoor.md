@@ -1,5 +1,5 @@
 ---
 title: "Barber shop"
 url: /tirur/barber-shop-iringavoor/
-shop: Friseur
+shop: hairdresser
 ---

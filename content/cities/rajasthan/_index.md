@@ -1,6 +1,6 @@
 ---
 title: Rajasthan
 url: /rajasthan/
-latitude: 26.093
-longitude: 74.309
+latitude: 25.151
+longitude: 73.08
 ---

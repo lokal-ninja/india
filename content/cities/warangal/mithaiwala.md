@@ -1,5 +1,5 @@
 ---
 title: "Mithaiwala"
 url: /warangal/mithaiwala/
-shop: Bäckerei
+shop: bakery
 ---

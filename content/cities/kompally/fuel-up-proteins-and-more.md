@@ -1,5 +1,5 @@
 ---
 title: "Fuel Up Proteins and More"
 url: /kompally/fuel-up-proteins-and-more/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

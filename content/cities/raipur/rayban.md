@@ -1,5 +1,5 @@
 ---
 title: "Rayban"
 url: /raipur/rayban/
-shop: Optiker
+shop: optician
 ---

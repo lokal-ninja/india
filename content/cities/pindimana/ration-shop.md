@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /pindimana/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

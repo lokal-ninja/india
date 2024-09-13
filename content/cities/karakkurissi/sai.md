@@ -1,5 +1,5 @@
 ---
 title: "SAI"
 url: /karakkurissi/sai/
-shop: Schreibwaren
+shop: office supplies
 ---

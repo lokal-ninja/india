@@ -1,5 +1,5 @@
 ---
 title: "Juice Salon"
 url: /secunnderabad/juice-salon/
-shop: Friseur
+shop: hairdresser
 ---

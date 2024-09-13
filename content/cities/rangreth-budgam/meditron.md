@@ -1,5 +1,5 @@
 ---
 title: "Meditron"
 url: /rangreth-budgam/meditron/
-shop: Sanitätshaus
+shop: medical supply
 ---

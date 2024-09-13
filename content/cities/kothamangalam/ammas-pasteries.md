@@ -1,5 +1,5 @@
 ---
 title: "Ammas Pasteries"
 url: /kothamangalam/ammas-pasteries/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manoj Provisional Store"
 url: /nagpur/manoj-provisional-store/
-shop: Dorfladen
+shop: general
 ---

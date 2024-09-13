@@ -1,5 +1,5 @@
 ---
 title: "Rebirth tattoo studio"
 url: /amritsar/rebirth-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

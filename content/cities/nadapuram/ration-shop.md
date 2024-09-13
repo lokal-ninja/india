@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /nadapuram/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

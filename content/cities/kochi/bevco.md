@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
 url: /kochi/bevco/
-shop: Spirituosen
+shop: alcohol
 ---

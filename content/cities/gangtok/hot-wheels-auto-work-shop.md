@@ -1,5 +1,5 @@
 ---
 title: "Hot Wheels Auto Work Shop"
 url: /gangtok/hot-wheels-auto-work-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

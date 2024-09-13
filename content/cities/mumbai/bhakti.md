@@ -1,5 +1,5 @@
 ---
 title: "bhakti"
 url: /mumbai/bhakti/
-shop: Warenhaus
+shop: department store
 ---

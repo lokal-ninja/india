@@ -1,5 +1,5 @@
 ---
 title: "RIVERLEAF"
 url: /ahmedabad/riverleaf/
-shop: Kleidung
+shop: clothes
 ---

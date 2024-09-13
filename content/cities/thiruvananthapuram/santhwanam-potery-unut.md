@@ -1,5 +1,5 @@
 ---
 title: "Santhwanam potery unut"
 url: /thiruvananthapuram/santhwanam-potery-unut/
-shop: Töpferei
+shop: pottery
 ---

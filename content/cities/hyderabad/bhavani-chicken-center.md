@@ -1,5 +1,5 @@
 ---
 title: "Bhavani Chicken Center"
 url: /hyderabad/bhavani-chicken-center/
-shop: Metzgerei
+shop: butcher
 ---

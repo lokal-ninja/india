@@ -1,5 +1,5 @@
 ---
 title: "VC"
 url: /elumbulasseri/vc/
-shop: Lebensmittel
+shop: convenience
 ---

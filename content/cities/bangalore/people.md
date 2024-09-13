@@ -1,5 +1,5 @@
 ---
 title: "People"
 url: /bangalore/people/
-shop: Kleidung
+shop: clothes
 ---

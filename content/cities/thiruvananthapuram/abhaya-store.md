@@ -1,5 +1,5 @@
 ---
 title: "Abhaya store"
 url: /thiruvananthapuram/abhaya-store/
-shop: Allgemein
+shop: shop
 ---

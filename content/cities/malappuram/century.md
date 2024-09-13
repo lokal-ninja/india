@@ -1,5 +1,5 @@
 ---
 title: "Century"
 url: /malappuram/century/
-shop: Kleidung
+shop: clothes
 ---

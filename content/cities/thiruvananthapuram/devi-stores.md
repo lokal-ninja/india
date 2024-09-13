@@ -1,5 +1,5 @@
 ---
 title: "Devi Stores"
 url: /thiruvananthapuram/devi-stores/
-shop: Allgemein
+shop: shop
 ---

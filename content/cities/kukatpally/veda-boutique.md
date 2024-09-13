@@ -1,5 +1,5 @@
 ---
 title: "Veda Boutique"
 url: /kukatpally/veda-boutique/
-shop: Kleidung
+shop: clothes
 ---

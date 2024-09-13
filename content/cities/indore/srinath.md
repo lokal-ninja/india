@@ -1,5 +1,5 @@
 ---
 title: "srinath"
 url: /indore/srinath/
-shop: Reisebüro
+shop: travel agency
 ---

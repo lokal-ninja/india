@@ -1,5 +1,5 @@
 ---
 title: "mahila super market"
 url: /vanasthaslipuram-hyderabad/mahila-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

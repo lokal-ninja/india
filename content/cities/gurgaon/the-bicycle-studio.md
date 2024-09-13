@@ -1,5 +1,5 @@
 ---
 title: "The Bicycle Studio"
 url: /gurgaon/the-bicycle-studio/
-shop: Fahrrad
+shop: bicycle
 ---

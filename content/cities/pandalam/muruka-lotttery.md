@@ -1,5 +1,5 @@
 ---
 title: "Muruka Lotttery"
 url: /pandalam/muruka-lotttery/
-shop: Lotterie
+shop: lottery
 ---

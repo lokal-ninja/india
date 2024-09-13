@@ -1,5 +1,5 @@
 ---
 title: "B Kada supermarket"
 url: /kollam/b-kada-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

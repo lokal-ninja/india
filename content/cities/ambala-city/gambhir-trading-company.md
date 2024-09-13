@@ -1,5 +1,5 @@
 ---
 title: "Gambhir Trading Company"
 url: /ambala-city/gambhir-trading-company/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milk Society"
 url: /enikkara/milk-society/
-shop: Milch
+shop: dairy
 ---

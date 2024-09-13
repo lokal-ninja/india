@@ -1,5 +1,5 @@
 ---
 title: "Fly Travels"
 url: /islampur/fly-travels/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AARABDHM"
 url: /ajmer/aarabdhm/
-shop: Supermarkt
+shop: supermarket
 ---

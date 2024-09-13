@@ -1,5 +1,5 @@
 ---
 title: "Rangoli dresses"
 url: /sambalpur-odisha/rangoli-dresses/
-shop: Kleidung
+shop: clothes
 ---

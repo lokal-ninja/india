@@ -1,5 +1,5 @@
 ---
 title: "Fabindia"
 url: /new-delhi/fabindia-central-avenue/
-shop: Kleidung
+shop: clothes
 ---

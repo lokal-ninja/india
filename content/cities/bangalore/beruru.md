@@ -1,5 +1,5 @@
 ---
 title: "Beruru"
 url: /bangalore/beruru/
-shop: Garten-Center
+shop: garden centre
 ---

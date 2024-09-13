@@ -1,5 +1,5 @@
 ---
 title: "iOrganic"
 url: /delhi/iorganic/
-shop: Supermarkt
+shop: supermarket
 ---

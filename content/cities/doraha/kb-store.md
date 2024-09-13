@@ -1,5 +1,5 @@
 ---
 title: "KB Store"
 url: /doraha/kb-store/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variety Bazar"
 url: /kattappana/variety-bazar/
-shop: Andenken
+shop: gift
 ---

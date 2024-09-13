@@ -1,5 +1,5 @@
 ---
 title: "Trends"
 url: /kolkata/trends/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dressup"
 url: /palampur/dressup/
-shop: Kleidung
+shop: clothes
 ---

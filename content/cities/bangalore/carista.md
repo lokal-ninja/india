@@ -1,5 +1,5 @@
 ---
 title: "Carista"
 url: /bangalore/carista/
-shop: Autowerkstatt
+shop: car repair
 ---

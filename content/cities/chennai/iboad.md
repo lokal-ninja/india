@@ -1,5 +1,5 @@
 ---
 title: "iBoad"
 url: /chennai/iboad/
-shop: Elektronik
+shop: electronics
 ---

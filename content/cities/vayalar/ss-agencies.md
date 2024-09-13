@@ -1,5 +1,5 @@
 ---
 title: "SS AGencies"
 url: /vayalar/ss-agencies/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinnacle TATA"
 url: /thirurkkad/pinnacle-tata/
-shop: Autohaus
+shop: car
 ---

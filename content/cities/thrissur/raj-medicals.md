@@ -1,5 +1,5 @@
 ---
 title: "Raj Medicals"
 url: /thrissur/raj-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

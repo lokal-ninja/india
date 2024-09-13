@@ -1,5 +1,5 @@
 ---
 title: "hanuman travels"
 url: /hyderabad-telangana/hanuman-travels/
-shop: Reisebüro
+shop: travel agency
 ---

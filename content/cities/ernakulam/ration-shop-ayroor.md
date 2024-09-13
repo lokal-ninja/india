@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /ernakulam/ration-shop-ayroor/
-shop: Lebensmittel
+shop: convenience
 ---

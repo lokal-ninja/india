@@ -1,5 +1,5 @@
 ---
 title: "Das Enterprise"
 url: /nebadhai-duttapukur/das-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

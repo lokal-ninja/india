@@ -1,5 +1,5 @@
 ---
 title: "Nellivila Agrow"
 url: /nellikunnam/nellivila-agrow/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

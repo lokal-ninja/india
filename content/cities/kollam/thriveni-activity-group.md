@@ -1,5 +1,5 @@
 ---
 title: "Thriveni Activity Group"
 url: /kollam/thriveni-activity-group/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vero Moda"
 url: /bengaluru/vero-moda/
-shop: Kleidung
+shop: clothes
 ---

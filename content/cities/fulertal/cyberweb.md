@@ -1,5 +1,5 @@
 ---
 title: "CyberWeb"
 url: /fulertal/cyberweb/
-shop: Elektronik
+shop: electronics
 ---

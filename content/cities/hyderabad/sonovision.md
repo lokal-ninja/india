@@ -1,5 +1,5 @@
 ---
 title: "Sonovision"
 url: /hyderabad/sonovision/
-shop: Elektronik
+shop: electronics
 ---

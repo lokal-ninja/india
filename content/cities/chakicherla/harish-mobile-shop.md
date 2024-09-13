@@ -1,5 +1,5 @@
 ---
 title: "Harish mobile shop"
 url: /chakicherla/harish-mobile-shop/
-shop: Handy
+shop: mobile phone
 ---

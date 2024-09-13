@@ -1,5 +1,5 @@
 ---
 title: "SIVA HAIRSTYLES"
 url: /avanigadda/siva-hairstyles/
-shop: Friseur
+shop: hairdresser
 ---

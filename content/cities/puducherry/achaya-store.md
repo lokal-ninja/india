@@ -1,5 +1,5 @@
 ---
 title: "Achaya Store"
 url: /puducherry/achaya-store/
-shop: Lebensmittel
+shop: convenience
 ---

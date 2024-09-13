@@ -1,5 +1,5 @@
 ---
 title: "Vodafone Mini Stoar"
 url: /mumbai/vodafone-mini-stoar/
-shop: Handy
+shop: mobile phone
 ---

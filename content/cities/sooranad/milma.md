@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /sooranad/milma/
-shop: Milch
+shop: dairy
 ---

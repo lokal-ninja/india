@@ -1,5 +1,5 @@
 ---
 title: "Pakkam"
 url: /pakkam/pakkam-pakkam-3/
-shop: Lebensmittel
+shop: convenience
 ---

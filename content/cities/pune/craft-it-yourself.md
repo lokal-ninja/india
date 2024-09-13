@@ -1,5 +1,5 @@
 ---
 title: "Craft It Yourself"
 url: /pune/craft-it-yourself/
-shop: Baumarkt
+shop: doityourself
 ---

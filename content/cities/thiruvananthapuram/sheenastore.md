@@ -1,5 +1,5 @@
 ---
 title: "Sheenastore"
 url: /thiruvananthapuram/sheenastore/
-shop: Dorfladen
+shop: general
 ---

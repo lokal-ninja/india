@@ -1,5 +1,5 @@
 ---
 title: "Halal Chicken center"
 url: /kovvalpally/halal-chicken-center/
-shop: Metzgerei
+shop: butcher
 ---

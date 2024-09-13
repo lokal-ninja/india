@@ -1,5 +1,5 @@
 ---
 title: "RcmStores"
 url: /puthuppally/rcmstores/
-shop: Schreibwaren
+shop: office supplies
 ---

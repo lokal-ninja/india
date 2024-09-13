@@ -1,5 +1,5 @@
 ---
 title: "Archana textiles"
 url: /ezhukone/archana-textiles/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swaraj Tractors"
 url: /davangere/swaraj-tractors/
-shop: Autohaus
+shop: car
 ---

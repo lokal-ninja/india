@@ -1,5 +1,5 @@
 ---
 title: "Madni Telecom"
 url: /mumbai/madni-telecom/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aswathi Stores"
 url: /vellinezhi/aswathi-stores/
-shop: Kramladen
+shop: variety store
 ---

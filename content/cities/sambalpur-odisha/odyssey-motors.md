@@ -1,5 +1,5 @@
 ---
 title: "Odyssey Motors"
 url: /sambalpur-odisha/odyssey-motors/
-shop: Autohaus
+shop: car
 ---

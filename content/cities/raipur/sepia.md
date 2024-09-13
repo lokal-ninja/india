@@ -1,5 +1,5 @@
 ---
 title: "Sepia"
 url: /raipur/sepia/
-shop: Kleidung
+shop: clothes
 ---

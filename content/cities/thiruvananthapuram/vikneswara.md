@@ -1,5 +1,5 @@
 ---
 title: "Vikneswara"
 url: /thiruvananthapuram/vikneswara/
-shop: Allgemein
+shop: shop
 ---

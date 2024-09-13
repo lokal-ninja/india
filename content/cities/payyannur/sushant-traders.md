@@ -1,5 +1,5 @@
 ---
 title: "Sushant traders"
 url: /payyannur/sushant-traders/
-shop: Modellbau
+shop: model
 ---

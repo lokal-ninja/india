@@ -1,5 +1,5 @@
 ---
 title: "suber"
 url: /vennikulam/suber/
-shop: Allgemein
+shop: shop
 ---

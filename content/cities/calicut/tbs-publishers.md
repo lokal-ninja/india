@@ -1,5 +1,5 @@
 ---
 title: "TBS Publishers"
 url: /calicut/tbs-publishers/
-shop: Supermarkt
+shop: supermarket
 ---

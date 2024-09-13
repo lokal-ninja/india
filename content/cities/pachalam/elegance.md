@@ -1,5 +1,5 @@
 ---
 title: "Elegance"
 url: /pachalam/elegance/
-shop: Kleidung
+shop: clothes
 ---

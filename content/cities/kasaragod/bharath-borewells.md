@@ -1,5 +1,5 @@
 ---
 title: "BHARATH BOREWELLS"
 url: /kasaragod/bharath-borewells/
-shop: Allgemein
+shop: shop
 ---

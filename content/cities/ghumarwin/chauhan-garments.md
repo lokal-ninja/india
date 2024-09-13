@@ -1,5 +1,5 @@
 ---
 title: "Chauhan Garments"
 url: /ghumarwin/chauhan-garments/
-shop: Kleidung
+shop: clothes
 ---

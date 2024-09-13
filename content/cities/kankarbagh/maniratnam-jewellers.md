@@ -1,5 +1,5 @@
 ---
 title: "ManiRatnam Jewellers"
 url: /kankarbagh/maniratnam-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

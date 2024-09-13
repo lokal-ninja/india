@@ -1,5 +1,5 @@
 ---
 title: "Raj Drycleaners"
 url: /abohar/raj-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

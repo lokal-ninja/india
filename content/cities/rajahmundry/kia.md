@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /rajahmundry/kia/
-shop: Autohaus
+shop: car
 ---

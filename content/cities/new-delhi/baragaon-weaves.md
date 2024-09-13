@@ -1,5 +1,5 @@
 ---
 title: "Baragaon Weaves"
 url: /new-delhi/baragaon-weaves/
-shop: Kleidung
+shop: clothes
 ---

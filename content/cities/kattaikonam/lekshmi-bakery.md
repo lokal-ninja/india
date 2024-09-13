@@ -1,5 +1,5 @@
 ---
 title: "Lekshmi Bakery"
 url: /kattaikonam/lekshmi-bakery/
-shop: Schreibwaren
+shop: office supplies
 ---

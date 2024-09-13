@@ -1,5 +1,5 @@
 ---
 title: "VR Chennai"
 url: /chennai/vr-chennai/
-shop: Einkaufszentrum
+shop: mall
 ---

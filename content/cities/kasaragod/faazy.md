@@ -1,5 +1,5 @@
 ---
 title: "FAAZY"
 url: /kasaragod/faazy/
-shop: Kleidung
+shop: clothes
 ---

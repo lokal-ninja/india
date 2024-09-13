@@ -1,5 +1,5 @@
 ---
 title: "Lakshmi Hardware store"
 url: /kumaramangalam/lakshmi-hardware-store/
-shop: Eisenwaren
+shop: hardware
 ---

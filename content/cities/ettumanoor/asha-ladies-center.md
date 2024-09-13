@@ -1,5 +1,5 @@
 ---
 title: "asha ladies center"
 url: /ettumanoor/asha-ladies-center/
-shop: Allgemein
+shop: shop
 ---

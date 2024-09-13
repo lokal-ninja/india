@@ -1,5 +1,5 @@
 ---
 title: "DTDC"
 url: /patna/dtdc/
-shop: Einkaufszentrum
+shop: mall
 ---

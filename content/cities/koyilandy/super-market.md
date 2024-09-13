@@ -1,5 +1,5 @@
 ---
 title: "Super Market"
 url: /koyilandy/super-market/
-shop: Supermarkt
+shop: supermarket
 ---

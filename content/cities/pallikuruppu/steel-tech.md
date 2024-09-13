@@ -1,5 +1,5 @@
 ---
 title: "Steel Tech"
 url: /pallikuruppu/steel-tech/
-shop: Allgemein
+shop: shop
 ---

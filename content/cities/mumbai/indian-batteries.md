@@ -1,5 +1,5 @@
 ---
 title: "Indian Batteries"
 url: /mumbai/indian-batteries/
-shop: Autoteile
+shop: car parts
 ---

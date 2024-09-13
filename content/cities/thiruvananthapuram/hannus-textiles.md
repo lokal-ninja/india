@@ -1,5 +1,5 @@
 ---
 title: "Hannus Textiles"
 url: /thiruvananthapuram/hannus-textiles/
-shop: Kleidung
+shop: clothes
 ---

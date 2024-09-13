@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /choonad/milma/
-shop: Milch
+shop: dairy
 ---

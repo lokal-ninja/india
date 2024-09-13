@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /kurnool/more-municipal-office-road/
-shop: Supermarkt
+shop: supermarket
 ---

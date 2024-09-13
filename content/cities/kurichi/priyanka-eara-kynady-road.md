@@ -1,5 +1,5 @@
 ---
 title: "Priyanka"
 url: /kurichi/priyanka-eara-kynady-road/
-shop: Kosmetik
+shop: beauty
 ---

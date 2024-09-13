@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /alappuzha/more/
-shop: Supermarkt
+shop: supermarket
 ---

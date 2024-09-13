@@ -1,5 +1,5 @@
 ---
 title: "SAREENIKETRHAN SHOPPING MALL"
 url: /hyderabad/sareeniketrhan-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

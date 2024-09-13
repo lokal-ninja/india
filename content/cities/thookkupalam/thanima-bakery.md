@@ -1,5 +1,5 @@
 ---
 title: "Thanima bakery"
 url: /thookkupalam/thanima-bakery/
-shop: Bäckerei
+shop: bakery
 ---

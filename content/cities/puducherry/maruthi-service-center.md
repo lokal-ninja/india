@@ -1,5 +1,5 @@
 ---
 title: "Maruthi Service Center"
 url: /puducherry/maruthi-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

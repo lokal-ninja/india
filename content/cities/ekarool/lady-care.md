@@ -1,5 +1,5 @@
 ---
 title: "Lady Care"
 url: /ekarool/lady-care/
-shop: Kleidung
+shop: clothes
 ---

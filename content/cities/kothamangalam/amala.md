@@ -1,5 +1,5 @@
 ---
 title: "Amala"
 url: /kothamangalam/amala/
-shop: Bäckerei
+shop: bakery
 ---

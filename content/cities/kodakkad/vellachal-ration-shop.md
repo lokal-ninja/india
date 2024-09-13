@@ -1,5 +1,5 @@
 ---
 title: "Vellachal Ration Shop"
 url: /kodakkad/vellachal-ration-shop/
-shop: Allgemein
+shop: shop
 ---

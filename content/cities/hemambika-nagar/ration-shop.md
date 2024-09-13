@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /hemambika-nagar/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

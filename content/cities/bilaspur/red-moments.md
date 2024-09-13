@@ -1,5 +1,5 @@
 ---
 title: "Red Moments"
 url: /bilaspur/red-moments/
-shop: Andenken
+shop: gift
 ---

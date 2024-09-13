@@ -1,5 +1,5 @@
 ---
 title: "Adishwar Supermarket"
 url: /bengaluru/adishwar-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

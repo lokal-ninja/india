@@ -1,5 +1,5 @@
 ---
 title: "Saumya garments"
 url: /thiruvananthapuram/saumya-garments/
-shop: Kleidung
+shop: clothes
 ---

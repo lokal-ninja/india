@@ -1,5 +1,5 @@
 ---
 title: "KE MART"
 url: /pune/ke-mart/
-shop: Supermarkt
+shop: supermarket
 ---

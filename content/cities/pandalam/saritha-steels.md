@@ -1,5 +1,5 @@
 ---
 title: "Saritha Steels"
 url: /pandalam/saritha-steels/
-shop: Haushaltsartikel
+shop: houseware
 ---

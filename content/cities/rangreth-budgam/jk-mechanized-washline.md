@@ -1,5 +1,5 @@
 ---
 title: "JK Mechanized Washline"
 url: /rangreth-budgam/jk-mechanized-washline/
-shop: Wäscherei
+shop: laundry
 ---

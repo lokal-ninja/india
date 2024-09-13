@@ -1,5 +1,5 @@
 ---
 title: "Shreepad Hair Dresser"
 url: /pune/shreepad-hair-dresser/
-shop: Friseur
+shop: hairdresser
 ---

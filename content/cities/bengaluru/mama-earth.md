@@ -1,5 +1,5 @@
 ---
 title: "Mama Earth"
 url: /bengaluru/mama-earth/
-shop: Kosmetik
+shop: beauty
 ---

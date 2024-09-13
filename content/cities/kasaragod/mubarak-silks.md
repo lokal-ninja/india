@@ -1,5 +1,5 @@
 ---
 title: "MUBARAK SILKS"
 url: /kasaragod/mubarak-silks/
-shop: Kleidung
+shop: clothes
 ---

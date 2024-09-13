@@ -1,5 +1,5 @@
 ---
 title: "Salmaan auto parts"
 url: /alapra/salmaan-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

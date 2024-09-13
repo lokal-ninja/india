@@ -1,5 +1,5 @@
 ---
 title: "Golden Cake"
 url: /kollam/golden-cake/
-shop: Konditorei
+shop: pastry
 ---

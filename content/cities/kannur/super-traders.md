@@ -1,5 +1,5 @@
 ---
 title: "Super Traders"
 url: /kannur/super-traders/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PM Textiles , Vailathur"
 url: /vailathur/pm-textiles-vailathur/
-shop: Kleidung
+shop: clothes
 ---

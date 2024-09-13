@@ -1,5 +1,5 @@
 ---
 title: "Titan"
 url: /kolkata/titan/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaithram"
 url: /ekarool/chaithram/
-shop: Handy
+shop: mobile phone
 ---

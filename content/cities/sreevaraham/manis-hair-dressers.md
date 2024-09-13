@@ -1,5 +1,5 @@
 ---
 title: "Mani's Hair Dressers"
 url: /sreevaraham/manis-hair-dressers/
-shop: Friseur
+shop: hairdresser
 ---

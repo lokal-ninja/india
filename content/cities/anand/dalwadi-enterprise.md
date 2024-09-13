@@ -1,5 +1,5 @@
 ---
 title: "Dalwadi Enterprise"
 url: /anand/dalwadi-enterprise/
-shop: Raumausstattung
+shop: interior decoration
 ---

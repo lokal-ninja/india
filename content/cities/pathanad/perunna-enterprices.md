@@ -1,5 +1,5 @@
 ---
 title: "perunna enterprices"
 url: /pathanad/perunna-enterprices/
-shop: Schreibwaren
+shop: office supplies
 ---

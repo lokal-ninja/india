@@ -1,5 +1,5 @@
 ---
 title: "Flowers Stitching Centre"
 url: /trivandrum/flowers-stitching-centre/
-shop: Schneiderei
+shop: tailor
 ---

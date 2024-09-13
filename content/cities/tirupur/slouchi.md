@@ -1,5 +1,5 @@
 ---
 title: "SLOUCHI"
 url: /tirupur/slouchi/
-shop: Kleidung
+shop: clothes
 ---

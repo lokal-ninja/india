@@ -1,5 +1,5 @@
 ---
 title: "shubh luxmi alankar"
 url: /robertsganj/shubh-luxmi-alankar/
-shop: Schmuck
+shop: jewelry
 ---

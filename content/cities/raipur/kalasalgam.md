@@ -1,5 +1,5 @@
 ---
 title: "Kalasalgam"
 url: /raipur/kalasalgam/
-shop: Kleidung
+shop: clothes
 ---

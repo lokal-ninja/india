@@ -1,5 +1,5 @@
 ---
 title: "Krishi Animal Feed"
 url: /pooyappally/krishi-animal-feed/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

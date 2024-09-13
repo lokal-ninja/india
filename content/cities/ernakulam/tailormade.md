@@ -1,5 +1,5 @@
 ---
 title: "Tailormade"
 url: /ernakulam/tailormade/
-shop: Kleidung
+shop: clothes
 ---

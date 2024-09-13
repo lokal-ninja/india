@@ -1,5 +1,5 @@
 ---
 title: "Anna Bakers"
 url: /ettumanoor-kottayam/anna-bakers/
-shop: Bäckerei
+shop: bakery
 ---

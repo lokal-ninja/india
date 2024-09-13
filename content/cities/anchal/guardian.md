@@ -1,5 +1,5 @@
 ---
 title: "Guardian"
 url: /anchal/guardian/
-shop: Kleidung
+shop: clothes
 ---

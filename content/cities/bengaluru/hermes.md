@@ -1,5 +1,5 @@
 ---
 title: "Hermès"
 url: /bengaluru/hermes/
-shop: Kleidung
+shop: clothes
 ---

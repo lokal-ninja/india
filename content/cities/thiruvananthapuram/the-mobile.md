@@ -1,5 +1,5 @@
 ---
 title: "The mobile"
 url: /thiruvananthapuram/the-mobile/
-shop: Handy
+shop: mobile phone
 ---

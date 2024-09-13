@@ -1,5 +1,5 @@
 ---
 title: "A R Margin Free Supermarket"
 url: /trivandrum/a-r-margin-free-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

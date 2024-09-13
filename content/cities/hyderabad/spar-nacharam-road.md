@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hyderabad/spar-nacharam-road/
-shop: Supermarkt
+shop: supermarket
 ---

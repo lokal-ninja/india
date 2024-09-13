@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /neyyattinkara/ration-shop-elluvila-road/
-shop: Lebensmittel
+shop: convenience
 ---

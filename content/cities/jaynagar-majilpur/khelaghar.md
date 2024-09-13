@@ -1,5 +1,5 @@
 ---
 title: "Khelaghar"
 url: /jaynagar-majilpur/khelaghar/
-shop: Sport
+shop: sports
 ---

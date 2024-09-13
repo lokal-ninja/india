@@ -1,5 +1,5 @@
 ---
 title: "Valsala"
 url: /kollam/valsala/
-shop: Allgemein
+shop: shop
 ---

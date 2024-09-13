@@ -1,5 +1,5 @@
 ---
 title: "Jagadamma Sweets"
 url: /trivandrum/jagadamma-sweets/
-shop: Kiosk
+shop: kiosk
 ---

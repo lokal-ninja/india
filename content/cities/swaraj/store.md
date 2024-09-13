@@ -1,5 +1,5 @@
 ---
 title: "store"
 url: /swaraj/store/
-shop: Schreibwaren
+shop: office supplies
 ---

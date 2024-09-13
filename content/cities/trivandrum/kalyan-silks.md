@@ -1,5 +1,5 @@
 ---
 title: "Kalyan Silks"
 url: /trivandrum/kalyan-silks/
-shop: Kleidung
+shop: clothes
 ---

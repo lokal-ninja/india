@@ -1,5 +1,5 @@
 ---
 title: "Gayatri Electronics"
 url: /pune/gayatri-electronics/
-shop: Elektronik
+shop: electronics
 ---

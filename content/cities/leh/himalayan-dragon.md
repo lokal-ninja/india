@@ -1,5 +1,5 @@
 ---
 title: "Himalayan Dragon"
 url: /leh/himalayan-dragon/
-shop: Reisebüro
+shop: travel agency
 ---

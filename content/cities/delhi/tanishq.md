@@ -1,5 +1,5 @@
 ---
 title: "Tanishq"
 url: /delhi/tanishq/
-shop: Schmuck
+shop: jewelry
 ---

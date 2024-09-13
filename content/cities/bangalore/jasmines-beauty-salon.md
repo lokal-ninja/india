@@ -1,5 +1,5 @@
 ---
 title: "Jasmine's Beauty Salon"
 url: /bangalore/jasmines-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

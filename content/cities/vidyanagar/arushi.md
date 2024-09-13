@@ -1,5 +1,5 @@
 ---
 title: "ARUSHI"
 url: /vidyanagar/arushi/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ahfa"
 url: /malappuram/ahfa/
-shop: Schokolade
+shop: chocolate
 ---

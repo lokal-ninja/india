@@ -1,5 +1,5 @@
 ---
 title: "Chitlaya Market"
 url: /chityala/chitlaya-market/
-shop: Supermarkt
+shop: supermarket
 ---

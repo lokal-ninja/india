@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /ranchi/metro/
-shop: Schuhe
+shop: shoes
 ---

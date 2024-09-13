@@ -1,5 +1,5 @@
 ---
 title: "Patnoo Creation"
 url: /puducherry/patnoo-creation/
-shop: Kleidung
+shop: clothes
 ---

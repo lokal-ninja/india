@@ -1,5 +1,5 @@
 ---
 title: "Aishwarya Jewellery"
 url: /muuvaarrrrupulll/aishwarya-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

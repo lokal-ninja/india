@@ -1,5 +1,5 @@
 ---
 title: "Sravir SuperMarket"
 url: /palakkad/sravir-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

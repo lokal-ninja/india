@@ -1,5 +1,5 @@
 ---
 title: "Agnel Fancy Store"
 url: /vaduthala-kochi/agnel-fancy-store/
-shop: Schmuck
+shop: jewelry
 ---

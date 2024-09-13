@@ -1,5 +1,5 @@
 ---
 title: "karunattu stores"
 url: /kottayam/karunattu-stores/
-shop: Supermarkt
+shop: supermarket
 ---

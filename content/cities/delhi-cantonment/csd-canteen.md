@@ -1,5 +1,5 @@
 ---
 title: "CSD Canteen"
 url: /delhi-cantonment/csd-canteen/
-shop: Supermarkt
+shop: supermarket
 ---

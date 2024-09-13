@@ -1,5 +1,5 @@
 ---
 title: "Vishal Mega Mart"
 url: /bangalore/vishal-mega-mart/
-shop: Supermarkt
+shop: supermarket
 ---

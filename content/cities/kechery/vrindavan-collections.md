@@ -1,5 +1,5 @@
 ---
 title: "Vrindavan Collections"
 url: /kechery/vrindavan-collections/
-shop: Kleidung
+shop: clothes
 ---

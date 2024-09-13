@@ -1,5 +1,5 @@
 ---
 title: "BHARAT AUTO ELECTRICAL WORKS"
 url: /badami/bharat-auto-electrical-works/
-shop: Autowerkstatt
+shop: car repair
 ---

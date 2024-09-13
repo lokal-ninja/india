@@ -1,5 +1,5 @@
 ---
 title: "Ezed Bakers"
 url: /trivandrum/ezed-bakers/
-shop: Bäckerei
+shop: bakery
 ---

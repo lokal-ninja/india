@@ -1,5 +1,5 @@
 ---
 title: "Maveli store"
 url: /nadavayal/maveli-store/
-shop: Warenhaus
+shop: department store
 ---

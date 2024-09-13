@@ -1,5 +1,5 @@
 ---
 title: "Mars Electronics"
 url: /kangeyam-tiruppur/mars-electronics/
-shop: Elektronik
+shop: electronics
 ---

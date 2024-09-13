@@ -1,5 +1,5 @@
 ---
 title: "Kottakal Aryavaidya shala"
 url: /thengana/kottakal-aryavaidya-shala/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atharva Car Services"
 url: /pune/atharva-car-services/
-shop: Autowerkstatt
+shop: car repair
 ---

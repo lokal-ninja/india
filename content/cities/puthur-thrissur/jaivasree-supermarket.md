@@ -1,5 +1,5 @@
 ---
 title: "Jaivasree Supermarket"
 url: /puthur-thrissur/jaivasree-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

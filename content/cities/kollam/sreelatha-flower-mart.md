@@ -1,5 +1,5 @@
 ---
 title: "Sreelatha Flower mart"
 url: /kollam/sreelatha-flower-mart/
-shop: Blumen
+shop: florist
 ---

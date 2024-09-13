@@ -1,5 +1,5 @@
 ---
 title: "Kannan Saloon"
 url: /tirur/kannan-saloon-iringavoor-town/
-shop: Friseur
+shop: hairdresser
 ---

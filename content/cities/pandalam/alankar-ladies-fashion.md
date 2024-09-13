@@ -1,5 +1,5 @@
 ---
 title: "Alankar Ladies Fashion"
 url: /pandalam/alankar-ladies-fashion/
-shop: Andenken
+shop: gift
 ---

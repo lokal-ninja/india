@@ -1,5 +1,5 @@
 ---
 title: "Hiltake"
 url: /kolkata/hiltake/
-shop: Handy
+shop: mobile phone
 ---

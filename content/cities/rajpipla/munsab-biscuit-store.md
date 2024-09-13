@@ -1,5 +1,5 @@
 ---
 title: "Munsab Biscuit Store"
 url: /rajpipla/munsab-biscuit-store/
-shop: Süßwaren
+shop: confectionery
 ---

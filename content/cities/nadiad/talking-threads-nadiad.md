@@ -1,5 +1,5 @@
 ---
 title: "Talking Threads Nadiad"
 url: /nadiad/talking-threads-nadiad/
-shop: Supermarkt
+shop: supermarket
 ---

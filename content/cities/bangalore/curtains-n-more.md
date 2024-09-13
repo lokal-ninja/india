@@ -1,5 +1,5 @@
 ---
 title: "Curtains N More"
 url: /bangalore/curtains-n-more/
-shop: Möbel
+shop: furniture
 ---

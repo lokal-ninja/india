@@ -1,5 +1,5 @@
 ---
 title: "Jyothi Supermarket"
 url: /kurnool/jyothi-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

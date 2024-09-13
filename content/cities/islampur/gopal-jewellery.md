@@ -1,5 +1,5 @@
 ---
 title: "Gopal Jewellery"
 url: /islampur/gopal-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

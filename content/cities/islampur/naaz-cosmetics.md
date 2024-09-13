@@ -1,5 +1,5 @@
 ---
 title: "Naaz Cosmetics"
 url: /islampur/naaz-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

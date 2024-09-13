@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /velathussery/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

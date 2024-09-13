@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /mannarkad/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

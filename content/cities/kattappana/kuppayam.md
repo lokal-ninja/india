@@ -1,5 +1,5 @@
 ---
 title: "Kuppayam"
 url: /kattappana/kuppayam/
-shop: Kleidung
+shop: clothes
 ---

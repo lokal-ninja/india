@@ -1,5 +1,5 @@
 ---
 title: "Mahidpurwala"
 url: /indore/mahidpurwala/
-shop: Möbel
+shop: furniture
 ---

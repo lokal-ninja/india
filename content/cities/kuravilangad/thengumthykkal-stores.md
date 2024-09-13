@@ -1,5 +1,5 @@
 ---
 title: "thengumthykkal stores"
 url: /kuravilangad/thengumthykkal-stores/
-shop: Supermarkt
+shop: supermarket
 ---

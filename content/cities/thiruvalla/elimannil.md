@@ -1,5 +1,5 @@
 ---
 title: "Elimannil"
 url: /thiruvalla/elimannil/
-shop: Schreibwaren
+shop: office supplies
 ---

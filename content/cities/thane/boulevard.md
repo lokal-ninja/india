@@ -1,5 +1,5 @@
 ---
 title: "Boulevard"
 url: /thane/boulevard/
-shop: Einkaufszentrum
+shop: mall
 ---

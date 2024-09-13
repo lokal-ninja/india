@@ -1,5 +1,5 @@
 ---
 title: "Bhagya laxmi Fashion store"
 url: /raipur/bhagya-laxmi-fashion-store/
-shop: Modehaus
+shop: boutique
 ---

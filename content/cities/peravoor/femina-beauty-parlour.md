@@ -1,5 +1,5 @@
 ---
 title: "Femina Beauty Parlour"
 url: /peravoor/femina-beauty-parlour/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NEW MARKET"
 url: /sagar/new-market/
-shop: Supermarkt
+shop: supermarket
 ---

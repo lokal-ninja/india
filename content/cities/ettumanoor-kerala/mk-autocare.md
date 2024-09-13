@@ -1,5 +1,5 @@
 ---
 title: "MK Autocare"
 url: /ettumanoor-kerala/mk-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

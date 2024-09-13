@@ -1,5 +1,5 @@
 ---
 title: "MR Jwellers"
 url: /palakad/mr-jwellers/
-shop: Schmuck
+shop: jewelry
 ---

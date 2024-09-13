@@ -1,5 +1,5 @@
 ---
 title: "Chicken Store"
 url: /ponnamkode/chicken-store/
-shop: Metzgerei
+shop: butcher
 ---

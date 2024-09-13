@@ -1,5 +1,5 @@
 ---
 title: "Supplyco Super Market"
 url: /thumpamon/supplyco-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

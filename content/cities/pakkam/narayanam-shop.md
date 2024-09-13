@@ -1,5 +1,5 @@
 ---
 title: "Narayanam shop"
 url: /pakkam/narayanam-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /puliyanmala/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

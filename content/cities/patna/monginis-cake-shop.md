@@ -1,5 +1,5 @@
 ---
 title: "Monginis Cake Shop"
 url: /patna/monginis-cake-shop/
-shop: Konditorei
+shop: pastry
 ---

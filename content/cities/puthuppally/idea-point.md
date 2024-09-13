@@ -1,5 +1,5 @@
 ---
 title: "idea point"
 url: /puthuppally/idea-point/
-shop: Allgemein
+shop: shop
 ---

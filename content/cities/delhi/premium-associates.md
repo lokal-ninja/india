@@ -1,5 +1,5 @@
 ---
 title: "Premium Associates"
 url: /delhi/premium-associates/
-shop: Autohaus
+shop: car
 ---

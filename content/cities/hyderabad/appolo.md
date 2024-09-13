@@ -1,5 +1,5 @@
 ---
 title: "Appolo"
 url: /hyderabad/appolo/
-shop: Sanitätshaus
+shop: medical supply
 ---

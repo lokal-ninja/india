@@ -1,5 +1,5 @@
 ---
 title: "nassar supermarket"
 url: /cherur/nassar-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marvadi Electrical Store"
 url: /uppal-hyderabad/marvadi-electrical-store/
-shop: Elektrisch
+shop: electrical
 ---

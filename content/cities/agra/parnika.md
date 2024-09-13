@@ -1,5 +1,5 @@
 ---
 title: "Parnika"
 url: /agra/parnika/
-shop: Schmuck
+shop: jewelry
 ---

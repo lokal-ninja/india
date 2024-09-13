@@ -1,5 +1,5 @@
 ---
 title: "Mufti"
 url: /patna/mufti/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier Supermarket"
 url: /sitra/premier-supermarket-kalapatti-road/
-shop: Supermarkt
+shop: supermarket
 ---

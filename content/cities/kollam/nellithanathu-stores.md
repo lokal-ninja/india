@@ -1,5 +1,5 @@
 ---
 title: "Nellithanathu stores"
 url: /kollam/nellithanathu-stores/
-shop: Dorfladen
+shop: general
 ---

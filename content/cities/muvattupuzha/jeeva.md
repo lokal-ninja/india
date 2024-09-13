@@ -1,5 +1,5 @@
 ---
 title: "jeeva"
 url: /muvattupuzha/jeeva/
-shop: Allgemein
+shop: shop
 ---

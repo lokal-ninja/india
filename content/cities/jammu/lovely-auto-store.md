@@ -1,5 +1,5 @@
 ---
 title: "Lovely Auto Store"
 url: /jammu/lovely-auto-store/
-shop: Motorrad
+shop: motorcycle
 ---

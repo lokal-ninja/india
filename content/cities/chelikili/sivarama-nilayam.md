@@ -1,5 +1,5 @@
 ---
 title: "Sivarama Nilayam"
 url: /chelikili/sivarama-nilayam/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Balaji grand bazar"
 url: /hyderabad/balaji-grand-bazar/
-shop: Supermarkt
+shop: supermarket
 ---

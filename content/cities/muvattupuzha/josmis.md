@@ -1,5 +1,5 @@
 ---
 title: "josmis"
 url: /muvattupuzha/josmis/
-shop: Schneiderei
+shop: tailor
 ---

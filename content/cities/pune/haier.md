@@ -1,5 +1,5 @@
 ---
 title: "Haier"
 url: /pune/haier/
-shop: Elektronik
+shop: electronics
 ---

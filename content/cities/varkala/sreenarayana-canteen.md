@@ -1,5 +1,5 @@
 ---
 title: "Sreenarayana canteen"
 url: /varkala/sreenarayana-canteen/
-shop: Allgemein
+shop: shop
 ---

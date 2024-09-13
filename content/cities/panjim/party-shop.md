@@ -1,5 +1,5 @@
 ---
 title: "Party shop"
 url: /panjim/party-shop/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supply Co Koorali"
 url: /koorali/supply-co-koorali/
-shop: Lebensmittel
+shop: convenience
 ---

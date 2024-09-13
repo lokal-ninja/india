@@ -1,5 +1,5 @@
 ---
 title: "Ganga Jewellery"
 url: /kattappana/ganga-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Achoos home shop"
 url: /kollam/achoos-home-shop/
-shop: Allgemein
+shop: shop
 ---

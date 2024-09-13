@@ -1,5 +1,5 @@
 ---
 title: "Salon"
 url: /vijayawada/salon/
-shop: Friseur
+shop: hairdresser
 ---

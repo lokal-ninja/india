@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /bengaluru/kia/
-shop: Autohaus
+shop: car
 ---

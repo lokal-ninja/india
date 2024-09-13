@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /ettumanur-kottayam/more/
-shop: Supermarkt
+shop: supermarket
 ---

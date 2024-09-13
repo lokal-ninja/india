@@ -1,5 +1,5 @@
 ---
 title: "provision store melethumele junction"
 url: /thiruvanathapuram/provision-store-melethumele-junction/
-shop: Allgemein
+shop: shop
 ---

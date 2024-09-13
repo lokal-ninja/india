@@ -1,5 +1,5 @@
 ---
 title: "Satya Paul"
 url: /bengaluru/satya-paul/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burger King"
 url: /thane/burger-king/
-shop: Allgemein
+shop: shop
 ---

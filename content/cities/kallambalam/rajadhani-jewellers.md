@@ -1,5 +1,5 @@
 ---
 title: "Rajadhani Jewellers"
 url: /kallambalam/rajadhani-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

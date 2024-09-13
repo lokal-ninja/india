@@ -1,5 +1,5 @@
 ---
 title: "Sahyog parlor"
 url: /mehsana/sahyog-parlor/
-shop: Milch
+shop: dairy
 ---

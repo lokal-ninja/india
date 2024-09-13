@@ -1,5 +1,5 @@
 ---
 title: "Super market"
 url: /vellangallur/super-market/
-shop: Supermarkt
+shop: supermarket
 ---

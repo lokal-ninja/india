@@ -1,5 +1,5 @@
 ---
 title: "Aryas"
 url: /kollam/aryas/
-shop: Allgemein
+shop: shop
 ---

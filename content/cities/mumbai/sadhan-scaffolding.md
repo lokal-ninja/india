@@ -1,5 +1,5 @@
 ---
 title: "Sadhan Scaffolding"
 url: /mumbai/sadhan-scaffolding/
-shop: Baustoffe
+shop: trade
 ---

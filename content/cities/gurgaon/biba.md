@@ -1,5 +1,5 @@
 ---
 title: "BIBA"
 url: /gurgaon/biba/
-shop: Kleidung
+shop: clothes
 ---

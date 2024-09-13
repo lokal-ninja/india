@@ -1,5 +1,5 @@
 ---
 title: "minnoos Footwear"
 url: /karunagapally/minnoos-footwear/
-shop: Handy
+shop: mobile phone
 ---

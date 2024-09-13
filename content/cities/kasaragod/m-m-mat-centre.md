@@ -1,5 +1,5 @@
 ---
 title: "M.M. MAT CENTRE"
 url: /kasaragod/m-m-mat-centre/
-shop: Allgemein
+shop: shop
 ---

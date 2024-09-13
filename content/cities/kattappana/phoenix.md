@@ -1,5 +1,5 @@
 ---
 title: "Phoenix"
 url: /kattappana/phoenix/
-shop: Handy
+shop: mobile phone
 ---

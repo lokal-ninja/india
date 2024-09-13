@@ -1,5 +1,5 @@
 ---
 title: "Adharamezhuth Office"
 url: /trivandrum/adharamezhuth-office/
-shop: Allgemein
+shop: shop
 ---

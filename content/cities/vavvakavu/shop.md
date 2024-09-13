@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /vavvakavu/shop/
-shop: Supermarkt
+shop: supermarket
 ---

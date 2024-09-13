@@ -1,5 +1,5 @@
 ---
 title: "Keerthana Store"
 url: /koyilandy/keerthana-store/
-shop: Schreibwaren
+shop: office supplies
 ---

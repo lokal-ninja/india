@@ -1,5 +1,5 @@
 ---
 title: "Achoos cool bar"
 url: /kottayam/achoos-cool-bar/
-shop: Bäckerei
+shop: bakery
 ---

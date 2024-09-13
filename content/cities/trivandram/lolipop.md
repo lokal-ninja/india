@@ -1,5 +1,5 @@
 ---
 title: "lolipop"
 url: /trivandram/lolipop/
-shop: Bäckerei
+shop: bakery
 ---

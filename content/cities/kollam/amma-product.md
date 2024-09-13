@@ -1,5 +1,5 @@
 ---
 title: "Amma product"
 url: /kollam/amma-product/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morya Flour Mill"
 url: /pune/morya-flour-mill/
-shop: Allgemein
+shop: shop
 ---

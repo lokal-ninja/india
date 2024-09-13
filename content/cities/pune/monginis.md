@@ -1,5 +1,5 @@
 ---
 title: "Monginis"
 url: /pune/monginis/
-shop: Konditorei
+shop: pastry
 ---

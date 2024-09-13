@@ -1,5 +1,5 @@
 ---
 title: "Deta Care System"
 url: /amaravati/deta-care-system/
-shop: Allgemein
+shop: shop
 ---

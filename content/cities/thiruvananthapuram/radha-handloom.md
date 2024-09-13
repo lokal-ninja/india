@@ -1,5 +1,5 @@
 ---
 title: "Radha Handloom"
 url: /thiruvananthapuram/radha-handloom/
-shop: Kleidung
+shop: clothes
 ---

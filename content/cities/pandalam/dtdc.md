@@ -1,5 +1,5 @@
 ---
 title: "DTDC"
 url: /pandalam/dtdc/
-shop: Allgemein
+shop: shop
 ---

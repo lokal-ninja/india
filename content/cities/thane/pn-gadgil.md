@@ -1,5 +1,5 @@
 ---
 title: "PN Gadgil"
 url: /thane/pn-gadgil/
-shop: Schmuck
+shop: jewelry
 ---

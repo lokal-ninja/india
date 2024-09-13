@@ -1,5 +1,5 @@
 ---
 title: "PLAYSTORE"
 url: /kasaragod/playstore/
-shop: Handy
+shop: mobile phone
 ---

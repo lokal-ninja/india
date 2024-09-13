@@ -1,5 +1,5 @@
 ---
 title: "Fozli Mango Pack"
 url: /rajshahi/fozli-mango-pack/
-shop: Allgemein
+shop: shop
 ---

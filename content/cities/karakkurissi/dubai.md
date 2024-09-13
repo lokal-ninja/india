@@ -1,5 +1,5 @@
 ---
 title: "Dubai"
 url: /karakkurissi/dubai/
-shop: Handy
+shop: mobile phone
 ---

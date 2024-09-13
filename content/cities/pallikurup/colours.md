@@ -1,5 +1,5 @@
 ---
 title: "COLOURS"
 url: /pallikurup/colours/
-shop: Kleidung
+shop: clothes
 ---

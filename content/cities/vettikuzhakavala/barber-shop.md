@@ -1,5 +1,5 @@
 ---
 title: "barber shop"
 url: /vettikuzhakavala/barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cycle shop"
 url: /pathanamthitta/cycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

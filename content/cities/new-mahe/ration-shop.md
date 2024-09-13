@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /new-mahe/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Union Electronics"
 url: /pathanamthitta/union-electronics/
-shop: Elektronik
+shop: electronics
 ---

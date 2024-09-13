@@ -1,5 +1,5 @@
 ---
 title: "pittapalli agencies"
 url: /mannarkkad/pittapalli-agencies/
-shop: Haushaltsgeräte
+shop: appliance
 ---

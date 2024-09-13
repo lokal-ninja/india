@@ -1,5 +1,5 @@
 ---
 title: "CITY BED CENTRE"
 url: /kasaragod/city-bed-centre/
-shop: Betten
+shop: bed
 ---

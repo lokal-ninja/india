@@ -1,5 +1,5 @@
 ---
 title: "Wildcraft"
 url: /thane/wildcraft/
-shop: Kleidung
+shop: clothes
 ---

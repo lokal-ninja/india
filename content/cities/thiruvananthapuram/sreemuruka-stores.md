@@ -1,5 +1,5 @@
 ---
 title: "Sreemuruka Stores"
 url: /thiruvananthapuram/sreemuruka-stores/
-shop: Dorfladen
+shop: general
 ---

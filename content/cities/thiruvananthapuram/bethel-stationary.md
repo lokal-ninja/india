@@ -1,5 +1,5 @@
 ---
 title: "Bethel stationary"
 url: /thiruvananthapuram/bethel-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

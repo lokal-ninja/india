@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Vavarambalam"
 url: /thiruvananthapauram/ration-shop-vavarambalam/
-shop: Lebensmittel
+shop: convenience
 ---

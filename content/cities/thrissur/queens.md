@@ -1,5 +1,5 @@
 ---
 title: "Queens"
 url: /thrissur/queens/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration sShop, kodukulanji"
 url: /kodukulanji/ration-sshop-kodukulanji/
-shop: Lebensmittel
+shop: convenience
 ---

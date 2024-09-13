@@ -1,5 +1,5 @@
 ---
 title: "Online Cake Delivery"
 url: /bengaluru/online-cake-delivery/
-shop: Konditorei
+shop: pastry
 ---

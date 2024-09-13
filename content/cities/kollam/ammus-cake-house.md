@@ -1,5 +1,5 @@
 ---
 title: "Ammus cake house"
 url: /kollam/ammus-cake-house/
-shop: Allgemein
+shop: shop
 ---

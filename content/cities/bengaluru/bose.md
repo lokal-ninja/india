@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /bengaluru/bose/
-shop: Hifi
+shop: hifi
 ---

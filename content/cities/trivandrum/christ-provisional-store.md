@@ -1,5 +1,5 @@
 ---
 title: "Christ Provisional Store"
 url: /trivandrum/christ-provisional-store/
-shop: Allgemein
+shop: shop
 ---

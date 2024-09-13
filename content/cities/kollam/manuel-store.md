@@ -1,5 +1,5 @@
 ---
 title: "manuel store"
 url: /kollam/manuel-store/
-shop: Dorfladen
+shop: general
 ---

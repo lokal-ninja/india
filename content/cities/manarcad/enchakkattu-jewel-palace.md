@@ -1,5 +1,5 @@
 ---
 title: "Enchakkattu Jewel Palace"
 url: /manarcad/enchakkattu-jewel-palace/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heritage Dairy"
 url: /rayavaram/heritage-dairy/
-shop: Milch
+shop: dairy
 ---

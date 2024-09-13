@@ -1,5 +1,5 @@
 ---
 title: "Saloni Dresses"
 url: /islampur/saloni-dresses/
-shop: Kleidung
+shop: clothes
 ---

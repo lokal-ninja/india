@@ -1,5 +1,5 @@
 ---
 title: "RationShop,Vayakkal"
 url: /vayakal/rationshop-vayakkal/
-shop: Lebensmittel
+shop: convenience
 ---

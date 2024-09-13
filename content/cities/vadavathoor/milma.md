@@ -1,5 +1,5 @@
 ---
 title: "Milma"
 url: /vadavathoor/milma/
-shop: Milch
+shop: dairy
 ---

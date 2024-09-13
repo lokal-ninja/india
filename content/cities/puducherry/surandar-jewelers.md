@@ -1,5 +1,5 @@
 ---
 title: "Surandar Jewelers"
 url: /puducherry/surandar-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

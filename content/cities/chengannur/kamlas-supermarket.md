@@ -1,5 +1,5 @@
 ---
 title: "Kamlas Supermarket"
 url: /chengannur/kamlas-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaipallil"
 url: /kollam/kaipallil/
-shop: Dorfladen
+shop: general
 ---

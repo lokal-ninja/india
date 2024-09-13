@@ -1,5 +1,5 @@
 ---
 title: "sumaya"
 url: /pathanadu/sumaya-karukachal-manimala-road/
-shop: Kleidung
+shop: clothes
 ---

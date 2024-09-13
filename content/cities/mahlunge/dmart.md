@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /mahlunge/dmart/
-shop: Supermarkt
+shop: supermarket
 ---

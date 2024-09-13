@@ -1,5 +1,5 @@
 ---
 title: "Dil Gift Bazar"
 url: /adoor/dil-gift-bazar/
-shop: Andenken
+shop: gift
 ---

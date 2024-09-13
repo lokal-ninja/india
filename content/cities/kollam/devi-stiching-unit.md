@@ -1,5 +1,5 @@
 ---
 title: "Devi stiching unit"
 url: /kollam/devi-stiching-unit/
-shop: Schneiderei
+shop: tailor
 ---

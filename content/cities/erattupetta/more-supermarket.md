@@ -1,5 +1,5 @@
 ---
 title: "More Supermarket"
 url: /erattupetta/more-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

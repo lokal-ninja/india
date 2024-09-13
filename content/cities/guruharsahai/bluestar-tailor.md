@@ -1,5 +1,5 @@
 ---
 title: "bluestar tailor"
 url: /guruharsahai/bluestar-tailor/
-shop: Schneiderei
+shop: tailor
 ---

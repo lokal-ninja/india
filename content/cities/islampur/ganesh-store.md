@@ -1,5 +1,5 @@
 ---
 title: "Ganesh Store"
 url: /islampur/ganesh-store/
-shop: Dorfladen
+shop: general
 ---

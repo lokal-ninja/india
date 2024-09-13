@@ -1,5 +1,5 @@
 ---
 title: "Hanin creation"
 url: /kollam/hanin-creation/
-shop: Allgemein
+shop: shop
 ---

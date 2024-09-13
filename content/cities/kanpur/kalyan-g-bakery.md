@@ -1,5 +1,5 @@
 ---
 title: "Kalyan G Bakery"
 url: /kanpur/kalyan-g-bakery/
-shop: Bäckerei
+shop: bakery
 ---

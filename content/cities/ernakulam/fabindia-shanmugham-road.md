@@ -1,5 +1,5 @@
 ---
 title: "Fabindia"
 url: /ernakulam/fabindia-shanmugham-road/
-shop: Kleidung
+shop: clothes
 ---

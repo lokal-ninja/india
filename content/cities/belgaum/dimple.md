@@ -1,5 +1,5 @@
 ---
 title: "Dimple"
 url: /belgaum/dimple/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuXuS Mobile ServicsS"
 url: /trichirapalli/suxus-mobile-servicss/
-shop: Handy
+shop: mobile phone
 ---

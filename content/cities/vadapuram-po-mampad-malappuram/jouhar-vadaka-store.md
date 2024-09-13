@@ -1,5 +1,5 @@
 ---
 title: "JOUHAR VADAKA STORE"
 url: /vadapuram-po-mampad-malappuram/jouhar-vadaka-store/
-shop: Mieten
+shop: storage rental
 ---

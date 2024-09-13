@@ -1,5 +1,5 @@
 ---
 title: "Spencers"
 url: /thiruvalla-kerala/spencers/
-shop: Supermarkt
+shop: supermarket
 ---

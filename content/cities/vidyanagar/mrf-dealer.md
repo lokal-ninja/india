@@ -1,5 +1,5 @@
 ---
 title: "MRF DEALER"
 url: /vidyanagar/mrf-dealer/
-shop: Reifen
+shop: tyres
 ---

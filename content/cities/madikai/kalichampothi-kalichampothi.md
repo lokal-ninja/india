@@ -1,5 +1,5 @@
 ---
 title: "Kalichampothi"
 url: /madikai/kalichampothi-kalichampothi/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nandilath GMart"
 url: /thiruvalla/nandilath-gmart/
-shop: Haushaltsgeräte
+shop: appliance
 ---

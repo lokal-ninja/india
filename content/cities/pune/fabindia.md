@@ -1,5 +1,5 @@
 ---
 title: "FabIndia"
 url: /pune/fabindia/
-shop: Kleidung
+shop: clothes
 ---

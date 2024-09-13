@@ -1,5 +1,5 @@
 ---
 title: "Neethi Store"
 url: /purameri/neethi-store/
-shop: Schreibwaren
+shop: office supplies
 ---

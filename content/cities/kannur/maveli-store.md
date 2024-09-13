@@ -1,5 +1,5 @@
 ---
 title: "Maveli Store"
 url: /kannur/maveli-store/
-shop: Dorfladen
+shop: general
 ---

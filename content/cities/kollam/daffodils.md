@@ -1,5 +1,5 @@
 ---
 title: "Daffodils"
 url: /kollam/daffodils/
-shop: Allgemein
+shop: shop
 ---

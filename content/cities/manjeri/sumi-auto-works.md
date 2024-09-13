@@ -1,5 +1,5 @@
 ---
 title: "Sumi Auto works"
 url: /manjeri/sumi-auto-works/
-shop: Autowerkstatt
+shop: car repair
 ---

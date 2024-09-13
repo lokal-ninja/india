@@ -1,5 +1,5 @@
 ---
 title: "Mickey Tex"
 url: /kumily/mickey-tex-kollam-theni-highway/
-shop: Kleidung
+shop: clothes
 ---

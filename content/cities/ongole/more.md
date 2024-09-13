@@ -1,5 +1,5 @@
 ---
 title: "More"
 url: /ongole/more/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fabindia"
 url: /delhi/fabindia-hauz-khas-village-road/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shiva Stationery"
 url: /patna/shiva-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

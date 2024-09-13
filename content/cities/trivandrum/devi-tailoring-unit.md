@@ -1,5 +1,5 @@
 ---
 title: "Devi Tailoring Unit"
 url: /trivandrum/devi-tailoring-unit/
-shop: Schneiderei
+shop: tailor
 ---

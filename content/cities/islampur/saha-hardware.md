@@ -1,5 +1,5 @@
 ---
 title: "Saha Hardware"
 url: /islampur/saha-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

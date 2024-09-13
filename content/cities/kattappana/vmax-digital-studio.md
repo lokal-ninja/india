@@ -1,5 +1,5 @@
 ---
 title: "Vmax Digital Studio"
 url: /kattappana/vmax-digital-studio/
-shop: Foto
+shop: photo
 ---

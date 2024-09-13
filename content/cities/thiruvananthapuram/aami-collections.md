@@ -1,5 +1,5 @@
 ---
 title: "Aami collections"
 url: /thiruvananthapuram/aami-collections/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SB REDYMADES"
 url: /thiruvananthapuram/sb-redymades/
-shop: Kleidung
+shop: clothes
 ---

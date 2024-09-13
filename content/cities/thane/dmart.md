@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /thane/dmart/
-shop: Supermarkt
+shop: supermarket
 ---

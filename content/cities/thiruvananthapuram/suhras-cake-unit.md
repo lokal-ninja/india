@@ -1,5 +1,5 @@
 ---
 title: "Suhras cake Unit"
 url: /thiruvananthapuram/suhras-cake-unit/
-shop: Bäckerei
+shop: bakery
 ---

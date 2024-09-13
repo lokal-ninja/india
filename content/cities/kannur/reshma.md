@@ -1,5 +1,5 @@
 ---
 title: "Reshma"
 url: /kannur/reshma/
-shop: Lebensmittel
+shop: convenience
 ---

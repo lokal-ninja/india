@@ -1,5 +1,5 @@
 ---
 title: "Preeti Jewellers"
 url: /farrukhabad/preeti-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

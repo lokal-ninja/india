@@ -1,5 +1,5 @@
 ---
 title: "Bake And Take"
 url: /pattazhy/bake-and-take/
-shop: Bäckerei
+shop: bakery
 ---

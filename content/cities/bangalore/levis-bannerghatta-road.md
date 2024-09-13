@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /bangalore/levis-bannerghatta-road/
-shop: Kleidung
+shop: clothes
 ---

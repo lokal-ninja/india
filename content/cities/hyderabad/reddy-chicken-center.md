@@ -1,5 +1,5 @@
 ---
 title: "Reddy Chicken center"
 url: /hyderabad/reddy-chicken-center/
-shop: Metzgerei
+shop: butcher
 ---

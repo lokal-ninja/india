@@ -1,5 +1,5 @@
 ---
 title: "Edimannickal Jewellers"
 url: /changanacherry/edimannickal-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

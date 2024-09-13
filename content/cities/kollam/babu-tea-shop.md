@@ -1,5 +1,5 @@
 ---
 title: "Babu tea shop"
 url: /kollam/babu-tea-shop/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sami's canteen"
 url: /pallikkare/samis-canteen/
-shop: Bäckerei
+shop: bakery
 ---

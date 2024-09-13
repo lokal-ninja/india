@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /bangalore/adidas-thanisandra-main-road/
-shop: Kleidung
+shop: clothes
 ---

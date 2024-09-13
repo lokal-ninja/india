@@ -1,5 +1,5 @@
 ---
 title: "Ashiyana"
 url: /ekarool/ashiyana/
-shop: Schneiderei
+shop: tailor
 ---

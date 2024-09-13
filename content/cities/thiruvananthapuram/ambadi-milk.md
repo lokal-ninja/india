@@ -1,5 +1,5 @@
 ---
 title: "Ambadi milk"
 url: /thiruvananthapuram/ambadi-milk/
-shop: Milch
+shop: dairy
 ---

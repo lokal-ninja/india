@@ -1,5 +1,5 @@
 ---
 title: "Maharaja Stores"
 url: /pandalam/maharaja-stores/
-shop: Lebensmittel
+shop: convenience
 ---

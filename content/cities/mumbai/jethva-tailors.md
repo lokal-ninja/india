@@ -1,5 +1,5 @@
 ---
 title: "jethva tailors"
 url: /mumbai/jethva-tailors/
-shop: Kleidung
+shop: clothes
 ---

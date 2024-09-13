@@ -1,5 +1,5 @@
 ---
 title: "ROOPAM"
 url: /kasaragod/roopam/
-shop: Kleidung
+shop: clothes
 ---

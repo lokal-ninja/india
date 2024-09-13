@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /thane/max/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "jio"
 url: /coimbatore/jio/
-shop: Handy
+shop: mobile phone
 ---

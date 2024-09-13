@@ -1,5 +1,5 @@
 ---
 title: "levis"
 url: /bangalore/levis-thanisandra-main-road/
-shop: Kleidung
+shop: clothes
 ---

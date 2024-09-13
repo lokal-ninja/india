@@ -1,5 +1,5 @@
 ---
 title: "fashion furniture"
 url: /kechery/fashion-furniture/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xiomi"
 url: /pune/xiomi/
-shop: Handy
+shop: mobile phone
 ---

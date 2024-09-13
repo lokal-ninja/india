@@ -1,5 +1,5 @@
 ---
 title: "Reliance Smart"
 url: /hyderabad/reliance-smart/
-shop: Supermarkt
+shop: supermarket
 ---

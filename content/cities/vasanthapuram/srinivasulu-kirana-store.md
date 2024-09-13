@@ -1,5 +1,5 @@
 ---
 title: "Srinivasulu Kirana Store"
 url: /vasanthapuram/srinivasulu-kirana-store/
-shop: Supermarkt
+shop: supermarket
 ---

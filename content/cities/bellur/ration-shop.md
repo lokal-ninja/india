@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /bellur/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

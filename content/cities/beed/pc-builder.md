@@ -1,5 +1,5 @@
 ---
 title: "Pc builder"
 url: /beed/pc-builder/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Medical"
 url: /narayangaon/central-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

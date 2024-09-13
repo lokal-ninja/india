@@ -1,5 +1,5 @@
 ---
 title: "Jaico Jewellers"
 url: /kolenchery/jaico-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

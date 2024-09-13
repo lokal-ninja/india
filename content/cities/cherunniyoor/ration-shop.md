@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /cherunniyoor/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

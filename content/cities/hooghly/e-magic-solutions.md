@@ -1,5 +1,5 @@
 ---
 title: "E-MAGIC SOLUTIONS"
 url: /hooghly/e-magic-solutions/
-shop: Supermarkt
+shop: supermarket
 ---

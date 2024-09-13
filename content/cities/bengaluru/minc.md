@@ -1,5 +1,5 @@
 ---
 title: "MINC"
 url: /bengaluru/minc/
-shop: Kleidung
+shop: clothes
 ---

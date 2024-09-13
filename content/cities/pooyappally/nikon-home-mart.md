@@ -1,5 +1,5 @@
 ---
 title: "Nikon Home Mart"
 url: /pooyappally/nikon-home-mart/
-shop: Möbel
+shop: furniture
 ---

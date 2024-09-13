@@ -1,5 +1,5 @@
 ---
 title: "Vijaya Milk Dairy"
 url: /khammam/vijaya-milk-dairy/
-shop: Milch
+shop: dairy
 ---

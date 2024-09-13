@@ -1,5 +1,5 @@
 ---
 title: "Fresh n Fine"
 url: /mannanchery/fresh-n-fine/
-shop: Supermarkt
+shop: supermarket
 ---

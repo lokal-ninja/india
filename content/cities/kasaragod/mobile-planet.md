@@ -1,5 +1,5 @@
 ---
 title: "MOBILE PLANET"
 url: /kasaragod/mobile-planet/
-shop: Handy
+shop: mobile phone
 ---

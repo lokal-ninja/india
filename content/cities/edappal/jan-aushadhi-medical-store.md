@@ -1,5 +1,5 @@
 ---
 title: "JAN AUSHADHI  MEDICAL STORE"
 url: /edappal/jan-aushadhi-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

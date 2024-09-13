@@ -1,5 +1,5 @@
 ---
 title: "Sreeram Store"
 url: /mayyil-kannur/sreeram-store/
-shop: Bäckerei
+shop: bakery
 ---

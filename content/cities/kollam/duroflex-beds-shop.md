@@ -1,5 +1,5 @@
 ---
 title: "Duroflex beds shop"
 url: /kollam/duroflex-beds-shop/
-shop: Betten
+shop: bed
 ---

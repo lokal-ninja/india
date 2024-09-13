@@ -1,5 +1,5 @@
 ---
 title: "Laxmi Communication"
 url: /meerut/laxmi-communication/
-shop: Handy
+shop: mobile phone
 ---

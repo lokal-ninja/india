@@ -1,5 +1,5 @@
 ---
 title: "Fine Collection"
 url: /thane/fine-collection/
-shop: Schreibwaren
+shop: office supplies
 ---

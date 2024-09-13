@@ -1,5 +1,5 @@
 ---
 title: "Bhima Jewellers"
 url: /bengaluru/bhima-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

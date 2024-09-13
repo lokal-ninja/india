@@ -1,5 +1,5 @@
 ---
 title: "Magic Hands"
 url: /bangalore/magic-hands/
-shop: Kosmetik
+shop: beauty
 ---

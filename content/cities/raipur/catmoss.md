@@ -1,5 +1,5 @@
 ---
 title: "catmoss"
 url: /raipur/catmoss/
-shop: Kleidung
+shop: clothes
 ---

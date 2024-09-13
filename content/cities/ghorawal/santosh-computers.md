@@ -1,5 +1,5 @@
 ---
 title: "Santosh Computers"
 url: /ghorawal/santosh-computers/
-shop: Elektronik
+shop: electronics
 ---

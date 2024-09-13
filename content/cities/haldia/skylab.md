@@ -1,5 +1,5 @@
 ---
 title: "Skylab"
 url: /haldia/skylab/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supplyco Super Market"
 url: /elavumthitta/supplyco-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

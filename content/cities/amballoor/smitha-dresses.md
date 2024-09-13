@@ -1,5 +1,5 @@
 ---
 title: "Smitha Dresses"
 url: /amballoor/smitha-dresses/
-shop: Kleidung
+shop: clothes
 ---

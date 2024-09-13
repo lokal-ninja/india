@@ -1,5 +1,5 @@
 ---
 title: "Santhosh stores"
 url: /kollam/santhosh-stores/
-shop: Dorfladen
+shop: general
 ---

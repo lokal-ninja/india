@@ -1,5 +1,5 @@
 ---
 title: "K M Supermarket"
 url: /madhur/k-m-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

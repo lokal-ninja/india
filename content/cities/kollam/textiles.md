@@ -1,5 +1,5 @@
 ---
 title: "Textiles"
 url: /kollam/textiles/
-shop: Allgemein
+shop: shop
 ---

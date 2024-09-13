@@ -1,5 +1,5 @@
 ---
 title: "Madhuram Garments"
 url: /kishangarh/madhuram-garments/
-shop: Kleidung
+shop: clothes
 ---

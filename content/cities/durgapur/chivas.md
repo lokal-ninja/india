@@ -1,5 +1,5 @@
 ---
 title: "CHIVAS"
 url: /durgapur/chivas/
-shop: Spirituosen
+shop: alcohol
 ---

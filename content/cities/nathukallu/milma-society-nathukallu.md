@@ -1,5 +1,5 @@
 ---
 title: "Milma Society Nathukallu"
 url: /nathukallu/milma-society-nathukallu/
-shop: Milch
+shop: dairy
 ---

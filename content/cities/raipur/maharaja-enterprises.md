@@ -1,5 +1,5 @@
 ---
 title: "Maharaja Enterprises"
 url: /raipur/maharaja-enterprises/
-shop: Elektronik
+shop: electronics
 ---

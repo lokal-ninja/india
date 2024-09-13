@@ -1,5 +1,5 @@
 ---
 title: "Ashirwad Study Point"
 url: /jaipur/ashirwad-study-point/
-shop: Schreibwaren
+shop: office supplies
 ---

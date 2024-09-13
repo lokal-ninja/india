@@ -1,5 +1,5 @@
 ---
 title: "srk electronics"
 url: /vanasthaslipuram-hyderabad/srk-electronics/
-shop: Elektronik
+shop: electronics
 ---

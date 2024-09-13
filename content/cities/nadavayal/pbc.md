@@ -1,5 +1,5 @@
 ---
 title: "PBC"
 url: /nadavayal/pbc/
-shop: Mieten
+shop: storage rental
 ---

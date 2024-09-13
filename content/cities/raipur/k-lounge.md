@@ -1,5 +1,5 @@
 ---
 title: "K Lounge"
 url: /raipur/k-lounge/
-shop: Kleidung
+shop: clothes
 ---

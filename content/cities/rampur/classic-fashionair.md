@@ -1,5 +1,5 @@
 ---
 title: "Classic Fashionair"
 url: /rampur/classic-fashionair/
-shop: Kleidung
+shop: clothes
 ---

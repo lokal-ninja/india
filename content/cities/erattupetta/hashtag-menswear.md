@@ -1,5 +1,5 @@
 ---
 title: "Hashtag Menswear"
 url: /erattupetta/hashtag-menswear/
-shop: Kleidung
+shop: clothes
 ---

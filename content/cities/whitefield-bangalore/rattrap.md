@@ -1,5 +1,5 @@
 ---
 title: "Rattrap"
 url: /whitefield-bangalore/rattrap/
-shop: Kleidung
+shop: clothes
 ---

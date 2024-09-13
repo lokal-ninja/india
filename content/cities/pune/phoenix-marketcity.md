@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Marketcity"
 url: /pune/phoenix-marketcity/
-shop: Einkaufszentrum
+shop: mall
 ---

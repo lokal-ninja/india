@@ -1,5 +1,5 @@
 ---
 title: "Satish Gambhir Transport"
 url: /ambala/satish-gambhir-transport/
-shop: Allgemein
+shop: shop
 ---

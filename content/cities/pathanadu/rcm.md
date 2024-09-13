@@ -1,5 +1,5 @@
 ---
 title: "RCM"
 url: /pathanadu/rcm/
-shop: Allgemein
+shop: shop
 ---

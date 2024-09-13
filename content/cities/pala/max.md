@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /pala/max/
-shop: Kleidung
+shop: clothes
 ---

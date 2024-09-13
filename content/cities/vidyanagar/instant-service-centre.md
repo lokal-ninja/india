@@ -1,5 +1,5 @@
 ---
 title: "INSTANT SERVICE CENTRE"
 url: /vidyanagar/instant-service-centre/
-shop: Allgemein
+shop: shop
 ---

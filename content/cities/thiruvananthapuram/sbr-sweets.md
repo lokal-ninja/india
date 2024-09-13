@@ -1,5 +1,5 @@
 ---
 title: "SBR Sweets"
 url: /thiruvananthapuram/sbr-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

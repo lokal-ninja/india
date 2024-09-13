@@ -1,5 +1,5 @@
 ---
 title: "Basundhara Shoe"
 url: /islampur/basundhara-shoe/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Organic Manures"
 url: /palakkad/organic-manures/
-shop: Supermarkt
+shop: supermarket
 ---

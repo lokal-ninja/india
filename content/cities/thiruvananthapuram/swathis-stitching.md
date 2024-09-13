@@ -1,5 +1,5 @@
 ---
 title: "Swathis stitching"
 url: /thiruvananthapuram/swathis-stitching/
-shop: Schneiderei
+shop: tailor
 ---

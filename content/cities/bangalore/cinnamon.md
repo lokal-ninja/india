@@ -1,5 +1,5 @@
 ---
 title: "Cinnamon"
 url: /bangalore/cinnamon/
-shop: Modehaus
+shop: boutique
 ---

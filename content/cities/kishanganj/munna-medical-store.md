@@ -1,5 +1,5 @@
 ---
 title: "Munna Medical Store"
 url: /kishanganj/munna-medical-store/
-shop: Drogerie
+shop: chemist
 ---

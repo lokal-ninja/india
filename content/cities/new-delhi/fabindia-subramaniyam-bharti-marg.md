@@ -1,5 +1,5 @@
 ---
 title: "Fabindia"
 url: /new-delhi/fabindia-subramaniyam-bharti-marg/
-shop: Kleidung
+shop: clothes
 ---

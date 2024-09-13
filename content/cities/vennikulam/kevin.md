@@ -1,5 +1,5 @@
 ---
 title: "kevin"
 url: /vennikulam/kevin/
-shop: Friseur
+shop: hairdresser
 ---

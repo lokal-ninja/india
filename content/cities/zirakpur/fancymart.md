@@ -1,5 +1,5 @@
 ---
 title: "Fancymart"
 url: /zirakpur/fancymart/
-shop: Raumausstattung
+shop: interior decoration
 ---

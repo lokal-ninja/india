@@ -1,5 +1,5 @@
 ---
 title: "Turbozone Rawalpindi"
 url: /phagwara/turbozone-rawalpindi/
-shop: Autowerkstatt
+shop: car repair
 ---

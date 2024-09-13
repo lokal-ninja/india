@@ -1,5 +1,5 @@
 ---
 title: "bombay medical store"
 url: /mumbai/bombay-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

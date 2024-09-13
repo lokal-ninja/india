@@ -1,5 +1,5 @@
 ---
 title: "kair"
 url: /edappal/kair/
-shop: Kleidung
+shop: clothes
 ---

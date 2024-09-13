@@ -1,5 +1,5 @@
 ---
 title: "Sapna Book House"
 url: /bangalore/sapna-book-house/
-shop: Bücher
+shop: books
 ---

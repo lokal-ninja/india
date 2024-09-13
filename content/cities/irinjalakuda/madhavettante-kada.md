@@ -1,5 +1,5 @@
 ---
 title: "Madhavettante Kada"
 url: /irinjalakuda/madhavettante-kada/
-shop: Lebensmittel
+shop: convenience
 ---

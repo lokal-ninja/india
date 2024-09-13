@@ -1,5 +1,5 @@
 ---
 title: "Aadharam Ezhuth Office"
 url: /pandalam/aadharam-ezhuth-office/
-shop: Allgemein
+shop: shop
 ---

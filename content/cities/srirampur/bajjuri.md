@@ -1,5 +1,5 @@
 ---
 title: "Bajjuri"
 url: /srirampur/bajjuri/
-shop: Dorfladen
+shop: general
 ---

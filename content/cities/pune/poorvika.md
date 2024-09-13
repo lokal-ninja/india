@@ -1,5 +1,5 @@
 ---
 title: "Poorvika"
 url: /pune/poorvika/
-shop: Elektronik
+shop: electronics
 ---

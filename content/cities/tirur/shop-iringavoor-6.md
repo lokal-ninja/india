@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /tirur/shop-iringavoor-6/
-shop: Allgemein
+shop: shop
 ---

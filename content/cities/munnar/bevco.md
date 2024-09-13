@@ -1,5 +1,5 @@
 ---
 title: "Bevco"
 url: /munnar/bevco/
-shop: Spirituosen
+shop: alcohol
 ---

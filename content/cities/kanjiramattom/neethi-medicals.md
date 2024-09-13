@@ -1,5 +1,5 @@
 ---
 title: "Neethi Medicals"
 url: /kanjiramattom/neethi-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

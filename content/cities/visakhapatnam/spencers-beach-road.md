@@ -1,5 +1,5 @@
 ---
 title: "Spencer's Beach Road"
 url: /visakhapatnam/spencers-beach-road/
-shop: Supermarkt
+shop: supermarket
 ---

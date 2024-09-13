@@ -1,5 +1,5 @@
 ---
 title: "supermarket"
 url: /muvattupuzha/supermarket/
-shop: Schreibwaren
+shop: office supplies
 ---

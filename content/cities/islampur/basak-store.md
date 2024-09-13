@@ -1,5 +1,5 @@
 ---
 title: "Basak Store"
 url: /islampur/basak-store/
-shop: Dorfladen
+shop: general
 ---

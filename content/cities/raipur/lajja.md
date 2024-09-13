@@ -1,5 +1,5 @@
 ---
 title: "Lajja"
 url: /raipur/lajja/
-shop: Kleidung
+shop: clothes
 ---

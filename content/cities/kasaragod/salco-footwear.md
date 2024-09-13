@@ -1,5 +1,5 @@
 ---
 title: "SALCO FOOTWEAR"
 url: /kasaragod/salco-footwear/
-shop: Schuhe
+shop: shoes
 ---

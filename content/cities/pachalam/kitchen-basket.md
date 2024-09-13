@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Basket"
 url: /pachalam/kitchen-basket/
-shop: Supermarkt
+shop: supermarket
 ---

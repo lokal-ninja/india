@@ -1,5 +1,5 @@
 ---
 title: "Neethi Medical Store"
 url: /thrissur/neethi-medical-store-high-road/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hindustan Paint Store"
 url: /raina/hindustan-paint-store/
-shop: Farben
+shop: paint
 ---

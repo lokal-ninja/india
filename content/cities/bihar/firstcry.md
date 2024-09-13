@@ -1,5 +1,5 @@
 ---
 title: "Firstcry"
 url: /bihar/firstcry/
-shop: Babysachen
+shop: baby goods
 ---

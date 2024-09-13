@@ -1,5 +1,5 @@
 ---
 title: "sm fashions"
 url: /mallappally/sm-fashions/
-shop: Kleidung
+shop: clothes
 ---

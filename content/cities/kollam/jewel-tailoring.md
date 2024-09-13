@@ -1,5 +1,5 @@
 ---
 title: "Jewel Tailoring"
 url: /kollam/jewel-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

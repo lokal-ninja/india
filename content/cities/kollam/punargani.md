@@ -1,5 +1,5 @@
 ---
 title: "Punargani"
 url: /kollam/punargani/
-shop: Allgemein
+shop: shop
 ---

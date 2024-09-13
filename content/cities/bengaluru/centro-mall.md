@@ -1,5 +1,5 @@
 ---
 title: "Centro Mall"
 url: /bengaluru/centro-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

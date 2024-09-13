@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi Store"
 url: /bahadurgarh/xiaomi-store/
-shop: Handy
+shop: mobile phone
 ---

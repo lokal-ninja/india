@@ -1,5 +1,5 @@
 ---
 title: "Sreemookambika"
 url: /kollam/sreemookambika/
-shop: Allgemein
+shop: shop
 ---

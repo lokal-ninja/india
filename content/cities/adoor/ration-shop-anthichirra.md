@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /adoor/ration-shop-anthichirra/
-shop: Lebensmittel
+shop: convenience
 ---

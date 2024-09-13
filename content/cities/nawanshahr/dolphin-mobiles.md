@@ -1,5 +1,5 @@
 ---
 title: "Dolphin Mobiles"
 url: /nawanshahr/dolphin-mobiles/
-shop: Handy
+shop: mobile phone
 ---

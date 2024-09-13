@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Thammanimattom"
 url: /kolenchery/ration-shop-thammanimattom/
-shop: Lebensmittel
+shop: convenience
 ---

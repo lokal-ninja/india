@@ -1,5 +1,5 @@
 ---
 title: "Dhanya Super Market"
 url: /odanavattom/dhanya-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

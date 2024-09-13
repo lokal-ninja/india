@@ -1,5 +1,5 @@
 ---
 title: "Romantic"
 url: /manguluru/romantic/
-shop: Kleidung
+shop: clothes
 ---

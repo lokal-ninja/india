@@ -1,5 +1,5 @@
 ---
 title: "SHE'S Passion"
 url: /raipur/shes-passion/
-shop: Kleidung
+shop: clothes
 ---

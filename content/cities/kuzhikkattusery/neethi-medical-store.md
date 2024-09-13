@@ -1,5 +1,5 @@
 ---
 title: "Neethi medical store"
 url: /kuzhikkattusery/neethi-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

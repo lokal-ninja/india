@@ -1,5 +1,5 @@
 ---
 title: "Relince trends"
 url: /hyderabad/relince-trends/
-shop: Kleidung
+shop: clothes
 ---

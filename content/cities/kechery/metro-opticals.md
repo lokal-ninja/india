@@ -1,5 +1,5 @@
 ---
 title: "Metro Opticals"
 url: /kechery/metro-opticals/
-shop: Optiker
+shop: optician
 ---

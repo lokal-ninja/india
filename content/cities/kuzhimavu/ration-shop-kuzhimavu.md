@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop, Kuzhimavu"
 url: /kuzhimavu/ration-shop-kuzhimavu/
-shop: Lebensmittel
+shop: convenience
 ---

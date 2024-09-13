@@ -1,5 +1,5 @@
 ---
 title: "Mariya Electricals"
 url: /thirumarady/mariya-electricals/
-shop: Elektrisch
+shop: electrical
 ---

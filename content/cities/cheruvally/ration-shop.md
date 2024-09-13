@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /cheruvally/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virdi Motor Garage"
 url: /shahkot/virdi-motor-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

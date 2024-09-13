@@ -1,5 +1,5 @@
 ---
 title: "Chaitanya Gents Parlour"
 url: /nagpur/chaitanya-gents-parlour/
-shop: Friseur
+shop: hairdresser
 ---

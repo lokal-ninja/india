@@ -1,5 +1,5 @@
 ---
 title: "Khanna Stationary"
 url: /ghaziabad/khanna-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

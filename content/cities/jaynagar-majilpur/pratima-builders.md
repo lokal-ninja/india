@@ -1,5 +1,5 @@
 ---
 title: "Pratima Builders"
 url: /jaynagar-majilpur/pratima-builders/
-shop: Fußböden
+shop: flooring
 ---

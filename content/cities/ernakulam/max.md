@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /ernakulam/max/
-shop: Kleidung
+shop: clothes
 ---

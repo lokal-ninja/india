@@ -1,5 +1,5 @@
 ---
 title: "SN Hotel Pooram"
 url: /pandalam/sn-hotel-pooram/
-shop: Bäckerei
+shop: bakery
 ---

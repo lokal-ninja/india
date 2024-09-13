@@ -1,5 +1,5 @@
 ---
 title: "Jan Aushadhi Medical Store"
 url: /amala-nagar/jan-aushadhi-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agarwal Dresses"
 url: /islampur/agarwal-dresses/
-shop: Kleidung
+shop: clothes
 ---

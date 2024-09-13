@@ -1,5 +1,5 @@
 ---
 title: "neethi pharmacy"
 url: /aloor/neethi-pharmacy/
-shop: Sanitätshaus
+shop: medical supply
 ---

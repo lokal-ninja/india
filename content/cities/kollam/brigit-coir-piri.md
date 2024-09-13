@@ -1,5 +1,5 @@
 ---
 title: "Brigit coir piri"
 url: /kollam/brigit-coir-piri/
-shop: Allgemein
+shop: shop
 ---

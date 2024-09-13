@@ -1,5 +1,5 @@
 ---
 title: "Mangala Store"
 url: /puttur/mangala-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal tailor"
 url: /mansa/royal-tailor/
-shop: Schneiderei
+shop: tailor
 ---

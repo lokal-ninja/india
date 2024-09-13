@@ -1,5 +1,5 @@
 ---
 title: "Carspot"
 url: /perinthalmanna/carspot/
-shop: Autoteile
+shop: car parts
 ---

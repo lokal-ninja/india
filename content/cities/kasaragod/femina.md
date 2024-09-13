@@ -1,5 +1,5 @@
 ---
 title: "FEMINA"
 url: /kasaragod/femina/
-shop: Schmuck
+shop: jewelry
 ---

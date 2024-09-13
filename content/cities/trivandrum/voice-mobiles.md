@@ -1,5 +1,5 @@
 ---
 title: "Voice Mobiles"
 url: /trivandrum/voice-mobiles/
-shop: Handy
+shop: mobile phone
 ---

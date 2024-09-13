@@ -1,5 +1,5 @@
 ---
 title: "Yantracart"
 url: /durgapur/yantracart/
-shop: Supermarkt
+shop: supermarket
 ---

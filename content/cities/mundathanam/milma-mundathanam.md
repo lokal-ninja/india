@@ -1,5 +1,5 @@
 ---
 title: "milma mundathanam"
 url: /mundathanam/milma-mundathanam/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thampru Food Product Unit"
 url: /kollam/thampru-food-product-unit/
-shop: Bioladen
+shop: health food
 ---

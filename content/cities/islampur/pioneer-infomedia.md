@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Infomedia"
 url: /islampur/pioneer-infomedia/
-shop: Allgemein
+shop: shop
 ---

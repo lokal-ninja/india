@@ -1,5 +1,5 @@
 ---
 title: "Avittam"
 url: /pallikuruppu/avittam/
-shop: Möbel
+shop: furniture
 ---

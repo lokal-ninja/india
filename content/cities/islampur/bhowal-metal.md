@@ -1,5 +1,5 @@
 ---
 title: "Bhowal Metal"
 url: /islampur/bhowal-metal/
-shop: Haushaltsartikel
+shop: houseware
 ---

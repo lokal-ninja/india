@@ -1,5 +1,5 @@
 ---
 title: "Rumtek  Souvenirs"
 url: /rumtek/rumtek-souvenirs/
-shop: Andenken
+shop: gift
 ---

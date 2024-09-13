@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /vellaramkunnu/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

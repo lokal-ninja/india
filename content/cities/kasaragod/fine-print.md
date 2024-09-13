@@ -1,5 +1,5 @@
 ---
 title: "FINE PRINT"
 url: /kasaragod/fine-print/
-shop: Allgemein
+shop: shop
 ---

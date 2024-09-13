@@ -1,5 +1,5 @@
 ---
 title: "MW INTERNATIONAL"
 url: /new-delhi/mw-international/
-shop: Elektronik
+shop: electronics
 ---

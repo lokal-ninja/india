@@ -1,5 +1,5 @@
 ---
 title: "National Maligai"
 url: /ayyampettai/national-maligai/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tulip Supermart"
 url: /gurgaon/tulip-supermart/
-shop: Warenhaus
+shop: department store
 ---

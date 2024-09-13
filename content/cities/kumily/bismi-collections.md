@@ -1,5 +1,5 @@
 ---
 title: "Bismi Collections"
 url: /kumily/bismi-collections/
-shop: Allgemein
+shop: shop
 ---

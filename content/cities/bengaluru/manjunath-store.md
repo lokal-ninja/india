@@ -1,5 +1,5 @@
 ---
 title: "Manjunath Store"
 url: /bengaluru/manjunath-store/
-shop: Baumarkt
+shop: doityourself
 ---

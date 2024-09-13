@@ -1,5 +1,5 @@
 ---
 title: "Reddy Store"
 url: /hutti-camp/reddy-store/
-shop: Lebensmittel
+shop: convenience
 ---

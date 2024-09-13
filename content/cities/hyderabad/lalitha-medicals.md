@@ -1,5 +1,5 @@
 ---
 title: "Lalitha Medicals"
 url: /hyderabad/lalitha-medicals/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop Paimattom"
 url: /pallarimangalam/ration-shop-paimattom/
-shop: Lebensmittel
+shop: convenience
 ---

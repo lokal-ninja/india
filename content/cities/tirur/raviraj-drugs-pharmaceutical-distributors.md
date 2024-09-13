@@ -1,5 +1,5 @@
 ---
 title: "Raviraj Drugs Pharmaceutical Distributors"
 url: /tirur/raviraj-drugs-pharmaceutical-distributors/
-shop: Drogerie
+shop: chemist
 ---

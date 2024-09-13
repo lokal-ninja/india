@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop,Pramadom"
 url: /konni/ration-shop-pramadom/
-shop: Lebensmittel
+shop: convenience
 ---

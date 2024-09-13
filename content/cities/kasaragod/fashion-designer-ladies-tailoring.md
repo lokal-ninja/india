@@ -1,5 +1,5 @@
 ---
 title: "FASHION DESIGNER LADIES TAILORING"
 url: /kasaragod/fashion-designer-ladies-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

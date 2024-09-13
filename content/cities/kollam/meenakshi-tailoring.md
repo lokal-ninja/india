@@ -1,5 +1,5 @@
 ---
 title: "Meenakshi Tailoring"
 url: /kollam/meenakshi-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

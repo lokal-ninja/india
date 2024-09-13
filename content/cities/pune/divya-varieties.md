@@ -1,5 +1,5 @@
 ---
 title: "Divya Varieties"
 url: /pune/divya-varieties/
-shop: Kramladen
+shop: variety store
 ---

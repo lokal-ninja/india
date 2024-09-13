@@ -1,5 +1,5 @@
 ---
 title: "Krushna Sweets"
 url: /pune/krushna-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

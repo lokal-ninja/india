@@ -1,5 +1,5 @@
 ---
 title: "YLG"
 url: /bangalore/ylg/
-shop: Kosmetik
+shop: beauty
 ---

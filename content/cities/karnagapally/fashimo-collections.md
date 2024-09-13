@@ -1,5 +1,5 @@
 ---
 title: "Fashimo collections"
 url: /karnagapally/fashimo-collections/
-shop: Kleidung
+shop: clothes
 ---

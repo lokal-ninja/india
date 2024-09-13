@@ -1,5 +1,5 @@
 ---
 title: "Chandru Sports"
 url: /dharwad/chandru-sports/
-shop: Sport
+shop: sports
 ---

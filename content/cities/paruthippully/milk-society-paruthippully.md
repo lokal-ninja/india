@@ -1,5 +1,5 @@
 ---
 title: "Milk Society, Paruthippully"
 url: /paruthippully/milk-society-paruthippully/
-shop: Milch
+shop: dairy
 ---

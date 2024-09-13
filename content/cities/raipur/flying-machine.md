@@ -1,5 +1,5 @@
 ---
 title: "Flying Machine"
 url: /raipur/flying-machine/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Me Mobile Hub"
 url: /mullanpur-dakha/me-mobile-hub/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beverages Corporation Outlet"
 url: /kuthuparamba/beverages-corporation-outlet/
-shop: Spirituosen
+shop: alcohol
 ---

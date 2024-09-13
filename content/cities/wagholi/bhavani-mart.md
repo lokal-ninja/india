@@ -1,5 +1,5 @@
 ---
 title: "Bhavani Mart"
 url: /wagholi/bhavani-mart/
-shop: Supermarkt
+shop: supermarket
 ---

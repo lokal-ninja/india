@@ -1,5 +1,5 @@
 ---
 title: "Sahath stores"
 url: /thiruvananthapuram/sahath-stores/
-shop: Dorfladen
+shop: general
 ---

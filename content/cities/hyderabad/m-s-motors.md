@@ -1,5 +1,5 @@
 ---
 title: "M S MOTORS"
 url: /hyderabad/m-s-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

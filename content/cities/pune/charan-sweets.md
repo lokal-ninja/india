@@ -1,5 +1,5 @@
 ---
 title: "Charan Sweets"
 url: /pune/charan-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

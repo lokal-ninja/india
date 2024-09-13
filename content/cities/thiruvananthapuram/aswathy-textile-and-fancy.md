@@ -1,5 +1,5 @@
 ---
 title: "Aswathy textile and fancy"
 url: /thiruvananthapuram/aswathy-textile-and-fancy/
-shop: Kleidung
+shop: clothes
 ---

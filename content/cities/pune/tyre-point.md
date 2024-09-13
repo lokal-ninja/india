@@ -1,5 +1,5 @@
 ---
 title: "Tyre Point"
 url: /pune/tyre-point/
-shop: Reifen
+shop: tyres
 ---

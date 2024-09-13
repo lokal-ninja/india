@@ -1,5 +1,5 @@
 ---
 title: "Inventive Enrich"
 url: /bangalore/inventive-enrich/
-shop: Kosmetik
+shop: beauty
 ---

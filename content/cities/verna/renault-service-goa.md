@@ -1,5 +1,5 @@
 ---
 title: "Renault Service Goa"
 url: /verna/renault-service-goa/
-shop: Autowerkstatt
+shop: car repair
 ---

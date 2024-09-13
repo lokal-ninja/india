@@ -1,5 +1,5 @@
 ---
 title: "Bata Abulane"
 url: /meerut/bata-abulane/
-shop: Schuhe
+shop: shoes
 ---

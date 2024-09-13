@@ -1,5 +1,5 @@
 ---
 title: "ASR Stitching"
 url: /trivandrum/asr-stitching/
-shop: Schneiderei
+shop: tailor
 ---

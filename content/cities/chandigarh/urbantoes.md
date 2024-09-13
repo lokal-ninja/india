@@ -1,5 +1,5 @@
 ---
 title: "URBANTOES"
 url: /chandigarh/urbantoes/
-shop: Schuhe
+shop: shoes
 ---

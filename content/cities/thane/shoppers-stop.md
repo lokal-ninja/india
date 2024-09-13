@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Stop"
 url: /thane/shoppers-stop/
-shop: Warenhaus
+shop: department store
 ---

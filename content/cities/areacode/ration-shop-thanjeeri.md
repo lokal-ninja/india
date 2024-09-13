@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /areacode/ration-shop-thanjeeri/
-shop: Lebensmittel
+shop: convenience
 ---

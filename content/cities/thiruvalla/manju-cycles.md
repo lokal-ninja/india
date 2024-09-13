@@ -1,5 +1,5 @@
 ---
 title: "manju cycles"
 url: /thiruvalla/manju-cycles/
-shop: Motorrad
+shop: motorcycle
 ---

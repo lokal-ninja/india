@@ -1,5 +1,5 @@
 ---
 title: "Mustard"
 url: /bangalore/mustard/
-shop: Kleidung
+shop: clothes
 ---

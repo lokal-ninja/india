@@ -1,5 +1,5 @@
 ---
 title: "Sahdev Jewellers"
 url: /dehradun/sahdev-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

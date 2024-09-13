@@ -1,5 +1,5 @@
 ---
 title: "Indian Gift Store"
 url: /candolim/indian-gift-store/
-shop: Andenken
+shop: gift
 ---

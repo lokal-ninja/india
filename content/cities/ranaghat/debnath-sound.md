@@ -1,5 +1,5 @@
 ---
 title: "Debnath Sound"
 url: /ranaghat/debnath-sound/
-shop: Musik
+shop: music
 ---

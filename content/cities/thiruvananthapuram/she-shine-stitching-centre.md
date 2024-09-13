@@ -1,5 +1,5 @@
 ---
 title: "She Shine Stitching Centre"
 url: /thiruvananthapuram/she-shine-stitching-centre/
-shop: Schneiderei
+shop: tailor
 ---

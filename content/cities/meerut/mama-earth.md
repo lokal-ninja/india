@@ -1,5 +1,5 @@
 ---
 title: "Mama Earth"
 url: /meerut/mama-earth/
-shop: Kosmetik
+shop: beauty
 ---

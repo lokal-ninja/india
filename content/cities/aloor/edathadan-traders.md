@@ -1,5 +1,5 @@
 ---
 title: "Edathadan Traders"
 url: /aloor/edathadan-traders/
-shop: Dorfladen
+shop: general
 ---

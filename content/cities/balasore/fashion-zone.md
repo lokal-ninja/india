@@ -1,5 +1,5 @@
 ---
 title: "Fashion Zone"
 url: /balasore/fashion-zone/
-shop: Kleidung
+shop: clothes
 ---

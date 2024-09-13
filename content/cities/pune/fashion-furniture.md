@@ -1,5 +1,5 @@
 ---
 title: "Fashion furniture"
 url: /pune/fashion-furniture/
-shop: Möbel
+shop: furniture
 ---

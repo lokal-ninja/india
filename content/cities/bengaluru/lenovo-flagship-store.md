@@ -1,5 +1,5 @@
 ---
 title: "Lenovo flagship store"
 url: /bengaluru/lenovo-flagship-store/
-shop: Computer
+shop: computer
 ---

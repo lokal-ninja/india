@@ -1,5 +1,5 @@
 ---
 title: "Utradam Store Microenterprises"
 url: /trivandrum/utradam-store-microenterprises/
-shop: Allgemein
+shop: shop
 ---

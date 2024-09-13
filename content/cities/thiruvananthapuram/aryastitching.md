@@ -1,5 +1,5 @@
 ---
 title: "Aryastitching"
 url: /thiruvananthapuram/aryastitching/
-shop: Schneiderei
+shop: tailor
 ---

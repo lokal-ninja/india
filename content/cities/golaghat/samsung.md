@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /golaghat/samsung/
-shop: Elektronik
+shop: electronics
 ---

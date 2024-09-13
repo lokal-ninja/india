@@ -1,5 +1,5 @@
 ---
 title: "Sri Annai Xerox"
 url: /pondicherry/sri-annai-xerox/
-shop: Kopieren
+shop: copyshop
 ---

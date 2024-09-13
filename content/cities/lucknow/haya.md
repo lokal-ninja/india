@@ -1,5 +1,5 @@
 ---
 title: "Haya"
 url: /lucknow/haya/
-shop: Kleidung
+shop: clothes
 ---

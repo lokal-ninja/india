@@ -1,5 +1,5 @@
 ---
 title: "HealthKart"
 url: /prayagraj/healthkart/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surana Jewellers"
 url: /secunderabad/surana-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

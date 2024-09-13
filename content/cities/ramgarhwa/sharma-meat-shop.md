@@ -1,5 +1,5 @@
 ---
 title: "sharma meat shop"
 url: /ramgarhwa/sharma-meat-shop/
-shop: Allgemein
+shop: shop
 ---

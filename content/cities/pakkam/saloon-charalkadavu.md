@@ -1,5 +1,5 @@
 ---
 title: "Saloon Charalkadavu"
 url: /pakkam/saloon-charalkadavu/
-shop: Friseur
+shop: hairdresser
 ---

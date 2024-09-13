@@ -1,5 +1,5 @@
 ---
 title: "Kanthi Sweets"
 url: /mathikere/kanthi-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yashhas Electronics"
 url: /bangalore/yashhas-electronics/
-shop: Elektronik
+shop: electronics
 ---

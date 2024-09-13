@@ -1,5 +1,5 @@
 ---
 title: "Fish Market"
 url: /ponnamveli/fish-market/
-shop: Angeln
+shop: fishing
 ---

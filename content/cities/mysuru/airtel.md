@@ -1,5 +1,5 @@
 ---
 title: "Airtel"
 url: /mysuru/airtel/
-shop: Handy
+shop: mobile phone
 ---

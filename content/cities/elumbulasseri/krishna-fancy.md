@@ -1,5 +1,5 @@
 ---
 title: "Krishna Fancy"
 url: /elumbulasseri/krishna-fancy/
-shop: Allgemein
+shop: shop
 ---

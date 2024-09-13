@@ -1,5 +1,5 @@
 ---
 title: "Meric Fashion"
 url: /kandonthar/meric-fashion/
-shop: Kleidung
+shop: clothes
 ---

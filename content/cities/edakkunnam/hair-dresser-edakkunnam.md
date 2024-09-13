@@ -1,5 +1,5 @@
 ---
 title: "Hair dresser, Edakkunnam"
 url: /edakkunnam/hair-dresser-edakkunnam/
-shop: Friseur
+shop: hairdresser
 ---

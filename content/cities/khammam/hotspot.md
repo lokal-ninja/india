@@ -1,5 +1,5 @@
 ---
 title: "Hotspot"
 url: /khammam/hotspot/
-shop: Bäckerei
+shop: bakery
 ---

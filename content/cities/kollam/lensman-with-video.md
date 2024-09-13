@@ -1,5 +1,5 @@
 ---
 title: "Lensman with video"
 url: /kollam/lensman-with-video/
-shop: Allgemein
+shop: shop
 ---

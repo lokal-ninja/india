@@ -1,5 +1,5 @@
 ---
 title: "Krishnakripa"
 url: /ala/krishnakripa/
-shop: Kleidung
+shop: clothes
 ---

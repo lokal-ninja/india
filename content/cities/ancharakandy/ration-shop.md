@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /ancharakandy/ration-shop/
-shop: Lebensmittel
+shop: convenience
 ---

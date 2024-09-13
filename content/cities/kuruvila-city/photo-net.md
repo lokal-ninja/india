@@ -1,5 +1,5 @@
 ---
 title: "photo net"
 url: /kuruvila-city/photo-net/
-shop: Foto
+shop: photo
 ---

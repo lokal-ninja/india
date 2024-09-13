@@ -1,5 +1,5 @@
 ---
 title: "Allen Solly"
 url: /bangalore/allen-solly/
-shop: Kleidung
+shop: clothes
 ---

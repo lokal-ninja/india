@@ -1,5 +1,5 @@
 ---
 title: "Gayathry Stores"
 url: /muvattupuzha/gayathry-stores/
-shop: Sanitätshaus
+shop: medical supply
 ---

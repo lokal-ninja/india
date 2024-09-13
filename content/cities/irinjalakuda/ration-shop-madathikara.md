@@ -1,5 +1,5 @@
 ---
 title: "Ration Shop"
 url: /irinjalakuda/ration-shop-madathikara/
-shop: Lebensmittel
+shop: convenience
 ---

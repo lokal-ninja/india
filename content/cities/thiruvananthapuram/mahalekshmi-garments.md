@@ -1,5 +1,5 @@
 ---
 title: "Mahalekshmi Garments"
 url: /thiruvananthapuram/mahalekshmi-garments/
-shop: Allgemein
+shop: shop
 ---

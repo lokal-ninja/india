@@ -1,5 +1,5 @@
 ---
 title: "Unni Stores"
 url: /thichur/unni-stores/
-shop: Schreibwaren
+shop: office supplies
 ---

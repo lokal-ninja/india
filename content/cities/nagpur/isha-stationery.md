@@ -1,5 +1,5 @@
 ---
 title: "Isha Stationery"
 url: /nagpur/isha-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samas"
 url: /machilipatnam/samas/
-shop: Einkaufszentrum
+shop: mall
 ---

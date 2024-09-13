@@ -1,5 +1,5 @@
 ---
 title: "Market Fresh"
 url: /bengaluru/market-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

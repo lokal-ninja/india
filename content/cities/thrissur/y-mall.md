@@ -1,5 +1,5 @@
 ---
 title: "Y MALL"
 url: /thrissur/y-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

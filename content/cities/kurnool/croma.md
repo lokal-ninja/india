@@ -1,5 +1,5 @@
 ---
 title: "Croma"
 url: /kurnool/croma/
-shop: Elektronik
+shop: electronics
 ---

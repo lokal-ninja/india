@@ -1,5 +1,5 @@
 ---
 title: "serious style"
 url: /tral/serious-style/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Makulath Electricals"
 url: /kollam/makulath-electricals/
-shop: Elektrisch
+shop: electrical
 ---

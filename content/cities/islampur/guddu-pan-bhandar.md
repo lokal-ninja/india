@@ -1,5 +1,5 @@
 ---
 title: "Guddu Pan Bhandar"
 url: /islampur/guddu-pan-bhandar/
-shop: Kiosk
+shop: kiosk
 ---

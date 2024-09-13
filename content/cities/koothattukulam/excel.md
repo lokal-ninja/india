@@ -1,5 +1,5 @@
 ---
 title: "Excel"
 url: /koothattukulam/excel/
-shop: Schreibwaren
+shop: office supplies
 ---

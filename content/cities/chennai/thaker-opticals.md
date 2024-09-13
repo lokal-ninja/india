@@ -1,5 +1,5 @@
 ---
 title: "Thaker Opticals"
 url: /chennai/thaker-opticals/
-shop: Optiker
+shop: optician
 ---

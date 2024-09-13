@@ -1,5 +1,5 @@
 ---
 title: "Srishti"
 url: /ponnamkode/srishti/
-shop: Allgemein
+shop: shop
 ---

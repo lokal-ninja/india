@@ -1,5 +1,5 @@
 ---
 title: "Elora Bakery"
 url: /kottarakkara/elora-bakery/
-shop: Bäckerei
+shop: bakery
 ---

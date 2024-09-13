@@ -1,5 +1,5 @@
 ---
 title: "Relaince Mall"
 url: /salem/relaince-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

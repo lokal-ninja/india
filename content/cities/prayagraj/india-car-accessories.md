@@ -1,5 +1,5 @@
 ---
 title: "India Car Accessories"
 url: /prayagraj/india-car-accessories/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HRJ Opticals"
 url: /pune/hrj-opticals/
-shop: Optiker
+shop: optician
 ---

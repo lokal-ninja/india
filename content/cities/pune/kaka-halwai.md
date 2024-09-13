@@ -1,5 +1,5 @@
 ---
 title: "Kaka Halwai"
 url: /pune/kaka-halwai/
-shop: Schokolade
+shop: chocolate
 ---

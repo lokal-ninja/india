@@ -1,5 +1,5 @@
 ---
 title: "D Mart"
 url: /wagholi-pune/d-mart/
-shop: Supermarkt
+shop: supermarket
 ---
