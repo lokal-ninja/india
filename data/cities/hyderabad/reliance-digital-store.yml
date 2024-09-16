@@ -1,11 +1,11 @@
 id: 643283831
-type: way
+type: node
 latitude: 17.42547
 longitude: 78.45338
 postcode: "500082"
 city: Hyderabad
-street: "Somajiguda Road - Panjagutta Main Road"
-housenumber: 
+street: Somajiguda Road - Panjagutta Main Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

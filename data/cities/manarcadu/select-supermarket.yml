@@ -1,11 +1,11 @@
 id: 1185718074
-type: way
+type: node
 latitude: 9.58868
 longitude: 76.58155
 postcode: "686019"
 city: Manarcadu
-street: "NH220"
-housenumber: 
+street: NH220
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
+opening_hours: Mo-Sa 08:00-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1044433695
-type: way
+type: node
 latitude: 12.89309
 longitude: 77.5816
 postcode: "560078"
 city: JP Nagar 7th Phase, Bengaluru
-street: "18th Main Road"
-housenumber: 
+street: 18th Main Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1144623862
-type: way
+type: node
 latitude: 12.86088
 longitude: 77.54264
 postcode: "560062"
 city: Bengaluru
-street: "Kumarans School Holiday Village Road"
-housenumber: 116
-phone: "+91 88615 53742"
-opening_hours: "Mo-Su 07:30-22:00"
+street: Kumarans School Holiday Village Road
+housenumber: "116"
+phone: +91 88615 53742
+opening_hours: Mo-Su 07:30-22:00
 website: ""

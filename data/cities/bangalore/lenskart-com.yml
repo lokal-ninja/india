@@ -4,8 +4,8 @@ latitude: 12.91926
 longitude: 77.52044
 postcode: "560098"
 city: Bangalore
-street: "Jawaharlal Nehru Road"
-housenumber: 826
+street: Jawaharlal Nehru Road
+housenumber: "826"
 phone: ""
-opening_hours: "11:00 - 23:00"
-website: "https://www.lenskart.com/"
+opening_hours: 11:00 - 23:00
+website: https://www.lenskart.com/

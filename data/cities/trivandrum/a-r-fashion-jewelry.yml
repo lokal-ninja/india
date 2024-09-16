@@ -1,11 +1,11 @@
 id: 804101406
-type: way
+type: node
 latitude: 8.37562
 longitude: 77.108
 postcode: "695132"
 city: Trivandrum
-street: "Vattavila, Kerala"
-housenumber: 
+street: Vattavila, Kerala
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

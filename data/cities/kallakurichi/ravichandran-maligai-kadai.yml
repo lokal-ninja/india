@@ -1,11 +1,11 @@
 id: 768412997
-type: way
+type: node
 latitude: 11.72857
 longitude: 79.07658
 postcode: "606206"
 city: Kallakurichi
-street: "Perumal Kovil Street, Pukkulam,Thiayagadurgam"
-housenumber: 17
+street: Perumal Kovil Street, Pukkulam,Thiayagadurgam
+housenumber: "17"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 632555291
-type: way
+type: node
 latitude: 9.44165
 longitude: 76.47597
 postcode: "689590"
 city: veliyanadu
-street: "veliyanadu"
-housenumber: 
+street: veliyanadu
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

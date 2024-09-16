@@ -1,11 +1,11 @@
 id: 1008811672
-type: way
+type: node
 latitude: 10.77388
 longitude: 76.36239
 postcode: "679104"
 city: Ottapalam
-street: "Kanniyampuram"
-housenumber: 
+street: Kanniyampuram
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

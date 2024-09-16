@@ -1,5 +1,5 @@
 id: 403044205
-type: way
+type: node
 latitude: 16.52044
 longitude: 80.67583
 postcode: "520008"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 48-10-11
 phone: ""
 opening_hours: ""
-website: "https://www.hyundai.com/"
+website: https://www.hyundai.com/

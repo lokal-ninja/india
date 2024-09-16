@@ -1,11 +1,11 @@
 id: 1170458551
-type: way
+type: node
 latitude: 27.35795
 longitude: 75.68789
 postcode: "303803"
 city: Khejroli
-street: "Hardrampura"
-housenumber: 
+street: Hardrampura
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

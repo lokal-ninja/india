@@ -1,11 +1,11 @@
 id: 580680580
-type: way
+type: node
 latitude: 10.77224
 longitude: 76.68419
 postcode: "678007"
 city: palakkad
-street: "pirivusala"
-housenumber: 
+street: pirivusala
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

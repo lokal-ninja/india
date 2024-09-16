@@ -1,11 +1,11 @@
 id: 904665709
-type: way
+type: node
 latitude: 11.99707
 longitude: 75.72589
 postcode: "670704"
 city: Edoor
-street: "edoor"
-housenumber: 
+street: edoor
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

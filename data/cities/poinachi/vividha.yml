@@ -1,11 +1,11 @@
 id: 921918002
-type: way
+type: node
 latitude: 12.46452
 longitude: 75.05899
 postcode: "671541"
 city: POINACHI
-street: "POINACHI"
-housenumber: 
+street: POINACHI
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 12.94071
 longitude: 77.62017
 postcode: "560095"
 city: Bengaluru
-street: "80 Feet Road"
-housenumber: 583
+street: 80 Feet Road
+housenumber: "583"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.sourhouse.in"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.sourhouse.in

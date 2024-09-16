@@ -1,11 +1,11 @@
 id: 1064573634
-type: way
+type: node
 latitude: 12.93921
 longitude: 77.69682
 postcode: "560103"
 city: Bengaluru
-street: "Panathur Main Road"
-housenumber: 
+street: Panathur Main Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

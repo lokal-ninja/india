@@ -4,7 +4,8 @@ latitude: 28.71441
 longitude: 77.12969
 postcode: "110085"
 city: Delhi
-street: ", SECTOR-9, NEAR KADAMBARI CO-OPERATIVE GROUP HOUSING SOCIETY LTD, Rohini, Delhi"
+street: ', SECTOR-9, NEAR KADAMBARI CO-OPERATIVE GROUP HOUSING SOCIETY LTD, Rohini,
+    Delhi'
 housenumber: B-27, GROUND FLOOR, NORTH-EX MALL
 phone: ""
 opening_hours: ""

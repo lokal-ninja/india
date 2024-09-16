@@ -4,8 +4,9 @@ latitude: 28.55164
 longitude: 77.20697
 postcode: "110016"
 city: New Delhi
-street: "Shop No. 3, Near Federal Bank, E Block, Main Market, Hauz Khas, New Delhi, Delhi 110016"
+street: Shop No. 3, Near Federal Bank, E Block, Main Market, Hauz Khas, New Delhi,
+    Delhi 110016
 housenumber: E-50
 phone: ""
 opening_hours: ""
-website: "https://tatsat.co.in/"
+website: https://tatsat.co.in/

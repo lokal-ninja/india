@@ -1,11 +1,11 @@
 id: 1004660170
-type: way
+type: node
 latitude: 10.76862
 longitude: 76.25935
 postcode: "679121"
 city: Shornur
-street: "Post Office Road"
-housenumber: 28
+street: Post Office Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

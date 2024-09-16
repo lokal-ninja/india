@@ -1,11 +1,11 @@
 id: 935395902
-type: way
+type: node
 latitude: 10.15475
 longitude: 76.29539
 postcode: "683578"
 city: ernakulam
-street: "kunnukara"
-housenumber: 
+street: kunnukara
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

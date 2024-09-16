@@ -1,11 +1,11 @@
 id: 129774141
-type: way
+type: node
 latitude: 30.7385
 longitude: 76.78209
 postcode: "160017"
 city: Chandigarh
 street: ""
-housenumber: 31
-phone: "0172-2702542"
+housenumber: "31"
+phone: 0172-2702542
 opening_hours: ""
 website: ""

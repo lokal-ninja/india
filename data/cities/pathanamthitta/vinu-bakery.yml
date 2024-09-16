@@ -1,11 +1,11 @@
 id: 800355668
-type: way
+type: node
 latitude: 9.2181
 longitude: 76.77692
 postcode: "689648"
 city: PATHANAMTHITTA
-street: "VALLICODE"
-housenumber: 
+street: VALLICODE
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

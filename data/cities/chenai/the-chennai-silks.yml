@@ -1,11 +1,11 @@
 id: 1126048185
-type: way
+type: node
 latitude: 13.03938
 longitude: 80.23169
 postcode: "600017"
 city: Chenai
-street: "North Usman Road"
-housenumber: 55
+street: North Usman Road
+housenumber: "55"
 phone: "04424310888"
 opening_hours: ""
-website: "https://www.thechennaisilks.com/"
+website: https://www.thechennaisilks.com/

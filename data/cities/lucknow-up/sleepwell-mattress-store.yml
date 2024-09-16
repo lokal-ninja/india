@@ -1,11 +1,12 @@
 id: 1175407019
-type: way
+type: node
 latitude: 26.84434
 longitude: 80.86414
 postcode: "226019"
 city: Lucknow,UP
-street: "Budheshwar chauraha"
+street: Budheshwar chauraha
 housenumber: 5A
 phone: "09839444040"
-opening_hours: "Wednesday 10 am-8:30 pm  Thursday 10 am-8:30 pm  Friday 10 am-8:30 pm  Saturday 10 am-8:30 pm  Sunday 10 am-8:30 pm  Monday 10 am-8:30 pm  Tuesday 10 am-8:30 pm"
+opening_hours: Wednesday 10 am-8:30 pm  Thursday 10 am-8:30 pm  Friday 10 am-8:30 pm  Saturday
+    10 am-8:30 pm  Sunday 10 am-8:30 pm  Monday 10 am-8:30 pm  Tuesday 10 am-8:30 pm
 website: ""

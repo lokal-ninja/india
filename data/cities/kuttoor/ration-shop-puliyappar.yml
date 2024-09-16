@@ -1,11 +1,11 @@
 id: 1093766785
-type: way
+type: node
 latitude: 9.36943
 longitude: 76.59603
 postcode: ""
 city: Kuttoor
-street: "puliyappar"
-housenumber: 52
+street: puliyappar
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

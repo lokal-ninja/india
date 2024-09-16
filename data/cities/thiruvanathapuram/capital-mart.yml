@@ -1,11 +1,11 @@
 id: 1203981645
-type: way
+type: node
 latitude: 8.55563
 longitude: 76.90364
 postcode: "695581"
 city: Thiruvanathapuram
-street: "Old NH"
-housenumber: 
+street: Old NH
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

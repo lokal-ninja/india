@@ -4,8 +4,9 @@ latitude: 19.07655
 longitude: 72.88026
 postcode: "400070"
 city: Mumbai
-street: "MEHBOOB E SUBHANI MASJID, 250 BHALEKAR WADI, New Mill Rd, beside MADINA HOTEL, Kurla West,"
-housenumber: 250
+street: MEHBOOB E SUBHANI MASJID, 250 BHALEKAR WADI, New Mill Rd, beside MADINA HOTEL,
+    Kurla West,
+housenumber: "250"
 phone: "07860404303"
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

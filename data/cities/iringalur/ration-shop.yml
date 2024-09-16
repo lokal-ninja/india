@@ -1,11 +1,11 @@
 id: 986859539
-type: way
+type: node
 latitude: 11.2394
 longitude: 75.83384
 postcode: "673014"
 city: iringalur
-street: "mathara road"
-housenumber: 28
+street: mathara road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

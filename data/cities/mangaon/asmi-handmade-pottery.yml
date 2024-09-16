@@ -1,11 +1,11 @@
 id: 493488599
-type: way
+type: node
 latitude: 18.23667
 longitude: 73.28328
 postcode: "402104"
 city: Mangaon
-street: "Katcheri Road"
-housenumber: 
+street: Katcheri Road
+housenumber: ""
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

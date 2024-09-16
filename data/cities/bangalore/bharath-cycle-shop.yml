@@ -4,8 +4,9 @@ latitude: 12.97575
 longitude: 77.67625
 postcode: "560093"
 city: BANGALORE
-street: "58, 8th Cross, Kaggadasapura Main Rd, C.V. Raman Nagar, Aishwarya Lake View Residency, Kaggadasapura, Bengaluru, Karnataka 560093"
-housenumber: 
+street: 58, 8th Cross, Kaggadasapura Main Rd, C.V. Raman Nagar, Aishwarya Lake View
+    Residency, Kaggadasapura, Bengaluru, Karnataka 560093
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

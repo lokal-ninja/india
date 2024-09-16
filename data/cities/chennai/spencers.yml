@@ -4,8 +4,8 @@ latitude: 12.99601
 longitude: 80.2678
 postcode: "600090"
 city: Chennai
-street: "2nd Avenue"
-housenumber: 
+street: 2nd Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.spencers.in/"
+website: https://www.spencers.in/

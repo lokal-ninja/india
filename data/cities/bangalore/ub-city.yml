@@ -1,11 +1,11 @@
 id: 38773290
-type: way
+type: node
 latitude: 12.97173
 longitude: 77.59521
 postcode: "560001"
 city: Bangalore
-street: "Vittal Mallya Road"
-housenumber: 24
+street: Vittal Mallya Road
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

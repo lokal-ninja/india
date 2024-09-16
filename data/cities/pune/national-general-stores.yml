@@ -1,11 +1,11 @@
 id: 359912819
-type: way
+type: node
 latitude: 18.65639
 longitude: 73.76068
 postcode: "411044"
 city: Pune
-street: "Durgeshwar Path"
-housenumber: 
+street: Durgeshwar Path
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

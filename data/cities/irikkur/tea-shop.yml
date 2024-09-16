@@ -1,11 +1,11 @@
 id: 798450974
-type: way
+type: node
 latitude: 11.98496
 longitude: 75.57449
 postcode: "670593"
 city: Irikkur
-street: "pedayangod"
-housenumber: 
+street: pedayangod
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

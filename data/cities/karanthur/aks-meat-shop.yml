@@ -1,11 +1,11 @@
 id: 1003004204
-type: way
+type: node
 latitude: 11.30214
 longitude: 75.86169
 postcode: "673571"
 city: Karanthur
-street: "ovungara shortcut road"
-housenumber: 
+street: ovungara shortcut road
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

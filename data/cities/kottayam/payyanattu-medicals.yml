@@ -1,11 +1,11 @@
 id: 1217501330
-type: way
+type: node
 latitude: 9.62924
 longitude: 76.51239
 postcode: "686008"
 city: kottayam
-street: "panampalam"
-housenumber: 
+street: panampalam
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

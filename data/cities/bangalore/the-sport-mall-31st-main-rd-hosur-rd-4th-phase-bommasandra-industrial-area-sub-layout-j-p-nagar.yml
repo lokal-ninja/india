@@ -4,8 +4,9 @@ latitude: 12.91873
 longitude: 77.61642
 postcode: "560078"
 city: bangalore
-street: "31st Main Rd, Hosur Rd, 4th Phase,, Bommasandra Industrial Area Sub Layout,, J P Nagar"
-housenumber: 9
-phone: "080 2783 9161"
-opening_hours: "11:30-21:00"
+street: 31st Main Rd, Hosur Rd, 4th Phase,, Bommasandra Industrial Area Sub Layout,,
+    J P Nagar
+housenumber: "9"
+phone: 080 2783 9161
+opening_hours: 11:30-21:00
 website: ""

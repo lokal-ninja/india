@@ -4,7 +4,7 @@ latitude: 28.72339
 longitude: 77.16566
 postcode: "110033"
 city: Delhi
-street: "Gali #27"
+street: 'Gali #27'
 housenumber: C-1/B
 phone: ""
 opening_hours: ""

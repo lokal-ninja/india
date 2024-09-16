@@ -1,11 +1,11 @@
 id: 305245971
-type: way
+type: node
 latitude: 21.16552
 longitude: 81.3086
 postcode: "491005"
 city: durg
-street: "Borsi"
-housenumber: 
+street: Borsi
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

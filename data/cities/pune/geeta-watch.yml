@@ -4,8 +4,8 @@ latitude: 18.46278
 longitude: 73.81467
 postcode: "411041"
 city: Pune
-street: "Panchratna Palace, Sinhagad Rd, Opp. Abhiruchi Mall Road,"
-housenumber: Shop # 2
+street: Panchratna Palace, Sinhagad Rd, Opp. Abhiruchi Mall Road,
+housenumber: 'Shop # 2'
 phone: "+919371121232"
-opening_hours: "10 am to 930 pm"
+opening_hours: 10 am to 930 pm
 website: ""

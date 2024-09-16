@@ -1,11 +1,11 @@
 id: 620643606
-type: way
+type: node
 latitude: 17.33036
 longitude: 78.57693
 postcode: "500070"
 city: Vanasthaslipuram,Hyderabad
-street: "Kamalanagar"
-housenumber: 
+street: Kamalanagar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

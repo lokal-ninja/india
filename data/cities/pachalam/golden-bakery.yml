@@ -1,11 +1,11 @@
 id: 801347107
-type: way
+type: node
 latitude: 10.00067
 longitude: 76.27959
 postcode: "682012"
 city: pachalam
-street: "Chittoor Road"
-housenumber: 
+street: Chittoor Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

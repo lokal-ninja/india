@@ -1,11 +1,11 @@
 id: 1196317059
-type: way
+type: node
 latitude: 8.48269
 longitude: 76.93913
 postcode: "695008"
 city: trivandrum
-street: "J P Nagar, Pavithra Nagar, VKK Nagar, Pazhavangadi,"
-housenumber: 
+street: J P Nagar, Pavithra Nagar, VKK Nagar, Pazhavangadi,
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

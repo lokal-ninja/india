@@ -1,11 +1,11 @@
 id: 1137576209
-type: way
+type: node
 latitude: 12.94367
 longitude: 80.25365
 postcode: "600115"
 city: Chennai
-street: "East Coast Road"
-housenumber: 145
+street: East Coast Road
+housenumber: "145"
 phone: "+919092440407"
 opening_hours: ""
 website: ""

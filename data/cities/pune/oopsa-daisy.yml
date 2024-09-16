@@ -4,8 +4,8 @@ latitude: 18.57036
 longitude: 73.7741
 postcode: "411045"
 city: Pune
-street: "Balewadi High Street"
-housenumber: 25
-phone: "+91 77200 80031"
-opening_hours: "Mo-Su 10:00-23:00"
-website: "https://www.oopsadaisy.in/"
+street: Balewadi High Street
+housenumber: "25"
+phone: +91 77200 80031
+opening_hours: Mo-Su 10:00-23:00
+website: https://www.oopsadaisy.in/

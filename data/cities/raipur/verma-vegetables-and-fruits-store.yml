@@ -1,11 +1,11 @@
 id: 1251059256
-type: way
+type: node
 latitude: 21.23744
 longitude: 81.59683
 postcode: "492010"
 city: RAIPUR
-street: "DD NAGAR"
-housenumber: 
+street: DD NAGAR
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,5 +1,5 @@
 id: 786486282
-type: way
+type: node
 latitude: 9.26565
 longitude: 76.78518
 postcode: "689645"
@@ -7,5 +7,5 @@ city: Pathanamthitta
 street: ""
 housenumber: Palathra Fashion Jewellers
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

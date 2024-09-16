@@ -1,11 +1,11 @@
 id: 934240375
-type: way
+type: node
 latitude: 10.15972
 longitude: 76.91225
 postcode: "685565"
 city: mankulam
-street: "anakulam"
-housenumber: 
+street: anakulam
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

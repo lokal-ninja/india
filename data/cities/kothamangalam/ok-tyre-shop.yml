@@ -1,11 +1,11 @@
 id: 967287243
-type: way
+type: node
 latitude: 10.11701
 longitude: 76.58417
 postcode: "686692"
 city: kothamangalam
-street: "Kottappady"
-housenumber: 
+street: Kottappady
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

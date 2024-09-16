@@ -1,11 +1,11 @@
 id: 346503525
-type: way
+type: node
 latitude: 13.025
 longitude: 77.54839
 postcode: "560022"
 city: Bangalore
-street: "Tumkur Road"
+street: Tumkur Road
 housenumber: 9/36
-phone: "080-29724422"
-opening_hours: "09:00-23:00"
-website: "https://www.sapphirecentre.com"
+phone: 080-29724422
+opening_hours: 09:00-23:00
+website: https://www.sapphirecentre.com

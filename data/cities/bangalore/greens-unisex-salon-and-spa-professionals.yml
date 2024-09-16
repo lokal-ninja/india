@@ -4,8 +4,8 @@ latitude: 12.96111
 longitude: 77.50893
 postcode: "560072"
 city: Bangalore
-street: "Mallathahalli Road"
-housenumber: #626
-phone: "+91-80-33566078"
-opening_hours: "08:30-20:30"
+street: Mallathahalli Road
+housenumber: '#626'
+phone: +91-80-33566078
+opening_hours: 08:30-20:30
 website: ""

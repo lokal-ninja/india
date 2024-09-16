@@ -1,11 +1,11 @@
 id: 1255298590
-type: way
+type: node
 latitude: 20.07562
 longitude: 74.11721
 postcode: "422303"
 city: Niphad
-street: "SH 30"
-housenumber: 
+street: SH 30
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

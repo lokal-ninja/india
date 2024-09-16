@@ -4,8 +4,9 @@ latitude: 12.93299
 longitude: 77.57926
 postcode: "560011"
 city: Bengaluru
-street: "OPP Upahara Darshini, 11th ‘A’ Main, 22nd Cross, 3rd Block,, Jayanagar, Jayanagara Jaya Nagar,"
-housenumber: 262
+street: OPP Upahara Darshini, 11th ‘A’ Main, 22nd Cross, 3rd Block,, Jayanagar, Jayanagara
+    Jaya Nagar,
+housenumber: "262"
 phone: "+919844329118"
-opening_hours: "09:30-21:00"
-website: "https://sangamonwheels.com/"
+opening_hours: 09:30-21:00
+website: https://sangamonwheels.com/

@@ -4,8 +4,8 @@ latitude: 12.95865
 longitude: 77.65679
 postcode: "560017"
 city: Bangalore
-street: "Old Airport Road"
-housenumber: 97
+street: Old Airport Road
+housenumber: "97"
 phone: ""
-opening_hours: "10:00-20:00"
-website: "http://morestore.com/"
+opening_hours: 10:00-20:00
+website: http://morestore.com/

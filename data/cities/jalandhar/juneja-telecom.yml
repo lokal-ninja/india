@@ -1,11 +1,11 @@
 id: 1292327789
-type: way
+type: node
 latitude: 31.30579
 longitude: 75.57941
 postcode: "144003"
 city: JALANDHAR
-street: "Model Town Main Road Jalandhar"
-housenumber: 122
-phone: "+91 9814164040"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Model Town Main Road Jalandhar
+housenumber: "122"
+phone: +91 9814164040
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

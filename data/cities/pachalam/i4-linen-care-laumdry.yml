@@ -1,11 +1,11 @@
 id: 800960939
-type: way
+type: node
 latitude: 10.0032
 longitude: 76.27729
 postcode: "682012"
 city: pachalam
-street: "Peter Correya Road"
-housenumber: 
+street: Peter Correya Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 619951261
-type: way
+type: node
 latitude: 9.7418
 longitude: 76.39616
 postcode: "686606"
 city: vaikom
-street: "thottuvakkom"
-housenumber: 
+street: thottuvakkom
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-07:00"
+opening_hours: Mo-Sa 10:00-07:00
 website: ""

@@ -1,11 +1,11 @@
 id: 450550411
-type: way
+type: node
 latitude: 12.92551
 longitude: 77.67507
 postcode: "560103"
 city: Bengaluru
-street: "Bellandur Main Road"
-housenumber: 
+street: Bellandur Main Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 11:00-22:00"
+opening_hours: Mo-Su 11:00-22:00
 website: ""

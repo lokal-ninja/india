@@ -1,11 +1,11 @@
 id: 154030370
-type: way
+type: node
 latitude: 13.05874
 longitude: 80.26319
 postcode: "600014"
 city: Chennai
-street: "Whites Road"
-housenumber: 2
+street: Whites Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.expressavenue.in/"
+website: https://www.expressavenue.in/

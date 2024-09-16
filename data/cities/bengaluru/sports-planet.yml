@@ -4,8 +4,9 @@ latitude: 12.93622
 longitude: 77.61491
 postcode: "560095"
 city: Bengaluru
-street: "1st B Main, 7th Block, Opposite HDFC Bank, 1st B Main Road, Koramangala 7th Block, Koramangala 5th Block, Koramangala, 7th Block, Koramangala,"
-housenumber: #64, #351
+street: 1st B Main, 7th Block, Opposite HDFC Bank, 1st B Main Road, Koramangala 7th
+    Block, Koramangala 5th Block, Koramangala, 7th Block, Koramangala,
+housenumber: '#64, #351'
 phone: "+919900454672"
-opening_hours: "10:00-21:00"
+opening_hours: 10:00-21:00
 website: ""

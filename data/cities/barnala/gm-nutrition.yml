@@ -1,11 +1,12 @@
 id: 1188036479
-type: way
+type: node
 latitude: 30.37674
 longitude: 75.53755
 postcode: "148104"
 city: Barnala
-street: "Dana Mandi Road"
-housenumber: Anaj Mandi Rd, near bus stand, near P.R.T.C. office, Barnala, Punjab 148104
+street: Dana Mandi Road
+housenumber: Anaj Mandi Rd, near bus stand, near P.R.T.C. office, Barnala, Punjab
+    148104
 phone: "6280381241"
-opening_hours: "24/7"
-website: "https://www.youtube.com/channel/UCVKHR6jsJ7oHAspqBm2hzqA"
+opening_hours: 24/7
+website: https://www.youtube.com/channel/UCVKHR6jsJ7oHAspqBm2hzqA

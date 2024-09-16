@@ -1,11 +1,11 @@
 id: 297194698
-type: way
+type: node
 latitude: 17.4444
 longitude: 78.46803
 postcode: "500016"
 city: Hyderabad
-street: "Sardar Patel Road"
-housenumber: 
+street: Sardar Patel Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 11:00-22:00"
-website: "https://www.fabindia.com/"
+opening_hours: Mo-Su 11:00-22:00
+website: https://www.fabindia.com/

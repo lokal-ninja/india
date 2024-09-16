@@ -1,11 +1,11 @@
 id: 157204447
-type: way
+type: node
 latitude: 12.92876
 longitude: 77.67966
 postcode: "560103"
 city: Belandur, Bangalore
-street: "Outer Ring Road"
-housenumber: 16
-phone: "+91-80-41309100"
+street: Outer Ring Road
+housenumber: "16"
+phone: +91-80-41309100
 opening_hours: ""
-website: "https://www.prathammotors.com/"
+website: https://www.prathammotors.com/

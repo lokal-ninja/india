@@ -1,11 +1,11 @@
 id: 802231707
-type: way
+type: node
 latitude: 11.04324
 longitude: 75.92652
 postcode: "676306"
 city: Tirurangadi
-street: "Parappanangadi - Areacode Road"
-housenumber: 
+street: Parappanangadi - Areacode Road
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

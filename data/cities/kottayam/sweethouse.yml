@@ -1,11 +1,11 @@
 id: 1008677745
-type: way
+type: node
 latitude: 9.61972
 longitude: 76.47559
 postcode: "686014"
 city: kottayam
-street: "parippu"
-housenumber: 
+street: parippu
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

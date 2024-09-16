@@ -1,11 +1,11 @@
 id: 921157805
-type: way
+type: node
 latitude: 10.18332
 longitude: 76.38011
 postcode: "683572"
 city: Angamaly
-street: "VIP strret Road"
-housenumber: 
+street: VIP strret Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
+opening_hours: Mo-Sa 08:00-20:30
 website: ""

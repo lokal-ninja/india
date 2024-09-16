@@ -4,8 +4,8 @@ latitude: 12.97824
 longitude: 77.63981
 postcode: "560008"
 city: Bangalore
-street: "2nd floor, Bangalore-560008, NGEF Ln, Binnamangala, Indiranagar"
-housenumber: 36
-phone: "+9197421 71572"
-opening_hours: "10:00-20:00"
+street: 2nd floor, Bangalore-560008, NGEF Ln, Binnamangala, Indiranagar
+housenumber: "36"
+phone: +9197421 71572
+opening_hours: 10:00-20:00
 website: ""

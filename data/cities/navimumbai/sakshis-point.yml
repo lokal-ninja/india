@@ -1,11 +1,11 @@
 id: 415768973
-type: way
+type: node
 latitude: 19.09979
 longitude: 73.00498
 postcode: "400709"
 city: navimumbai
-street: "Vashi - Koparkhairne Link Road"
-housenumber: 007
-phone: "+91 79000 71947"
-opening_hours: "24/7"
+street: Vashi - Koparkhairne Link Road
+housenumber: "007"
+phone: +91 79000 71947
+opening_hours: 24/7
 website: ""

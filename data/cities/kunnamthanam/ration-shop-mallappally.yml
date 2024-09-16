@@ -1,11 +1,11 @@
 id: 1100893228
-type: way
+type: node
 latitude: 9.45596
 longitude: 76.62061
 postcode: ""
 city: Kunnamthanam
-street: "Mallappally"
-housenumber: 59
+street: Mallappally
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

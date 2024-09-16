@@ -3,8 +3,8 @@ type: node
 latitude: 22.55087
 longitude: 88.35455
 postcode: ""
-city: 700016
-street: "Park Street"
+city: "700016"
+street: Park Street
 housenumber: 75C
 phone: ""
 opening_hours: ""

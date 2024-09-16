@@ -1,11 +1,11 @@
 id: 1185469471
-type: way
+type: node
 latitude: 9.57456
 longitude: 76.62067
 postcode: "686516"
 city: nedumkuzhy
-street: "NH220"
-housenumber: 
+street: NH220
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

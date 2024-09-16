@@ -1,11 +1,11 @@
 id: 1031678346
-type: way
+type: node
 latitude: 12.18069
 longitude: 75.16658
 postcode: "671310"
 city: kalikkadavu
-street: "padinjarekkara"
-housenumber: 
+street: padinjarekkara
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

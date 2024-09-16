@@ -4,8 +4,8 @@ latitude: 15.49508
 longitude: 73.82056
 postcode: "403001"
 city: Panjim
-street: "18th June Road"
-housenumber: 25
+street: 18th June Road
+housenumber: "25"
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

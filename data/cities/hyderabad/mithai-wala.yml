@@ -1,11 +1,11 @@
 id: 357618522
-type: way
+type: node
 latitude: 17.36762
 longitude: 78.54036
 postcode: "500035"
 city: hyderabad
-street: "Mumbai Highway"
-housenumber: 
+street: Mumbai Highway
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

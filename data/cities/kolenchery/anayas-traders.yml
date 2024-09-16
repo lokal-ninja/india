@@ -1,11 +1,11 @@
 id: 800243771
-type: way
+type: node
 latitude: 9.98339
 longitude: 76.46361
 postcode: "682311"
 city: kolenchery
-street: "peringole"
-housenumber: 
+street: peringole
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1094578033
-type: way
+type: node
 latitude: 9.37164
 longitude: 76.54971
 postcode: ""
 city: Thiruvalla
 street: ""
-housenumber: 116
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

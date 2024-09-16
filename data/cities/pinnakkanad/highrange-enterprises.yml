@@ -1,11 +1,11 @@
 id: 1000101602
-type: way
+type: node
 latitude: 9.62895
 longitude: 76.77506
 postcode: "686508"
 city: Pinnakkanad
-street: "Sabarimala - Kodaikkanal Road"
-housenumber: 
+street: Sabarimala - Kodaikkanal Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

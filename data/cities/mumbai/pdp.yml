@@ -4,8 +4,8 @@ latitude: 18.96253
 longitude: 72.80972
 postcode: "400036"
 city: Mumbai
-street: "Hughes Road (N Spatkar Marg)"
-housenumber: 123
+street: Hughes Road (N Spatkar Marg)
+housenumber: "123"
 phone: "123567890"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

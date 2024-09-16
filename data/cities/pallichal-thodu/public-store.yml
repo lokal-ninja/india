@@ -1,11 +1,11 @@
 id: 788946681
-type: way
+type: node
 latitude: 8.44458
 longitude: 77.01642
 postcode: "695501"
 city: pallichal thodu
-street: "Old NH"
-housenumber: 
+street: Old NH
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

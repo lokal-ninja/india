@@ -1,11 +1,11 @@
 id: 274780095
-type: way
+type: node
 latitude: 17.43919
 longitude: 78.39825
 postcode: "500033"
 city: Hyderabad
-street: "Road No 36"
-housenumber: 728
+street: Road No 36
+housenumber: "728"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 923038008
-type: way
+type: node
 latitude: 8.49389
 longitude: 76.92757
 postcode: "695024"
 city: Pettah
-street: "pettah"
-housenumber: 
+street: pettah
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

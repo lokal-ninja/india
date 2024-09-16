@@ -4,8 +4,9 @@ latitude: 18.58615
 longitude: 73.98822
 postcode: "412207"
 city: Wagholi, Pune
-street: "Bhavadi Road"
-housenumber: 106
+street: Bhavadi Road
+housenumber: "106"
 phone: "7947131829"
-opening_hours: "Mon - Wed 10:30 am - 2:00 pm 5:00 pm - 8:30 pm; Fri- Sat 10:30 am - 2:00 pm 5:00 pm - 8:30 pm"
+opening_hours: Mon - Wed 10:30 am - 2:00 pm 5:00 pm - 8:30 pm; Fri- Sat 10:30 am -
+    2:00 pm 5:00 pm - 8:30 pm
 website: ""

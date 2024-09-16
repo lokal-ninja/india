@@ -1,11 +1,11 @@
 id: 1213661500
-type: way
+type: node
 latitude: 8.90921
 longitude: 76.62442
 postcode: "691015"
 city: kollam
-street: "moonamkutty"
-housenumber: 
+street: moonamkutty
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

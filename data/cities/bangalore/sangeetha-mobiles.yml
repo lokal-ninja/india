@@ -4,8 +4,8 @@ latitude: 12.89268
 longitude: 77.6105
 postcode: "560076"
 city: bangalore
-street: "5th Cross Road"
-housenumber: 999
+street: 5th Cross Road
+housenumber: "999"
 phone: "07019450931"
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

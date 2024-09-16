@@ -4,8 +4,8 @@ latitude: 12.91618
 longitude: 77.65192
 postcode: "560102"
 city: Bengaluru
-street: "27th Main Road"
-housenumber: 646
-phone: "+91 080 48506806"
+street: 27th Main Road
+housenumber: "646"
+phone: +91 080 48506806
 opening_hours: ""
-website: "https://wildcraft.com/"
+website: https://wildcraft.com/

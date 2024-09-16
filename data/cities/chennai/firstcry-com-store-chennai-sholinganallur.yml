@@ -4,8 +4,8 @@ latitude: 12.90398
 longitude: 80.22771
 postcode: "600119"
 city: Chennai
-street: "Old Mahabalipuram Road"
-housenumber: 476
+street: Old Mahabalipuram Road
+housenumber: "476"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.firstcry.com/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.firstcry.com/

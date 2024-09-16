@@ -4,8 +4,8 @@ latitude: 12.91471
 longitude: 77.63836
 postcode: "560102"
 city: Bengaluru
-street: "14th Main Road"
-housenumber: 3
-phone: "088846 88846"
-opening_hours: "10:00-21:00"
-website: "https://naturals.in/"
+street: 14th Main Road
+housenumber: "3"
+phone: 088846 88846
+opening_hours: 10:00-21:00
+website: https://naturals.in/

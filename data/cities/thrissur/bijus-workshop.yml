@@ -1,11 +1,11 @@
 id: 799367568
-type: way
+type: node
 latitude: 10.32937
 longitude: 76.30906
 postcode: "680683"
 city: thrissur
-street: "kanalpalam"
-housenumber: 
+street: kanalpalam
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

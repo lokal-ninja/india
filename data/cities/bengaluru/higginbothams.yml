@@ -1,11 +1,11 @@
 id: 327534046
-type: way
+type: node
 latitude: 12.97541
 longitude: 77.60623
 postcode: "560001"
 city: Bengaluru
-street: "Mahatma Gandhi Road, Haridevpur, Shanthala Nagar, Ashok Nagar"
-housenumber: 74
-phone: "080 25586574"
-opening_hours: "Mo-Su 10:00-21:00"
+street: Mahatma Gandhi Road, Haridevpur, Shanthala Nagar, Ashok Nagar
+housenumber: "74"
+phone: 080 25586574
+opening_hours: Mo-Su 10:00-21:00
 website: ""

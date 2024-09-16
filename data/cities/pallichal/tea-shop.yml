@@ -1,11 +1,11 @@
 id: 789805170
-type: way
+type: node
 latitude: 8.44153
 longitude: 77.01806
 postcode: "655501"
 city: pallichal
-street: "Old NH"
-housenumber: 
+street: Old NH
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

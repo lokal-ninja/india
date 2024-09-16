@@ -4,8 +4,9 @@ latitude: 13.01512
 longitude: 77.63681
 postcode: "560043"
 city: bangalore
-street: "Sunshine Complex, 3rd Floor, Kammanahalli Main Road, Kalyan Nagar Post, HRBR Layout"
-housenumber: 218
-phone: "080-25448677"
-opening_hours: "09:00-21:30"
+street: Sunshine Complex, 3rd Floor, Kammanahalli Main Road, Kalyan Nagar Post, HRBR
+    Layout
+housenumber: "218"
+phone: 080-25448677
+opening_hours: 09:00-21:30
 website: ""

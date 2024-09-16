@@ -4,8 +4,8 @@ latitude: 12.99567
 longitude: 77.6572
 postcode: "560038"
 city: Bangalore
-street: "4th Main Road"
-housenumber: 
+street: 4th Main Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

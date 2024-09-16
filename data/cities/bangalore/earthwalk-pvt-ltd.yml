@@ -4,8 +4,8 @@ latitude: 13.00782
 longitude: 77.56454
 postcode: "560055"
 city: Bangalore
-street: "17th cross"
-housenumber: 
+street: 17th cross
+housenumber: ""
 phone: ""
-opening_hours: "09:00-19:00"
-website: "http://www.earthwalk.in/"
+opening_hours: 09:00-19:00
+website: http://www.earthwalk.in/

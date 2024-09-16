@@ -1,11 +1,11 @@
 id: 359501868
-type: way
+type: node
 latitude: 22.51576
 longitude: 88.3931
 postcode: "700107"
 city: Kolkata
-street: "Rajdanga Main Road"
-housenumber: 1858
+street: Rajdanga Main Road
+housenumber: "1858"
 phone: ""
-opening_hours: "Mo-Su 11:00-23:00"
+opening_hours: Mo-Su 11:00-23:00
 website: ""

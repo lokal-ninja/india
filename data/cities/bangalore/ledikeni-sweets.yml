@@ -4,8 +4,8 @@ latitude: 12.91741
 longitude: 77.65129
 postcode: "560102"
 city: Bangalore
-street: "27th Main Road"
-housenumber: 810
+street: 27th Main Road
+housenumber: "810"
 phone: ""
-opening_hours: "12:00-20:30"
+opening_hours: 12:00-20:30
 website: ""

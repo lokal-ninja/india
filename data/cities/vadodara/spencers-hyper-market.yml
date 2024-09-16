@@ -1,11 +1,11 @@
 id: 322435724
-type: way
+type: node
 latitude: 22.31748
 longitude: 73.17032
 postcode: "390007"
 city: vadodara
-street: "Genda Circle"
-housenumber: 
+street: Genda Circle
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.spencers.in/"
+website: https://www.spencers.in/

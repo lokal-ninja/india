@@ -4,8 +4,8 @@ latitude: 12.92359
 longitude: 77.58134
 postcode: "560041"
 city: bangalore
-street: "5th Main, Opp Syndicate Bank, 36th Cross Rd, 5th Block, Jayanagara Jaya Nagar"
-housenumber: 51
-phone: "080 4130 7068"
-opening_hours: "10:30-20:30"
+street: 5th Main, Opp Syndicate Bank, 36th Cross Rd, 5th Block, Jayanagara Jaya Nagar
+housenumber: "51"
+phone: 080 4130 7068
+opening_hours: 10:30-20:30
 website: ""

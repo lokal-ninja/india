@@ -1,11 +1,11 @@
 id: 894129005
-type: way
+type: node
 latitude: 9.22675
 longitude: 76.84974
 postcode: "699691"
 city: Konni
-street: "Main Road"
-housenumber: 
+street: Main Road
+housenumber: ""
 phone: ""
-opening_hours: "09:00-22:00"
+opening_hours: 09:00-22:00
 website: ""

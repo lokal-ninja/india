@@ -1,11 +1,11 @@
 id: 895468788
-type: way
+type: node
 latitude: 10.18834
 longitude: 76.21703
 postcode: "683516"
 city: Ernakulam
-street: "Gothuruth"
-housenumber: 
+street: Gothuruth
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

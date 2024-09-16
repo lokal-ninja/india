@@ -4,8 +4,9 @@ latitude: 12.93833
 longitude: 77.63103
 postcode: "560047"
 city: Bangalore
-street: "Feet Intermediate Ring Road, Near Sony World Signal , Kormangala, 100 Feet Rd, S T Bed Layout, Ejipura,"
-housenumber: 100
+street: Feet Intermediate Ring Road, Near Sony World Signal , Kormangala, 100 Feet
+    Rd, S T Bed Layout, Ejipura,
+housenumber: "100"
 phone: "08065702980"
-opening_hours: "Mo-Su 11:00-20:30"
-website: "https://bsahercules.com"
+opening_hours: Mo-Su 11:00-20:30
+website: https://bsahercules.com

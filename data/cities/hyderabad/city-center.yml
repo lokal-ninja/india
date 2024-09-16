@@ -1,11 +1,11 @@
 id: 75381630
-type: way
+type: node
 latitude: 17.4156
 longitude: 78.4489
 postcode: "500034"
 city: Hyderabad
-street: "Road Number 1"
-housenumber: 
+street: Road Number 1
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 11:00-22:00"
+opening_hours: Mo-Su 11:00-22:00
 website: ""

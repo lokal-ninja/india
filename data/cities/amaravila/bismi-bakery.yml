@@ -1,11 +1,11 @@
 id: 923286870
-type: way
+type: node
 latitude: 8.38922
 longitude: 77.1054
 postcode: "695122"
 city: Amaravila
-street: "NH66"
-housenumber: 
+street: NH66
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

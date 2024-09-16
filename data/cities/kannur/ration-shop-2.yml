@@ -1,11 +1,11 @@
 id: 947245953
-type: way
+type: node
 latitude: 11.829
 longitude: 75.43644
 postcode: ""
 city: kannur
 street: ""
-housenumber: 270
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

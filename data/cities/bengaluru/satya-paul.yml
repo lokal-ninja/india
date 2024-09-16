@@ -4,8 +4,8 @@ latitude: 12.9919
 longitude: 77.57065
 postcode: "560003"
 city: Bengaluru
-street: "Sampige Road"
-housenumber: 73
+street: Sampige Road
+housenumber: "73"
 phone: "08022667202"
-opening_hours: "10:30 - 21:30"
-website: "https://www.satyapaul.com/"
+opening_hours: 10:30 - 21:30
+website: https://www.satyapaul.com/

@@ -1,11 +1,11 @@
 id: 1127413860
-type: way
+type: node
 latitude: 13.04139
 longitude: 80.23179
 postcode: "600017"
 city: Chennai
-street: "North Usman Road"
-housenumber: 132
+street: North Usman Road
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

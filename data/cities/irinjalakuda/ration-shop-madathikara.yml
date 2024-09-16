@@ -1,11 +1,11 @@
 id: 1010730808
-type: way
+type: node
 latitude: 10.34496
 longitude: 76.2276
 postcode: "680121"
 city: Irinjalakuda
-street: "madathikara"
-housenumber: 
+street: madathikara
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

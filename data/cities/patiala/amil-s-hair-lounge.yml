@@ -1,11 +1,11 @@
 id: 1218097289
-type: way
+type: node
 latitude: 30.33476
 longitude: 76.38334
 postcode: "147001"
 city: PATIALA
-street: "Income Tax Office Road"
+street: Income Tax Office Road
 housenumber: SCO-24
-phone: "+91-99140-48420"
-opening_hours: "Mo-Su 08:00-22:00"
+phone: +91-99140-48420
+opening_hours: Mo-Su 08:00-22:00
 website: ""

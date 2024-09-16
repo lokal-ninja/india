@@ -1,11 +1,11 @@
 id: 1302814445
-type: way
+type: node
 latitude: 20.67802
 longitude: 77.01641
 postcode: "444004"
 city: Akola
-street: "Samata Colony, Ring-Road"
-housenumber: 
+street: Samata Colony, Ring-Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-21:00"
+opening_hours: Mo-Su 10:00-21:00
 website: ""

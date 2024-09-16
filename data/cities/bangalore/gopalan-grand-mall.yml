@@ -1,11 +1,11 @@
 id: 182175832
-type: way
+type: node
 latitude: 12.99377
 longitude: 77.66386
 postcode: "560016"
 city: Bangalore
-street: "Swamy Vivekananda Road (Old Madras Road)"
-housenumber: 86
+street: Swamy Vivekananda Road (Old Madras Road)
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

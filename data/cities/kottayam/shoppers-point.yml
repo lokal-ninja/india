@@ -1,11 +1,11 @@
 id: 1185330474
-type: way
+type: node
 latitude: 9.58519
 longitude: 76.54276
 postcode: "686004"
 city: Kottayam
-street: "Devalokam Road"
-housenumber: 
+street: Devalokam Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

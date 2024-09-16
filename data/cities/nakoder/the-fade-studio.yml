@@ -1,11 +1,11 @@
 id: 1293955163
-type: way
+type: node
 latitude: 31.12824
 longitude: 75.48796
 postcode: "144040"
 city: Nakoder
-street: "Nakodar - Phagwara Road"
-housenumber: 1
+street: Nakodar - Phagwara Road
+housenumber: "1"
 phone: "9814742368"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

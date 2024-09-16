@@ -4,8 +4,9 @@ latitude: 12.98252
 longitude: 77.62358
 postcode: "560008"
 city: bangalore
-street: "A1, Silver Oaks, Kensington Cross Road, Ulsoor, Kensington Gardens, Kalhalli, Ulsoor"
-housenumber: 
-phone: "080 4170 9090"
-opening_hours: "10:00-21:30"
-website: "zevenworld.com"
+street: A1, Silver Oaks, Kensington Cross Road, Ulsoor, Kensington Gardens, Kalhalli,
+    Ulsoor
+housenumber: ""
+phone: 080 4170 9090
+opening_hours: 10:00-21:30
+website: zevenworld.com

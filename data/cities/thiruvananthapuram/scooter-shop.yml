@@ -1,11 +1,11 @@
 id: 800908722
-type: way
+type: node
 latitude: 8.49135
 longitude: 76.94504
 postcode: "695001"
 city: Thiruvananthapuram
-street: "kunnumpuram road"
-housenumber: 
+street: kunnumpuram road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 801513438
-type: way
+type: node
 latitude: 10.77196
 longitude: 76.68563
 postcode: "678007"
 city: palakkad
-street: "pirivusala"
-housenumber: 
+street: pirivusala
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

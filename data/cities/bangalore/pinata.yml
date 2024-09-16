@@ -1,11 +1,11 @@
 id: 348213974
-type: way
+type: node
 latitude: 12.9165
 longitude: 77.65187
 postcode: "560102"
 city: Bangalore
-street: "27th Main Road"
-housenumber: 437
+street: 27th Main Road
+housenumber: "437"
 phone: "8095202255"
 opening_hours: ""
 website: ""

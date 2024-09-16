@@ -4,8 +4,8 @@ latitude: 12.97387
 longitude: 77.64561
 postcode: "560038"
 city: Bengaluru
-street: "6th Main Road"
-housenumber: 318
-phone: "+91 9945633677"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://curiocasa.com/"
+street: 6th Main Road
+housenumber: "318"
+phone: +91 9945633677
+opening_hours: Mo-Sa 11:00-20:00
+website: https://curiocasa.com/

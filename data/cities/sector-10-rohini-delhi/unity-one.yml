@@ -1,11 +1,11 @@
 id: 300014142
-type: way
+type: node
 latitude: 28.71513
 longitude: 77.11571
 postcode: "110085"
 city: Sector- 10, Rohini, Delhi
 street: ""
-housenumber: 
-phone: "011-61246666"
+housenumber: ""
+phone: 011-61246666
 opening_hours: ""
-website: "https://unityone.in/rohini.html"
+website: https://unityone.in/rohini.html

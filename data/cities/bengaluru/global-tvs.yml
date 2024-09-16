@@ -4,8 +4,8 @@ latitude: 13.00832
 longitude: 77.5426
 postcode: "560096"
 city: Bengaluru
-street: "1st cross road"
-housenumber: #36
+street: 1st cross road
+housenumber: '#36'
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

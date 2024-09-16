@@ -1,11 +1,11 @@
 id: 984915102
-type: way
+type: node
 latitude: 11.22392
 longitude: 75.85732
 postcode: "673019"
 city: Poolenkara
-street: "manakadav road"
-housenumber: 330
+street: manakadav road
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

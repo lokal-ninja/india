@@ -1,11 +1,11 @@
 id: 985561801
-type: way
+type: node
 latitude: 10.90754
 longitude: 76.02321
 postcode: "676301"
 city: Athavanad
-street: "Mattummal"
-housenumber: 
+street: Mattummal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

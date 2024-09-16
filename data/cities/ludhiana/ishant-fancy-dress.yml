@@ -3,9 +3,9 @@ type: node
 latitude: 30.86742
 longitude: 75.8301
 postcode: ""
-city: LUDHIANA 
-street: "Dugri phase -2,Near Bal Bharti School "
-housenumber: 1736
+city: 'LUDHIANA '
+street: 'Dugri phase -2,Near Bal Bharti School '
+housenumber: "1736"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 267001567
-type: way
+type: node
 latitude: 28.50488
 longitude: 77.09668
 postcode: "122002"
 city: Gurugram
-street: "Ambience Island"
-housenumber: 
-phone: "0124-4737123"
+street: Ambience Island
+housenumber: ""
+phone: 0124-4737123
 opening_hours: ""
 website: ""

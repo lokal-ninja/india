@@ -1,11 +1,11 @@
 id: 635745225
-type: way
+type: node
 latitude: 9.22409
 longitude: 76.67816
 postcode: "689501"
 city: Pandalam;PANDALAM
-street: "MC Road"
-housenumber: 
+street: MC Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 18.91293
 longitude: 72.82192
 postcode: "400005"
 city: Mumbai
-street: "Wodehouse Road"
-housenumber: 10
+street: Wodehouse Road
+housenumber: "10"
 phone: "9987283863"
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

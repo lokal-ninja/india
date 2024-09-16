@@ -1,11 +1,11 @@
 id: 984698074
-type: way
+type: node
 latitude: 11.24948
 longitude: 75.83914
 postcode: "673014"
 city: Palazhi
-street: "Palazhipala"
-housenumber: 35
+street: Palazhipala
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

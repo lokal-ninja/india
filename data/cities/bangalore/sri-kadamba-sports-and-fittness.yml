@@ -4,8 +4,9 @@ latitude: 13.00417
 longitude: 77.55333
 postcode: "560010"
 city: bangalore
-street: "Ground Floor, 1st & 2nd Shop, Dr Rajkumar Road, 1st 'N' Block, Rajajinagar, 1st Block, Rajaji Nagar"
+street: Ground Floor, 1st & 2nd Shop, Dr Rajkumar Road, 1st 'N' Block, Rajajinagar,
+    1st Block, Rajaji Nagar
 housenumber: 60/A
-phone: "+9178291 33583"
-opening_hours: "10:00-21:30"
+phone: +9178291 33583
+opening_hours: 10:00-21:30
 website: ""

@@ -4,8 +4,9 @@ latitude: 12.97146
 longitude: 77.75023
 postcode: "560066"
 city: Bangalore
-street: "#14 Sri Maruti Krupa, 1st floor, Whitefield Main Rd, opposite, Bengaluru, Karnataka 560066"
+street: '#14 Sri Maruti Krupa, 1st floor, Whitefield Main Rd, opposite, Bengaluru,
+    Karnataka 560066'
 housenumber: Neev Preschool
 phone: ""
 opening_hours: ""
-website: "https://indiholic.com/"
+website: https://indiholic.com/

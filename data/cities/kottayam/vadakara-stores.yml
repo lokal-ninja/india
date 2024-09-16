@@ -1,11 +1,11 @@
 id: 1217741344
-type: way
+type: node
 latitude: 9.65191
 longitude: 76.5225
 postcode: "686561"
 city: kottayam
-street: "mannanam"
-housenumber: 
+street: mannanam
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

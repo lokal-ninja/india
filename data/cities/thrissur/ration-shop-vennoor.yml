@@ -1,11 +1,11 @@
 id: 950230896
-type: way
+type: node
 latitude: 10.24562
 longitude: 76.30991
 postcode: "680741"
 city: Thrissur
-street: "Vennoor"
-housenumber: 
+street: Vennoor
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

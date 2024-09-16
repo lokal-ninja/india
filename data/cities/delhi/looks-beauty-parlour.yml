@@ -4,7 +4,7 @@ latitude: 28.62278
 longitude: 77.29025
 postcode: "110092"
 city: Delhi
-street: "Ram Marg;Gali #1"
+street: 'Ram Marg;Gali #1'
 housenumber: B-89/B-293
 phone: ""
 opening_hours: ""

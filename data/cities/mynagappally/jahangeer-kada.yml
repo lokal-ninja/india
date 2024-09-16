@@ -1,11 +1,11 @@
 id: 800462962
-type: way
+type: node
 latitude: 9.06133
 longitude: 76.5733
 postcode: "690519"
 city: mynagappally
-street: "Railways station road"
-housenumber: 1
+street: Railways station road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

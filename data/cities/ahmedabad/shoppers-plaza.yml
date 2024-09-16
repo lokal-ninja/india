@@ -1,11 +1,11 @@
 id: 454888532
-type: way
+type: node
 latitude: 23.16395
 longitude: 72.53894
 postcode: "382421"
 city: Ahmedabad
-street: "Shantigram"
-housenumber: 
+street: Shantigram
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

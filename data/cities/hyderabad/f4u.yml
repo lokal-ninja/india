@@ -1,11 +1,11 @@
 id: 357321663
-type: way
+type: node
 latitude: 17.36878
 longitude: 78.53138
 postcode: "500035"
 city: hyderabad
-street: "chaitanya puri main road"
-housenumber: 
+street: chaitanya puri main road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

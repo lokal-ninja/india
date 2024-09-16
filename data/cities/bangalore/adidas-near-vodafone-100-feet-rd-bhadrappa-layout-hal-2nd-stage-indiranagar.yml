@@ -4,8 +4,8 @@ latitude: 12.96473
 longitude: 77.64191
 postcode: "560008"
 city: Bangalore
-street: ",Near Vodafone, 100 Feet Rd, Bhadrappa Layout, HAL 2nd Stage, Indiranagar"
-housenumber: # 2008
+street: ',Near Vodafone, 100 Feet Rd, Bhadrappa Layout, HAL 2nd Stage, Indiranagar'
+housenumber: '# 2008'
 phone: "08049542553"
-opening_hours: "10:00-21:30"
-website: "https://www.adidas.co.in/"
+opening_hours: 10:00-21:30
+website: https://www.adidas.co.in/

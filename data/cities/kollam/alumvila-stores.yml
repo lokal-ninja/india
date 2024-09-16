@@ -1,11 +1,11 @@
 id: 960800217
-type: way
+type: node
 latitude: 9.06609
 longitude: 76.64798
 postcode: "690520"
 city: Kollam
-street: "Kollam- pathanamthitta Highway"
-housenumber: 
+street: Kollam- pathanamthitta Highway
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

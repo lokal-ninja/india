@@ -1,11 +1,11 @@
 id: 963335037
-type: way
+type: node
 latitude: 26.45551
 longitude: 76.85641
 postcode: "322255"
 city: Kurgaon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

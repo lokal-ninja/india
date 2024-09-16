@@ -1,11 +1,11 @@
 id: 191980803
-type: way
+type: node
 latitude: 28.54312
 longitude: 77.15552
 postcode: "110070"
 city: New Delhi
-street: "Nelson Mandela Marg"
-housenumber: 3
+street: Nelson Mandela Marg
+housenumber: "3"
 phone: ""
-opening_hours: "10:00-22:00"
+opening_hours: 10:00-22:00
 website: ""

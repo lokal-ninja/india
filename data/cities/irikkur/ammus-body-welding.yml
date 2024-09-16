@@ -1,11 +1,11 @@
 id: 798047053
-type: way
+type: node
 latitude: 11.98529
 longitude: 75.58327
 postcode: "670593"
 city: Irikkur
-street: "Perumannu"
-housenumber: 
+street: Perumannu
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

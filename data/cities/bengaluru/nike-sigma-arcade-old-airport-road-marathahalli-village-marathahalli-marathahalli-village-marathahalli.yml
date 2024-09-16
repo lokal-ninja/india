@@ -4,8 +4,9 @@ latitude: 12.95681
 longitude: 77.69836
 postcode: "560037"
 city: Bengaluru
-street: "Sigma Arcade, Old Airport Road, Marathahalli village, Marathahalli, Marathahalli Village, Marathahalli,"
+street: Sigma Arcade, Old Airport Road, Marathahalli village, Marathahalli, Marathahalli
+    Village, Marathahalli,
 housenumber: G-2
 phone: "08041485488"
-opening_hours: "10:00-22:00"
-website: "https://www.nike.com/"
+opening_hours: 10:00-22:00
+website: https://www.nike.com/

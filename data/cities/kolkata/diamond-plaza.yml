@@ -1,11 +1,11 @@
 id: 263539841
-type: way
+type: node
 latitude: 22.61526
 longitude: 88.41202
 postcode: "700055"
 city: Kolkata
-street: "Jessore Road"
-housenumber: 68
+street: Jessore Road
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

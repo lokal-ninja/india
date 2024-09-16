@@ -1,11 +1,12 @@
 id: 677268143
-type: way
+type: node
 latitude: 12.98512
 longitude: 80.26075
 postcode: "600041"
 city: Chennai
-street: "West Mada Street"
-housenumber: 10
+street: West Mada Street
+housenumber: "10"
 phone: ""
-opening_hours: "No:10, W Tank St, Near Marundeeswarar Temple, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041"
+opening_hours: No:10, W Tank St, Near Marundeeswarar Temple, Lalitha Nagar, Thiruvanmiyur,
+    Chennai, Tamil Nadu 600041
 website: ""

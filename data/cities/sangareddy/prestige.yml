@@ -1,11 +1,11 @@
 id: 608624434
-type: way
+type: node
 latitude: 17.61606
 longitude: 78.0811
 postcode: "502001"
 city: Sangareddy
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

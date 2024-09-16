@@ -1,11 +1,11 @@
 id: 513971342
-type: way
+type: node
 latitude: 23.63953
 longitude: 75.1287
 postcode: "457226"
 city: Jaora
-street: "BAJAJKHANA"
-housenumber: 32
-phone: "+91 8103665489"
-opening_hours: "Mo-Sa 08:30-20:30"
+street: BAJAJKHANA
+housenumber: "32"
+phone: +91 8103665489
+opening_hours: Mo-Sa 08:30-20:30
 website: ""

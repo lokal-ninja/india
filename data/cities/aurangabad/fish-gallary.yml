@@ -1,11 +1,11 @@
 id: 1231437052
-type: way
+type: node
 latitude: 24.74508
 longitude: 84.36527
 postcode: "824101"
 city: Aurangabad
-street: "Tikri Road"
-housenumber: 
+street: Tikri Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

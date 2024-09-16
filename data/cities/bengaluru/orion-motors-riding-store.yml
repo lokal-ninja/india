@@ -4,8 +4,9 @@ latitude: 12.93359
 longitude: 77.61081
 postcode: "560029"
 city: Bengaluru
-street: "1st Floor, Above Orion Suzuki Showroom, Bhoovanappa Layout, Hosur Road, Opposite to Forum, Kormangala"
-housenumber: 518
+street: 1st Floor, Above Orion Suzuki Showroom, Bhoovanappa Layout, Hosur Road, Opposite
+    to Forum, Kormangala
+housenumber: "518"
 phone: "09902077488"
-opening_hours: "Mo-Su 09:30-20:00"
+opening_hours: Mo-Su 09:30-20:00
 website: ""

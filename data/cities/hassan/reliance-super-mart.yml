@@ -1,11 +1,11 @@
 id: 342523460
-type: way
+type: node
 latitude: 13.00508
 longitude: 76.10641
 postcode: "573201"
 city: Hassan
-street: "3rd Cross Road"
-housenumber: 
+street: 3rd Cross Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

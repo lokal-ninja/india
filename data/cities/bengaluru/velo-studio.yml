@@ -4,8 +4,8 @@ latitude: 12.9771
 longitude: 77.63718
 postcode: "560038"
 city: Bengaluru
-street: "9th Cross Road"
-housenumber: 720
-phone: "+91 9905256789"
-opening_hours: "Mo-Su 10:30-20:00"
-website: "https://velostudio.in/"
+street: 9th Cross Road
+housenumber: "720"
+phone: +91 9905256789
+opening_hours: Mo-Su 10:30-20:00
+website: https://velostudio.in/

@@ -1,11 +1,11 @@
 id: 799549370
-type: way
+type: node
 latitude: 8.53009
 longitude: 76.91882
 postcode: "695011"
 city: trivandrum
-street: "Prasanth Nagar"
-housenumber: 
+street: Prasanth Nagar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,5 +1,5 @@
 id: 939371010
-type: way
+type: node
 latitude: 8.4789
 longitude: 76.94052
 postcode: "695023"
@@ -7,5 +7,5 @@ city: Sreevaraham
 street: ""
 housenumber: Azhikota Junction
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
+opening_hours: Mo-Sa 10:00-22:00
 website: ""

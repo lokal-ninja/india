@@ -1,11 +1,11 @@
 id: 357324707
-type: way
+type: node
 latitude: 17.37902
 longitude: 78.5006
 postcode: "500036"
 city: hyderabad
-street: "Race Course Road"
-housenumber: 
+street: Race Course Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

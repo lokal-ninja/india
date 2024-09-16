@@ -1,11 +1,11 @@
 id: 634573116
-type: way
+type: node
 latitude: 12.9243
 longitude: 77.68197
 postcode: "560103"
 city: BANGALORE
-street: "Pritech Internal Road"
-housenumber: 
+street: Pritech Internal Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

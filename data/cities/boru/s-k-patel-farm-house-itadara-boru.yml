@@ -4,8 +4,8 @@ latitude: 23.42522
 longitude: 72.58849
 postcode: "382845"
 city: boru
-street: "boru"
-housenumber: 1
+street: boru
+housenumber: "1"
 phone: "9054350390"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

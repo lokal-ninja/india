@@ -1,11 +1,11 @@
 id: 164140324
-type: way
+type: node
 latitude: 12.96353
 longitude: 77.6487
 postcode: "560008"
 city: Bengaluru
-street: "50ft Road, 9th Cross, Kodihalli"
-housenumber: #558/1
+street: 50ft Road, 9th Cross, Kodihalli
+housenumber: '#558/1'
 phone: "+918049155858"
-opening_hours: "09:00-20:00"
-website: "http://www.tridentchevrolet.com/"
+opening_hours: 09:00-20:00
+website: http://www.tridentchevrolet.com/

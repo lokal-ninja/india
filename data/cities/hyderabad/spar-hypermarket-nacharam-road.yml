@@ -1,11 +1,11 @@
 id: 806951808
-type: way
+type: node
 latitude: 17.42479
 longitude: 78.5501
 postcode: "500076"
 city: Hyderabad
-street: "Nacharam road"
-housenumber: 
+street: Nacharam road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.sparindia.com/"
+website: https://www.sparindia.com/

@@ -1,11 +1,11 @@
 id: 930301489
-type: way
+type: node
 latitude: 10.09613
 longitude: 76.58725
 postcode: "686692"
 city: kothamangalam
-street: "naganchery"
-housenumber: 
+street: naganchery
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

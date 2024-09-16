@@ -1,11 +1,11 @@
 id: 984931477
-type: way
+type: node
 latitude: 11.21967
 longitude: 75.87003
 postcode: "673019"
 city: manakadavu
-street: "manakadav road"
-housenumber: 32
+street: manakadav road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

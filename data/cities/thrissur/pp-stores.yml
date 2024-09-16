@@ -1,11 +1,11 @@
 id: 954901816
-type: way
+type: node
 latitude: 10.564
 longitude: 76.12285
 postcode: "680552"
 city: thrissur
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 340381205
-type: way
+type: node
 latitude: 28.5516
 longitude: 77.17382
 postcode: "110067"
 city: Delhi
-street: "Street E, Munirka DDA Flats"
-housenumber: 
+street: Street E, Munirka DDA Flats
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

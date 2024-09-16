@@ -1,11 +1,11 @@
 id: 955019106
-type: way
+type: node
 latitude: 9.01177
 longitude: 76.71568
 postcode: "691505"
 city: Puthoor
-street: "East Maranadu"
-housenumber: 
+street: East Maranadu
+housenumber: ""
 phone: "+917012619283"
-opening_hours: "Mo-Su 06:00-20:00"
+opening_hours: Mo-Su 06:00-20:00
 website: ""

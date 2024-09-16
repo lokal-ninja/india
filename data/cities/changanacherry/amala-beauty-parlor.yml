@@ -1,10 +1,10 @@
 id: 1227859149
-type: way
+type: node
 latitude: 9.45933
 longitude: 76.55367
 postcode: "686104"
 city: Changanacherry
-street: "kurisumoodu"
+street: kurisumoodu
 housenumber: kurisumoodu
 phone: ""
 opening_hours: ""

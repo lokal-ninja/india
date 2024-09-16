@@ -1,11 +1,11 @@
 id: 888624163
-type: way
+type: node
 latitude: 9.0016
 longitude: 76.77379
 postcode: "691506"
 city: kottarakkara
-street: "Oyur - Kottarakkara"
-housenumber: 
+street: Oyur - Kottarakkara
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-21:00"
+opening_hours: PH,Mo-Su 09:00-21:00
 website: ""

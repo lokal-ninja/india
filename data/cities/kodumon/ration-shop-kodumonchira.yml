@@ -1,11 +1,11 @@
 id: 979722933
-type: way
+type: node
 latitude: 9.18107
 longitude: 76.78682
 postcode: "691555"
 city: Kodumon
-street: "Kodumonchira"
-housenumber: 
+street: Kodumonchira
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

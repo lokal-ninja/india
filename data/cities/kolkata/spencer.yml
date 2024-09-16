@@ -4,8 +4,9 @@ latitude: 22.62424
 longitude: 88.35367
 postcode: "711202"
 city: Kolkata
-street: "Ground Floor, 212, Girish Ghosh Road Belur Math Forum Rangoli Mall, Howrah, West Bengal"
-housenumber: 212
+street: Ground Floor, 212, Girish Ghosh Road Belur Math Forum Rangoli Mall, Howrah,
+    West Bengal
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://www.spencers.in/"
+website: https://www.spencers.in/

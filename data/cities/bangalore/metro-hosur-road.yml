@@ -1,11 +1,11 @@
 id: 250070608
-type: way
+type: node
 latitude: 12.86239
 longitude: 77.66114
 postcode: "560100"
 city: Bangalore
-street: "Hosur Road"
+street: Hosur Road
 housenumber: Survey No 33/1A, Bertana Agrahara, Begur
-phone: "+91 80 26082352"
+phone: +91 80 26082352
 opening_hours: ""
-website: "http://www.metro.co.in/"
+website: http://www.metro.co.in/

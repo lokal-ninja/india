@@ -4,8 +4,8 @@ latitude: 12.99958
 longitude: 77.55083
 postcode: "560010"
 city: Bengaluru
-street: "15th Cross Road"
-housenumber: 14
+street: 15th Cross Road
+housenumber: "14"
 phone: "0802966826"
 opening_hours: ""
-website: "http://www.decorbengaluru.com"
+website: http://www.decorbengaluru.com

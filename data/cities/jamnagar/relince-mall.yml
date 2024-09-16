@@ -1,11 +1,11 @@
 id: 356909212
-type: way
+type: node
 latitude: 22.476
 longitude: 70.06525
 postcode: ""
 city: Jamnagar
-street: "G.G Hospital Road"
-housenumber: 
+street: G.G Hospital Road
+housenumber: ""
 phone: ""
-opening_hours: "09:30-22:00"
+opening_hours: 09:30-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 980172589
-type: way
+type: node
 latitude: 8.75247
 longitude: 76.74514
 postcode: "695143"
 city: varkala
-street: "thacode"
-housenumber: 
+street: thacode
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 933262875
-type: way
+type: node
 latitude: 10.11868
 longitude: 76.5918
 postcode: "686692"
 city: ernakulam
-street: "kottappady"
-housenumber: 
+street: kottappady
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

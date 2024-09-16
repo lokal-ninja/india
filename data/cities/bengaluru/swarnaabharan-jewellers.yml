@@ -4,8 +4,8 @@ latitude: 12.92622
 longitude: 77.58539
 postcode: "560011"
 city: Bengaluru
-street: "33rd Cross Road"
-housenumber: 702
+street: 33rd Cross Road
+housenumber: "702"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

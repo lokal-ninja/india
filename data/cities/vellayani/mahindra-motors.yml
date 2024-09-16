@@ -1,11 +1,11 @@
 id: 786501400
-type: way
+type: node
 latitude: 8.45865
 longitude: 76.9991
 postcode: "695520"
 city: vellayani
-street: "Old NH"
-housenumber: 
+street: Old NH
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

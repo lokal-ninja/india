@@ -1,11 +1,11 @@
 id: 1184199028
-type: way
+type: node
 latitude: 10.77699
 longitude: 76.6578
 postcode: "678001"
 city: Palakkad
-street: "HPO Road"
-housenumber: 
+street: HPO Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

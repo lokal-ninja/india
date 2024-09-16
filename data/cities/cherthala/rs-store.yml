@@ -1,11 +1,11 @@
 id: 954902786
-type: way
+type: node
 latitude: 9.71762
 longitude: 76.33762
 postcode: "688536"
 city: Cherthala
-street: "Vayalar"
-housenumber: 
+street: Vayalar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""
