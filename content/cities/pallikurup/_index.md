@@ -1,6 +1,6 @@
 ---
 title: Pallikurup
 url: /pallikurup/
-latitude: 10.968
-longitude: 76.474
+latitude: 10.966
+longitude: 76.475
 ---

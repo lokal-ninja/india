@@ -1,6 +1,6 @@
 ---
 title: Keerukuzhi
 url: /keerukuzhi/
-latitude: 9.206
-longitude: 76.728
+latitude: 9.212
+longitude: 76.729
 ---
