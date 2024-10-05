@@ -1,6 +1,6 @@
 ---
 title: Venganoor
 url: /venganoor/
-latitude: 8.403
-longitude: 77.013
+latitude: 8.402
+longitude: 77.012
 ---
