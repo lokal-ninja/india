@@ -1,6 +1,6 @@
 ---
 title: Yavatmal
 url: /yavatmal/
-latitude: 20.389
-longitude: 78.097
+latitude: 20.388
+longitude: 78.088
 ---

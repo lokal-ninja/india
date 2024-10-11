@@ -2,5 +2,5 @@
 title: Karivellur
 url: /karivellur/
 latitude: 12.18
-longitude: 75.189
+longitude: 75.188
 ---
