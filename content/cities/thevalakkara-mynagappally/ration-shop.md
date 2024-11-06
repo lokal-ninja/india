@@ -1,5 +1,0 @@
----
-title: "Ration Shop"
-url: /thevalakkara-mynagappally/ration-shop/
-shop: convenience
----

@@ -1,5 +1,0 @@
----
-title: "The Lotus baby shop"
-url: /haripad/the-lotus-baby-shop/
-shop: baby goods
----
