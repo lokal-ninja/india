@@ -1,6 +1,6 @@
 ---
-title: Valanchery
+title: valanchery
 url: /valanchery/
-latitude: 10.894
-longitude: 76.063
+latitude: 10.883
+longitude: 76.076
 ---
