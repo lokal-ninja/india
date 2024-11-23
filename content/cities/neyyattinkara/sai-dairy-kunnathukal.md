@@ -1,5 +1,0 @@
----
-title: "Sai Dairy,Kunnathukal"
-url: /neyyattinkara/sai-dairy-kunnathukal/
-shop: dairy
----
