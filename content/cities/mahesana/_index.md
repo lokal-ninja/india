@@ -1,6 +1,6 @@
 ---
-title: mahesana
+title: Mahesana
 url: /mahesana/
-latitude: 23.613
-longitude: 72.402
+latitude: 23.614
+longitude: 72.406
 ---
