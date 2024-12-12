@@ -1,6 +1,6 @@
 ---
 title: Killirani
 url: /killirani/
-latitude: 10.951
-longitude: 76.481
+latitude: 10.95
+longitude: 76.482
 ---

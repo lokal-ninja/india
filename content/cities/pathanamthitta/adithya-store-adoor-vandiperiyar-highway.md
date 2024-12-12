@@ -1,5 +1,5 @@
 ---
-title: "Adithya Store"
+title: "adithya store"
 url: /pathanamthitta/adithya-store-adoor-vandiperiyar-highway/
-shop: pet
+shop: farm
 ---

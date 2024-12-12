@@ -1,5 +1,5 @@
 ---
-title: "adithya store"
+title: "Adithya Store"
 url: /pathanamthitta/adithya-store/
-shop: farm
+shop: pet
 ---
