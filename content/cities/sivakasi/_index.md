@@ -1,6 +1,6 @@
 ---
 title: Sivakasi
 url: /sivakasi/
-latitude: 9.442
-longitude: 77.809
+latitude: 9.451
+longitude: 77.795
 ---

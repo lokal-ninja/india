@@ -1,6 +1,6 @@
 ---
 title: Gourjhamar
 url: /gourjhamar/
-latitude: 23.523
-longitude: 78.93
+latitude: 23.538
+longitude: 78.911
 ---
