@@ -1,6 +1,6 @@
 ---
 title: Kuchman
 url: /kuchman/
-latitude: 25.317
-longitude: 83.211
+latitude: 25.318
+longitude: 83.213
 ---
