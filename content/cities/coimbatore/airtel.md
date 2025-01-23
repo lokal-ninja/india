@@ -1,5 +1,5 @@
 ---
-title: "airtel"
+title: "Airtel"
 url: /coimbatore/airtel/
 shop: mobile phone
 ---

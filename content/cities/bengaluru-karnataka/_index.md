@@ -1,6 +1,6 @@
 ---
 title: Bengaluru, Karnataka
 url: /bengaluru-karnataka/
-latitude: 13.09
-longitude: 77.602
+latitude: 12.948
+longitude: 77.6
 ---
