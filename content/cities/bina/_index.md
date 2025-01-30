@@ -1,6 +1,6 @@
 ---
 title: Bina
 url: /bina/
-latitude: 24.179
+latitude: 24.182
 longitude: 78.21
 ---
