@@ -1,6 +1,6 @@
 ---
 title: Wadakkanchery
 url: /wadakkanchery/
-latitude: 10.677
-longitude: 76.213
+latitude: 10.659
+longitude: 76.247
 ---

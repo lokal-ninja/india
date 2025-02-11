@@ -2,5 +2,5 @@
 title: Burhanpur
 url: /burhanpur/
 latitude: 21.319
-longitude: 76.456
+longitude: 76.458
 ---

@@ -1,6 +1,6 @@
 ---
 title: Khejroli
 url: /khejroli/
-latitude: 27.363
-longitude: 75.694
+latitude: 27.357
+longitude: 75.688
 ---
