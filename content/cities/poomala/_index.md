@@ -1,6 +1,6 @@
 ---
-title: poomala
+title: Poomala
 url: /poomala/
-latitude: 9.825
-longitude: 76.864
+latitude: 9.837
+longitude: 76.858
 ---
