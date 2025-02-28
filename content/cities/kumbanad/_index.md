@@ -1,6 +1,6 @@
 ---
 title: Kumbanad
 url: /kumbanad/
-latitude: 9.368
+latitude: 9.369
 longitude: 76.657
 ---

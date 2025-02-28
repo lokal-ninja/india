@@ -1,6 +1,6 @@
 ---
 title: Narikkutumchal
 url: /narikkutumchal/
-latitude: 11.664
-longitude: 75.734
+latitude: 11.663
+longitude: 75.735
 ---
