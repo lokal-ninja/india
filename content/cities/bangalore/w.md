@@ -1,5 +1,5 @@
 ---
-title: "w"
+title: "W"
 url: /bangalore/w/
 shop: clothes
 ---
