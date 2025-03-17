@@ -1,6 +1,6 @@
 ---
-title: Hapur
+title: hapur
 url: /hapur/
 latitude: 28.729
-longitude: 77.769
+longitude: 77.768
 ---

@@ -1,6 +1,6 @@
 ---
 title: Donnehalli
 url: /donnehalli/
-latitude: 14.488
+latitude: 14.49
 longitude: 76.407
 ---

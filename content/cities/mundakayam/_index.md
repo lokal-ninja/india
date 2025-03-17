@@ -1,6 +1,6 @@
 ---
 title: Mundakayam
 url: /mundakayam/
-latitude: 9.53
-longitude: 76.889
+latitude: 9.531
+longitude: 76.886
 ---
