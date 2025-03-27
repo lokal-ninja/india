@@ -1,6 +1,6 @@
 ---
 title: Saram, Pondicherry
 url: /saram-pondicherry/
-latitude: 11.941
+latitude: 11.94
 longitude: 79.814
 ---
