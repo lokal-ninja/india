@@ -1,6 +1,6 @@
 ---
 title: Thamarassery
 url: /thamarassery/
-latitude: 11.427
-longitude: 75.927
+latitude: 11.424
+longitude: 75.931
 ---
