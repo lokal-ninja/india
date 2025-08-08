@@ -1,5 +1,5 @@
 ---
-title: "Spencer’s"
+title: "Spencer's"
 url: /visakhapatnam/spencers/
 shop: convenience
 ---

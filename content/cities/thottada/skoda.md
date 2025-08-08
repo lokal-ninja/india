@@ -1,5 +1,5 @@
 ---
-title: "skoda"
+title: "Skoda"
 url: /thottada/skoda/
 shop: car
 ---

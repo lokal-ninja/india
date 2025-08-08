@@ -1,6 +1,6 @@
 ---
-title: navi mumbai
+title: Navi Mumbai
 url: /navi-mumbai/
-latitude: 19.1
-longitude: 73.005
+latitude: 18.992
+longitude: 73.123
 ---

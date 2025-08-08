@@ -1,5 +1,5 @@
 ---
-title: "eagle automobiles"
+title: "Eagle automobiles"
 url: /muvaarrrrupulll/eagle-automobiles/
-shop: car repair
+shop: shop
 ---

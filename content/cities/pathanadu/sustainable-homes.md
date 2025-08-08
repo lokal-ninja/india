@@ -1,5 +1,5 @@
 ---
-title: "sustainable homes"
+title: "Sustainable Homes"
 url: /pathanadu/sustainable-homes/
-shop: shop
+shop: houseware
 ---
