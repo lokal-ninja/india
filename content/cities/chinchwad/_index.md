@@ -1,6 +1,6 @@
 ---
-title: Chinchwad
+title: chinchwad
 url: /chinchwad/
-latitude: 18.629
-longitude: 73.786
+latitude: 18.63
+longitude: 73.78
 ---

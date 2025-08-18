@@ -1,6 +1,6 @@
 ---
 title: Jamalpur
 url: /jamalpur/
-latitude: 25.326
-longitude: 86.492
+latitude: 25.33
+longitude: 86.491
 ---
