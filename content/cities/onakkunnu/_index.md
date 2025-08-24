@@ -1,6 +1,6 @@
 ---
 title: Onakkunnu
 url: /onakkunnu/
-latitude: 12.173
-longitude: 75.196
+latitude: 12.174
+longitude: 75.194
 ---
