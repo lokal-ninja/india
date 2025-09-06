@@ -1,6 +1,6 @@
 ---
 title: Meeyannoor
 url: /meeyannoor/
-latitude: 8.903
-longitude: 76.749
+latitude: 8.902
+longitude: 76.748
 ---

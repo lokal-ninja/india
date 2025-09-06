@@ -1,6 +1,6 @@
 ---
 title: Thankalam, Kothamangalam
 url: /thankalam-kothamangalam/
-latitude: 10.069
-longitude: 76.613
+latitude: 10.07
+longitude: 76.612
 ---
