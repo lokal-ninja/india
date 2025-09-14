@@ -1,6 +1,6 @@
 ---
 title: Kharghar
 url: /kharghar/
-latitude: 19.048
-longitude: 73.076
+latitude: 19.042
+longitude: 73.077
 ---

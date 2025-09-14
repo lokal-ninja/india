@@ -1,5 +1,5 @@
 ---
 title: "Vita Booth"
 url: /panchkula/vita-booth/
-shop: general
+shop: variety store
 ---
