@@ -1,5 +1,5 @@
 ---
-title: "navas stores"
+title: "Navas stores"
 url: /muvattupuzha/navas-stores/
 shop: office supplies
 ---
