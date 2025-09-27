@@ -1,6 +1,6 @@
 ---
 title: Bina Etawa
 url: /bina-etawa/
-latitude: 24.19
-longitude: 78.207
+latitude: 24.186
+longitude: 78.206
 ---

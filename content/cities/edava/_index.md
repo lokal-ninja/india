@@ -1,6 +1,6 @@
 ---
 title: Edava
 url: /edava/
-latitude: 8.769
-longitude: 76.705
+latitude: 8.762
+longitude: 76.701
 ---
