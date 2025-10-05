@@ -1,5 +1,5 @@
 ---
-title: "pavan electricals"
+title: "Pavan Electricals"
 url: /sevamandir/pavan-electricals/
 shop: hardware
 ---
