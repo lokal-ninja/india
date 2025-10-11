@@ -1,6 +1,6 @@
 ---
 title: Purameri
 url: /purameri/
-latitude: 11.65
-longitude: 75.697
+latitude: 11.653
+longitude: 75.696
 ---

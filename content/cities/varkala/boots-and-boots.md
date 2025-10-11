@@ -1,5 +1,5 @@
 ---
-title: "Boots & Boots"
+title: "Boots and Boots"
 url: /varkala/boots-and-boots/
 shop: shoes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Banswada
 url: /banswada/
-latitude: 18.379
-longitude: 77.877
+latitude: 18.377
+longitude: 77.876
 ---
