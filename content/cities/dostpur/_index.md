@@ -1,6 +1,6 @@
 ---
 title: Dostpur
 url: /dostpur/
-latitude: 26.272
-longitude: 82.469
+latitude: 26.275
+longitude: 82.471
 ---

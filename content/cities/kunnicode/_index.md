@@ -1,6 +1,6 @@
 ---
-title: kunnicode
+title: Kunnicode
 url: /kunnicode/
-latitude: 9.015
-longitude: 76.857
+latitude: 9.024
+longitude: 76.847
 ---

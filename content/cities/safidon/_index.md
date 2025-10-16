@@ -1,6 +1,6 @@
 ---
 title: Safidon
 url: /safidon/
-latitude: 29.413
-longitude: 76.668
+latitude: 29.408
+longitude: 76.662
 ---

@@ -1,5 +1,5 @@
 ---
-title: "verka booth"
+title: "Verka Booth"
 url: /chandigarh/verka-booth/
-shop: supermarket
+shop: dairy
 ---
