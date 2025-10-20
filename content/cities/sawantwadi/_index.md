@@ -1,6 +1,6 @@
 ---
 title: Sawantwadi
 url: /sawantwadi/
-latitude: 15.915
-longitude: 73.817
+latitude: 15.909
+longitude: 73.823
 ---

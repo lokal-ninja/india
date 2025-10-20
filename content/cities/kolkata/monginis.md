@@ -1,5 +1,5 @@
 ---
 title: "Monginis"
 url: /kolkata/monginis/
-shop: bakery
+shop: pastry
 ---
