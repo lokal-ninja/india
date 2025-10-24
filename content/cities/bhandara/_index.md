@@ -1,6 +1,6 @@
 ---
 title: Bhandara
 url: /bhandara/
-latitude: 21.182
-longitude: 79.636
+latitude: 21.158
+longitude: 79.638
 ---

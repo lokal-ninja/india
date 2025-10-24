@@ -1,6 +1,6 @@
 ---
 title: sakti
 url: /sakti/
-latitude: 22.023
-longitude: 82.962
+latitude: 22.028
+longitude: 82.963
 ---
