@@ -1,6 +1,6 @@
 ---
 title: Chandakunnu
 url: /chandakunnu/
-latitude: 11.287
-longitude: 76.241
+latitude: 11.288
+longitude: 76.239
 ---

@@ -1,6 +1,6 @@
 ---
 title: ETTUMANOOR,KERALA
 url: /ettumanoor-kerala/
-latitude: 9.689
-longitude: 76.559
+latitude: 9.66
+longitude: 76.551
 ---
