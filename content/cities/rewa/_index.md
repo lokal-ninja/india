@@ -1,6 +1,6 @@
 ---
 title: Rewa
 url: /rewa/
-latitude: 24.541
-longitude: 81.3
+latitude: 24.538
+longitude: 81.295
 ---
