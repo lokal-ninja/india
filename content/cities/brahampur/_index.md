@@ -2,5 +2,5 @@
 title: brahampur
 url: /brahampur/
 latitude: 26.356
-longitude: 86.451
+longitude: 86.449
 ---
