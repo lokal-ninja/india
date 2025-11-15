@@ -1,6 +1,6 @@
 ---
 title: Deori
 url: /deori/
-latitude: 23.392
-longitude: 79.018
+latitude: 23.403
+longitude: 79.023
 ---
