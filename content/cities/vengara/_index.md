@@ -1,6 +1,6 @@
 ---
-title: VENGARA
+title: Vengara
 url: /vengara/
 latitude: 11.051
-longitude: 75.988
+longitude: 75.984
 ---

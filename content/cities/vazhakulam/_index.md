@@ -1,6 +1,6 @@
 ---
 title: Vazhakulam
 url: /vazhakulam/
-latitude: 9.942
-longitude: 76.644
+latitude: 9.943
+longitude: 76.641
 ---
