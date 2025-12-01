@@ -1,6 +1,6 @@
 ---
 title: Patharia
 url: /patharia/
-latitude: 24.172
-longitude: 78.363
+latitude: 24.165
+longitude: 78.36
 ---
