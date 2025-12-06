@@ -1,6 +1,6 @@
 ---
 title: sapotra
 url: /sapotra/
-latitude: 26.301
-longitude: 76.745
+latitude: 26.303
+longitude: 76.747
 ---
