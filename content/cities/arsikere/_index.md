@@ -1,6 +1,6 @@
 ---
 title: arsikere
 url: /arsikere/
-latitude: 13.325
-longitude: 76.248
+latitude: 13.322
+longitude: 76.25
 ---

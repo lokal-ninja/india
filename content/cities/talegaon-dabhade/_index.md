@@ -1,6 +1,6 @@
 ---
-title: Talegaon Dabhade
+title: talegaon dabhade
 url: /talegaon-dabhade/
-latitude: 18.72
-longitude: 73.683
+latitude: 18.737
+longitude: 73.675
 ---
