@@ -1,6 +1,6 @@
 ---
-title: Vayala
+title: vayala
 url: /vayala/
-latitude: 9.722
-longitude: 76.579
+latitude: 9.721
+longitude: 76.575
 ---
