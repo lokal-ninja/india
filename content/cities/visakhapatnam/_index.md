@@ -1,6 +1,6 @@
 ---
-title: Visakhapatnam
+title: VISAKHAPATNAM
 url: /visakhapatnam/
-latitude: 17.714
-longitude: 83.322
+latitude: 17.743
+longitude: 83.329
 ---
