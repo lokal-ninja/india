@@ -1,6 +1,6 @@
 ---
-title: Avanigadda
+title: AVANIGADDA
 url: /avanigadda/
-latitude: 16.023
-longitude: 80.914
+latitude: 16.027
+longitude: 80.918
 ---
