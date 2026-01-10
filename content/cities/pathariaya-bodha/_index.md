@@ -1,6 +1,6 @@
 ---
 title: Pathariaya Bodha
 url: /pathariaya-bodha/
-latitude: 24.163
-longitude: 78.361
+latitude: 24.162
+longitude: 78.358
 ---
