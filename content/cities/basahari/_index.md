@@ -1,6 +1,6 @@
 ---
 title: Basahari
 url: /basahari/
-latitude: 24.216
-longitude: 78.296
+latitude: 24.213
+longitude: 78.289
 ---

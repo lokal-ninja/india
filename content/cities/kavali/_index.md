@@ -1,6 +1,6 @@
 ---
-title: kavali
+title: Kavali
 url: /kavali/
-latitude: 14.897
-longitude: 79.992
+latitude: 14.904
+longitude: 79.979
 ---

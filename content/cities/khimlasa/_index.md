@@ -1,6 +1,6 @@
 ---
 title: Khimlasa
 url: /khimlasa/
-latitude: 24.21
-longitude: 78.366
+latitude: 24.203
+longitude: 78.362
 ---

@@ -1,5 +1,5 @@
 ---
-title: "tea shop"
+title: "Tea shop"
 url: /irikkur/tea-shop/
 shop: tea
 ---

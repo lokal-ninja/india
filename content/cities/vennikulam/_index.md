@@ -1,6 +1,6 @@
 ---
-title: vennikulam
+title: Vennikulam
 url: /vennikulam/
-latitude: 9.401
-longitude: 76.677
+latitude: 9.403
+longitude: 76.668
 ---

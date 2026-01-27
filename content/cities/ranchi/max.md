@@ -1,5 +1,5 @@
 ---
-title: "MAX"
+title: "Max"
 url: /ranchi/max/
 shop: clothes
 ---

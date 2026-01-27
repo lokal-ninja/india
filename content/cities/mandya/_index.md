@@ -1,6 +1,6 @@
 ---
 title: Mandya
 url: /mandya/
-latitude: 12.529
-longitude: 76.902
+latitude: 12.525
+longitude: 76.894
 ---
