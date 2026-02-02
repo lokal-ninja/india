@@ -1,6 +1,6 @@
 ---
-title: kothamangalam
+title: KOTHAMANGALAM
 url: /kothamangalam/
-latitude: 10.06
-longitude: 76.616
+latitude: 10.066
+longitude: 76.618
 ---
