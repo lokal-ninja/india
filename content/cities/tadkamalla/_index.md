@@ -1,6 +1,6 @@
 ---
 title: Tadkamalla
 url: /tadkamalla/
-latitude: 16.983
-longitude: 79.586
+latitude: 16.985
+longitude: 79.584
 ---

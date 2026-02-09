@@ -1,6 +1,6 @@
 ---
 title: vikasnagar
 url: /vikasnagar/
-latitude: 30.466
-longitude: 77.775
+latitude: 30.462
+longitude: 77.765
 ---
