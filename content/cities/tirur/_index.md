@@ -1,6 +1,6 @@
 ---
-title: Tirur
+title: tirur
 url: /tirur/
-latitude: 10.907
-longitude: 75.904
+latitude: 10.909
+longitude: 75.905
 ---

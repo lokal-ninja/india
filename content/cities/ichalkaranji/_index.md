@@ -1,6 +1,6 @@
 ---
 title: Ichalkaranji
 url: /ichalkaranji/
-latitude: 16.718
-longitude: 74.455
+latitude: 16.685
+longitude: 74.468
 ---
