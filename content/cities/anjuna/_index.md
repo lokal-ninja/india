@@ -1,6 +1,6 @@
 ---
 title: Anjuna
 url: /anjuna/
-latitude: 15.582
-longitude: 73.753
+latitude: 15.583
+longitude: 73.744
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vijay Nagar, Kanpur
 url: /vijay-nagar-kanpur/
-latitude: 26.463
+latitude: 26.465
 longitude: 80.294
 ---

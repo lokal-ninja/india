@@ -1,6 +1,6 @@
 ---
 title: Kambalikandam
 url: /kambalikandam/
-latitude: 9.935
-longitude: 77.015
+latitude: 9.944
+longitude: 77.016
 ---

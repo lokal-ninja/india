@@ -1,6 +1,6 @@
 ---
 title: Thrippunithra
 url: /thrippunithra/
-latitude: 9.947
-longitude: 76.366
+latitude: 9.952
+longitude: 76.362
 ---
