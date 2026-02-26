@@ -1,6 +1,6 @@
 ---
 title: Thane
 url: /thane/
-latitude: 19.255
-longitude: 72.983
+latitude: 19.217
+longitude: 72.981
 ---

@@ -1,6 +1,6 @@
 ---
 title: Randathani
 url: /randathani/
-latitude: 10.965
-longitude: 76.007
+latitude: 10.966
+longitude: 76
 ---

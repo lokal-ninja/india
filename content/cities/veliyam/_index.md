@@ -1,6 +1,6 @@
 ---
 title: Veliyam
 url: /veliyam/
-latitude: 8.914
-longitude: 76.766
+latitude: 8.916
+longitude: 76.767
 ---

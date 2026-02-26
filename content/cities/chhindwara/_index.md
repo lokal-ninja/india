@@ -1,6 +1,6 @@
 ---
 title: Chhindwara
 url: /chhindwara/
-latitude: 22.059
-longitude: 78.952
+latitude: 22.055
+longitude: 78.938
 ---

@@ -1,6 +1,6 @@
 ---
 title: tazhathuvadakara
 url: /tazhathuvadakara/
-latitude: 9.481
-longitude: 76.708
+latitude: 9.47
+longitude: 76.713
 ---
