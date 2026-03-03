@@ -1,6 +1,6 @@
 ---
 title: Khurai
 url: /khurai/
-latitude: 23.858
-longitude: 78.624
+latitude: 24.037
+longitude: 78.338
 ---

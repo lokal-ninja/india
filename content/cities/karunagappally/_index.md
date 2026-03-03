@@ -1,6 +1,6 @@
 ---
-title: karunagappally
+title: Karunagappally
 url: /karunagappally/
-latitude: 9.059
-longitude: 76.511
+latitude: 9.051
+longitude: 76.536
 ---

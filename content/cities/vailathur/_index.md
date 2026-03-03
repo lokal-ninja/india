@@ -1,6 +1,6 @@
 ---
 title: Vailathur
 url: /vailathur/
-latitude: 10.954
-longitude: 75.945
+latitude: 10.952
+longitude: 75.944
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rayavaram
 url: /rayavaram/
-latitude: 16.201
-longitude: 81.065
+latitude: 16.193
+longitude: 81.054
 ---

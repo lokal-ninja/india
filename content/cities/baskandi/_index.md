@@ -2,5 +2,5 @@
 title: Baskandi
 url: /baskandi/
 latitude: 24.809
-longitude: 92.915
+longitude: 92.914
 ---
