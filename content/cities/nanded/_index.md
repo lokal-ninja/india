@@ -1,6 +1,6 @@
 ---
 title: Nanded
 url: /nanded/
-latitude: 19.174
-longitude: 77.314
+latitude: 19.175
+longitude: 77.313
 ---

@@ -1,6 +1,6 @@
 ---
 title: anjarakandy
 url: /anjarakandy/
-latitude: 11.907
-longitude: 75.495
+latitude: 11.891
+longitude: 75.5
 ---

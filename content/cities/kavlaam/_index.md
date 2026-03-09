@@ -1,6 +1,6 @@
 ---
 title: kavlaam
 url: /kavlaam/
-latitude: 9.489
-longitude: 76.465
+latitude: 9.491
+longitude: 76.467
 ---
