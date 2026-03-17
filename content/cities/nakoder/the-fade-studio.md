@@ -1,5 +1,5 @@
 ---
-title: "THE FADE STUDIO"
+title: "The Fade Studio"
 url: /nakoder/the-fade-studio/
 shop: hairdresser
 ---

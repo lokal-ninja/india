@@ -1,5 +1,5 @@
 ---
-title: "Grocery Shop"
+title: "Grocery shop"
 url: /chulannur/grocery-shop/
-shop: general
+shop: convenience
 ---

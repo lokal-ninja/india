@@ -1,6 +1,6 @@
 ---
 title: Hinota
 url: /hinota/
-latitude: 23.736
+latitude: 23.737
 longitude: 78.736
 ---

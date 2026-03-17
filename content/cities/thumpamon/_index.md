@@ -1,6 +1,6 @@
 ---
 title: Thumpamon
 url: /thumpamon/
-latitude: 9.221
-longitude: 76.712
+latitude: 9.22
+longitude: 76.711
 ---
