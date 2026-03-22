@@ -1,6 +1,6 @@
 ---
 title: thondernadu
 url: /thondernadu/
-latitude: 11.742
-longitude: 75.864
+latitude: 11.764
+longitude: 75.913
 ---
