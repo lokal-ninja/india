@@ -1,5 +1,5 @@
 ---
-title: "THE SMARTPHONE STORE"
+title: "The Smartphone Store"
 url: /sikar/the-smartphone-store/
 shop: mobile phone
 ---

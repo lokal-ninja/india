@@ -1,5 +1,5 @@
 ---
-title: "Reliance smart point"
+title: "Reliance Smart Point"
 url: /sikar/reliance-smart-point/
 shop: supermarket
 ---
