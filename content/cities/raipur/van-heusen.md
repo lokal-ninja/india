@@ -1,5 +1,5 @@
 ---
-title: "van heusen"
+title: "Van Heusen"
 url: /raipur/van-heusen/
 shop: clothes
 ---

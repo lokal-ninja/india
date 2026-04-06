@@ -1,6 +1,6 @@
 ---
 title: Jaisinagar
 url: /jaisinagar/
-latitude: 23.63
-longitude: 78.572
+latitude: 23.616
+longitude: 78.573
 ---
