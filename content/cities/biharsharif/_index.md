@@ -1,6 +1,6 @@
 ---
 title: biharsharif
 url: /biharsharif/
-latitude: 25.206
-longitude: 85.529
+latitude: 25.201
+longitude: 85.521
 ---

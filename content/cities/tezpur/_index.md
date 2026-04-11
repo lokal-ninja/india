@@ -1,6 +1,6 @@
 ---
 title: Tezpur
 url: /tezpur/
-latitude: 26.652
-longitude: 92.802
+latitude: 26.651
+longitude: 92.8
 ---

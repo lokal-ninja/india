@@ -1,5 +1,5 @@
 ---
-title: "Dhanyam organic store"
+title: "Dhanyam Organic store"
 url: /chennai/dhanyam-organic-store/
 shop: supermarket
 ---

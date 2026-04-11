@@ -1,6 +1,6 @@
 ---
 title: Kappimala
 url: /kappimala/
-latitude: 12.199
-longitude: 75.514
+latitude: 12.198
+longitude: 75.515
 ---
