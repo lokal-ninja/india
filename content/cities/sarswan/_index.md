@@ -1,6 +1,6 @@
 ---
 title: Sarswan
 url: /sarswan/
-latitude: 26.252
-longitude: 82.488
+latitude: 26.254
+longitude: 82.49
 ---
