@@ -1,5 +1,5 @@
 ---
-title: "Anju Krishna"
+title: "ANJU KRISHNA"
 url: /mukkannam/anju-krishna/
-shop: bakery
+shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: adoor
 url: /adoor/
-latitude: 9.162
+latitude: 9.161
 longitude: 76.722
 ---

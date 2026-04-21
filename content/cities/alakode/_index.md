@@ -1,6 +1,6 @@
 ---
 title: Alakode
 url: /alakode/
-latitude: 12.192
+latitude: 12.188
 longitude: 75.467
 ---

@@ -1,6 +1,6 @@
 ---
 title: Konark
 url: /konark/
-latitude: 19.89
-longitude: 86.092
+latitude: 19.893
+longitude: 86.087
 ---

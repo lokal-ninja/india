@@ -1,5 +1,5 @@
 ---
-title: "ANJU KRISHNA"
+title: "Anju Krishna"
 url: /mukkannam/anju-krishna-tippu-sultan-road/
-shop: convenience
+shop: bakery
 ---
