@@ -1,5 +1,5 @@
 ---
-title: "FabIndia"
+title: "Fabindia"
 url: /kolkata/fabindia/
 shop: clothes
 ---

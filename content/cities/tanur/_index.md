@@ -1,6 +1,6 @@
 ---
-title: Tanur
+title: tanur
 url: /tanur/
-latitude: 10.984
-longitude: 75.874
+latitude: 11.001
+longitude: 75.872
 ---
