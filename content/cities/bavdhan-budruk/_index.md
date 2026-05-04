@@ -1,6 +1,6 @@
 ---
 title: Bavdhan Budruk
 url: /bavdhan-budruk/
-latitude: 18.52
-longitude: 73.767
+latitude: 18.522
+longitude: 73.765
 ---

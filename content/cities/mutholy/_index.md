@@ -1,6 +1,6 @@
 ---
 title: Mutholy
 url: /mutholy/
-latitude: 9.701
-longitude: 76.655
+latitude: 9.692
+longitude: 76.656
 ---

@@ -1,6 +1,6 @@
 ---
 title: koovapally
 url: /koovapally/
-latitude: 9.524
-longitude: 76.83
+latitude: 9.525
+longitude: 76.828
 ---

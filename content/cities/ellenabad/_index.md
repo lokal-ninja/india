@@ -1,6 +1,6 @@
 ---
 title: Ellenabad
 url: /ellenabad/
-latitude: 29.5
-longitude: 74.729
+latitude: 29.492
+longitude: 74.715
 ---
