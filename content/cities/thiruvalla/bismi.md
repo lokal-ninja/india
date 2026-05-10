@@ -1,5 +1,5 @@
 ---
 title: "Bismi"
 url: /thiruvalla/bismi/
-shop: appliance
+shop: office supplies
 ---

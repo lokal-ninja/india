@@ -1,6 +1,6 @@
 ---
-title: Bageshwar,Uttarakhand
+title: Bageshwar, Uttarakhand
 url: /bageshwar-uttarakhand/
-latitude: 29.828
-longitude: 79.77
+latitude: 29.831
+longitude: 79.771
 ---

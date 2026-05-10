@@ -1,6 +1,6 @@
 ---
 title: Baburdi Bend
 url: /baburdi-bend/
-latitude: 18.937
-longitude: 74.71
+latitude: 18.94
+longitude: 74.706
 ---

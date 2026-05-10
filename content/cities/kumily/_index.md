@@ -1,6 +1,6 @@
 ---
-title: kumily
+title: Kumily
 url: /kumily/
-latitude: 9.611
-longitude: 77.158
+latitude: 9.606
+longitude: 77.165
 ---
