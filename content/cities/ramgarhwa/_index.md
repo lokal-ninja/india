@@ -1,6 +1,6 @@
 ---
-title: Ramgarhwa
+title: ramgarhwa
 url: /ramgarhwa/
-latitude: 26.877
-longitude: 84.782
+latitude: 26.88
+longitude: 84.788
 ---
