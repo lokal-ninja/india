@@ -1,6 +1,6 @@
 ---
 title: Arangottukara
 url: /arangottukara/
-latitude: 10.759
-longitude: 76.201
+latitude: 10.76
+longitude: 76.2
 ---

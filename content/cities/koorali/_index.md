@@ -2,5 +2,5 @@
 title: Koorali
 url: /koorali/
 latitude: 9.598
-longitude: 76.732
+longitude: 76.731
 ---

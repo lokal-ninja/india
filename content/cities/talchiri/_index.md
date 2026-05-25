@@ -1,6 +1,6 @@
 ---
 title: Talchiri
 url: /talchiri/
-latitude: 23.754
-longitude: 78.758
+latitude: 23.751
+longitude: 78.756
 ---

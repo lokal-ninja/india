@@ -1,6 +1,6 @@
 ---
 title: Vaduthala
 url: /vaduthala/
-latitude: 10.009
-longitude: 76.275
+latitude: 10.013
+longitude: 76.276
 ---
