@@ -1,6 +1,6 @@
 ---
 title: Asansol
 url: /asansol/
-latitude: 23.685
-longitude: 86.942
+latitude: 23.703
+longitude: 86.948
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nottamala
 url: /nottamala/
-latitude: 10.991
-longitude: 76.474
+latitude: 10.99
+longitude: 76.475
 ---

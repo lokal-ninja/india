@@ -1,6 +1,6 @@
 ---
 title: danapur
 url: /danapur/
-latitude: 25.643
-longitude: 85.061
+latitude: 25.639
+longitude: 85.051
 ---
