@@ -1,6 +1,6 @@
 ---
 title: Nellikunnam
 url: /nellikunnam/
-latitude: 8.963
-longitude: 76.776
+latitude: 8.966
+longitude: 76.777
 ---

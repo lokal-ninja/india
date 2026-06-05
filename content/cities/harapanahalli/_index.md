@@ -1,6 +1,6 @@
 ---
 title: Harapanahalli
 url: /harapanahalli/
-latitude: 14.79
-longitude: 75.988
+latitude: 14.793
+longitude: 75.989
 ---

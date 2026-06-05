@@ -1,6 +1,6 @@
 ---
 title: Nimani
 url: /nimani/
-latitude: 17.02
-longitude: 74.557
+latitude: 17.021
+longitude: 74.556
 ---

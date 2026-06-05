@@ -1,6 +1,6 @@
 ---
 title: Chengannoor, Kerala
 url: /chengannoor-kerala/
-latitude: 9.348
-longitude: 76.595
+latitude: 9.349
+longitude: 76.594
 ---

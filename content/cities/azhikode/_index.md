@@ -1,6 +1,6 @@
 ---
 title: Azhikode
 url: /azhikode/
-latitude: 11.919
-longitude: 75.336
+latitude: 11.925
+longitude: 75.332
 ---

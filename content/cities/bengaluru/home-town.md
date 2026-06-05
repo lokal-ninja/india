@@ -1,5 +1,5 @@
 ---
 title: "Home town"
 url: /bengaluru/home-town/
-shop: furniture
+shop: electronics
 ---
