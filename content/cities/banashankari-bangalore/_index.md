@@ -1,6 +1,6 @@
 ---
 title: Banashankari,Bangalore
 url: /banashankari-bangalore/
-latitude: 12.927
-longitude: 77.565
+latitude: 12.942
+longitude: 77.556
 ---
