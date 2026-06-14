@@ -1,6 +1,6 @@
 ---
 title: Pachmarhi
 url: /pachmarhi/
-latitude: 22.479
-longitude: 78.44
+latitude: 22.475
+longitude: 78.437
 ---

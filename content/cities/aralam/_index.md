@@ -1,6 +1,6 @@
 ---
-title: aralam
+title: Aralam
 url: /aralam/
-latitude: 11.985
-longitude: 75.762
+latitude: 11.962
+longitude: 75.72
 ---

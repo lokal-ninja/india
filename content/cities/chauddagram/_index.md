@@ -1,6 +1,6 @@
 ---
 title: Chauddagram
 url: /chauddagram/
-latitude: 23.214
-longitude: 91.315
+latitude: 23.228
+longitude: 91.314
 ---

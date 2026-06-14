@@ -1,5 +1,5 @@
 ---
-title: "Pan Shop"
+title: "Pan shop"
 url: /hyderabad/pan-shop/
 shop: shop
 ---
