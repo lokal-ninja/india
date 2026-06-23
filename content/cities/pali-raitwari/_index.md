@@ -1,6 +1,6 @@
 ---
-title: Pali raitwari
+title: Pali Raitwari
 url: /pali-raitwari/
-latitude: 24.108
-longitude: 78.604
+latitude: 24.113
+longitude: 78.606
 ---
