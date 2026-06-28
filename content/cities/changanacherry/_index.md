@@ -1,6 +1,6 @@
 ---
 title: changanacherry
 url: /changanacherry/
-latitude: 9.442
-longitude: 76.544
+latitude: 9.443
+longitude: 76.543
 ---

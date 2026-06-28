@@ -1,6 +1,6 @@
 ---
-title: Puthilot
+title: puthilot
 url: /puthilot/
-latitude: 12.203
-longitude: 75.174
+latitude: 12.205
+longitude: 75.179
 ---

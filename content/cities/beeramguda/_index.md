@@ -1,6 +1,6 @@
 ---
 title: beeramguda
 url: /beeramguda/
-latitude: 17.51
-longitude: 78.301
+latitude: 17.513
+longitude: 78.302
 ---

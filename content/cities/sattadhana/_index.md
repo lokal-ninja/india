@@ -1,6 +1,6 @@
 ---
 title: Sattadhana
 url: /sattadhana/
-latitude: 23.757
-longitude: 78.619
+latitude: 23.756
+longitude: 78.618
 ---
