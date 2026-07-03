@@ -1,5 +1,5 @@
 ---
-title: "fashion club"
+title: "Fashion Club"
 url: /alwar/fashion-club/
 shop: mall
 ---

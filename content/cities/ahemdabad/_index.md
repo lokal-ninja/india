@@ -1,6 +1,6 @@
 ---
 title: Ahemdabad
 url: /ahemdabad/
-latitude: 23.136
-longitude: 72.532
+latitude: 23.13
+longitude: 72.683
 ---

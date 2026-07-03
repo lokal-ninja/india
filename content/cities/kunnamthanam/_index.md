@@ -1,6 +1,6 @@
 ---
 title: Kunnamthanam
 url: /kunnamthanam/
-latitude: 9.435
-longitude: 76.609
+latitude: 9.445
+longitude: 76.622
 ---

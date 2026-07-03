@@ -1,6 +1,6 @@
 ---
 title: Muvattupuzha
 url: /muvattupuzha/
-latitude: 9.979
-longitude: 76.581
+latitude: 9.985
+longitude: 76.583
 ---
