@@ -1,6 +1,6 @@
 ---
 title: Sundargarh
 url: /sundargarh/
-latitude: 21.99
-longitude: 83.978
+latitude: 21.991
+longitude: 83.976
 ---

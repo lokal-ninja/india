@@ -1,5 +1,5 @@
 ---
 title: "Archies"
 url: /raipur/archies/
-shop: gift
+shop: office supplies
 ---

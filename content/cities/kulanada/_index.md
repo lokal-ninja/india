@@ -1,6 +1,6 @@
 ---
 title: KULANADA
 url: /kulanada/
-latitude: 9.245
+latitude: 9.244
 longitude: 76.671
 ---

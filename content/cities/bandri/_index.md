@@ -1,6 +1,6 @@
 ---
 title: Bandri
 url: /bandri/
-latitude: 24.042
+latitude: 24.052
 longitude: 78.632
 ---

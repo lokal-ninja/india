@@ -1,6 +1,6 @@
 ---
 title: Jaruwakheda
 url: /jaruwakheda/
-latitude: 23.975
-longitude: 78.482
+latitude: 23.981
+longitude: 78.457
 ---
