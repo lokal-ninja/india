@@ -1,6 +1,6 @@
 ---
 title: Jaisingar
 url: /jaisingar/
-latitude: 23.622
-longitude: 78.569
+latitude: 23.628
+longitude: 78.575
 ---

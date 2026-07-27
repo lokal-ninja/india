@@ -1,6 +1,6 @@
 ---
-title: kolathur
+title: Kolathur
 url: /kolathur/
-latitude: 10.944
-longitude: 76.14
+latitude: 10.947
+longitude: 76.137
 ---

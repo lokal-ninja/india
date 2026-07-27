@@ -1,6 +1,6 @@
 ---
-title: MALEGAON
+title: Malegaon
 url: /malegaon/
-latitude: 20.552
+latitude: 20.551
 longitude: 74.516
 ---

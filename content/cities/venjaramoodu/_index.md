@@ -1,6 +1,6 @@
 ---
-title: Venjaramoodu
+title: venjaramoodu
 url: /venjaramoodu/
-latitude: 8.678
-longitude: 76.91
+latitude: 8.675
+longitude: 76.911
 ---

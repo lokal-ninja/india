@@ -1,6 +1,6 @@
 ---
-title: Chhatral
+title: chhatral
 url: /chhatral/
-latitude: 23.276
-longitude: 72.444
+latitude: 23.284
+longitude: 72.44
 ---

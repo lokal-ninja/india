@@ -1,6 +1,6 @@
 ---
-title: wandoor
+title: Wandoor
 url: /wandoor/
-latitude: 11.181
-longitude: 76.234
+latitude: 11.195
+longitude: 76.237
 ---
