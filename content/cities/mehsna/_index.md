@@ -1,6 +1,6 @@
 ---
 title: mehsna
 url: /mehsna/
-latitude: 23.583
-longitude: 72.371
+latitude: 23.579
+longitude: 72.368
 ---

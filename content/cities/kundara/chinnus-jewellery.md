@@ -1,5 +1,5 @@
 ---
-title: "chinnus jewellery"
+title: "Chinnus jewellery"
 url: /kundara/chinnus-jewellery/
 shop: jewelry
 ---

@@ -1,6 +1,6 @@
 ---
-title: pandappilly
+title: Pandappilly
 url: /pandappilly/
-latitude: 9.908
-longitude: 76.606
+latitude: 9.91
+longitude: 76.608
 ---

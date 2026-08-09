@@ -1,5 +1,5 @@
 ---
 title: "Priyanka"
 url: /kurichi/priyanka/
-shop: beauty
+shop: mobile phone
 ---

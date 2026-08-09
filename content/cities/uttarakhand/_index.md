@@ -1,6 +1,6 @@
 ---
 title: Uttarakhand
 url: /uttarakhand/
-latitude: 29.641
-longitude: 79.664
+latitude: 30.409
+longitude: 78.063
 ---

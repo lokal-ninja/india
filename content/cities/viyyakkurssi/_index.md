@@ -1,6 +1,6 @@
 ---
 title: Viyyakkurssi
 url: /viyyakkurssi/
-latitude: 10.984
-longitude: 76.483
+latitude: 10.986
+longitude: 76.482
 ---
