@@ -1,6 +1,6 @@
 ---
-title: tinsukia
+title: Tinsukia
 url: /tinsukia/
-latitude: 27.492
-longitude: 95.362
+latitude: 27.489
+longitude: 95.357
 ---

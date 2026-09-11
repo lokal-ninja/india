@@ -1,6 +1,6 @@
 ---
 title: Kadampanad
 url: /kadampanad/
-latitude: 9.103
+latitude: 9.104
 longitude: 76.707
 ---

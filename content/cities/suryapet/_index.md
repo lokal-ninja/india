@@ -1,6 +1,6 @@
 ---
-title: Suryapet
+title: suryapet
 url: /suryapet/
-latitude: 17.141
-longitude: 79.621
+latitude: 17.139
+longitude: 79.624
 ---

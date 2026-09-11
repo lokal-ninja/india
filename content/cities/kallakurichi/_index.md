@@ -1,6 +1,6 @@
 ---
-title: Kallakurichi
+title: KALLAKURICHI
 url: /kallakurichi/
-latitude: 11.729
-longitude: 79.077
+latitude: 11.735
+longitude: 78.963
 ---
