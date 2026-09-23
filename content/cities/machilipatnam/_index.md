@@ -1,6 +1,6 @@
 ---
 title: Machilipatnam
 url: /machilipatnam/
-latitude: 16.182
-longitude: 81.132
+latitude: 16.183
+longitude: 81.134
 ---

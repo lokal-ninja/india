@@ -1,6 +1,6 @@
 ---
 title: Hanamkonda
 url: /hanamkonda/
-latitude: 18.009
-longitude: 79.566
+latitude: 18.008
+longitude: 79.569
 ---
