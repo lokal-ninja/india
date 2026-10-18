@@ -1,6 +1,6 @@
 ---
 title: Garhbeta
 url: /garhbeta/
-latitude: 22.849
-longitude: 87.324
+latitude: 22.85
+longitude: 87.323
 ---

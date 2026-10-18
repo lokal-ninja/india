@@ -1,6 +1,6 @@
 ---
-title: Dombivali
+title: DOMBIVALI
 url: /dombivali/
-latitude: 19.183
-longitude: 73.089
+latitude: 19.211
+longitude: 73.096
 ---

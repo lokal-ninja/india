@@ -1,6 +1,6 @@
 ---
 title: Kukatpally
 url: /kukatpally/
-latitude: 17.495
-longitude: 78.384
+latitude: 17.494
+longitude: 78.383
 ---

@@ -1,6 +1,6 @@
 ---
 title: Payyanangadi
 url: /payyanangadi/
-latitude: 10.923
-longitude: 75.93
+latitude: 10.924
+longitude: 75.931
 ---

@@ -1,5 +1,5 @@
 ---
-title: "WoodLand"
+title: "Woodland"
 url: /raipur/woodland/
-shop: clothes
+shop: boutique
 ---

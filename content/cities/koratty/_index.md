@@ -1,6 +1,6 @@
 ---
-title: koratty
+title: KORATTY
 url: /koratty/
-latitude: 9.501
-longitude: 76.838
+latitude: 10.258
+longitude: 76.364
 ---
