@@ -1,5 +1,5 @@
 ---
 title: "Supreme Gourmet"
 url: /thiruvananthapuram/supreme-gourmet/
-shop: supermarket
+shop: convenience
 ---

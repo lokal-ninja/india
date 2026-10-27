@@ -1,5 +1,5 @@
 ---
-title: "Reliance Trends"
+title: "Reliance trends"
 url: /bengaluru/reliance-trends/
 shop: clothes
 ---

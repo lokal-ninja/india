@@ -1,6 +1,6 @@
 ---
 title: Sagar
 url: /sagar/
-latitude: 23.842
-longitude: 78.763
+latitude: 23.878
+longitude: 78.813
 ---

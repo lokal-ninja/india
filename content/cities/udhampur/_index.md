@@ -1,6 +1,6 @@
 ---
 title: Udhampur
 url: /udhampur/
-latitude: 32.933
-longitude: 75.144
+latitude: 32.899
+longitude: 75.069
 ---

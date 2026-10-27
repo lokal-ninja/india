@@ -1,6 +1,6 @@
 ---
-title: jagtial
+title: Jagtial
 url: /jagtial/
 latitude: 18.791
-longitude: 78.914
+longitude: 78.915
 ---

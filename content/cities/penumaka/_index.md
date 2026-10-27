@@ -1,6 +1,6 @@
 ---
 title: Penumaka
 url: /penumaka/
-latitude: 16.486
+latitude: 16.485
 longitude: 80.577
 ---

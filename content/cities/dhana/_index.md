@@ -1,6 +1,6 @@
 ---
 title: Dhana
 url: /dhana/
-latitude: 23.744
-longitude: 78.865
+latitude: 23.738
+longitude: 78.874
 ---

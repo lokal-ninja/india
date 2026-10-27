@@ -1,6 +1,6 @@
 ---
 title: Karakurussi
 url: /karakurussi/
-latitude: 10.937
-longitude: 76.505
+latitude: 10.938
+longitude: 76.506
 ---

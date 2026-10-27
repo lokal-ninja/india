@@ -1,6 +1,6 @@
 ---
-title: Ratnagiri
+title: ratnagiri
 url: /ratnagiri/
-latitude: 16.991
-longitude: 73.313
+latitude: 16.996
+longitude: 73.33
 ---
